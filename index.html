@@ -11,7 +11,7 @@
       href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap"
       rel="stylesheet"
     />
-    <title>BTH - Programs and Courses</title>
+    <title>Programs and Courses | BTH</title>
     <style>
       * {
         box-sizing: border-box;
@@ -35,6 +35,7 @@
         --bottom: #f3f3f3;
         --middle: #eaeaea;
         --primary: #242424;
+        --primary-light: #3d3d3d;
         --strong: #242424;
         --weak: #888888;
 
@@ -49,6 +50,7 @@
           --bottom: #3d3d3d;
           --middle: #5c5c5c;
           --primary: #3378ff;
+          --primary-light: #669aff;
           --strong: #ffffff;
           --weak: #bababa;
 
@@ -68,7 +70,7 @@
         display: flex;
         flex-direction: column;
         width: calc(100vw - 2rem);
-        max-width: 1920px;
+        max-width: 1024px;
         position: relative;
         padding: 1rem 0;
       }
@@ -98,14 +100,26 @@
         color: var(--weak);
       }
 
-      #program-selector {
+      #selectors {
+        display: flex;
+      }
+
+      #selectors select {
         width: fit-content;
-        padding: 0.5rem 0.75rem;
         background-color: var(--bottom);
         border: none;
         border-radius: 0.25rem;
         cursor: pointer;
         margin-bottom: 1rem;
+        height: 2.5rem;
+        padding: 0 0.5rem;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      }
+
+      #selectors > *:not(:last-child) {
+        margin-right: 1rem;
       }
 
       #program-requirements {
@@ -119,6 +133,19 @@
         margin-bottom: 0.25rem;
         font-size: 0.875rem;
         color: var(--weak);
+      }
+
+      a.current {
+        background-color: var(--primary);
+      }
+
+      a.current * {
+        color: #ffffff;
+      }
+
+      a.current .tag {
+        background-color: var(--primary-light) !important;
+        color: #ffffff;
       }
 
       .ellipsis {
@@ -206,44 +233,66 @@
         #program-selector {
           width: 100%;
         }
+
+        #selectors {
+          flex-direction: column;
+        }
+
+        #selectors select {
+          width: 100%;
+        }
       }
     </style>
   </head>
   <body>
     <div id="backdrop">
-      <h1 id="program-name" class="ellipsis">name</h1>
+      <h1 id="program-name" class="ellipsis"></h1>
       <p id="program-points" class="ellipsis"></p>
     </div>
 
     <div id="program-requirements" class=""></div>
 
-    <select id="program-selector" class="hide-select-arrow"></select>
+    <div id="selectors">
+      <select id="program-selector"></select>
+      <select id="year-selector">
+        <option label="Läsår 1">1</option>
+        <option label="Läsår 2">2</option>
+        <option label="Läsår 3">3</option>
+        <option label="Läsår 4">4</option>
+        <option label="Läsår 5">5</option>
+      </select>
+    </div>
 
     <ul id="courses"></ul>
+
+    <p style="color: var(--weak)">
+      Created by
+      <a
+        href="https://marcusfredriksson.com"
+        target="_blank"
+        style="text-decoration: underline"
+        >marcusfrdk</a
+      >
+    </p>
   </body>
   <script type="text/javascript">
-    const select = document.getElementById("program-selector");
+    const programSelector = document.getElementById("program-selector");
+    const yearSelector = document.getElementById("year-selector");
 
     function getBlockingCourses(program) {
-      // Currently a very primitive implementation, since
-      // the wording for "required" is very human-like,
-      // an implementation is pretty sketchy. Please
-      // improve this if you can.
+      // Currently a very poor implementation, since
+      // the wording for "requirements" is very human-like,
+      // meaning a computer implementation would be pretty
+      // sketchy. Please improve this if you can.
 
       const courses = program.courses;
       const blockingCourses = [];
-      const blockingWords = [
-        "krävs",
-        "krävas",
-        "avklarad",
-        "avklarade",
-        "klarat av",
-        "avklarat",
-      ];
+      const blockingWords = ["avklarad", "avklarade", "klarat av", "avklarat"];
 
       courses.forEach((course) => {
         blockingWords.forEach((word) => {
-          if (course.requirements.includes(word)) {
+          const requirements = course.requirements.toLowerCase();
+          if (requirements.includes(word)) {
             blockingCourses.push(course.name);
           }
         });
@@ -253,11 +302,51 @@
     }
 
     function getPeriod(start) {
-      const week = parseInt(start.split(" ")[2]);
-      if (week < 10) return 3;
-      if (week < 20) return 4;
-      if (week < 40) return 1;
+      // Periods are not exact and could differ and change,
+      // theses values are just a rough estimate. Please
+      // improve this if you can.
+      const week =
+        typeof start === "number" ? start : parseInt(start.split(" ")[2]);
+      if (week < 14) return 3;
+      if (week < 30) return 4;
+      if (week < 44) return 1;
       if (week < 50) return 2;
+    }
+
+    function getCurrentWeek() {
+      Date.prototype.getWeek = function () {
+        // Week function taken from https://stackoverflow.com/a/14127528
+        const date = new Date(this.getTime());
+        date.setDate(date.getDate() + 4 - (date.getDay() || 7));
+        const thursday = date.getTime();
+        date.setMonth(0);
+        date.setDate(1);
+        const jan1st = date.getTime();
+        const days = Math.round((thursday - jan1st) / 86400000);
+        return Math.floor(days / 7) + 1;
+      };
+      return new Date().getWeek();
+    }
+
+    function highlightCurrentCourses(e) {
+      const year = e
+        ? parseInt(e.target.value)
+        : parseInt(localStorage.getItem("year")) || 1;
+      const period = getPeriod(getCurrentWeek());
+      yearSelector.value = year;
+      localStorage.setItem("year", year);
+
+      const courses = document.getElementById("courses");
+
+      courses.childNodes.forEach((node) => {
+        if (node.nodeName === "LI") {
+          if (node.childNodes[0].classList.contains(`y${year}p${period}`)) {
+            node.childNodes[0].classList.add("current");
+          } else {
+            node.childNodes[0].classList.remove("current");
+          }
+        }
+      });
     }
 
     function getGroupTitle(year, period) {
@@ -302,11 +391,13 @@
         const listItem = document.createElement("li");
         const anchor = document.createElement("a");
         anchor.classList.add("course");
+        anchor.classList.add(`y${year}p${period}`);
         const nameContainer = document.createElement("div");
         nameContainer.classList.add("course-name-container");
         nameContainer.classList.add("ellipsis");
         const name = document.createElement("p");
         const optional = document.createElement("p");
+        optional.classList.add("tag");
 
         const metadata = document.createElement("div");
         metadata.classList.add("course-metadata");
@@ -356,6 +447,8 @@
         listItem.appendChild(anchor);
         courses.appendChild(listItem);
       });
+
+      highlightCurrentCourses();
     }
 
     async function getProgram(e) {
@@ -378,18 +471,19 @@
         const option = document.createElement("option");
         option.value = item;
         option.text = item;
-        select.appendChild(option);
+        programSelector.appendChild(option);
       });
       const stored = localStorage.getItem("program");
       const value = stored || content[0];
-      select.value = value;
+      programSelector.value = value;
       getProgram({ target: { value } });
     }
 
     getIndex();
-    select.addEventListener("change", getProgram);
+    programSelector.addEventListener("change", getProgram);
+    yearSelector.addEventListener("change", highlightCurrentCourses);
     window.addEventListener("beforeunload", function () {
-      select.removeEventListener("change", getProgram);
+      programSelector.removeEventListener("change", getProgram);
     });
   </script>
 </html>
