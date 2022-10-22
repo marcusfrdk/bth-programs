@@ -133,7 +133,8 @@ def get_courses(hrefs: list) -> None:
 
 def generate_index() -> None:
   data_path = path.abspath(path.join(path.dirname(__file__), "data"))
-  data = [f for f in listdir(data_path) if path.isfile(path.join(data_path, f)) and f.endswith(".json")]
+  data = [f.replace(".json", "") for f in listdir(data_path) if path.isfile(
+    path.join(data_path, f)) and f.endswith(".json")]
 
   with open(path.join(data_path, "index.json"), "w", encoding="utf-8") as f:
     f.write(dumps(data, indent=2))
