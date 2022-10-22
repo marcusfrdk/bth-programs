@@ -1,6 +1,6 @@
 from argparse import Action, ArgumentParser
 from json import dumps
-from os import cpu_count, path
+from os import cpu_count, listdir, path
 from re import findall, sub
 from threading import Thread
 from time import time_ns
@@ -131,6 +131,14 @@ def get_courses(hrefs: list) -> None:
   return data
 
 
+def generate_index() -> None:
+  data_path = path.abspath(path.join(path.dirname(__file__), "data"))
+  data = [f for f in listdir(data_path) if path.isfile(path.join(data_path, f)) and f.endswith(".json")]
+
+  with open(path.join(data_path, "index.json"), "w", encoding="utf-8") as f:
+    f.write(dumps(data, indent=2))
+
+
 def run(code: str) -> None:
   title = f"Getting info for program '{code}'"
   print("-" * len(title))
@@ -156,3 +164,5 @@ if __name__ == "__main__":
 
   for code in codes:
     run(code)
+
+  generate_index()

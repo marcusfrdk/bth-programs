@@ -3,7 +3,7 @@ from re import match
 from bs4 import BeautifulSoup
 from requests_html import HTMLSession
 
-from run import run
+from run import generate_index, run
 
 
 def is_program(href: str) -> bool:
@@ -25,6 +25,7 @@ def main():
   programs = get_all_programs()
   for program in programs:
     run(program)
+  generate_index()
 
 
 if __name__ == "__main__":
