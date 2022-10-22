@@ -4,6 +4,8 @@
 
 Get an overview of your programs and courses at Blekinge Institute of Technology.
 
+You can [view the application here](https://bth.marcusfredriksson.com).
+
 ## Requirements
 
 - Python 3.6 or greater
@@ -22,7 +24,7 @@ _`pip` instead of `pip3` if on Windows_
 
 ## Usage
 
-The generated data files can be found in `www/data/*.json`
+The generated data files can be found in `data/*.json`
 
 ### All
 
