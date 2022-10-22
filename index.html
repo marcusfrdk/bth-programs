@@ -307,7 +307,7 @@
       // improve this if you can.
       const week =
         typeof start === "number" ? start : parseInt(start.split(" ")[2]);
-      if (week < 14) return 3;
+      if (week < 10) return 3;
       if (week < 30) return 4;
       if (week < 44) return 1;
       if (week < 50) return 2;
