@@ -262,13 +262,7 @@
 
     <div id="selectors">
       <select id="program-selector"></select>
-      <select id="year-selector">
-        <option label="Läsår 1">1</option>
-        <option label="Läsår 2">2</option>
-        <option label="Läsår 3">3</option>
-        <option label="Läsår 4">4</option>
-        <option label="Läsår 5">5</option>
-      </select>
+      <select id="year-selector"></select>
     </div>
 
     <ul id="courses"></ul>
@@ -357,6 +351,25 @@
           }
         }
       });
+    }
+
+    function updateYearSelector(program) {
+      const startYear = parseInt(program.start.split(" ")[0]);
+      const endYear = parseInt(program.end.split(" ")[0]);
+      const years = endYear - startYear;
+      yearSelector.innerHTML = "";
+
+      for (let i = 1; i <= years; i++) {
+        const option = document.createElement("option");
+        option.value = i;
+        option.label = `Läsår ${i}`;
+        yearSelector.appendChild(option);
+      }
+
+      localStorage.setItem("year", 1);
+      yearSelector.value = 1;
+
+      highlightCurrentCourses();
     }
 
     function getGroupTitle(year, period) {
@@ -471,6 +484,7 @@
       const data = await response.json();
       const content = JSON.parse(atob(data.content));
       setProgram(content);
+      updateYearSelector(content);
       document.getElementById(
         "updated"
       ).innerText = `Datan genererades ${new Date(content.updated)}`;

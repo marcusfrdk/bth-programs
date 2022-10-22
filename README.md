@@ -41,3 +41,8 @@ To get a single/multiple program data file(s), run the following command:
 ```bash
 python3 run.py CODE [CODE...]
 ```
+
+## Todo
+
+- [ ] Add support for courses spanning over multiple semesters
+- [ ] Add ability to select courses and add to custom schedule
