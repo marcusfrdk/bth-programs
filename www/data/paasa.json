@@ -1,0 +1,66 @@
+{
+  "name": "Magisterprogram i Software Engineering",
+  "points": 60.0,
+  "start": "2023 vecka 03",
+  "end": "2025 vecka 03",
+  "requirements": "Kandidatexamen eller h\u00f6gskoleingenj\u00f6rsexamen om minst 180 hp inom ett tekniskt omr\u00e5de, examen ska omfatta ett sj\u00e4lvst\u00e4ndigt arbete om minst 15 h\u00f6gskolepo\u00e4ng. Minst tv\u00e5 \u00e5rs yrkeserfarenhet av mjukvarurelaterad utveckling efter examen (visas genom intyg fr\u00e5n arbetsgivare). Yrkeserfarenheten f\u00f6rv\u00e4ntas omfatta kunskaper i programmering (visas genom intyg fr\u00e5n arbetsgivare). Engelska 6.",
+  "courses": [
+    {
+      "name": "Adaptiv Lean Programvarutestning",
+      "points": 7.5,
+      "start": "2023 vecka 03",
+      "end": "2023 vecka 22",
+      "requirements": "Minst 90 hp inom ett tekniskt omr\u00e5de varav en avklarad kurs p\u00e5 7,5 hp inom Grundl\u00e4ggande Programvaruteknik (Software Engineering) eller Programvaruutvecklingsprojekt i grupp, och varav minst 30 hp skall utg\u00f6ras av kurser inom ett eller flera av f\u00f6ljande omr\u00e5den: Programmering, Objektorienterad systemutveckling, Programvarudesign, Datastrukturer och algoritmer, Databasteknik, Datakommunikation, Realtidssystem, Operativsystem. eller Minst 90 hp inom omr\u00e5det teknologi och minst 2 \u00e5rs yrkeserfarenhet av mjukvarurelaterad utveckling (visas exempelvis genom intyg fr\u00e5n arbetsgivare).",
+      "code": "PA2579"
+    },
+    {
+      "name": "Produkthantering och kravhantering f\u00f6r digitala milj\u00f6er",
+      "points": 7.5,
+      "start": "2023 vecka 03",
+      "end": "2023 vecka 22",
+      "requirements": "Minst 90 hp varav minst 60 hp inom  ett tekniskt omr\u00e5de.",
+      "code": "PA2578"
+    },
+    {
+      "name": "Agil och Lean utveckling av mjukvaruintensiva produkter",
+      "points": 7.5,
+      "start": "2023 vecka 34",
+      "end": "2024 vecka 02",
+      "requirements": "Minst 90 hp inom ett tekniskt omr\u00e5de varav en avklarad kurs p\u00e5 7,5 hp inom Grundl\u00e4ggande Programvaruteknik (Software Engineering) eller Programvaruutvecklingsprojekt i grupp, och varav minst 30 hp skall utg\u00f6ras av kurser inom ett eller flera av f\u00f6ljande omr\u00e5den: Programmering, Objektorienterad systemutveckling, Programvarudesign, Datastrukturer och algoritmer, Databasteknik, Datakommunikation, Realtidssystem, Operativsystem.eller Minst 90 hp inom omr\u00e5det teknologi och minst 2 \u00e5rs yrkeserfarenhet av mjukvarurelaterad utveckling (visas exempelvis genom intyg fr\u00e5n arbetsgivare).",
+      "code": "PA2580"
+    },
+    {
+      "name": "Till\u00e4mpad Cloud Computing och Big Data",
+      "points": 7.5,
+      "start": "2023 vecka 34",
+      "end": "2024 vecka 02",
+      "requirements": "Minst 90hp inom ett tekniskt omr\u00e5de varav minst 30 hp skall utg\u00f6ras av kurser inom ett eller flera av f\u00f6ljande omr\u00e5den: Programmering, Objektorienterad systemutveckling, Programvarudesign, Datastrukturer och algoritmer, Databasteknik, Datakommunikation, Realtidssystem, Operativsystem.eller Minst 90 hp inom omr\u00e5det teknologi och minst 2 \u00e5rs yrkeserfarenhet av mjukvarurelaterad utveckling (visas exempelvis genom intyg fr\u00e5n arbetsgivare).",
+      "code": "PA2577"
+    },
+    {
+      "name": "Forskningsmetodik och magisterarbete i programvaruteknik f\u00f6r yrkesverksamma",
+      "points": 18.0,
+      "start": "2024 vecka 03",
+      "end": "2025 vecka 03",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs minst 120 hp inom omr\u00e5det teknologi och 7,5 hp i en avancerad (A1N) kurs inom omr\u00e5det mjukvaruteknik samt minst 2 \u00e5rs yrkeserfarenhet av mjukvarurelaterad utveckling (visas exempelvis genom intyg fr\u00e5n arbetsgivare).",
+      "code": "PA2592"
+    },
+    {
+      "name": "Introduktion till s\u00e4kerhet f\u00f6r mjukvaruutveckling",
+      "points": 6.0,
+      "start": "2024 vecka 03",
+      "end": "2024 vecka 22",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att minst 120 hp \u00e4r avklarade varav 90 hp inom ett tekniskt omr\u00e5de samt minst 2 \u00e5rs yrkeserfarenhet inom omr\u00e5de som \u00e4r relaterat till mjukvaruintensiv produkt och/eller tj\u00e4nsteutveckling (visas exempelvis genom intyg fr\u00e5n arbetsgivare.)",
+      "code": "PA2585"
+    },
+    {
+      "name": "Maskininl\u00e4rning och s\u00e4kerhet",
+      "points": 6.0,
+      "start": "2024 vecka 03",
+      "end": "2024 vecka 12",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs minst 120 hp varav 90 hp inom ett tekniskt omr\u00e5de och minst 2 \u00e5rs yrkeserfarenhet inom omr\u00e5de som \u00e4r relaterat till mjukvaruintensiv produkt och/eller tj\u00e4nsteutveckling (visas exempelvis genom intyg fr\u00e5n arbetsgivare.)",
+      "code": "DV2612"
+    }
+  ],
+  "updated": 1666433739145
+}

@@ -1,0 +1,458 @@
+{
+  "name": "Civilingenj\u00f6r i maskinteknik",
+  "points": 300.0,
+  "start": "2023 vecka 34",
+  "end": "2028 vecka 22",
+  "requirements": "Grundl\u00e4ggande beh\u00f6righet samt Matematik 4, Fysik 2 och Kemi 1.",
+  "courses": [
+    {
+      "name": "Matematisk probleml\u00f6sning",
+      "points": 4.0,
+      "start": "2023 vecka 34",
+      "end": "2023 vecka 43",
+      "requirements": "Grundl\u00e4ggande beh\u00f6righet samt Matematik 4 och Fysik 2.",
+      "code": "MA1486"
+    },
+    {
+      "name": "Fysik grundkurs",
+      "points": 6.0,
+      "start": "2023 vecka 35",
+      "end": "2023 vecka 43",
+      "requirements": "Grundl\u00e4ggande beh\u00f6righet samt Matematik 3c och Fysik 2.",
+      "code": "FY1431"
+    },
+    {
+      "name": "Teknisk introduktionskurs i Maskinteknik",
+      "points": 8.0,
+      "start": "2023 vecka 35",
+      "end": "2024 vecka 02",
+      "requirements": "Grundl\u00e4ggande beh\u00f6righet samt Matematik 4, Fysik 2 och Kemi 1.",
+      "code": "MT1551"
+    },
+    {
+      "name": "Linj\u00e4r algebra 1",
+      "points": 6.0,
+      "start": "2023 vecka 44",
+      "end": "2024 vecka 02",
+      "requirements": "Grundl\u00e4ggande beh\u00f6righet samt Matematik 4 och Fysik 2.",
+      "code": "MA1448"
+    },
+    {
+      "name": "Programmering och probleml\u00f6sning med Python",
+      "points": 6.0,
+      "start": "2023 vecka 44",
+      "end": "2024 vecka 02",
+      "requirements": "Grundl\u00e4ggande beh\u00f6righet",
+      "code": "DV1574"
+    },
+    {
+      "name": "Analys 1",
+      "points": 6.0,
+      "start": "2024 vecka 03",
+      "end": "2024 vecka 12",
+      "requirements": "Grundl\u00e4ggande beh\u00f6righet samt Matematik 4 och Fysik 2.",
+      "code": "MA1444"
+    },
+    {
+      "name": "Datorst\u00f6d f\u00f6r ingenj\u00f6rsarbete 1",
+      "points": 8.0,
+      "start": "2024 vecka 03",
+      "end": "2024 vecka 22",
+      "requirements": "Grundl\u00e4ggande beh\u00f6righet",
+      "code": "MT1549"
+    },
+    {
+      "name": "Fysik - v\u00e5gor och energi",
+      "points": 6.0,
+      "start": "2024 vecka 03",
+      "end": "2024 vecka 12",
+      "requirements": "F\u00f6r tilltr\u00e4de kr\u00e4vs genomg\u00e5ngen kurs Fysik grundkurs 6 hp.",
+      "code": "FY1433"
+    },
+    {
+      "name": "Matlab med till\u00e4mpningar inom matematik och teknik",
+      "points": 4.0,
+      "start": "2024 vecka 13",
+      "end": "2024 vecka 22",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngna kurser Fysik grundkurs, 6 hp och Linj\u00e4r algebra, 6 hp.",
+      "code": "ET1549"
+    },
+    {
+      "name": "Tillverkningsteknik",
+      "points": 6.0,
+      "start": "2024 vecka 13",
+      "end": "2024 vecka 22",
+      "requirements": "Grundl\u00e4ggande beh\u00f6righet",
+      "code": "MT1462"
+    },
+    {
+      "name": "Analys 2",
+      "points": 6.0,
+      "start": "2024 vecka 36",
+      "end": "2024 vecka 44",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngen kurs Analys 1, 6 hp.",
+      "code": "MA1494"
+    },
+    {
+      "name": "Grundkurs i h\u00e5llbar utveckling",
+      "points": 6.0,
+      "start": "2024 vecka 36",
+      "end": "2025 vecka 03",
+      "requirements": "Grundl\u00e4ggande beh\u00f6righet",
+      "code": "SL1417"
+    },
+    {
+      "name": "H\u00e5llfasthetsl\u00e4ra grundkurs",
+      "points": 6.0,
+      "start": "2024 vecka 36",
+      "end": "2024 vecka 44",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att 1,5 hp fr\u00e5n kursen Fysik grundkurs samt 1,5 hp fr\u00e5n kursen Analys 1 \u00e4r avklarade.",
+      "code": "MT1506"
+    },
+    {
+      "name": "Dynamik",
+      "points": 6.0,
+      "start": "2024 vecka 45",
+      "end": "2025 vecka 03",
+      "requirements": "Genomg\u00e5ngen kurs i Linj\u00e4r algebra, 6 hp.",
+      "code": "MT1502"
+    },
+    {
+      "name": "Flervariabelanalys",
+      "points": 6.0,
+      "start": "2024 vecka 45",
+      "end": "2025 vecka 03",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngna kurser Linj\u00e4r algebra 6 hp, Analys 6 hp och Analys 2 6 hp.",
+      "code": "MA1447"
+    },
+    {
+      "name": "Datorst\u00f6d f\u00f6r ingenj\u00f6rsarbete 2",
+      "points": 4.0,
+      "start": "2025 vecka 04",
+      "end": "2025 vecka 13",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarad kurs Datorst\u00f6d f\u00f6r ingenj\u00f6rsarbete 1, 8 hp.",
+      "code": "MT1550"
+    },
+    {
+      "name": "Materiall\u00e4ra",
+      "points": 6.0,
+      "start": "2025 vecka 04",
+      "end": "2025 vecka 13",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen ska 3 hp fr\u00e5n kursen H\u00e5llfasthetsl\u00e4ra grundkurs vara avklarad.",
+      "code": "MT1544"
+    },
+    {
+      "name": "Projektkurs 1",
+      "points": 8.0,
+      "start": "2025 vecka 04",
+      "end": "2025 vecka 23",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs 45 avklarade hp fr\u00e5n ett ingenj\u00f6rsprogram inom maskinteknik.",
+      "code": "MT1538"
+    },
+    {
+      "name": "Ell\u00e4ra, grundkurs",
+      "points": 6.0,
+      "start": "2025 vecka 14",
+      "end": "2025 vecka 23",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngna kurser Fysik forts\u00e4ttningskurs, 6 hp, Linj\u00e4r algebra 1 och Analys 2, 6 hp.",
+      "code": "ET1538"
+    },
+    {
+      "name": "Maskinelement",
+      "points": 6.0,
+      "start": "2025 vecka 14",
+      "end": "2025 vecka 23",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarad kurs Fysik grundkurs, 4 hp samt genomg\u00e5ngna kurser Analys 1, 6 hp och H\u00e5llfasthetsl\u00e4ra grundkurs, 6 hp.",
+      "code": "MT1537"
+    },
+    {
+      "name": "H\u00e5llfasthetsl\u00e4ra forts\u00e4ttningskurs",
+      "points": 6.0,
+      "start": "2025 vecka 36",
+      "end": "2026 vecka 03",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarad kurs H\u00e5llfasthetsl\u00e4ra grundkurs, 6 hp.",
+      "code": "MT1529"
+    },
+    {
+      "name": "Innovativ och h\u00e5llbar produktutveckling 1",
+      "points": 6.0,
+      "start": "2025 vecka 36",
+      "end": "2025 vecka 44",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs 75 avklarade h\u00f6gskolepo\u00e4ng fr\u00e5n ett ingenj\u00f6rsprogram inom maskinteknik eller industriell ekonomi inkluderande avklarad kurs H\u00e5llbarhetsgrunder, 6 hp.",
+      "code": "MT1556"
+    },
+    {
+      "name": "Matematisk statistik",
+      "points": 6.0,
+      "start": "2025 vecka 36",
+      "end": "2025 vecka 44",
+      "requirements": "Genomg\u00e5ngna kurser i Analys 12 hp samt Linj\u00e4r algebra 6 hp (eller motsvarande).",
+      "code": "MS1405"
+    },
+    {
+      "name": "Industriell ekonomi, \u00f6versiktskurs",
+      "points": 6.0,
+      "start": "2025 vecka 45",
+      "end": "2026 vecka 03",
+      "requirements": "Omr\u00e5desbeh\u00f6righet 3: Matematik C, Samh\u00e4llskunskap A.  (Naturkunskap B kr\u00e4vs ej.)",
+      "code": "IY1402"
+    },
+    {
+      "name": "Innovativ och h\u00e5llbar produktutveckling 2",
+      "points": 6.0,
+      "start": "2025 vecka 45",
+      "end": "2026 vecka 03",
+      "requirements": "F\u00f6r att f\u00e5 p\u00e5b\u00f6rja kursen kr\u00e4vs genomg\u00e5ngen grundl\u00e4ggande kurs Innovativ och h\u00e5llbar produktutveckling 1.",
+      "code": "MT1454"
+    },
+    {
+      "name": "Projektkurs 2",
+      "points": 8.0,
+      "start": "2026 vecka 04",
+      "end": "2026 vecka 23",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngna kurser Innovativ och h\u00e5llbar\u00a0produktutveckling 1, 6 hp och Innovativ och h\u00e5llbar\u00a0produktutveckling 2, 6 hp samt avklarad kurs Projektkurs 1, 8 hp.",
+      "code": "MT1539"
+    },
+    {
+      "name": "Termodynamik",
+      "points": 6.0,
+      "start": "2026 vecka 04",
+      "end": "2026 vecka 13",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser Dynamik 6 hp eller Fysik f\u00f6r Ingenj\u00f6rer 2, 6 hp och Analys 2 6 hp samt genomg\u00e5ngna kurser Matematisk statistik, 6 hp och Fysik forts\u00e4ttningskurs, 6 hp eller Fysik f\u00f6r ingenj\u00f6rer 3, 6 hp.",
+      "code": "MT1540"
+    },
+    {
+      "name": "Transformteori",
+      "points": 6.0,
+      "start": "2026 vecka 04",
+      "end": "2026 vecka 13",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngna kurser Linj\u00e4r algebra 1, 6 hp, Analys 1, 6 hp och Analys 2, 6 hp.",
+      "code": "MA1497"
+    },
+    {
+      "name": "Reglerteknik",
+      "points": 6.0,
+      "start": "2026 vecka 14",
+      "end": "2026 vecka 23",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser i Linj\u00e4r algebra, Analys 2 och Fysik grundkurs samt genomg\u00e5ngna kurser i Flervariabelanalys, Transformteori, Dynamik och Ell\u00e4ra.",
+      "code": "ET1531"
+    },
+    {
+      "name": "Teknikutveckling, digitalisering och samh\u00e4llsf\u00f6r\u00e4ndring",
+      "points": 4.0,
+      "start": "2026 vecka 14",
+      "end": "2026 vecka 23",
+      "requirements": "Grundl\u00e4ggande beh\u00f6righet.",
+      "code": "TE1422"
+    },
+    {
+      "name": "Design Thinking",
+      "points": 7.5,
+      "start": "2026 vecka 36",
+      "end": "2026 vecka 44",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs 150 avklarade h\u00f6gskolepo\u00e4ng varav 60 hp fr\u00e5n ett cvilingenj\u00f6rsprogram i maskinteknik eller industriell ekonomi inkluderande avklarad kurs Produktutvecklingsmetodik (Innovativ- och H\u00e5llbar produktutveckling 1), 6 hp, Industriell ekonomi, \u00f6versiktskurs 6 hp eller Grunderna i industriell ekonomi 6 hp.",
+      "code": "MT2569"
+    },
+    {
+      "name": "Differentialekvationer med Liegruppanalys",
+      "points": 7.5,
+      "start": "2026 vecka 36",
+      "end": "2026 vecka 44",
+      "requirements": "F\u00f6ljande kurser ska vara genomg\u00e5ngna; Linj\u00e4r algebra, 7,5 hp, Analys 15 hp samt  Matematik, forts\u00e4ttningskurs, 7,5 hp eller motsvarande.",
+      "code": "MA1437"
+    },
+    {
+      "name": "Elektroteknik med till\u00e4mpningar inom m\u00e4tteknik",
+      "points": 7.5,
+      "start": "2026 vecka 36",
+      "end": "2026 vecka 44",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngna kurser i Ell\u00e4ra, 6 hp och Programmering och probleml\u00f6sning med Python, 6 hp eller Grundl\u00e4ggande programmering i Matlab, 6 hp och Reglerteknik 6 hp.",
+      "code": "ET1548"
+    },
+    {
+      "name": "Knowledge Enabled Engineering",
+      "points": 7.5,
+      "start": "2026 vecka 36",
+      "end": "2026 vecka 44",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs 150 avklarade h\u00f6gskolepo\u00e4ng varav 60 hp ska vara fr\u00e5n ett civilingenj\u00f6rsprogram i maskinteknik eller industriell ekonomi. I de 60 hp ska kurs om minst 6 hp Datorst\u00f6dd konstruktion, CAD ( Datorst\u00f6d f\u00f6r Ingenj\u00f6rsarbete) ing\u00e5. Dessutom kr\u00e4vs genomg\u00e5ngen kurs om minst 6 hp i Produktutvecklingsmetodik (Innovativ och H\u00e5llbar produktutveckling 1) och Matematisk statistik 6 hp.",
+      "code": "MT2570"
+    },
+    {
+      "name": "H\u00e5llbar produktutveckling",
+      "points": 7.5,
+      "start": "2026 vecka 45",
+      "end": "2027 vecka 02",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarad grundl\u00e4ggande kurs i h\u00e5llbarhet om minst 6 hp, exempelvis kursen H\u00e5llbarhetsgrunder, avklarat 2 hp i grundl\u00e4ggande produktutveckling och avklarat 1 hp i h\u00e5llbarhetsanalys inom produktutveckling, exempelvis fr\u00e5n kursen Innovativ- och h\u00e5llbar produktutveckling.",
+      "code": "SL2543"
+    },
+    {
+      "name": "Mekanisk systemdynamik",
+      "points": 7.5,
+      "start": "2026 vecka 45",
+      "end": "2027 vecka 02",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarad kurs Dynamik, 6 hp och genomg\u00e5ngen kurs Linj\u00e4r algebra, 6 hp.",
+      "code": "MT1533"
+    },
+    {
+      "name": "Signalbehandling",
+      "points": 7.5,
+      "start": "2026 vecka 45",
+      "end": "2027 vecka 02",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngen kurs i transformteori, 6 hp.",
+      "code": "ET1554"
+    },
+    {
+      "name": "V\u00e4rdeinnovation",
+      "points": 7.5,
+      "start": "2026 vecka 45",
+      "end": "2027 vecka 02",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs 150 avklarade hp varav 60 hp fr\u00e5n ett civilingenj\u00f6rsprogram i maskinteknik eller industriell ekonomi. I de 60 hp ska kurserna Analys 1, 6 hp, kurs om minst 6hp i Produktutvecklingsmetodik (Innovativ och H\u00e5llbar produktutveckling 1) och grundkurs om minst 6 hp i Industriell ekonomi (Grunderna i industriell ekonomi, 6 hp / Industriell ekonomi, \u00f6versiktskurs, 6 hp) ing\u00e5. Dessutom kr\u00e4vs genomg\u00e5ngen kurs i H\u00e5llbarhetsgrunder, 6 hp och Matematisk statistik, 6 hp.",
+      "code": "MT2568"
+    },
+    {
+      "name": "Avancerad h\u00e5llbar produktutveckling",
+      "points": 7.5,
+      "start": "2027 vecka 03",
+      "end": "2027 vecka 12",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarat 4 hp i produktutveckling, exempelvis fr\u00e5n n\u00e5gon av kurserna Innovativ och h\u00e5llbar produktutveckling, 7,5 hp eller V\u00e4rdeinnovation, 7,5 hp samt genomg\u00e5ngen kurs i H\u00e5llbar Produktutveckling, 7,5 hp.",
+      "code": "SL2548"
+    },
+    {
+      "name": "Digitala Tvillingar",
+      "points": 7.5,
+      "start": "2027 vecka 03",
+      "end": "2027 vecka 12",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser i Datorst\u00f6dd konstruktion, CAD (Datorst\u00f6d f\u00f6r Ingenj\u00f6rsarbete), minst 6 hp, grundl\u00e4ggande programmering (ex. Java, Python, Matlab) minst 4 hp samt matematisk statistik, 6 hp.",
+      "code": "MT2571"
+    },
+    {
+      "name": "Lean Produktion",
+      "points": 7.5,
+      "start": "2027 vecka 03",
+      "end": "2027 vecka 12",
+      "requirements": "Grundl\u00e4ggande beh\u00f6righet.",
+      "code": "MT1444"
+    },
+    {
+      "name": "Mekatronik med robotik",
+      "points": 7.5,
+      "start": "2027 vecka 03",
+      "end": "2027 vecka 12",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarad kurs i grundl\u00e4ggande programmering omfattande minst 6 hp. Vidare kr\u00e4vs genomg\u00e5ngen kurs i Dynamik, 6 hp, Elektronik med till\u00e4mpningar i m\u00e4tteknik, 7,5 hp samt Reglerteknik, 6 hp.",
+      "code": "ET2624"
+    },
+    {
+      "name": "Strukturanalys",
+      "points": 7.5,
+      "start": "2027 vecka 03",
+      "end": "2027 vecka 12",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs 150 avklarade hp fr\u00e5n ett ingenj\u00f6rsprogram inom maskinteknik.",
+      "code": "MT2562"
+    },
+    {
+      "name": "Kreativitet f\u00f6r produkt- och tj\u00e4nsteutveckling",
+      "points": 7.5,
+      "start": "2027 vecka 13",
+      "end": "2027 vecka 22",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs minst 180 hp (eller motsvarande). Engelska 6 (minst IELTS 6,5 eller TOEFL 575). Studenten ska ocks\u00e5 ha fullf\u00f6ljt/alternativt vara registrerad p\u00e5 en 6 hp kurs inom strategisk h\u00e5llbar utveckling, t.ex. Introduktion till strategisk h\u00e5llbar utveckling, eller liknande kurs.",
+      "code": "MT2546"
+    },
+    {
+      "name": "Ljud- och vibrationsanalys",
+      "points": 7.5,
+      "start": "2027 vecka 13",
+      "end": "2027 vecka 22",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att f\u00f6ljande kurs \u00e4r genomg\u00e5ngen:Signalbehandling I ET1203 7,5 hp eller motsvarande.",
+      "code": "ET2545"
+    },
+    {
+      "name": "Mekanikens approximativa ber\u00e4kningsmetoder 1",
+      "points": 7.5,
+      "start": "2027 vecka 13",
+      "end": "2027 vecka 22",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngen kurs Strukturanalys 7,5 hp.",
+      "code": "MT2558"
+    },
+    {
+      "name": "Virtuell prototypframst\u00e4llning",
+      "points": 7.5,
+      "start": "2027 vecka 13",
+      "end": "2027 vecka 22",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs 150 avklarade hp varav 60 hp fr\u00e5n ett civilingenj\u00f6rsprogram i maskinteknik (eller motsvarande). I de 60 hp ska kurserna i produktutvecklingsmetodik (Innovativ och H\u00e5llbar produktutveckling 1/Design Thinking), minst 6 hp och Datorst\u00f6d f\u00f6r ingenj\u00f6rer (eller motsvarande), minst 5 hp ing\u00e5.",
+      "code": "MT2578"
+    },
+    {
+      "name": "Experimentell och numerisk modalanalys",
+      "points": 7.5,
+      "start": "2027 vecka 35",
+      "end": "2027 vecka 43",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngen kurs Ljud- och vibrationsanalys, 7,5 hp.",
+      "code": "MT2566"
+    },
+    {
+      "name": "Mekanikens approximativa ber\u00e4kningsmetoder 2:1",
+      "points": 7.5,
+      "start": "2027 vecka 35",
+      "end": "2027 vecka 43",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngen kurs Mekanikens approximativa ber\u00e4kningsmetoder 1, 7,5 hp.",
+      "code": "MT2560"
+    },
+    {
+      "name": "Systems Engineering",
+      "points": 7.5,
+      "start": "2027 vecka 35",
+      "end": "2027 vecka 43",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs minst 180 avklarade hp, varav 90 hp inom maskinteknik, industriell ekonomi eller n\u00e4rliggande tekniskt omr\u00e5de inklusive 5 hp datorst\u00f6d f\u00f6r ingenj\u00f6rsarbete.",
+      "code": "MT2574"
+    },
+    {
+      "name": "Transformativ produkt- och tj\u00e4nstesystemsinnovation",
+      "points": 15.0,
+      "start": "2027 vecka 35",
+      "end": "2028 vecka 02",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs minst 180 avklarade hp varav 80 hp fr\u00e5n ett ingenj\u00f6rsprogram i Maskinteknik, Industriell Ekonomi eller motsvarande, inkluderande avklarad kurs i produktutvecklingsmetodik (Design Thinking 7,5 hp Systems Engineering 7,5 hp V\u00e4rdeinnovation 7,5 hp eller motsvarande).",
+      "code": "MT2573"
+    },
+    {
+      "name": "Forskningsmetodik med inriktning mot ingenj\u00f6rsvetenskap",
+      "points": 7.5,
+      "start": "2027 vecka 44",
+      "end": "2028 vecka 02",
+      "requirements": "Avklarade studier om minst 180 hp inom omr\u00e5det teknik.",
+      "code": "MT2521"
+    },
+    {
+      "name": "Kvalitetsutveckling",
+      "points": 7.5,
+      "start": "2027 vecka 44",
+      "end": "2028 vecka 02",
+      "requirements": "Grundl\u00e4ggande beh\u00f6righet.",
+      "code": "MT1448"
+    },
+    {
+      "name": "Reglerteknik forts\u00e4ttningskurs f\u00f6r civilingenj\u00f6r i maskinteknik",
+      "points": 7.5,
+      "start": "2027 vecka 44",
+      "end": "2028 vecka 02",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser Reglerteknik 6 hp och Signalbehandling 7,5 hp.",
+      "code": "ET2622"
+    },
+    {
+      "name": "Simuleringsdriven produktutveckling",
+      "points": 7.5,
+      "start": "2027 vecka 44",
+      "end": "2028 vecka 02",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngen kurs Mekanikens approximativa ber\u00e4kningsmetoder 1, 7,5 hp.",
+      "code": "MT2559"
+    },
+    {
+      "name": "Examensarbete f\u00f6r civilingenj\u00f6rer",
+      "points": 30.0,
+      "start": "2028 vecka 03",
+      "end": "2028 vecka 22",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att studenten har avklarat minst 240 hp som f\u00e5r ing\u00e5 i en civilingenj\u00f6rsexamen. Av dessa ska minst 30 hp vara avklarade kurser p\u00e5 avancerad niv\u00e5.",
+      "code": "TE2502"
+    }
+  ],
+  "updated": 1666433424988
+}

@@ -1,0 +1,130 @@
+{
+  "name": "Webbprogrammering distans",
+  "points": 120.0,
+  "start": "2023 vecka 34",
+  "end": "2025 vecka 23",
+  "requirements": "Grundl\u00e4ggande beh\u00f6righet samt Matematik 3b alt 3c.",
+  "courses": [
+    {
+      "name": "Programmering och probleml\u00f6sning med Python",
+      "points": 7.5,
+      "start": "2023 vecka 34",
+      "end": "2023 vecka 43",
+      "requirements": "Grundl\u00e4ggande beh\u00f6righet",
+      "code": "DV1670"
+    },
+    {
+      "name": "Webbteknologier",
+      "points": 7.5,
+      "start": "2023 vecka 34",
+      "end": "2023 vecka 43",
+      "requirements": "Grundl\u00e4ggande beh\u00f6righet.",
+      "code": "PA1439"
+    },
+    {
+      "name": "Programmering med JavaScript",
+      "points": 7.5,
+      "start": "2023 vecka 44",
+      "end": "2024 vecka 02",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngen kurs i programmering, 7,5 h\u00f6gskolepo\u00e4ng.",
+      "code": "DV1657"
+    },
+    {
+      "name": "Teknisk webbdesign och anv\u00e4ndbarhet",
+      "points": 7.5,
+      "start": "2023 vecka 44",
+      "end": "2024 vecka 02",
+      "requirements": "Genomg\u00e5ngen kurs i Webbteknologier, 7,5 hp.",
+      "code": "PA1436"
+    },
+    {
+      "name": "Algoritmer och datastrukturer med objektorienterad Python",
+      "points": 7.5,
+      "start": "2024 vecka 03",
+      "end": "2024 vecka 12",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngen kurs i Programmering och probleml\u00f6sning med Python 7,5 hp.",
+      "code": "DV1660"
+    },
+    {
+      "name": "Databasteknologier f\u00f6r webben",
+      "points": 7.5,
+      "start": "2024 vecka 03",
+      "end": "2024 vecka 12",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngna kurser motsvarande 15 hp i programmering och/eller webbteknologier.",
+      "code": "DV1606"
+    },
+    {
+      "name": "Objektorienterade webbteknologier",
+      "points": 7.5,
+      "start": "2024 vecka 13",
+      "end": "2024 vecka 22",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngen kurs Webbteknologier, 7,5 hp samt genomg\u00e5ngen kurs i databaser motsvarande 7,5 hp.",
+      "code": "DV1608"
+    },
+    {
+      "name": "Webbapplikationer f\u00f6r mobila enheter",
+      "points": 7.5,
+      "start": "2024 vecka 13",
+      "end": "2024 vecka 22",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngna kurser motsvarande 15 hp i programmering och webbteknologier varav 6 hp ska vara programmering med JavaScript.",
+      "code": "DV1609"
+    },
+    {
+      "name": "JavaScript-baserade webbramverk",
+      "points": 7.5,
+      "start": "2024 vecka 36",
+      "end": "2024 vecka 44",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser eller moment fr\u00e5n kurser i programmering och webbteknologier omfattande 22,5 hp samt genomg\u00e5ngen kurs Webbapplikationer f\u00f6r mobila enheter, 7,5 hp.",
+      "code": "DV1612"
+    },
+    {
+      "name": "Operativsystemet Linux och virtualiseringstekniker",
+      "points": 7.5,
+      "start": "2024 vecka 36",
+      "end": "2024 vecka 44",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser eller moment fr\u00e5n kurser i programmering och webbteknologier omfattande totalt 22,5 hp.",
+      "code": "DV1611"
+    },
+    {
+      "name": "Matematisk\u00a0modellering",
+      "points": 7.5,
+      "start": "2024 vecka 45",
+      "end": "2025 vecka 03",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarad Matematik 3b alt. 3c eller Matematik C fr\u00e5n gymnasieskolan samt genomg\u00e5ngna kurser i programmering om minst 15 hp.",
+      "code": "MA1487"
+    },
+    {
+      "name": "Programutveckling i virtuella team",
+      "points": 7.5,
+      "start": "2024 vecka 45",
+      "end": "2025 vecka 03",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser eller moment fr\u00e5n kurser i programmering och/eller webbteknologier omfattande totalt 22,5 hp. D\u00e4rut\u00f6ver kr\u00e4vs genomg\u00e5ngen kurs i Objektorienterade webbteknologier, 7,5 hp.",
+      "code": "PA1477"
+    },
+    {
+      "name": "Data- och telekommunikation",
+      "points": 7.5,
+      "start": "2025 vecka 04",
+      "end": "2025 vecka 13",
+      "requirements": "Genomg\u00e5ngen grundl\u00e4ggande kurs i programmering om minst 7,5 hp.",
+      "code": "ET1447"
+    },
+    {
+      "name": "Sj\u00e4lvst\u00e4ndigt arbete i Webbprogrammering",
+      "points": 15.0,
+      "start": "2025 vecka 04",
+      "end": "2025 vecka 23",
+      "requirements": "60 hp avklarade p\u00e5 programmet Webbprogrammering",
+      "code": "PA1438"
+    },
+    {
+      "name": "Grundl\u00e4ggande systemverifiering",
+      "points": 7.5,
+      "start": "2025 vecka 14",
+      "end": "2025 vecka 23",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att den studerande har klarat programmering, 15 h\u00f6gskolepo\u00e4ng eller motsvarande.",
+      "code": "PA1417"
+    }
+  ],
+  "updated": 1666433703340
+}

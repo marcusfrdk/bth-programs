@@ -1,0 +1,82 @@
+{
+  "name": "Masterprogram i stadsplanering",
+  "points": 120.0,
+  "start": "2023 vecka 35",
+  "end": "2025 vecka 23",
+  "requirements": "Kandidatexamen 180 hp i fysisk planering, arkitektur, landskapsarkitektur eller motsvarande. Alternativt kandidatexamen 180 hp i planering eller motsvarande och d\u00e4rut\u00f6ver 30 hp i rumslig gestaltning.",
+  "courses": [
+    {
+      "name": "Introduktion till stadsplanering",
+      "points": 15.0,
+      "start": "2023 vecka 35",
+      "end": "2023 vecka 43",
+      "requirements": "Kandidatexamen i fysisk planering, arkitektur, landskapsarkitektur eller motsvarande. Alternativt kandidatexamen 180hp i planering eller motsvarande och d\u00e4rut\u00f6ver 30hp i rumslig gestaltning.",
+      "code": "FM2596"
+    },
+    {
+      "name": "Studio I - strukturer",
+      "points": 15.0,
+      "start": "2023 vecka 44",
+      "end": "2024 vecka 02",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs kandidatexamen i fysisk planering, arkitektur, landskapsarkitektur eller motsvarande. Alternativt kandidatexamen 180 hp i planering eller motsvarande och d\u00e4rut\u00f6ver 30 hp i rumslig gestaltning.",
+      "code": "FM2611"
+    },
+    {
+      "name": "Vetenskapligt arbete: teoretiska utg\u00e5ngspunkter och unders\u00f6kningsmetoder",
+      "points": 7.5,
+      "start": "2024 vecka 03",
+      "end": "2024 vecka 07",
+      "requirements": "Genomg\u00e5ngna kurser motsvarande 30hp p\u00e5 avancerad niv\u00e5 inom huvudomr\u00e5det Fysisk planering",
+      "code": "FM2597"
+    },
+    {
+      "name": "Samh\u00e4llsorganisation och styrformer",
+      "points": 7.5,
+      "start": "2024 vecka 08",
+      "end": "2024 vecka 12",
+      "requirements": "Genomg\u00e5ngna kurser motsvarande 30hp p\u00e5 avancerad niv\u00e5 inom huvudomr\u00e5det Fysisk planering",
+      "code": "FM2598"
+    },
+    {
+      "name": "Studio II - situationer",
+      "points": 15.0,
+      "start": "2024 vecka 13",
+      "end": "2024 vecka 22",
+      "requirements": "30hp i kurser p\u00e5 avancerad niv\u00e5 inom huvudomr\u00e5det Fysisk planering.",
+      "code": "FM2592"
+    },
+    {
+      "name": "Infrastruktur och h\u00e5llbarhet",
+      "points": 7.5,
+      "start": "2024 vecka 36",
+      "end": "2024 vecka 40",
+      "requirements": "60hp i kurser p\u00e5 avancerad niv\u00e5 inom huvudomr\u00e5det Fysisk planering.",
+      "code": "FM2587"
+    },
+    {
+      "name": "Urbanteori",
+      "points": 7.5,
+      "start": "2024 vecka 40",
+      "end": "2024 vecka 44",
+      "requirements": "60hp i kurser p\u00e5 avancerad niv\u00e5 inom huvudomr\u00e5det Fysisk planering.",
+      "code": "FM2590"
+    },
+    {
+      "name": "Studio III - komplexiteter",
+      "points": 15.0,
+      "start": "2024 vecka 45",
+      "end": "2025 vecka 03",
+      "requirements": "60hp i kurser p\u00e5 avancerad niv\u00e5 inom huvudomr\u00e5det Fysisk planering.",
+      "code": "FM2593"
+    },
+    {
+      "name": "Masterarbete i fysisk planering",
+      "points": 30.0,
+      "start": "2025 vecka 04",
+      "end": "2025 vecka 23",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngna kurser motsvarande 90 hp p\u00e5 avancerad niv\u00e5 inom huvudomr\u00e5det Fysisk planering, varav minst 75hp ska vara avklarade.",
+      "code": "FM2614"
+    }
+  ],
+  "updated": 1666433829517
+}

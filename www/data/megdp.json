@@ -1,0 +1,122 @@
+{
+  "name": "Digital bildproduktion",
+  "points": 180.0,
+  "start": "2023 vecka 34",
+  "end": "2026 vecka 23",
+  "requirements": "Grundl\u00e4ggande beh\u00f6righet samt Matematik 2a alt 2b alt 2c.",
+  "courses": [
+    {
+      "name": "Introduktion i medieteknik med inriktning mot digital bildproduktion",
+      "points": 15.0,
+      "start": "2023 vecka 34",
+      "end": "2023 vecka 43",
+      "requirements": "Grundl\u00e4ggande beh\u00f6righet samt Matematik 2a alt 2b alt 2c.",
+      "code": "ME1604"
+    },
+    {
+      "name": "Grunder i digital bildproduktion",
+      "points": 15.0,
+      "start": "2023 vecka 44",
+      "end": "2024 vecka 02",
+      "requirements": "Omr\u00e5desbeh\u00f6righet A7: Matematik 2a alt 2b alt 2c (Fysik 1b1 alt 1a kr\u00e4vs ej)alternativtOmr\u00e5desbeh\u00f6righet 7: Matematik B (Fysik A kr\u00e4vs ej).",
+      "code": "ME1568"
+    },
+    {
+      "name": "Funktionell visuell design",
+      "points": 15.0,
+      "start": "2024 vecka 03",
+      "end": "2024 vecka 12",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngen kurs Grunder i digital bildproduktion, 15 hp.",
+      "code": "ME1611"
+    },
+    {
+      "name": "Ber\u00e4ttande genom visuella medier",
+      "points": 15.0,
+      "start": "2024 vecka 13",
+      "end": "2024 vecka 22",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngen kurs i Introduktion i medieteknik med inriktning mot digital bildproduktion, 15 hp.",
+      "code": "ME1624"
+    },
+    {
+      "name": "Concept Art",
+      "points": 7.5,
+      "start": "2024 vecka 36",
+      "end": "2024 vecka 40",
+      "requirements": "Grundl\u00e4ggande beh\u00f6righet",
+      "code": "ME1651"
+    },
+    {
+      "name": "3D-modellering och animation",
+      "points": 7.5,
+      "start": "2024 vecka 40",
+      "end": "2024 vecka 44",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarad kurs Introduktion i medieteknik med inriktning mot digital bildproduktion, 15 hp samt genomg\u00e5ngen kurs Grunder i digital bildproduktion, 15 hp.",
+      "code": "ME1650"
+    },
+    {
+      "name": "Medieteknisk prototyputveckling",
+      "points": 15.0,
+      "start": "2024 vecka 45",
+      "end": "2025 vecka 03",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att n\u00e5gon av f\u00f6ljande kurser \u00e4r genomg\u00e5ngen: Grunder i digitala spel 15 hp, Grunder i digital ljudproduktion 15 hp, Grunder i digital bildproduktion 15 hp.",
+      "code": "ME1625"
+    },
+    {
+      "name": "Generativ bild",
+      "points": 7.5,
+      "start": "2025 vecka 04",
+      "end": "2025 vecka 13",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngen kurs Medieteknisk prototyputveckling, 15 hp.",
+      "code": "ME1615"
+    },
+    {
+      "name": "Utst\u00e4llningsteknik",
+      "points": 7.5,
+      "start": "2025 vecka 04",
+      "end": "2025 vecka 13",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngen kurs Digifysisk gestaltning, 7,5 hp.",
+      "code": "ME1655"
+    },
+    {
+      "name": "Design i samverkan",
+      "points": 15.0,
+      "start": "2025 vecka 14",
+      "end": "2025 vecka 23",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngen kurs Interaktivt ber\u00e4ttande, 7,5 hp.",
+      "code": "ME1616"
+    },
+    {
+      "name": "Responsiva h\u00e5llbara milj\u00f6er",
+      "points": 15.0,
+      "start": "2025 vecka 36",
+      "end": "2025 vecka 44",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs 90 hp avklarade i huvudomr\u00e5det medieteknik.",
+      "code": "ME1656"
+    },
+    {
+      "name": "Forskningsintroduktion medieteknik",
+      "points": 7.5,
+      "start": "2025 vecka 45",
+      "end": "2026 vecka 03",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs 60 hp avklarade i huvudomr\u00e5det medieteknik.",
+      "code": "ME1644"
+    },
+    {
+      "name": "Virtuell produktion",
+      "points": 7.5,
+      "start": "2025 vecka 45",
+      "end": "2026 vecka 03",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs 90 hp avklarade i huvudomr\u00e5det medieteknik.",
+      "code": "ME1654"
+    },
+    {
+      "name": "Kandidatarbete i medieteknik",
+      "points": 30.0,
+      "start": "2026 vecka 04",
+      "end": "2026 vecka 23",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs minst 90 hp genomg\u00e5nget inom huvudomr\u00e5det medieteknik samt genomg\u00e5ngen kurs Forskningsmetodik f\u00f6r medieteknik.",
+      "code": "ME1603"
+    }
+  ],
+  "updated": 1666433537842
+}

@@ -1,0 +1,178 @@
+{
+  "name": "Masterprogram i Software Engineering",
+  "points": 120.0,
+  "start": "2023 vecka 35",
+  "end": "2025 vecka 23",
+  "requirements": "Kandidatexamen eller h\u00f6gskoleingenj\u00f6rsexamen motsvarande minst 180 hp inom n\u00e5got av omr\u00e5dena Programvaruteknik, Datavetenskap eller Datalogi. Examen ska omfatta minst 90 hp Programvaruteknik, Datavetenskap eller Datalogi varav minst 30 hp ska utg\u00f6ras av kurser inom Programmering, Objektorienterad systemutveckling, Programvarudesign, Datastrukturer och algoritmer, Databasteknik, Datakommunikation, Realtidssystem, Operativsystem. Dessutom kr\u00e4vs 7,5 hp inom Grundl\u00e4ggande Programvaruteknik (Software Engineering) eller Programvaruutvecklingsprojekt i grupp. Examen ska \u00e4ven omfatta 15 hp i Matematik. Engelska 6.",
+  "courses": [
+    {
+      "name": "Agile och Lean Mjukvaruutveckling",
+      "points": 7.5,
+      "start": "2023 vecka 35",
+      "end": "2023 vecka 43",
+      "requirements": "Avklarade kurser omfattande minst 120 hp varav minst 90 hp inom f\u00f6ljande omr\u00e5den: Programvaruteknik, Datavetenskap, Informationssystem eller Datalogi. Dessutom kr\u00e4vs avklarad kurs p\u00e5 minst 7.5 hp inom Grundl\u00e4ggande Programvaruteknik (Software Engineering) eller Programvaruutvecklingsprojekt i grupp.",
+      "code": "PA2555"
+    },
+    {
+      "name": "Seminarier i Programvaruteknik",
+      "points": 7.5,
+      "start": "2023 vecka 35",
+      "end": "2023 vecka 43",
+      "requirements": "Avklarade kurser omfattande minst 120 hp varav minst 90 hp vara inom f\u00f6ljande omr\u00e5den: Programvaruteknik, Datavetenskap, eller Datalogi. Minst 30 hp ska vara  inom ett eller flera av f\u00f6ljande omr\u00e5den: Programmering, Objektorienterad systemutveckling, Programvarudesign, Datastrukturer och algoritmer, Databasteknik, Datakommunikation, Realtidssystem, Operativsystem. Dessutom kr\u00e4vs en avklarad kurs p\u00e5 minst 7.5 hp inom Grundl\u00e4ggande Programvaruteknik (Software Engineering) eller Programvaruutvecklingsprojekt i grupp.",
+      "code": "PA2550"
+    },
+    {
+      "name": "Kravhantering och produkthantering",
+      "points": 7.5,
+      "start": "2023 vecka 44",
+      "end": "2024 vecka 02",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser omfattande minst 120 hp varav minst 90 hp ska vara inom f\u00f6ljande omr\u00e5den: programvaruteknik, datavetenskap, informationssystem, datalogi, maskinteknik eller industriell ekonomi. Dessutom kr\u00e4vs en genomg\u00e5ngen kurs p\u00e5 minst 7,5 hp inom grundl\u00e4ggande Programvaruteknik eller Systemteknik alternativt en genomg\u00e5ngen projektkurs i grupp p\u00e5 minst 7,5 hp i Programvaruteknik eller Systemteknik.",
+      "code": "PA2591"
+    },
+    {
+      "name": "Programvaruarkitektur och kvalitet",
+      "points": 7.5,
+      "start": "2023 vecka 44",
+      "end": "2024 vecka 02",
+      "requirements": "Studenten m\u00e5ste ha klarat av totalt 22,5 h\u00f6gskolepo\u00e4ng fr\u00e5n f\u00f6ljande omr\u00e5den: Programvarudesign, Datastrukturer och algoritmer, Databasteknik, Datakommunikation, Realtidssystem, Operativsystem samt avklarat en kurs i Programmering p\u00e5 minst 6 h\u00f6gskolepo\u00e4ng.",
+      "code": "PA1453"
+    },
+    {
+      "name": "Forskningsmetodik i Programvaruteknik och Datavetenskap",
+      "points": 7.5,
+      "start": "2024 vecka 03",
+      "end": "2024 vecka 12",
+      "requirements": "Avklarade kurser omfattande minst 120 hp varav minst 90 hp vara inom f\u00f6ljande omr\u00e5den: Programvaruteknik, Datavetenskap, eller Datalogi. Minst 30 hp ska vara  inom ett eller flera av f\u00f6ljande omr\u00e5den: Programmering, Objektorienterad systemutveckling, Programvarudesign, Datastrukturer och algoritmer, Databasteknik, Datakommunikation, Realtidssystem, Operativsystem. Dessutom kr\u00e4vs  15 hp avklarade kurser inom Matematik.",
+      "code": "PA2554"
+    },
+    {
+      "name": "Mjukvarutestning",
+      "points": 7.5,
+      "start": "2024 vecka 03",
+      "end": "2024 vecka 12",
+      "requirements": "Avklarade kurser omfattande minst 120 hp varav minst 90 hp vara inom f\u00f6ljande omr\u00e5den: Programvaruteknik, Datavetenskap, eller Datalogi. Minst 30 hp ska vara  inom ett eller flera av f\u00f6ljande omr\u00e5den: Programmering, Objektorienterad systemutveckling, Programvarudesign, Datastrukturer och algoritmer, Databasteknik, Datakommunikation, Realtidssystem, Operativsystem. Dessutom kr\u00e4vs avklarad kurs p\u00e5 minst 7.5 hp inom Grundl\u00e4ggande Programvaruteknik (Software Engineering) eller Programvaruutvecklingsprojekt i grupp.",
+      "code": "PA2552"
+    },
+    {
+      "name": "Beslutsst\u00f6djande system",
+      "points": 7.5,
+      "start": "2024 vecka 13",
+      "end": "2024 vecka 22",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser i programmering 15 hp, databaser, 7,5 hp.",
+      "code": "DV2573"
+    },
+    {
+      "name": "Matematisk statistik",
+      "points": 7.5,
+      "start": "2024 vecka 13",
+      "end": "2024 vecka 22",
+      "requirements": "15 hp matematik avklarat.",
+      "code": "MS1411"
+    },
+    {
+      "name": "M\u00e4tningar av programvara",
+      "points": 7.5,
+      "start": "2024 vecka 13",
+      "end": "2024 vecka 22",
+      "requirements": "Avklarade kurser omfattande minst 120 hp inkluderande avslutade kurser i Programmering, Datastrukturer och Algoritmer, och Mjukvaruutveckling (Software Engineering) eller Programvaruutvecklingsprojekt i grupp. Samt 15 hp avklarade kurser inom Matematik.",
+      "code": "PA2559"
+    },
+    {
+      "name": "Social h\u00e5llbarhet i produkt- och tj\u00e4nsteutveckling",
+      "points": 7.5,
+      "start": "2024 vecka 13",
+      "end": "2024 vecka 22",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs 120 hp h\u00f6gskolestudier avklarade samt Engelska 6.",
+      "code": "SL2554"
+    },
+    {
+      "name": "Evolution och Underh\u00e5ll av Mjukvara - Projekt",
+      "points": 7.5,
+      "start": "2024 vecka 36",
+      "end": "2024 vecka 44",
+      "requirements": "Avklarade kurser omfattande minst 120 hp varav minst 30 hp ska vara  inom ett eller flera av f\u00f6ljande omr\u00e5den: Programmering, Objektorienterad systemutveckling, Programvarudesign, Datastrukturer och algoritmer, Databasteknik, Datakommunikation, Realtidssystem, Operativsystem. Dessutom kr\u00e4vs avklarad kurs p\u00e5 minst 7.5 hp inom Grundl\u00e4ggande Programvaruteknik (Software Engineering) eller Programvaruutvecklingsprojekt i grupp.",
+      "code": "PA2558"
+    },
+    {
+      "name": "Prestandaoptimering",
+      "points": 7.5,
+      "start": "2024 vecka 36",
+      "end": "2024 vecka 44",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att den studerande har avklarat: programmering 15 hp, algoritmer och datastrukturer 6 hp, datakommunikation 4 hp och realtids- och operativsystem 6 hp.",
+      "code": "DV1567"
+    },
+    {
+      "name": "Programmering i UNIX-milj\u00f6",
+      "points": 7.5,
+      "start": "2024 vecka 36",
+      "end": "2024 vecka 44",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att den studerande har avklarat kurser i programmering, 15 hp, algoritmer och datastrukturer, 6 hp, operativsystem, 6hp och datakommunikation alt lokala n\u00e4tverk, 4 hp.",
+      "code": "DV1457"
+    },
+    {
+      "name": "Till\u00e4mpad artificiell intelligens",
+      "points": 7.5,
+      "start": "2024 vecka 36",
+      "end": "2024 vecka 44",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs 12 avklarade hp fr\u00e5n moment i programmeringskurser (Python eller dylikt) samt 6 avklarade hp i datastrukturer och algoritmer.",
+      "code": "DV2618"
+    },
+    {
+      "name": "F\u00f6rdjupningskurs i Programvaruteknik",
+      "points": 7.5,
+      "start": "2024 vecka 45",
+      "end": "2025 vecka 03",
+      "requirements": "Avklarade kurser omfattande minst 120 hp varav minst 90 hp inom f\u00f6ljande omr\u00e5den: Programvaruteknik, Datavetenskap eller Datalogi. Dessutom kr\u00e4vs avklarade kurser p\u00e5 minst 30 hp p\u00e5 avancerad niv\u00e5,  en avklarad kurs p\u00e5 minst 7,5 inom Grundl\u00e4ggande Programvaruteknik (Software Engineering) eller Programvaruutvecklingsprojekt i grupp samt genomg\u00e5tt kurs i Forskningsmetodik p\u00e5 minst 7,5 hp.",
+      "code": "PA2560"
+    },
+    {
+      "name": "Kvalitetsstyrning",
+      "points": 7.5,
+      "start": "2024 vecka 45",
+      "end": "2025 vecka 03",
+      "requirements": "Avklarade kurser omfattande minst 120 hp varav minst 90 hp inom f\u00f6ljande omr\u00e5den: Programvaruteknik, Datavetenskap eller Datalogi. Dessutom kr\u00e4vs en avklarad kurs p\u00e5 minst 7.5 hp inom Grundl\u00e4ggande Programvaruteknik (Software Engineering) eller Programvaruutvecklingsprojekt i grupp.",
+      "code": "PA2557"
+    },
+    {
+      "name": "Maskininl\u00e4rning",
+      "points": 7.5,
+      "start": "2024 vecka 45",
+      "end": "2025 vecka 03",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs en avklarad kurs inom Till\u00e4mpad artificiell intelligens omfattande minst 6 hp.",
+      "code": "DV2626"
+    },
+    {
+      "name": "Multiprocessorprogrammering",
+      "points": 7.5,
+      "start": "2024 vecka 45",
+      "end": "2025 vecka 03",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs 60 hp avklarade i huvudomr\u00e5det datavetenskap eller huvudomr\u00e5det programvaruteknik inklusive avklarade kurser i programmering 12 hp, algoritmer och datastrukturer, 6 hp, operativsystem, 6 hp och datorteknik, 6 hp.",
+      "code": "DV2597"
+    },
+    {
+      "name": "Programvarus\u00e4kerhet",
+      "points": 7.5,
+      "start": "2024 vecka 45",
+      "end": "2025 vecka 03",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs 90 hp varav 40 hp inom det tekniska omr\u00e5det varav en avklarad kurs p\u00e5 minst 6 hp inom programmering i C, C++ eller minst 120 hp varav minst 90 hp inom det tekniska omr\u00e5det och minst 2 \u00e5rs yrkeserfarenhet inom omr\u00e5de som \u00e4r relaterat till mjukvaruintensiv produkt och/eller tj\u00e4nsteutveckling (visas exempelvis genom intyg fr\u00e5n arbetsgivare).",
+      "code": "DV2620"
+    },
+    {
+      "name": "Till\u00e4mpad Cloud Computing och Big Data",
+      "points": 7.5,
+      "start": "2024 vecka 45",
+      "end": "2025 vecka 03",
+      "requirements": "Minst 90hp inom ett tekniskt omr\u00e5de varav minst 30 hp skall utg\u00f6ras av kurser inom ett eller flera av f\u00f6ljande omr\u00e5den: Programmering, Objektorienterad systemutveckling, Programvarudesign, Datastrukturer och algoritmer, Databasteknik, Datakommunikation, Realtidssystem, Operativsystem.eller Minst 90 hp inom omr\u00e5det teknologi och minst 2 \u00e5rs yrkeserfarenhet av mjukvarurelaterad utveckling (visas exempelvis genom intyg fr\u00e5n arbetsgivare).",
+      "code": "PA2577"
+    },
+    {
+      "name": "Masterarbete i Programvaruteknik",
+      "points": 30.0,
+      "start": "2025 vecka 04",
+      "end": "2025 vecka 23",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs minst 90 h\u00f6gskolepo\u00e4ng inom huvudomr\u00e5det programvaruteknik, varav minst 30 h\u00f6gskolepo\u00e4ng p\u00e5 avancerad niv\u00e5. Dessutom kr\u00e4vs att den studerande har avklarat en kurs i forskningsmetodik i programvaruteknik och/eller datavetenskap om 7.5 h\u00f6gskolepo\u00e4ng.",
+      "code": "PA2534"
+    }
+  ],
+  "updated": 1666433770046
+}

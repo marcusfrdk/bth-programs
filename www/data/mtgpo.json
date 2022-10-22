@@ -1,0 +1,138 @@
+{
+  "name": "Produktutveckling",
+  "points": 120.0,
+  "start": "2023 vecka 34",
+  "end": "2025 vecka 23",
+  "requirements": "Grundl\u00e4ggande beh\u00f6righet samt Matematik 2a alt 2b alt 2c.",
+  "courses": [
+    {
+      "name": "Kommunikation p\u00e5 distans",
+      "points": 7.5,
+      "start": "2023 vecka 34",
+      "end": "2023 vecka 43",
+      "requirements": "Grundl\u00e4ggande beh\u00f6righet.",
+      "code": "MT1443"
+    },
+    {
+      "name": "Datorst\u00f6d inom Konstruktion 1",
+      "points": 7.5,
+      "start": "2023 vecka 35",
+      "end": "2023 vecka 43",
+      "requirements": "Grundl\u00e4ggande beh\u00f6righet.",
+      "code": "MT1510"
+    },
+    {
+      "name": "Kvalitetsutveckling",
+      "points": 7.5,
+      "start": "2023 vecka 44",
+      "end": "2024 vecka 02",
+      "requirements": "Grundl\u00e4ggande beh\u00f6righet.",
+      "code": "MT1448"
+    },
+    {
+      "name": "Tillverkningsmetoder",
+      "points": 7.5,
+      "start": "2023 vecka 44",
+      "end": "2024 vecka 02",
+      "requirements": "Grundl\u00e4ggande beh\u00f6righet.",
+      "code": "MT1445"
+    },
+    {
+      "name": "Datorst\u00f6d inom Konstruktion 2",
+      "points": 7.5,
+      "start": "2024 vecka 03",
+      "end": "2024 vecka 12",
+      "requirements": "Grundl\u00e4ggande beh\u00f6righet och genomf\u00f6rd grundkurs, MT1101 Datorst\u00f6d inom Konstruktion 1 eller motsvarande.",
+      "code": "MT1440"
+    },
+    {
+      "name": "Matematik f\u00f6r produktutveckling",
+      "points": 7.5,
+      "start": "2024 vecka 03",
+      "end": "2024 vecka 12",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs grundl\u00e4ggande beh\u00f6righet samt Matematik 2a alt 2b alt 2c.",
+      "code": "MA1492"
+    },
+    {
+      "name": "Automation 1",
+      "points": 7.5,
+      "start": "2024 vecka 13",
+      "end": "2024 vecka 22",
+      "requirements": "Grundl\u00e4ggande beh\u00f6righet samt Matematik 2 eller motsvarande.",
+      "code": "ET1545"
+    },
+    {
+      "name": "Fysik f\u00f6r produktutveckling",
+      "points": 7.5,
+      "start": "2024 vecka 13",
+      "end": "2024 vecka 22",
+      "requirements": "Genomg\u00e5ngen kurs MA1467 Matematik 2 f\u00f6r produktutveckling.",
+      "code": "FY1427"
+    },
+    {
+      "name": "Grundl\u00e4ggande mekanik f\u00f6r tekniker",
+      "points": 7.5,
+      "start": "2024 vecka 36",
+      "end": "2024 vecka 44",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs sammanlagt 4,5 hp avklarat fr\u00e5n f\u00f6ljade kurser:Fysik f\u00f6r produktutvecklingMatematik 1 f\u00f6r produktutvecklingMatematik 2 f\u00f6r produktutveckling",
+      "code": "MT1534"
+    },
+    {
+      "name": "Innovativ och h\u00e5llbar produktutveckling",
+      "points": 7.5,
+      "start": "2024 vecka 36",
+      "end": "2024 vecka 44",
+      "requirements": "Erfarenhet av yrkesm\u00e4ssigt ingenj\u00f6rsarbete eller tidigare h\u00f6gskolestudier.",
+      "code": "MT1442"
+    },
+    {
+      "name": "Grundl\u00e4ggande h\u00e5llfasthetsl\u00e4ra f\u00f6r tekniker",
+      "points": 7.5,
+      "start": "2024 vecka 45",
+      "end": "2025 vecka 03",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngen kurs Grundl\u00e4ggande mekanik f\u00f6r tekniker.",
+      "code": "MT1507"
+    },
+    {
+      "name": "Innovationsprojekt",
+      "points": 7.5,
+      "start": "2024 vecka 45",
+      "end": "2025 vecka 03",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngna kurser Innovativ och H\u00e5llbar produktutveckling, 7,5 hp och Datorst\u00f6d inom Konstruktion 2, 7,5 hp.",
+      "code": "MT1520"
+    },
+    {
+      "name": "Dimensionering och materialval",
+      "points": 7.5,
+      "start": "2025 vecka 04",
+      "end": "2025 vecka 13",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att 3,5 hp fr\u00e5n kursen Grundl\u00e4ggande mekanik f\u00f6r tekniker (7,5 hp) \u00e4r avklarade samt genomg\u00e5ngen kurs Grundl\u00e4ggande h\u00e5llfasthetsl\u00e4ra f\u00f6r tekniker, 7,5 hp.",
+      "code": "MT1548"
+    },
+    {
+      "name": "Lean Produktion",
+      "points": 7.5,
+      "start": "2025 vecka 04",
+      "end": "2025 vecka 13",
+      "requirements": "Grundl\u00e4ggande beh\u00f6righet.",
+      "code": "MT1444"
+    },
+    {
+      "name": "Grundl\u00e4ggande maskinelement f\u00f6r tekniker",
+      "points": 7.5,
+      "start": "2025 vecka 14",
+      "end": "2025 vecka 23",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att 3,5 hp fr\u00e5n kursen Grundl\u00e4ggande mekanik f\u00f6r tekniker (7,5 hp) \u00e4r avklarade samt Genomg\u00e5ngen kurs Grundl\u00e4ggande h\u00e5llfasthetsl\u00e4ra f\u00f6r tekniker, 7,5 hp.",
+      "code": "MT1536"
+    },
+    {
+      "name": "Sj\u00e4lvst\u00e4ndigt arbete inom Produktutveckling",
+      "points": 7.5,
+      "start": "2025 vecka 14",
+      "end": "2025 vecka 23",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen krav 90 hp avklarade fr\u00e5n en utbildning som ger h\u00f6gskoleexamen med inriktning mot maskinteknik.",
+      "code": "MT1542"
+    }
+  ],
+  "updated": 1666433654142
+}
