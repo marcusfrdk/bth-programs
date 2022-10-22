@@ -366,8 +366,13 @@
         yearSelector.appendChild(option);
       }
 
-      localStorage.setItem("year", 1);
-      yearSelector.value = 1;
+      const stored = localStorage.getItem("year");
+      if (stored && stored > years) {
+        localStorage.setItem("year", 1);
+        yearSelector.value = 1;
+      } else {
+        yearSelector.value = stored || 1;
+      }
 
       highlightCurrentCourses();
     }
