@@ -11,7 +11,8 @@
       "start": "2023 vecka 34",
       "end": "2023 vecka 43",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att den studerande har grundl\u00e4ggande beh\u00f6righet samt avklarade kurser i Matematik 3c och Fysik 2.",
-      "code": "MA1495"
+      "code": "MA1495",
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20232/BJNCM"
     },
     {
       "name": "Programmering och probleml\u00f6sning med Python",
@@ -19,7 +20,8 @@
       "start": "2023 vecka 34",
       "end": "2023 vecka 43",
       "requirements": "Grundl\u00e4ggande beh\u00f6righet",
-      "code": "DV1574"
+      "code": "DV1574",
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20232/BC6GY"
     },
     {
       "name": "Spelutveckling f\u00f6r teknisk spelgrafik",
@@ -27,7 +29,8 @@
       "start": "2023 vecka 35",
       "end": "2024 vecka 02",
       "requirements": "Grundl\u00e4ggande beh\u00f6righet",
-      "code": "DV1669"
+      "code": "DV1669",
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20232/B4Y6R"
     },
     {
       "name": "Linj\u00e4r algebra 1",
@@ -35,7 +38,8 @@
       "start": "2023 vecka 44",
       "end": "2024 vecka 02",
       "requirements": "Grundl\u00e4ggande beh\u00f6righet samt Matematik 4 och Fysik 2.",
-      "code": "MA1448"
+      "code": "MA1448",
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20232/BNWA9"
     },
     {
       "name": "Teknisk 3D-grafik",
@@ -43,7 +47,8 @@
       "start": "2023 vecka 44",
       "end": "2024 vecka 02",
       "requirements": "Grundl\u00e4ggande beh\u00f6righet",
-      "code": "DV1635"
+      "code": "DV1635",
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20232/BCCD9"
     },
     {
       "name": "Analys 1",
@@ -51,7 +56,8 @@
       "start": "2024 vecka 03",
       "end": "2024 vecka 12",
       "requirements": "Grundl\u00e4ggande beh\u00f6righet samt Matematik 4 och Fysik 2.",
-      "code": "MA1444"
+      "code": "MA1444",
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20241/B6T3R"
     },
     {
       "name": "Prototyputveckling f\u00f6r teknisk spelgrafik",
@@ -59,7 +65,8 @@
       "start": "2024 vecka 03",
       "end": "2024 vecka 22",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngna kurser i Grunder i spelutveckling 6 hp och Teknisk 3D-grafik, 6 hp samt 4 hp avklarade fr\u00e5n kurser i programmering eller skripting.",
-      "code": "DV1637"
+      "code": "DV1637",
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20241/BND9H"
     },
     {
       "name": "Spelgrafik",
@@ -67,7 +74,8 @@
       "start": "2024 vecka 03",
       "end": "2024 vecka 12",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngna kurser Grunder i spelutveckling, 6 hp och Teknisk 3D-grafik, 6 hp.",
-      "code": "DV1636"
+      "code": "DV1636",
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20241/BRWNG"
     },
     {
       "name": "Skripting f\u00f6r spelgrafik",
@@ -75,7 +83,8 @@
       "start": "2024 vecka 13",
       "end": "2024 vecka 22",
       "requirements": "F\u00f6r tilltr\u00e4de i kursen kr\u00e4vs genomg\u00e5ngna kurser i Teknisk 3D-grafik, 6hp, Programmering och probleml\u00f6sning med Python, 6 hp och Spelgrafik, 6hp.",
-      "code": "DV1639"
+      "code": "DV1639",
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20241/BJ4UJ"
     },
     {
       "name": "Matematisk\u00a0statistik\u00a0med\u00a0programvara",
@@ -83,7 +92,8 @@
       "start": "2024 vecka 36",
       "end": "2024 vecka 44",
       "requirements": "Avklarad kurs Matematik grundkurs f\u00f6r h\u00f6gskoleingenj\u00f6rer, 6 hp. Genomg\u00e5ngna kurser Analys 1, 6 hp samt Linj\u00e4r Algebra, 6 hp.",
-      "code": "MS1413"
+      "code": "MS1413",
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20242/BFPDG"
     },
     {
       "name": "Till\u00e4mpad spelgrafik",
@@ -91,7 +101,8 @@
       "start": "2024 vecka 36",
       "end": "2025 vecka 03",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarad kurs i Teknisk 3D-grafik, 6 hp och 6 hp avklarade inom matematik samt genomg\u00e5ngen kurs i Linj\u00e4r Algebra 1, 6 hp.",
-      "code": "DV1640"
+      "code": "DV1640",
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20242/BA4U7"
     },
     {
       "name": "3D-programmering 1",
@@ -99,7 +110,8 @@
       "start": "2024 vecka 45",
       "end": "2025 vecka 03",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarad kurs i Linj\u00e4r algebra 1, 6 hp samt 10 hp avklarade i programmering och/eller skripting.",
-      "code": "DV1644"
+      "code": "DV1644",
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20242/BYM4R"
     },
     {
       "name": "Ledarskap och projektverksamhet",
@@ -107,7 +119,8 @@
       "start": "2024 vecka 45",
       "end": "2025 vecka 03",
       "requirements": "Grundl\u00e4ggande beh\u00f6righet.",
-      "code": "IY1424"
+      "code": "IY1424",
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20242/BJTFN"
     },
     {
       "name": "Fysik f\u00f6r teknisk spelgrafik",
@@ -115,7 +128,8 @@
       "start": "2025 vecka 04",
       "end": "2025 vecka 13",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarad kurs i Linj\u00e4r algebra, 6 hp samt genomg\u00e5ngen kurs i Analys 1, 6 hp.",
-      "code": "FY1434"
+      "code": "FY1434",
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20251/BNCLJ"
     },
     {
       "name": "Litet spelprojekt f\u00f6r teknisk spelgrafik",
@@ -123,7 +137,8 @@
       "start": "2025 vecka 04",
       "end": "2025 vecka 13",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs 36 hp avklarat inom omr\u00e5det spelutveckling, samt genomg\u00e5ngen kurs 3D-programmering 1, 6 hp.",
-      "code": "DV1646"
+      "code": "DV1646",
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20251/BNTRY"
     },
     {
       "name": "Animationstekniker",
@@ -131,7 +146,8 @@
       "start": "2025 vecka 14",
       "end": "2025 vecka 23",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser i Teknisk 3D-grafik, 6 hp och Spelgrafik, 6 hp samt genomg\u00e5ngen kurs Digital skulptering och optimering, 6 hp.",
-      "code": "DV1648"
+      "code": "DV1648",
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20251/B9M6K"
     },
     {
       "name": "Specialeffekter i spel",
@@ -139,7 +155,8 @@
       "start": "2025 vecka 14",
       "end": "2025 vecka 23",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarad kurs i Teknisk 3D-grafik, 6 hp samt 6 hp avklarade inom matematik och 6 hp avklarade inom fysik.",
-      "code": "DV1650"
+      "code": "DV1650",
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20251/BXJKH"
     },
     {
       "name": "Forskningsmetodik f\u00f6r spelteknik",
@@ -147,7 +164,8 @@
       "start": "2025 vecka 36",
       "end": "2025 vecka 44",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att studenten har avklarat kurser motsvarande 60 hp inom Datavetenskap, Matematik och/eller Fysik.",
-      "code": "DV1666"
+      "code": "DV1666",
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20252/BFNY7"
     },
     {
       "name": "Stort spelprojekt f\u00f6r teknisk spelgrafik",
@@ -155,7 +173,8 @@
       "start": "2025 vecka 36",
       "end": "2026 vecka 03",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs  avklarade kurser i Litet spelprojekt f\u00f6r Teknisk spelgrafik, 10 hp, 3D-programmering 1, 6 hp,  Till\u00e4mpad spelgrafik, 14 hp, samt genomg\u00e5tt kurserna pluginkonstruktion, 6 hp och animationstekniker, 8 hp.",
-      "code": "DV1653"
+      "code": "DV1653",
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20252/BXXRX"
     },
     {
       "name": "Examensarbete i datavetenskap f\u00f6r h\u00f6gskoleingenj\u00f6rer",
@@ -163,7 +182,8 @@
       "start": "2026 vecka 04",
       "end": "2026 vecka 23",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att studenten har avklarat 60 hp, varav minst 30 hp inom datavetenskap. De \u00f6vriga 30 hp kan, f\u00f6rutom datavetenskap, \u00e4ven vara inom matematik,  programvaruteknik, och elektroteknik. Dessutom m\u00e5ste studenten ha genomg\u00e5tt en kurs i forskningsmetodik om minst 6 hp.",
-      "code": "DV1583"
+      "code": "DV1583",
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20261/BR4RH"
     },
     {
       "name": "Industriell ekonomi, \u00f6versiktskurs",
@@ -171,7 +191,8 @@
       "start": "2026 vecka 04",
       "end": "2026 vecka 13",
       "requirements": "Omr\u00e5desbeh\u00f6righet 3: Matematik C, Samh\u00e4llskunskap A.  (Naturkunskap B kr\u00e4vs ej.)",
-      "code": "IY1402"
+      "code": "IY1402",
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20261/BWPNG"
     },
     {
       "name": "Plugin-konstruktion",
@@ -179,8 +200,10 @@
       "start": "2026 vecka 04",
       "end": "2026 vecka 13",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser i Teknisk 3D-grafik, 6 hp, Programmering och probleml\u00f6sning med Python 6 hp och Skripting f\u00f6r spelgrafik, 6 hp.",
-      "code": "DV1649"
+      "code": "DV1649",
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20261/BJFWK"
     }
   ],
-  "updated": 1666433635978
+  "href": "https://www.bth.se/utbildning/program-och-kurser/dvghg/",
+  "updated": 1666439898448
 }

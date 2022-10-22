@@ -11,7 +11,8 @@
       "start": "2023 vecka 35",
       "end": "2023 vecka 43",
       "requirements": "Kandidatexamen 180 hp d\u00e4r minst 30 hp planering ing\u00e5r, alternativt kandidatexamen 180 hp och d\u00e4rut\u00f6ver 30 hp planering eller motsvarande.",
-      "code": "FM2550"
+      "code": "FM2550",
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20232/BHYNX"
     },
     {
       "name": "Framtidsbilder",
@@ -19,7 +20,8 @@
       "start": "2023 vecka 44",
       "end": "2024 vecka 02",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs kandidatexamen 180 hp d\u00e4r minst 30 hp planering ing\u00e5r, alternativt kandidatexamen 180hp och d\u00e4rut\u00f6ver 30 hp planering eller motsvarande.",
-      "code": "FM2606"
+      "code": "FM2606",
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20232/BYDCF"
     },
     {
       "name": "Vetenskapligt arbete: teoretiska utg\u00e5ngspunkter och unders\u00f6kningsmetoder",
@@ -27,7 +29,8 @@
       "start": "2024 vecka 03",
       "end": "2024 vecka 07",
       "requirements": "Genomg\u00e5ngna kurser motsvarande 30hp p\u00e5 avancerad niv\u00e5 inom huvudomr\u00e5det Fysisk planering",
-      "code": "FM2597"
+      "code": "FM2597",
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20241/BTE9Y"
     },
     {
       "name": "Samh\u00e4llsorganisation och styrformer",
@@ -35,7 +38,8 @@
       "start": "2024 vecka 08",
       "end": "2024 vecka 12",
       "requirements": "Genomg\u00e5ngna kurser motsvarande 30hp p\u00e5 avancerad niv\u00e5 inom huvudomr\u00e5det Fysisk planering",
-      "code": "FM2598"
+      "code": "FM2598",
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20241/BANAY"
     },
     {
       "name": "Planeringsteori",
@@ -43,7 +47,8 @@
       "start": "2024 vecka 13",
       "end": "2024 vecka 17",
       "requirements": "F\u00f6rtilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngna kurser motsvarande 30 hp p\u00e5 avancerad niv\u00e5 inom masterprogrammet Strategisk Fysisk planering.",
-      "code": "FM2607"
+      "code": "FM2607",
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20241/BMXCU"
     },
     {
       "name": "Tematiska studier",
@@ -51,7 +56,8 @@
       "start": "2024 vecka 18",
       "end": "2024 vecka 22",
       "requirements": "Genomg\u00e5ngna kurser motsvarande 30hp p\u00e5 avancerad niv\u00e5 inom masterprogrammet Strategisk Fysisk planering",
-      "code": "FM2599"
+      "code": "FM2599",
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20241/BDKR4"
     },
     {
       "name": "Regional planering med internationella perspektiv",
@@ -59,7 +65,8 @@
       "start": "2024 vecka 36",
       "end": "2024 vecka 44",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngna kurser motsvarande 60 hp p\u00e5 avancerad niv\u00e5 inom huvudomr\u00e5det fysisk planering varav minst 45 hp ska vara avklarade. Bland de avklarade kurserna ska kursen Introduktion till strategisk fysisk planering 15 hp ing\u00e5.",
-      "code": "FM2608"
+      "code": "FM2608",
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20242/BLC4K"
     },
     {
       "name": "Projektarbete i strategisk fysisk planering",
@@ -67,7 +74,8 @@
       "start": "2024 vecka 45",
       "end": "2025 vecka 03",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngna kurser motsvarande 60 hp p\u00e5 avancerad niv\u00e5 inom huvudomr\u00e5det fysisk planering varav minst 45 hp ska vara avklarade. Bland de avklarade kurserna ska kursen Introduktion till strategisk fysisk planering 15 hp ing\u00e5.",
-      "code": "FM2609"
+      "code": "FM2609",
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20242/BU3MR"
     },
     {
       "name": "Masterarbete i fysisk planering",
@@ -75,8 +83,10 @@
       "start": "2025 vecka 04",
       "end": "2025 vecka 23",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngna kurser motsvarande 90 hp p\u00e5 avancerad niv\u00e5 inom huvudomr\u00e5det fysisk planering, varav minst 75 hp ska vara avklarade, inklusive kursen Introduktion till strategisk fysisk planering, 15 hp.",
-      "code": "FM2612"
+      "code": "FM2612",
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20251/BTRUQ"
     }
   ],
-  "updated": 1666433840009
+  "href": "https://www.bth.se/utbildning/program-och-kurser/fmasn/",
+  "updated": 1666440096353
 }

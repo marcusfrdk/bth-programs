@@ -11,7 +11,8 @@
       "start": "2023 vecka 34",
       "end": "2024 vecka 02",
       "requirements": "Grundl\u00e4ggande beh\u00f6righet och Matematik 2a/2b/2c samt p\u00e5b\u00f6rjad kurs Matematik gamma 15 fup.",
-      "code": "FY0003"
+      "code": "FY0003",
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20232/BULR4"
     },
     {
       "name": "Matematik gamma",
@@ -19,7 +20,8 @@
       "start": "2023 vecka 34",
       "end": "2024 vecka 02",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs grundl\u00e4ggande beh\u00f6righet samt Matematik B eller Matematik 2a/2b/2c.",
-      "code": "MA0005"
+      "code": "MA0005",
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20232/BHLRU"
     },
     {
       "name": "Kemi alfa",
@@ -27,7 +29,8 @@
       "start": "2023 vecka 39",
       "end": "2024 vecka 12",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs grundl\u00e4ggande beh\u00f6righet samt Matematik 2a/2b/2c.",
-      "code": "KE0003"
+      "code": "KE0003",
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20232/B9CUN"
     },
     {
       "name": "Fysik beta",
@@ -35,7 +38,8 @@
       "start": "2024 vecka 03",
       "end": "2024 vecka 22",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngen Matematik gamma 15 fup och Fysik alfa 12 fup.",
-      "code": "FY0006"
+      "code": "FY0006",
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20241/B4TL9"
     },
     {
       "name": "Matematik delta",
@@ -43,8 +47,10 @@
       "start": "2024 vecka 03",
       "end": "2024 vecka 22",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs 2,5 fup avklarade p\u00e5 kursen Matematik gamma, 15 fup.",
-      "code": "MA0007"
+      "code": "MA0007",
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20241/BJN7U"
     }
   ],
-  "updated": 1666433868030
+  "href": "https://www.bth.se/utbildning/program-och-kurser/tegct/",
+  "updated": 1666440119598
 }

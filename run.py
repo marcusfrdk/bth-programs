@@ -64,6 +64,8 @@ def get_metadata(soup: BeautifulSoup, req_tag: str) -> dict:
   start, end = get_time(soup)
   req = get_requirements(soup, req_tag)
 
+  # add href
+
   return {
     "name": name,
     "points": points,
@@ -77,12 +79,12 @@ def get_program(code: str) -> dict:
   """ Gets useful information about the selected program """
   assert code is not None
 
-  url = f"https://www.bth.se/utbildning/program-och-kurser/{code}/"
+  href = f"https://www.bth.se/utbildning/program-och-kurser/{code}/"
   attempt = 0
   max_attempts = 3
 
   while attempt < max_attempts:
-    res = get(url)
+    res = get(href)
 
     if res.status_code != 200:
       print(f"Program '{code}' is not valid.")
@@ -93,7 +95,11 @@ def get_program(code: str) -> dict:
   soup = BeautifulSoup(res.text, "html.parser")
   courses = get_course_hrefs(soup)
 
-  return {**get_metadata(soup, req_tag="div"), "courses": courses}
+  return {
+    **get_metadata(soup, req_tag="div"),
+    "courses": courses,
+    "href": href
+  }
 
 
 def get_courses(hrefs: list) -> None:
@@ -110,7 +116,8 @@ def get_courses(hrefs: list) -> None:
           soup = BeautifulSoup(get(href).text, "html.parser")
           course = {
             **get_metadata(soup, req_tag="li"),
-            "code": get_course_code(soup)
+            "code": get_course_code(soup),
+            "href": href
           }
           data.append(course)
 

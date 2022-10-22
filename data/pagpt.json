@@ -11,7 +11,8 @@
       "start": "2023 vecka 34",
       "end": "2023 vecka 43",
       "requirements": "Grundl\u00e4ggande beh\u00f6righet",
-      "code": "DV1670"
+      "code": "DV1670",
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20232/BMUCY"
     },
     {
       "name": "Matematisk introduktion",
@@ -19,7 +20,8 @@
       "start": "2023 vecka 35",
       "end": "2023 vecka 43",
       "requirements": "Omr\u00e5desbeh\u00f6righet A8: Matematik 3b alt 3c (Fysik 2, Kemi 1 kr\u00e4vs ej) eller omr\u00e5desbeh\u00f6righet 8: Matematik C (Fysik B, Kemi A och Matematik D kr\u00e4vs ej).",
-      "code": "MA1476"
+      "code": "MA1476",
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20232/BA6KF"
     },
     {
       "name": "Diskret matematik",
@@ -27,7 +29,8 @@
       "start": "2023 vecka 44",
       "end": "2024 vecka 02",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngen kurs MA1476 Matematisk introduktion.",
-      "code": "MA1484"
+      "code": "MA1484",
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20232/BY6EK"
     },
     {
       "name": "Objektorienterad programmering i C++",
@@ -35,7 +38,8 @@
       "start": "2023 vecka 44",
       "end": "2024 vecka 02",
       "requirements": "F\u00f6r tilltr\u00e4det till kursen kr\u00e4vs genomg\u00e5ngen kurs i grundl\u00e4ggande programmering 7,5 hp.",
-      "code": "DV1627"
+      "code": "DV1627",
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20232/BHLC7"
     },
     {
       "name": "Introduktion till programvarudesign och arkitektur",
@@ -43,7 +47,8 @@
       "start": "2024 vecka 03",
       "end": "2024 vecka 12",
       "requirements": "F\u00f6r\u00a0tilltr\u00e4de\u00a0till\u00a0kursen\u00a0kr\u00e4vs\u00a0att\u00a0den\u00a0studerande\u00a0har\u00a0avklarat\u00a0programmering, motsvarande 7,5\u00a0h\u00f6gskolepo\u00e4ng.",
-      "code": "PA1460"
+      "code": "PA1460",
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20241/B934M"
     },
     {
       "name": "Webbprogrammering och databaser",
@@ -51,7 +56,8 @@
       "start": "2024 vecka 03",
       "end": "2024 vecka 12",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngna kurser motsvarande 15 hp i programmering och/eller webbteknologier.",
-      "code": "DV1605"
+      "code": "DV1605",
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20241/BE6L4"
     },
     {
       "name": "Algoritmer och datastrukturer",
@@ -59,7 +65,8 @@
       "start": "2024 vecka 13",
       "end": "2024 vecka 22",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngen kurs i diskret matematik, 6 hp samt 6 hp avklarade i grundl\u00e4ggande programmering varav minst 2 hp av dessa motsvarar objektorienterad programmering i C++.",
-      "code": "DV1662"
+      "code": "DV1662",
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20241/BA6YW"
     },
     {
       "name": "N\u00e4tverksbaserade system",
@@ -67,7 +74,8 @@
       "start": "2024 vecka 13",
       "end": "2024 vecka 22",
       "requirements": "Genomg\u00e5ngen grundl\u00e4ggande kurs i programmering om minst 7,5 hp.",
-      "code": "ET1524"
+      "code": "ET1524",
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20241/BL6HU"
     },
     {
       "name": "Individuellt programvaruprojekt",
@@ -75,7 +83,8 @@
       "start": "2024 vecka 36",
       "end": "2024 vecka 44",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs 15 h\u00f6gskolepo\u00e4ng avklarade i programmering.",
-      "code": "PA1414"
+      "code": "PA1414",
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20242/BD7FU"
     },
     {
       "name": "Linj\u00e4r algebra",
@@ -83,7 +92,8 @@
       "start": "2024 vecka 36",
       "end": "2024 vecka 44",
       "requirements": "Avklarat minst 2 hp p\u00e5 MA1476 Matematisk introduktion samt genomg\u00e5ngen MA1484 Diskret matematik.",
-      "code": "MA1485"
+      "code": "MA1485",
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20242/BGW9L"
     },
     {
       "name": "Datorteknik",
@@ -91,7 +101,8 @@
       "start": "2024 vecka 45",
       "end": "2025 vecka 03",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser eller  moment fr\u00e5n kurser i programmering omfattade 6 hp samt genomg\u00e5ngen kurs inneh\u00e5llande Algoritmer och datastrukturer, 7,5 hp.",
-      "code": "DV1613"
+      "code": "DV1613",
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20242/BHDPQ"
     },
     {
       "name": "Operativsystem",
@@ -99,7 +110,8 @@
       "start": "2024 vecka 45",
       "end": "2025 vecka 03",
       "requirements": "F\u00f6r tilltr\u00e4de i kursen kr\u00e4vs 15 avklarade hp i programmering samt 2 hp avklarade fr\u00e5n algoritmer och datastrukturer.",
-      "code": "DV1628"
+      "code": "DV1628",
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20242/BNY3R"
     },
     {
       "name": "Anv\u00e4ndbarhet och interaktionsdesign",
@@ -107,7 +119,8 @@
       "start": "2025 vecka 04",
       "end": "2025 vecka 13",
       "requirements": "7.5hp avklarad kurs inom huvudomr\u00e5det datavetenskap",
-      "code": "DV1557"
+      "code": "DV1557",
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20251/B737W"
     },
     {
       "name": "Kompilator- och \u00f6vers\u00e4ttarteknik",
@@ -115,7 +128,8 @@
       "start": "2025 vecka 04",
       "end": "2025 vecka 13",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen ska studenten har avklarat 22,5 h\u00f6gskolepo\u00e4ng i programmering inklusive datastrukturer och algoritmer.",
-      "code": "DV1656"
+      "code": "DV1656",
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20251/BKQ9W"
     },
     {
       "name": "Programvaruprojekt i grupp",
@@ -123,7 +137,8 @@
       "start": "2025 vecka 04",
       "end": "2025 vecka 23",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att den studerande har avklarat kurser motsvarande 40 h\u00f6gskolepo\u00e4ng inom \u00e4mnet programvaruteknik och/eller \u00e4mnet datavetenskap inklusive kursernaIndividuellt programvaruprojekt, 7,5 h\u00f6gskolepo\u00e4ngDatabasteknik, 7,5 h\u00f6gskolepo\u00e4ng",
-      "code": "PA1416"
+      "code": "PA1416",
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20251/BFJTG"
     },
     {
       "name": "Grundl\u00e4ggande systemverifiering",
@@ -131,7 +146,8 @@
       "start": "2025 vecka 14",
       "end": "2025 vecka 23",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att den studerande har klarat programmering, 15 h\u00f6gskolepo\u00e4ng eller motsvarande.",
-      "code": "PA1417"
+      "code": "PA1417",
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20251/BQAJR"
     },
     {
       "name": "Forskningsmetodik i datavetenskaper",
@@ -139,7 +155,8 @@
       "start": "2025 vecka 36",
       "end": "2025 vecka 44",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att studenten har avklarat 45hp i huvudomr\u00e5det datavetenskap eller programvaruteknik.",
-      "code": "PA1433"
+      "code": "PA1433",
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20252/BTFYW"
     },
     {
       "name": "Global programvaruteknik",
@@ -147,7 +164,8 @@
       "start": "2025 vecka 36",
       "end": "2025 vecka 44",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser om minst 60 hp inom programvaruteknik eller datavetenskap inklusive avklarade kurs(er) inom mjukvaruutveckling och mjukvaruutvecklingsprojekt i grupp om 15 hp.",
-      "code": "PA1471"
+      "code": "PA1471",
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20252/BUEP9"
     },
     {
       "name": "Prestandaoptimering",
@@ -155,7 +173,8 @@
       "start": "2025 vecka 36",
       "end": "2025 vecka 44",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att den studerande har avklarat: programmering 15 hp, algoritmer och datastrukturer 6 hp, datakommunikation 4 hp och realtids- och operativsystem 6 hp.",
-      "code": "DV1567"
+      "code": "DV1567",
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20252/B4LPF"
     },
     {
       "name": "Programmering i UNIX-milj\u00f6",
@@ -163,7 +182,8 @@
       "start": "2025 vecka 36",
       "end": "2025 vecka 44",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att den studerande har avklarat kurser i programmering, 15 hp, algoritmer och datastrukturer, 6 hp, operativsystem, 6hp och datakommunikation alt lokala n\u00e4tverk, 4 hp.",
-      "code": "DV1457"
+      "code": "DV1457",
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20252/BLATN"
     },
     {
       "name": "Introduktion till Cloud Computing",
@@ -171,7 +191,8 @@
       "start": "2025 vecka 45",
       "end": "2026 vecka 03",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att den studerande har avklarat: programmering 15 hp, algoritmer och datastrukturer 6 hp  och  operativsystem 6 hp.",
-      "code": "DV1566"
+      "code": "DV1566",
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20252/B7QX9"
     },
     {
       "name": "Programvaruarkitektur och kvalitet",
@@ -179,7 +200,8 @@
       "start": "2025 vecka 45",
       "end": "2026 vecka 03",
       "requirements": "Studenten m\u00e5ste ha klarat av totalt 22,5 h\u00f6gskolepo\u00e4ng fr\u00e5n f\u00f6ljande omr\u00e5den: Programvarudesign, Datastrukturer och algoritmer, Databasteknik, Datakommunikation, Realtidssystem, Operativsystem samt avklarat en kurs i Programmering p\u00e5 minst 6 h\u00f6gskolepo\u00e4ng.",
-      "code": "PA1453"
+      "code": "PA1453",
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20252/BKTNU"
     },
     {
       "name": "Programvarus\u00e4kerhet",
@@ -187,7 +209,8 @@
       "start": "2025 vecka 45",
       "end": "2026 vecka 03",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs 90 hp varav 40 hp inom det tekniska omr\u00e5det varav en avklarad kurs p\u00e5 minst 6 hp inom programmering i C, C++ eller minst 120 hp varav minst 90 hp inom det tekniska omr\u00e5det och minst 2 \u00e5rs yrkeserfarenhet inom omr\u00e5de som \u00e4r relaterat till mjukvaruintensiv produkt och/eller tj\u00e4nsteutveckling (visas exempelvis genom intyg fr\u00e5n arbetsgivare).",
-      "code": "DV2620"
+      "code": "DV2620",
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20252/BMD69"
     },
     {
       "name": "Utveckling av mobila applikationer",
@@ -195,7 +218,8 @@
       "start": "2025 vecka 45",
       "end": "2026 vecka 03",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs 60 hp avklarade inom huvudomr\u00e5det datavetenskap eller programvaruteknik.",
-      "code": "PA1469"
+      "code": "PA1469",
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20252/BFEEL"
     },
     {
       "name": "Avancerat programvaruprojekt i grupp",
@@ -203,7 +227,8 @@
       "start": "2026 vecka 04",
       "end": "2026 vecka 23",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att den studerande har avklarat 90 h\u00f6gskolepo\u00e4ng i \u00e4mnet datavetenskap och/eller i \u00e4mnet programvaruteknik inklusive kursen Programvaruprojekti grupp, 15 h\u00f6gskolepo\u00e4ng.",
-      "code": "PA1449"
+      "code": "PA1449",
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20261/BRMA9"
     },
     {
       "name": "Kandidatarbete i Programvaruteknik",
@@ -211,8 +236,10 @@
       "start": "2026 vecka 04",
       "end": "2026 vecka 23",
       "requirements": "Avklarade kurser om minst 60 h\u00f6gskolepo\u00e4ng inom Programvaruteknik med successiv f\u00f6rdjupning varav minst 30 hp p\u00e5 G1F-niv\u00e5 eller h\u00f6gre.",
-      "code": "PA1445"
+      "code": "PA1445",
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20261/B4HHW"
     }
   ],
-  "updated": 1666433689715
+  "href": "https://www.bth.se/utbildning/program-och-kurser/pagpt/",
+  "updated": 1666439952706
 }

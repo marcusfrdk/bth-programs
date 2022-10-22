@@ -11,7 +11,8 @@
       "start": "2023 vecka 34",
       "end": "2023 vecka 43",
       "requirements": "Grundl\u00e4ggande beh\u00f6righet.",
-      "code": "MT1443"
+      "code": "MT1443",
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20232/BFN6W"
     },
     {
       "name": "Datorst\u00f6d inom Konstruktion 1",
@@ -19,7 +20,8 @@
       "start": "2023 vecka 35",
       "end": "2023 vecka 43",
       "requirements": "Grundl\u00e4ggande beh\u00f6righet.",
-      "code": "MT1510"
+      "code": "MT1510",
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20232/B7AJM"
     },
     {
       "name": "Kvalitetsutveckling",
@@ -27,7 +29,8 @@
       "start": "2023 vecka 44",
       "end": "2024 vecka 02",
       "requirements": "Grundl\u00e4ggande beh\u00f6righet.",
-      "code": "MT1448"
+      "code": "MT1448",
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20232/BFKGH"
     },
     {
       "name": "Tillverkningsmetoder",
@@ -35,7 +38,8 @@
       "start": "2023 vecka 44",
       "end": "2024 vecka 02",
       "requirements": "Grundl\u00e4ggande beh\u00f6righet.",
-      "code": "MT1445"
+      "code": "MT1445",
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20232/BQYCG"
     },
     {
       "name": "Datorst\u00f6d inom Konstruktion 2",
@@ -43,7 +47,8 @@
       "start": "2024 vecka 03",
       "end": "2024 vecka 12",
       "requirements": "Grundl\u00e4ggande beh\u00f6righet och genomf\u00f6rd grundkurs, MT1101 Datorst\u00f6d inom Konstruktion 1 eller motsvarande.",
-      "code": "MT1440"
+      "code": "MT1440",
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20241/BTFNU"
     },
     {
       "name": "Matematik f\u00f6r produktutveckling",
@@ -51,7 +56,8 @@
       "start": "2024 vecka 03",
       "end": "2024 vecka 12",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs grundl\u00e4ggande beh\u00f6righet samt Matematik 2a alt 2b alt 2c.",
-      "code": "MA1492"
+      "code": "MA1492",
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20241/BX3EM"
     },
     {
       "name": "Automation 1",
@@ -59,7 +65,8 @@
       "start": "2024 vecka 13",
       "end": "2024 vecka 22",
       "requirements": "Grundl\u00e4ggande beh\u00f6righet samt Matematik 2 eller motsvarande.",
-      "code": "ET1545"
+      "code": "ET1545",
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20241/B3WMG"
     },
     {
       "name": "Fysik f\u00f6r produktutveckling",
@@ -67,7 +74,8 @@
       "start": "2024 vecka 13",
       "end": "2024 vecka 22",
       "requirements": "Genomg\u00e5ngen kurs MA1467 Matematik 2 f\u00f6r produktutveckling.",
-      "code": "FY1427"
+      "code": "FY1427",
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20241/BLNFG"
     },
     {
       "name": "Grundl\u00e4ggande mekanik f\u00f6r tekniker",
@@ -75,7 +83,8 @@
       "start": "2024 vecka 36",
       "end": "2024 vecka 44",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs sammanlagt 4,5 hp avklarat fr\u00e5n f\u00f6ljade kurser:Fysik f\u00f6r produktutvecklingMatematik 1 f\u00f6r produktutvecklingMatematik 2 f\u00f6r produktutveckling",
-      "code": "MT1534"
+      "code": "MT1534",
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20242/BNWDM"
     },
     {
       "name": "Innovativ och h\u00e5llbar produktutveckling",
@@ -83,7 +92,8 @@
       "start": "2024 vecka 36",
       "end": "2024 vecka 44",
       "requirements": "Erfarenhet av yrkesm\u00e4ssigt ingenj\u00f6rsarbete eller tidigare h\u00f6gskolestudier.",
-      "code": "MT1442"
+      "code": "MT1442",
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20242/BQTRH"
     },
     {
       "name": "Grundl\u00e4ggande h\u00e5llfasthetsl\u00e4ra f\u00f6r tekniker",
@@ -91,7 +101,8 @@
       "start": "2024 vecka 45",
       "end": "2025 vecka 03",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngen kurs Grundl\u00e4ggande mekanik f\u00f6r tekniker.",
-      "code": "MT1507"
+      "code": "MT1507",
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20242/BKY4F"
     },
     {
       "name": "Innovationsprojekt",
@@ -99,7 +110,8 @@
       "start": "2024 vecka 45",
       "end": "2025 vecka 03",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngna kurser Innovativ och H\u00e5llbar produktutveckling, 7,5 hp och Datorst\u00f6d inom Konstruktion 2, 7,5 hp.",
-      "code": "MT1520"
+      "code": "MT1520",
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20242/BG9CR"
     },
     {
       "name": "Dimensionering och materialval",
@@ -107,7 +119,8 @@
       "start": "2025 vecka 04",
       "end": "2025 vecka 13",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att 3,5 hp fr\u00e5n kursen Grundl\u00e4ggande mekanik f\u00f6r tekniker (7,5 hp) \u00e4r avklarade samt genomg\u00e5ngen kurs Grundl\u00e4ggande h\u00e5llfasthetsl\u00e4ra f\u00f6r tekniker, 7,5 hp.",
-      "code": "MT1548"
+      "code": "MT1548",
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20251/B9U3U"
     },
     {
       "name": "Lean Produktion",
@@ -115,7 +128,8 @@
       "start": "2025 vecka 04",
       "end": "2025 vecka 13",
       "requirements": "Grundl\u00e4ggande beh\u00f6righet.",
-      "code": "MT1444"
+      "code": "MT1444",
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20251/BDR34"
     },
     {
       "name": "Grundl\u00e4ggande maskinelement f\u00f6r tekniker",
@@ -123,7 +137,8 @@
       "start": "2025 vecka 14",
       "end": "2025 vecka 23",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att 3,5 hp fr\u00e5n kursen Grundl\u00e4ggande mekanik f\u00f6r tekniker (7,5 hp) \u00e4r avklarade samt Genomg\u00e5ngen kurs Grundl\u00e4ggande h\u00e5llfasthetsl\u00e4ra f\u00f6r tekniker, 7,5 hp.",
-      "code": "MT1536"
+      "code": "MT1536",
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20251/B3TXH"
     },
     {
       "name": "Sj\u00e4lvst\u00e4ndigt arbete inom Produktutveckling",
@@ -131,8 +146,10 @@
       "start": "2025 vecka 14",
       "end": "2025 vecka 23",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen krav 90 hp avklarade fr\u00e5n en utbildning som ger h\u00f6gskoleexamen med inriktning mot maskinteknik.",
-      "code": "MT1542"
+      "code": "MT1542",
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20251/BR43W"
     }
   ],
-  "updated": 1666433654142
+  "href": "https://www.bth.se/utbildning/program-och-kurser/mtgpo/",
+  "updated": 1666439913511
 }
