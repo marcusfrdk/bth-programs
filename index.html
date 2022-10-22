@@ -497,10 +497,12 @@
       const data = await res.json();
       const content = JSON.parse(atob(data.content)).sort();
       content.forEach((item) => {
-        const option = document.createElement("option");
-        option.value = item;
-        option.text = item;
-        programSelector.appendChild(option);
+        if (item !== "index") {
+          const option = document.createElement("option");
+          option.value = item;
+          option.text = item.toUpperCase();
+          programSelector.appendChild(option);
+        }
       });
       const stored = localStorage.getItem("program");
       const value = stored || content[0];
