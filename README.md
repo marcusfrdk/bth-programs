@@ -13,7 +13,7 @@ Get an overview of your programs and courses at Blekinge Institute of Technology
 To get setup with your own environment for development, run the following commands:
 
 ```bash
-git clone https://github.com/marcusfrdk/bth-courses
+git clone https://github.com/marcusfrdk/bth-programs
 cd bth-courses
 pip3 install -r requirements.txt
 ```
@@ -37,5 +37,5 @@ python3 run_all.py
 To get a single/multiple program data file(s), run the following command:
 
 ```bash
-python3 main.py CODE [CODE...]
+python3 run.py CODE [CODE...]
 ```
