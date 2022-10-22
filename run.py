@@ -48,7 +48,8 @@ def get_points(soup: BeautifulSoup) -> float:
 
 def set_optional_courses(soup: BeautifulSoup) -> None:
   """ Sets the optional courses for the program as a side effect """
-  optional_courses.extend([a.text for a in soup.find(id="collapse-courses").find_all("a") if "*" in a.parent.text])
+  courses = [a.text for a in soup.find(id="collapse-courses").find_all("a") if a.parent.text.endswith("*")]
+  optional_courses.extend(courses)
 
 
 def get_course_href(soup: BeautifulSoup) -> list:
