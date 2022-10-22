@@ -400,7 +400,9 @@
       period = 1;
       year = 1;
 
-      courses.appendChild(getGroupTitle(year, period));
+      if (getPeriod(data.courses[0].start) === 1) {
+        courses.appendChild(getGroupTitle(year, period));
+      }
 
       data.courses.forEach((course) => {
         prevPeriod = period;
