@@ -145,7 +145,7 @@ def run(code: str) -> None:
     "updated": int(time_ns() / 1e6)
   }
 
-  data_path = path.abspath(path.join(path.dirname(__file__), "www", "data", f"{code}.json"))
+  data_path = path.abspath(path.join(path.dirname(__file__), "data", f"{code}.json"))
   with open(data_path, "w", encoding="utf-8") as f:
     f.write(dumps(data, indent=2))
 
