@@ -305,8 +305,8 @@
       return blockingCourses;
     }
 
-    function getPeriod(start) {
-      // Periods are not exact and could differ and change,
+    function getSemester(start) {
+      // Semesters are not exact and could differ and change,
       // theses values are just a rough estimate. Please
       // improve this if you can.
       const week =
@@ -336,7 +336,7 @@
       const year = e
         ? parseInt(e.target.value)
         : parseInt(localStorage.getItem("year")) || 1;
-      const period = getPeriod(getCurrentWeek());
+      const semester = getSemester(getCurrentWeek());
       yearSelector.value = year;
       localStorage.setItem("year", year);
 
@@ -344,7 +344,7 @@
 
       courses.childNodes.forEach((node) => {
         if (node.nodeName === "LI") {
-          if (node.childNodes[0].classList.contains(`y${year}p${period}`)) {
+          if (node.childNodes[0].classList.contains(`y${year}p${semester}`)) {
             node.childNodes[0].classList.add("current");
           } else {
             node.childNodes[0].classList.remove("current");
@@ -372,15 +372,15 @@
       highlightCurrentCourses();
     }
 
-    function getGroupTitle(year, period) {
+    function getGroupTitle(year, semester) {
       const container = document.createElement("div");
       const yearTitle = document.createElement("p");
-      const periodTitle = document.createElement("p");
+      const semesterTitle = document.createElement("p");
       container.classList.add("group-title");
       yearTitle.innerText = `År ${year}`;
-      periodTitle.innerText = `Läsperiod ${period}`;
+      semesterTitle.innerText = `Läsperiod ${semester}`;
       container.appendChild(yearTitle);
-      container.appendChild(periodTitle);
+      container.appendChild(semesterTitle);
       return container;
     }
 
@@ -397,28 +397,28 @@
       const courses = document.getElementById("courses");
       courses.innerHTML = "";
 
-      period = 1;
+      semester = 1;
       year = 1;
 
-      if (getPeriod(data.courses[0].start) === 1) {
-        courses.appendChild(getGroupTitle(year, period));
+      if (getSemester(data.courses[0].start) === 1) {
+        courses.appendChild(getGroupTitle(year, semester));
       }
 
       data.courses.forEach((course) => {
-        prevPeriod = period;
+        prevSemester = semester;
         prevYear = year;
-        period = getPeriod(course.start);
-        if (period < prevPeriod) year++;
+        semester = getSemester(course.start);
+        if (semester < prevSemester) year++;
 
-        if (prevPeriod !== period || prevYear !== year) {
-          courses.appendChild(getGroupTitle(year, period));
+        if (prevSemester !== semester || prevYear !== year) {
+          courses.appendChild(getGroupTitle(year, semester));
         }
 
         const listItem = document.createElement("li");
         const anchor = document.createElement("a");
         anchor.target = "_blank";
         anchor.classList.add("course");
-        anchor.classList.add(`y${year}p${period}`);
+        anchor.classList.add(`y${year}p${semester}`);
         const nameContainer = document.createElement("div");
         nameContainer.classList.add("course-name-container");
         nameContainer.classList.add("ellipsis");
