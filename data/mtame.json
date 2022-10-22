@@ -12,7 +12,8 @@
       "end": "2023 vecka 43",
       "requirements": "F\u00f6ljande kurser ska vara genomg\u00e5ngna; Linj\u00e4r algebra, 7,5 hp, Analys 15 hp samt  Matematik, forts\u00e4ttningskurs, 7,5 hp eller motsvarande.",
       "code": "MA1437",
-      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20232/BJL7U"
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20232/BJL7U",
+      "optional": false
     },
     {
       "name": "Grunder f\u00f6r strategisk h\u00e5llbar utveckling",
@@ -21,7 +22,8 @@
       "end": "2023 vecka 43",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs 120 hp avklarade fr\u00e5n ett kandidatprogram varav 15 hp ska vara p\u00e5 f\u00f6rdjupningsniv\u00e5n G2F samt Engelska 6.",
       "code": "SL2539",
-      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20232/BEYXX"
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20232/BEYXX",
+      "optional": false
     },
     {
       "name": "Mekanisk systemdynamik",
@@ -30,7 +32,8 @@
       "end": "2024 vecka 02",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarad kurs Dynamik, 6 hp och genomg\u00e5ngen kurs Linj\u00e4r algebra, 6 hp.",
       "code": "MT1533",
-      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20232/BMM3H"
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20232/BMM3H",
+      "optional": false
     },
     {
       "name": "Signalbehandling",
@@ -39,7 +42,8 @@
       "end": "2024 vecka 02",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngen kurs i transformteori, 6 hp.",
       "code": "ET1554",
-      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20232/BPKCJ"
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20232/BPKCJ",
+      "optional": false
     },
     {
       "name": "Digitala Tvillingar",
@@ -48,7 +52,8 @@
       "end": "2024 vecka 12",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser i Datorst\u00f6dd konstruktion, CAD (Datorst\u00f6d f\u00f6r Ingenj\u00f6rsarbete), minst 6 hp, grundl\u00e4ggande programmering (ex. Java, Python, Matlab) minst 4 hp samt matematisk statistik, 6 hp.",
       "code": "MT2571",
-      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20241/BJHRF"
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20241/BJHRF",
+      "optional": true
     },
     {
       "name": "Strukturanalys",
@@ -57,7 +62,8 @@
       "end": "2024 vecka 12",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs 150 avklarade hp fr\u00e5n ett ingenj\u00f6rsprogram inom maskinteknik.",
       "code": "MT2562",
-      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20241/BAG6H"
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20241/BAG6H",
+      "optional": false
     },
     {
       "name": "Ljud- och vibrationsanalys",
@@ -66,7 +72,8 @@
       "end": "2024 vecka 22",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att f\u00f6ljande kurs \u00e4r genomg\u00e5ngen:Signalbehandling I ET1203 7,5 hp eller motsvarande.",
       "code": "ET2545",
-      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20241/BF3QX"
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20241/BF3QX",
+      "optional": false
     },
     {
       "name": "Mekanikens approximativa ber\u00e4kningsmetoder 1",
@@ -75,7 +82,8 @@
       "end": "2024 vecka 22",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngen kurs Strukturanalys 7,5 hp.",
       "code": "MT2558",
-      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20241/BEX7J"
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20241/BEX7J",
+      "optional": false
     },
     {
       "name": "Experimentell och numerisk modalanalys",
@@ -84,7 +92,8 @@
       "end": "2024 vecka 44",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngen kurs Ljud- och vibrationsanalys, 7,5 hp.",
       "code": "MT2566",
-      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20242/BRUNJ"
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20242/BRUNJ",
+      "optional": false
     },
     {
       "name": "Mekanikens approximativa ber\u00e4kningsmetoder 2:1",
@@ -93,7 +102,8 @@
       "end": "2024 vecka 44",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngen kurs Mekanikens approximativa ber\u00e4kningsmetoder 1, 7,5 hp.",
       "code": "MT2560",
-      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20242/BC4GX"
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20242/BC4GX",
+      "optional": false
     },
     {
       "name": "Forskningsmetodik med inriktning mot ingenj\u00f6rsvetenskap",
@@ -102,7 +112,8 @@
       "end": "2025 vecka 03",
       "requirements": "Avklarade studier om minst 180 hp inom omr\u00e5det teknik.",
       "code": "MT2521",
-      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20242/BKYXQ"
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20242/BKYXQ",
+      "optional": false
     },
     {
       "name": "Simuleringsdriven produktutveckling",
@@ -111,7 +122,8 @@
       "end": "2025 vecka 03",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngen kurs Mekanikens approximativa ber\u00e4kningsmetoder 1, 7,5 hp.",
       "code": "MT2559",
-      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20242/BRFU4"
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20242/BRFU4",
+      "optional": true
     },
     {
       "name": "Masterarbete i maskinteknik med inriktning mot strukturmekanik",
@@ -120,9 +132,10 @@
       "end": "2025 vecka 23",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs 60 hp avklarade fr\u00e5n ett masterprogram i maskinteknik.",
       "code": "MT2565",
-      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20251/BKMJK"
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20251/BKMJK",
+      "optional": false
     }
   ],
   "href": "https://www.bth.se/utbildning/program-och-kurser/mtame/",
-  "updated": 1666440077933
+  "updated": 1666447261197
 }

@@ -12,7 +12,8 @@
       "end": "2024 vecka 22",
       "requirements": "Kandidatexamen eller yrkesexamen om 180 h\u00f6gskolepo\u00e4ng och Engelska B samt minst sex m\u00e5naders relevant yrkeslivserfarenhet, s\u00e5som arbete, praktikarbete, volont\u00e4rarbete, f\u00f6rtroendeuppdrag, eller motsvarande, p\u00e5 heltid eller deltid, som visar p\u00e5 erfarenhet av h\u00e5llbarhetsarbete.",
       "code": "SL2534",
-      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20232/B4TXM"
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20232/B4TXM",
+      "optional": false
     },
     {
       "name": "Strategisk h\u00e5llbar utveckling",
@@ -21,7 +22,8 @@
       "end": "2023 vecka 43",
       "requirements": "Kandidatexamen eller yrkesexamen om 180 hp samt Engelska B.",
       "code": "SL2533",
-      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20232/B4JMH"
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20232/B4JMH",
+      "optional": false
     },
     {
       "name": "Forskningsmetodik f\u00f6r h\u00e5llbarhet",
@@ -30,7 +32,8 @@
       "end": "2024 vecka 17",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurs Strategisk h\u00e5llbar utveckling 12,5 hp samt att 2,5 hp av kursen Ledarskap i komplexitet (10 hp) \u00e4r avklarade.",
       "code": "SL2537",
-      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20232/BY3GN"
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20232/BY3GN",
+      "optional": false
     },
     {
       "name": "Innovation f\u00f6r h\u00e5llbarhet",
@@ -39,7 +42,8 @@
       "end": "2023 vecka 48",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att 5 hp av kursen Strategisk h\u00e5llbar utveckling (12,5 hp) \u00e4r avklarade.",
       "code": "SL2540",
-      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20232/BNPUR"
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20232/BNPUR",
+      "optional": false
     },
     {
       "name": "Strategisk planering f\u00f6r h\u00e5llbarhet",
@@ -48,7 +52,8 @@
       "end": "2024 vecka 07",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att kursen Strategisk h\u00e5llbar utveckling 12,5 hp \u00e4r avklarad, samt att 2,5 hp av kursen Ledarskap i komplexitet, 10 hp \u00e4r avklarade.",
       "code": "SL2550",
-      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20232/BHATJ"
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20232/BHATJ",
+      "optional": false
     },
     {
       "name": "Magisterarbete i strategiskt ledarskap f\u00f6r h\u00e5llbarhet",
@@ -57,9 +62,10 @@
       "end": "2024 vecka 22",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser Strategisk h\u00e5llbar utveckling 12,5 hp och Innovation f\u00f6r h\u00e5llbarhet, 5 hp samt att 2,5 hp av kursen Ledarskap i komplexitet (10 hp) \u00e4r avklarade.",
       "code": "SL2538",
-      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20241/BUJEM"
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20241/BUJEM",
+      "optional": false
     }
   ],
   "href": "https://www.bth.se/utbildning/program-och-kurser/slash/",
-  "updated": 1666440007581
+  "updated": 1666447193408
 }

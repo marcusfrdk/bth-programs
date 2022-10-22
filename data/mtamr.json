@@ -12,7 +12,8 @@
       "end": "2023 vecka 43",
       "requirements": "Grundl\u00e4ggande beh\u00f6righet samt Matematik 4 och Fysik 2.",
       "code": "MA1486",
-      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20232/BGWHN"
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20232/BGWHN",
+      "optional": false
     },
     {
       "name": "Fysik grundkurs",
@@ -21,7 +22,8 @@
       "end": "2023 vecka 43",
       "requirements": "Grundl\u00e4ggande beh\u00f6righet samt Matematik 3c och Fysik 2.",
       "code": "FY1431",
-      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20232/B4UNG"
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20232/B4UNG",
+      "optional": false
     },
     {
       "name": "Teknisk introduktionskurs i Maskinteknik",
@@ -30,7 +32,8 @@
       "end": "2024 vecka 02",
       "requirements": "Grundl\u00e4ggande beh\u00f6righet samt Matematik 4, Fysik 2 och Kemi 1.",
       "code": "MT1551",
-      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20232/B6RJU"
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20232/B6RJU",
+      "optional": false
     },
     {
       "name": "Linj\u00e4r algebra 1",
@@ -39,7 +42,8 @@
       "end": "2024 vecka 02",
       "requirements": "Grundl\u00e4ggande beh\u00f6righet samt Matematik 4 och Fysik 2.",
       "code": "MA1448",
-      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20232/BNWA9"
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20232/BNWA9",
+      "optional": false
     },
     {
       "name": "Programmering och probleml\u00f6sning med Python",
@@ -48,7 +52,8 @@
       "end": "2024 vecka 02",
       "requirements": "Grundl\u00e4ggande beh\u00f6righet",
       "code": "DV1574",
-      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20232/BMK9H"
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20232/BMK9H",
+      "optional": false
     },
     {
       "name": "Analys 1",
@@ -57,7 +62,8 @@
       "end": "2024 vecka 12",
       "requirements": "Grundl\u00e4ggande beh\u00f6righet samt Matematik 4 och Fysik 2.",
       "code": "MA1444",
-      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20241/B6T3R"
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20241/B6T3R",
+      "optional": false
     },
     {
       "name": "Datorst\u00f6d f\u00f6r ingenj\u00f6rsarbete 1",
@@ -66,7 +72,8 @@
       "end": "2024 vecka 22",
       "requirements": "Grundl\u00e4ggande beh\u00f6righet",
       "code": "MT1549",
-      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20241/BFKXR"
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20241/BFKXR",
+      "optional": false
     },
     {
       "name": "Fysik - v\u00e5gor och energi",
@@ -75,7 +82,8 @@
       "end": "2024 vecka 12",
       "requirements": "F\u00f6r tilltr\u00e4de kr\u00e4vs genomg\u00e5ngen kurs Fysik grundkurs 6 hp.",
       "code": "FY1433",
-      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20241/BNEJ4"
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20241/BNEJ4",
+      "optional": false
     },
     {
       "name": "Matlab med till\u00e4mpningar inom matematik och teknik",
@@ -84,7 +92,8 @@
       "end": "2024 vecka 22",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngna kurser Fysik grundkurs, 6 hp och Linj\u00e4r algebra, 6 hp.",
       "code": "ET1549",
-      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20241/B6NW9"
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20241/B6NW9",
+      "optional": false
     },
     {
       "name": "Nautisk introduktion",
@@ -93,7 +102,8 @@
       "end": "2024 vecka 22",
       "requirements": "Grundl\u00e4ggande beh\u00f6righet samt Matematik 4, Fysik 2, och Kemi 1 eller Matematik E, Fysik B och Kemi A.",
       "code": "MT1557",
-      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20241/BLPN7"
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20241/BLPN7",
+      "optional": false
     },
     {
       "name": "Analys 2",
@@ -102,7 +112,8 @@
       "end": "2024 vecka 44",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngen kurs Analys 1, 6 hp.",
       "code": "MA1494",
-      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20242/BNDG9"
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20242/BNDG9",
+      "optional": false
     },
     {
       "name": "Grundkurs i h\u00e5llbar utveckling",
@@ -111,7 +122,8 @@
       "end": "2025 vecka 03",
       "requirements": "Grundl\u00e4ggande beh\u00f6righet",
       "code": "SL1417",
-      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20242/BN63W"
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20242/BN63W",
+      "optional": false
     },
     {
       "name": "H\u00e5llfasthetsl\u00e4ra grundkurs",
@@ -120,7 +132,8 @@
       "end": "2024 vecka 44",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att 1,5 hp fr\u00e5n kursen Fysik grundkurs samt 1,5 hp fr\u00e5n kursen Analys 1 \u00e4r avklarade.",
       "code": "MT1506",
-      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20242/BFPEU"
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20242/BFPEU",
+      "optional": false
     },
     {
       "name": "Dynamik",
@@ -129,7 +142,8 @@
       "end": "2025 vecka 03",
       "requirements": "Genomg\u00e5ngen kurs i Linj\u00e4r algebra, 6 hp.",
       "code": "MT1502",
-      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20242/BTWGQ"
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20242/BTWGQ",
+      "optional": false
     },
     {
       "name": "Flervariabelanalys",
@@ -138,7 +152,8 @@
       "end": "2025 vecka 03",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngna kurser Linj\u00e4r algebra 6 hp, Analys 6 hp och Analys 2 6 hp.",
       "code": "MA1447",
-      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20242/BHDQR"
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20242/BHDQR",
+      "optional": false
     },
     {
       "name": "Materiall\u00e4ra",
@@ -147,7 +162,8 @@
       "end": "2025 vecka 13",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen ska 3 hp fr\u00e5n kursen H\u00e5llfasthetsl\u00e4ra grundkurs vara avklarad.",
       "code": "MT1544",
-      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20251/BJ377"
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20251/BJ377",
+      "optional": false
     },
     {
       "name": "Teknikutveckling, marin teknik och samh\u00e4llsf\u00f6r\u00e4ndring",
@@ -156,7 +172,8 @@
       "end": "2025 vecka 13",
       "requirements": "Grundl\u00e4ggande beh\u00f6righet.",
       "code": "TE1424",
-      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20251/B7TKR"
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20251/B7TKR",
+      "optional": false
     },
     {
       "name": "Transformteori",
@@ -165,7 +182,8 @@
       "end": "2025 vecka 13",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngna kurser Linj\u00e4r algebra 1, 6 hp, Analys 1, 6 hp och Analys 2, 6 hp.",
       "code": "MA1497",
-      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20251/B6LDL"
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20251/B6LDL",
+      "optional": false
     },
     {
       "name": "Ell\u00e4ra, grundkurs",
@@ -174,7 +192,8 @@
       "end": "2025 vecka 23",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngna kurser Fysik forts\u00e4ttningskurs, 6 hp, Linj\u00e4r algebra 1 och Analys 2, 6 hp.",
       "code": "ET1538",
-      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20251/BQKNU"
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20251/BQKNU",
+      "optional": false
     },
     {
       "name": "Str\u00f6mningsl\u00e4ra",
@@ -183,7 +202,8 @@
       "end": "2025 vecka 23",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser i Fysik-  v\u00e5gor och energi 6 hp, Analys 2, 6 hp, och genomg\u00e5ngna kurser i Flervariabel analys, 6 hp och Dynamik, 6 hp.",
       "code": "MT1555",
-      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20251/BMTRY"
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20251/BMTRY",
+      "optional": false
     },
     {
       "name": "Elektronik med till\u00e4mpningar inom m\u00e4tteknik",
@@ -192,7 +212,8 @@
       "end": "2025 vecka 44",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngna kurser i Ell\u00e4ra, 6 hp och Programmering och probleml\u00f6sning med Python, 6 hp, eller Grundl\u00e4ggande programmering i Matlab 6 hp.",
       "code": "ET1535",
-      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20252/B7Q6W"
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20252/B7Q6W",
+      "optional": false
     },
     {
       "name": "Matematisk statistik",
@@ -201,7 +222,8 @@
       "end": "2025 vecka 44",
       "requirements": "Genomg\u00e5ngna kurser i Analys 12 hp samt Linj\u00e4r algebra 6 hp (eller motsvarande).",
       "code": "MS1405",
-      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20252/BUHWN"
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20252/BUHWN",
+      "optional": false
     },
     {
       "name": "Oceanografi",
@@ -210,7 +232,8 @@
       "end": "2025 vecka 44",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngen kurs Str\u00f6mningsl\u00e4ra, 8 hp.",
       "code": "MT1518",
-      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20252/B7KFY"
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20252/B7KFY",
+      "optional": false
     },
     {
       "name": "Marin konstruktion",
@@ -219,7 +242,8 @@
       "end": "2026 vecka 03",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs 60 hp i genomg\u00e5ngna kurser varav minst 30 hp ska vara inom Maskinteknik och Elektroteknik inklusive genomg\u00e5ngen kurs Str\u00f6mningsl\u00e4ra, 8 hp. De \u00f6vriga 30 hp kan, f\u00f6rutom Maskinteknik och Elektroteknik, vara inom matematik eller annat naturvetenskapligt \u00e4mne.",
       "code": "MT1514",
-      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20252/BTGG9"
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20252/BTGG9",
+      "optional": false
     },
     {
       "name": "Reglerteknik, grundkurs",
@@ -228,7 +252,8 @@
       "end": "2026 vecka 03",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser i Linj\u00e4r algebra, 6 hp,Fysik grundkurs 6 hp, Analys 2, 6 hp, samt genomg\u00e5ngna kurser iTransformteori 6hp, Flervariabelanalys 6 hp, Dynamik 6 hp, Ell\u00e4ra 6hp, Elektronik med till\u00e4mpningar inom m\u00e4tteknik 6 hp, Matlab 4 hp.",
       "code": "ET1534",
-      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20252/BAH4N"
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20252/BAH4N",
+      "optional": false
     },
     {
       "name": "Projektkurs 1 med produktutveckling och projektledning",
@@ -237,7 +262,8 @@
       "end": "2026 vecka 23",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs 60 hp avklarade kurser fr\u00e5n programmet Civilingenj\u00f6r i marinteknik varav f\u00f6ljande kurser ska vara avklarade Datorst\u00f6d f\u00f6r ingenj\u00f6rsarbete, 8 hp, Materiall\u00e4ra, 6 hp, H\u00e5llfasthetsl\u00e4ra, 6 hp och Str\u00f6mningsl\u00e4ra, 8 hp. Vidare kr\u00e4vs genomg\u00e5ngna kurser Elektroteknik med till\u00e4mpningar inom m\u00e4tteknik, 6 hp, Marin konstruktion, 8 hp samt Reglerteknik, 6 hp.",
       "code": "MT1517",
-      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20261/BF9AJ"
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20261/BF9AJ",
+      "optional": false
     },
     {
       "name": "Signaler och system, grundkurs",
@@ -246,7 +272,8 @@
       "end": "2026 vecka 23",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarad kurs i Transformteori, 6 hp samt genomg\u00e5ngen kurs i Reglerteknik, 6 hp.",
       "code": "ET1555",
-      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20261/B6PHK"
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20261/B6PHK",
+      "optional": false
     },
     {
       "name": "Termodynamik",
@@ -255,7 +282,8 @@
       "end": "2026 vecka 13",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser Dynamik 6 hp eller Fysik f\u00f6r Ingenj\u00f6rer 2, 6 hp och Analys 2 6 hp samt genomg\u00e5ngna kurser Matematisk statistik, 6 hp och Fysik forts\u00e4ttningskurs, 6 hp eller Fysik f\u00f6r ingenj\u00f6rer 3, 6 hp.",
       "code": "MT1540",
-      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20261/BPTHF"
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20261/BPTHF",
+      "optional": false
     },
     {
       "name": "Elektromagnetisk f\u00e4ltteori",
@@ -264,7 +292,8 @@
       "end": "2026 vecka 44",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngna kurser i Flervariabelanalys, 6 hp och Ell\u00e4ra 6 hp.",
       "code": "FY2503",
-      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20262/BRAKJ"
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20262/BRAKJ",
+      "optional": false
     },
     {
       "name": "Hydroakustik",
@@ -273,7 +302,8 @@
       "end": "2026 vecka 44",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarad kurs i Transformteori, 6 hp och genomg\u00e5ngen kurs i Fysik- v\u00e5gor och energi, 6 hp.",
       "code": "FY2504",
-      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20262/BMAX4"
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20262/BMAX4",
+      "optional": false
     },
     {
       "name": "Signaler och system, forts\u00e4ttningskurs",
@@ -282,7 +312,8 @@
       "end": "2026 vecka 44",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngen kurs i Signaler och system, grundkurs, 9 hp.",
       "code": "ET2611",
-      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20262/BA7GW"
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20262/BA7GW",
+      "optional": false
     },
     {
       "name": "Reglerteknik, forts\u00e4ttningskurs",
@@ -291,7 +322,8 @@
       "end": "2027 vecka 02",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser i Reglerteknik, grundkurs 6 hp och Signaler och system, grundkurs 9 hp samt genomg\u00e5ngen kurs i Signaler och system, forts\u00e4ttningskurs, 4 hp.",
       "code": "ET2612",
-      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20262/BE39L"
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20262/BE39L",
+      "optional": false
     },
     {
       "name": "Sensorsystem",
@@ -300,7 +332,8 @@
       "end": "2027 vecka 02",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarad kurs i Elektroteknik med till\u00e4mpningar inom m\u00e4tteknik, 6 hp samt genomg\u00e5ngna kurser i Elektromagnetisk f\u00e4ltteori, 6 hp, Reglerteknik, grundkurs, 6 hp och Signaler och system, forts\u00e4ttningskurs, 4 hp.",
       "code": "ET2613",
-      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20262/BR7Y6"
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20262/BR7Y6",
+      "optional": false
     },
     {
       "name": "Elkraft och energiteknik",
@@ -309,7 +342,8 @@
       "end": "2027 vecka 12",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarad kurs i Ell\u00e4ra, 6 hp och genomg\u00e5ngna kurser i Elektromagnetisk f\u00e4ltteori, 6 hp, Dynamik, 6 hp, Elektronik med till\u00e4mpningar inom m\u00e4tteknik, 6 hp och Reglerteknik 6 hp.",
       "code": "ET2615",
-      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20271/B6RRM"
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20271/B6RRM",
+      "optional": false
     },
     {
       "name": "Projektkurs 2 med industriell ekonomi och aff\u00e4rsplanering",
@@ -318,7 +352,8 @@
       "end": "2027 vecka 22",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarad Projektkurs 1 med produktutveckling och projektledning, 15 hp.",
       "code": "MT2552",
-      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20271/BEQYH"
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20271/BEQYH",
+      "optional": false
     },
     {
       "name": "Undervattensteknik",
@@ -327,7 +362,8 @@
       "end": "2027 vecka 12",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att f\u00f6ljande kurser \u00e4r genomg\u00e5ngna: Matlab med till\u00e4mpningar inom matematik och teknik, 4 hp, Str\u00f6mningsl\u00e4ra, 8 hp, Reglerteknik grundkurs, 6 hp och Marin konstruktion, 8 hp.",
       "code": "MT2551",
-      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20271/BFUNY"
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20271/BFUNY",
+      "optional": false
     },
     {
       "name": "Fartygstillsyn och marina regelverk",
@@ -336,7 +372,8 @@
       "end": "2027 vecka 22",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser i Marin konstruktion, 8 hp och Nautisk introduktion, 6 hp.",
       "code": "MT1558",
-      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20271/BTKRL"
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20271/BTKRL",
+      "optional": false
     },
     {
       "name": "Systems Engineering",
@@ -345,7 +382,8 @@
       "end": "2027 vecka 43",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs minst 180 avklarade hp, varav 90 hp inom maskinteknik, industriell ekonomi eller n\u00e4rliggande tekniskt omr\u00e5de inklusive 5 hp datorst\u00f6d f\u00f6r ingenj\u00f6rsarbete.",
       "code": "MT2574",
-      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20272/BRW9Q"
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20272/BRW9Q",
+      "optional": false
     },
     {
       "name": "S\u00e4kerhet, ergonomi och m\u00e4nniska-system-interaktion",
@@ -354,7 +392,8 @@
       "end": "2027 vecka 43",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarad kurs i Fartygstillsyn och marina regelverk, 4 hp.",
       "code": "MT1522",
-      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20272/BYQFF"
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20272/BYQFF",
+      "optional": false
     },
     {
       "name": "Forskningsmetodik med inriktning mot ingenj\u00f6rsvetenskap",
@@ -363,7 +402,8 @@
       "end": "2028 vecka 02",
       "requirements": "Avklarade studier om minst 180 hp inom omr\u00e5det teknik.",
       "code": "MT2521",
-      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20272/BTLJN"
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20272/BTLJN",
+      "optional": false
     },
     {
       "name": "Kravhantering och produkthantering",
@@ -372,7 +412,8 @@
       "end": "2028 vecka 02",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser omfattande minst 120 hp varav minst 90 hp ska vara inom f\u00f6ljande omr\u00e5den: programvaruteknik, datavetenskap, informationssystem, datalogi, maskinteknik eller industriell ekonomi. Dessutom kr\u00e4vs en genomg\u00e5ngen kurs p\u00e5 minst 7,5 hp inom grundl\u00e4ggande Programvaruteknik eller Systemteknik alternativt en genomg\u00e5ngen projektkurs i grupp p\u00e5 minst 7,5 hp i Programvaruteknik eller Systemteknik.",
       "code": "PA2591",
-      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20272/BW7PH"
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20272/BW7PH",
+      "optional": false
     },
     {
       "name": "Examensarbete f\u00f6r civilingenj\u00f6rer",
@@ -381,9 +422,10 @@
       "end": "2028 vecka 22",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att studenten har avklarat minst 240 hp som f\u00e5r ing\u00e5 i en civilingenj\u00f6rsexamen. Av dessa ska minst 30 hp vara avklarade kurser p\u00e5 avancerad niv\u00e5.",
       "code": "TE2502",
-      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20281/BFGDQ"
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20281/BFGDQ",
+      "optional": false
     }
   ],
   "href": "https://www.bth.se/utbildning/program-och-kurser/mtamr/",
-  "updated": 1666439648211
+  "updated": 1666446838038
 }

@@ -9,6 +9,8 @@ from bs4 import BeautifulSoup
 from numpy import array_split
 from requests import get
 
+optional_courses = []
+
 
 class ProgramAction(Action):
   def __call__(self, parser, namespace, values, option_string=None):
@@ -44,8 +46,13 @@ def get_points(soup: BeautifulSoup) -> float:
   return float(points.replace(",", "."))
 
 
-def get_course_hrefs(soup: BeautifulSoup) -> list:
-  return [course.get("href") for course in soup.find(id="collapse-courses").find_all("a")]
+def set_optional_courses(soup: BeautifulSoup) -> None:
+  """ Sets the optional courses for the program as a side effect """
+  optional_courses.extend([a.text for a in soup.find(id="collapse-courses").find_all("a") if "*" in a.parent.text])
+
+
+def get_course_href(soup: BeautifulSoup) -> list:
+  return [a["href"] for a in soup.find(id="collapse-courses").find_all("a")]
 
 
 def get_requirements(soup: BeautifulSoup, tag: str) -> str:
@@ -63,8 +70,6 @@ def get_metadata(soup: BeautifulSoup, req_tag: str) -> dict:
   points = get_points(soup)
   start, end = get_time(soup)
   req = get_requirements(soup, req_tag)
-
-  # add href
 
   return {
     "name": name,
@@ -93,7 +98,8 @@ def get_program(code: str) -> dict:
       attempt = max_attempts
 
   soup = BeautifulSoup(res.text, "html.parser")
-  courses = get_course_hrefs(soup)
+  courses = get_course_href(soup)
+  set_optional_courses(soup)
 
   return {
     **get_metadata(soup, req_tag="div"),
@@ -114,10 +120,12 @@ def get_courses(hrefs: list) -> None:
       while attempt < max_attempts:
         try:
           soup = BeautifulSoup(get(href).text, "html.parser")
+          course = get_metadata(soup, req_tag="li")
           course = {
-            **get_metadata(soup, req_tag="li"),
+            **course,
             "code": get_course_code(soup),
-            "href": href
+            "href": href,
+            "optional": course["name"] in optional_courses
           }
           data.append(course)
 

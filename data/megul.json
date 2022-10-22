@@ -12,7 +12,8 @@
       "end": "2023 vecka 43",
       "requirements": "Grundl\u00e4ggande beh\u00f6righet",
       "code": "ME1645",
-      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20232/BNJFK"
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20232/BNJFK",
+      "optional": false
     },
     {
       "name": "Gestaltande programmering",
@@ -21,7 +22,8 @@
       "end": "2024 vecka 02",
       "requirements": "Grundl\u00e4ggande beh\u00f6righet",
       "code": "ME1634",
-      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20232/BYKDJ"
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20232/BYKDJ",
+      "optional": false
     },
     {
       "name": "Realtidsplattformar f\u00f6r upplevelser i 3D",
@@ -30,7 +32,8 @@
       "end": "2024 vecka 02",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngen kurs Gestaltande programmering 7,5 hp.",
       "code": "ME1635",
-      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20232/BM3KL"
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20232/BM3KL",
+      "optional": false
     },
     {
       "name": "Anv\u00e4ndarupplevelse och gr\u00e4nssnitt",
@@ -39,7 +42,8 @@
       "end": "2024 vecka 12",
       "requirements": "Grundl\u00e4ggande beh\u00f6righet.",
       "code": "ME1636",
-      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20241/BDH6R"
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20241/BDH6R",
+      "optional": false
     },
     {
       "name": "Produktion av digitala upplevelser",
@@ -48,7 +52,8 @@
       "end": "2024 vecka 22",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vas avklarad kurs Gestaltande programmering 7,5 hp samt genomg\u00e5ngen kurs Realtidsplattformar f\u00f6r upplevelser i 3D 7,5 hp.",
       "code": "ME1640",
-      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20241/BT6MF"
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20241/BT6MF",
+      "optional": false
     },
     {
       "name": "Digital didaktisk design",
@@ -57,7 +62,8 @@
       "end": "2024 vecka 44",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs 30 hp avklarade i huvudomr\u00e5det medieteknik.",
       "code": "ME1646",
-      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20242/B6FGN"
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20242/B6FGN",
+      "optional": false
     },
     {
       "name": "F\u00f6rdjupning av gestaltande upplevelser",
@@ -66,7 +72,8 @@
       "end": "2024 vecka 44",
       "requirements": "F\u00f6r tilltr\u00e4det till kursen kr\u00e4vs genomg\u00e5ngna kurser Gestaltande programmering 7,5 hp samt Realtidsplattformar f\u00f6r upplevelser i 3D, 7,5 hp.",
       "code": "ME1647",
-      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20242/BXMHK"
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20242/BXMHK",
+      "optional": false
     },
     {
       "name": "Medieteknisk prototyputveckling",
@@ -75,7 +82,8 @@
       "end": "2025 vecka 03",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att n\u00e5gon av f\u00f6ljande kurser \u00e4r genomg\u00e5ngen: Grunder i digitala spel 15 hp, Grunder i digital ljudproduktion 15 hp, Grunder i digital bildproduktion 15 hp.",
       "code": "ME1625",
-      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20242/BDHJ9"
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20242/BDHJ9",
+      "optional": false
     },
     {
       "name": "Interaktivt ber\u00e4ttande",
@@ -84,7 +92,8 @@
       "end": "2025 vecka 13",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngen kurs Medieteknisk prototyputveckling, 15 hp.",
       "code": "ME1613",
-      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20251/BM7LX"
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20251/BM7LX",
+      "optional": false
     },
     {
       "name": "Motivation f\u00f6r digitalt  l\u00e4rande",
@@ -93,7 +102,8 @@
       "end": "2025 vecka 13",
       "requirements": "F\u00f6r tilltr\u00e4det till kursen kr\u00e4vs genomg\u00e5ngna kurser Produktion av digitala upplevelser 15 hp samt Digital didaktisk design, 7,5 hp.",
       "code": "ME1648",
-      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20251/BXT7H"
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20251/BXT7H",
+      "optional": false
     },
     {
       "name": "Sj\u00e4lvst\u00e4ndigt arbete i digitalt l\u00e4rande",
@@ -102,9 +112,10 @@
       "end": "2025 vecka 23",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs 60 hp avklarade i huvudomr\u00e5det medieteknik.",
       "code": "ME1649",
-      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20251/BFTQF"
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20251/BFTQF",
+      "optional": false
     }
   ],
   "href": "https://www.bth.se/utbildning/program-och-kurser/megul/",
-  "updated": 1666439789498
+  "updated": 1666446982666
 }

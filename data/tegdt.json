@@ -12,7 +12,8 @@
       "end": "2024 vecka 02",
       "requirements": "Grundl\u00e4ggande beh\u00f6righet och Matematik 2a/2b/2c samt p\u00e5b\u00f6rjad kurs Matematik gamma 15 fup.",
       "code": "FY0003",
-      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20232/BF3DM"
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20232/BF3DM",
+      "optional": false
     },
     {
       "name": "Matematik gamma",
@@ -21,7 +22,8 @@
       "end": "2024 vecka 02",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs grundl\u00e4ggande beh\u00f6righet samt Matematik B eller Matematik 2a/2b/2c.",
       "code": "MA0005",
-      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20232/BG7QW"
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20232/BG7QW",
+      "optional": false
     },
     {
       "name": "Kemi alfa",
@@ -30,7 +32,8 @@
       "end": "2024 vecka 12",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs grundl\u00e4ggande beh\u00f6righet samt Matematik 2a/2b/2c.",
       "code": "KE0003",
-      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20232/BL6JK"
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20232/BL6JK",
+      "optional": false
     },
     {
       "name": "Fysik beta",
@@ -39,7 +42,8 @@
       "end": "2024 vecka 22",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngen Matematik gamma 15 fup och Fysik alfa 12 fup.",
       "code": "FY0006",
-      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20241/BJHGU"
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20241/BJHGU",
+      "optional": false
     },
     {
       "name": "Matematik delta",
@@ -48,9 +52,10 @@
       "end": "2024 vecka 22",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs 2,5 fup avklarade p\u00e5 kursen Matematik gamma, 15 fup.",
       "code": "MA0007",
-      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20241/BA4RX"
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20241/BA4RX",
+      "optional": false
     }
   ],
   "href": "https://www.bth.se/utbildning/program-och-kurser/tegdt/",
-  "updated": 1666440125542
+  "updated": 1666447305491
 }

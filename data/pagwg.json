@@ -12,7 +12,8 @@
       "end": "2023 vecka 43",
       "requirements": "Grundl\u00e4ggande beh\u00f6righet",
       "code": "DV1670",
-      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20232/BXLAL"
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20232/BXLAL",
+      "optional": false
     },
     {
       "name": "Webbteknologier",
@@ -21,7 +22,8 @@
       "end": "2023 vecka 43",
       "requirements": "Grundl\u00e4ggande beh\u00f6righet.",
       "code": "PA1439",
-      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20232/BUCW4"
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20232/BUCW4",
+      "optional": false
     },
     {
       "name": "Programmering med JavaScript",
@@ -30,7 +32,8 @@
       "end": "2024 vecka 02",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngen kurs i programmering, 7,5 h\u00f6gskolepo\u00e4ng.",
       "code": "DV1657",
-      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20232/BJ4HQ"
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20232/BJ4HQ",
+      "optional": false
     },
     {
       "name": "Teknisk webbdesign och anv\u00e4ndbarhet",
@@ -39,7 +42,8 @@
       "end": "2024 vecka 02",
       "requirements": "Genomg\u00e5ngen kurs i Webbteknologier, 7,5 hp.",
       "code": "PA1436",
-      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20232/BLYLH"
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20232/BLYLH",
+      "optional": false
     },
     {
       "name": "Algoritmer och datastrukturer med objektorienterad Python",
@@ -48,7 +52,8 @@
       "end": "2024 vecka 12",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngen kurs i Programmering och probleml\u00f6sning med Python 7,5 hp.",
       "code": "DV1660",
-      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20241/BH6WM"
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20241/BH6WM",
+      "optional": false
     },
     {
       "name": "Databasteknologier f\u00f6r webben",
@@ -57,7 +62,8 @@
       "end": "2024 vecka 12",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngna kurser motsvarande 15 hp i programmering och/eller webbteknologier.",
       "code": "DV1606",
-      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20241/B3NCJ"
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20241/B3NCJ",
+      "optional": false
     },
     {
       "name": "Objektorienterade webbteknologier",
@@ -66,7 +72,8 @@
       "end": "2024 vecka 22",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngen kurs Webbteknologier, 7,5 hp samt genomg\u00e5ngen kurs i databaser motsvarande 7,5 hp.",
       "code": "DV1608",
-      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20241/B9EC9"
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20241/B9EC9",
+      "optional": false
     },
     {
       "name": "Webbapplikationer f\u00f6r mobila enheter",
@@ -75,7 +82,8 @@
       "end": "2024 vecka 22",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngna kurser motsvarande 15 hp i programmering och webbteknologier varav 6 hp ska vara programmering med JavaScript.",
       "code": "DV1609",
-      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20241/BWE3Y"
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20241/BWE3Y",
+      "optional": false
     },
     {
       "name": "JavaScript-baserade webbramverk",
@@ -84,7 +92,8 @@
       "end": "2024 vecka 44",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser eller moment fr\u00e5n kurser i programmering och webbteknologier omfattande 22,5 hp samt genomg\u00e5ngen kurs Webbapplikationer f\u00f6r mobila enheter, 7,5 hp.",
       "code": "DV1612",
-      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20242/BQ4H7"
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20242/BQ4H7",
+      "optional": false
     },
     {
       "name": "Operativsystemet Linux och virtualiseringstekniker",
@@ -93,7 +102,8 @@
       "end": "2024 vecka 44",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser eller moment fr\u00e5n kurser i programmering och webbteknologier omfattande totalt 22,5 hp.",
       "code": "DV1611",
-      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20242/BXXLR"
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20242/BXXLR",
+      "optional": false
     },
     {
       "name": "Matematisk\u00a0modellering",
@@ -102,7 +112,8 @@
       "end": "2025 vecka 03",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarad Matematik 3b alt. 3c eller Matematik C fr\u00e5n gymnasieskolan samt genomg\u00e5ngna kurser i programmering om minst 15 hp.",
       "code": "MA1487",
-      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20242/BDRPN"
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20242/BDRPN",
+      "optional": false
     },
     {
       "name": "Programutveckling i virtuella team",
@@ -111,7 +122,8 @@
       "end": "2025 vecka 03",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser eller moment fr\u00e5n kurser i programmering och/eller webbteknologier omfattande totalt 22,5 hp. D\u00e4rut\u00f6ver kr\u00e4vs genomg\u00e5ngen kurs i Objektorienterade webbteknologier, 7,5 hp.",
       "code": "PA1477",
-      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20242/BQKCM"
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20242/BQKCM",
+      "optional": false
     },
     {
       "name": "Data- och telekommunikation",
@@ -120,7 +132,8 @@
       "end": "2025 vecka 13",
       "requirements": "Genomg\u00e5ngen grundl\u00e4ggande kurs i programmering om minst 7,5 hp.",
       "code": "ET1447",
-      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20251/BNM4J"
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20251/BNM4J",
+      "optional": false
     },
     {
       "name": "Sj\u00e4lvst\u00e4ndigt arbete i Webbprogrammering",
@@ -129,7 +142,8 @@
       "end": "2025 vecka 23",
       "requirements": "60 hp avklarade p\u00e5 programmet Webbprogrammering",
       "code": "PA1438",
-      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20251/BXCQF"
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20251/BXCQF",
+      "optional": false
     },
     {
       "name": "Grundl\u00e4ggande systemverifiering",
@@ -138,9 +152,10 @@
       "end": "2025 vecka 23",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att den studerande har klarat programmering, 15 h\u00f6gskolepo\u00e4ng eller motsvarande.",
       "code": "PA1417",
-      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20251/BPXK9"
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20251/BPXK9",
+      "optional": false
     }
   ],
   "href": "https://www.bth.se/utbildning/program-och-kurser/pagwg/",
-  "updated": 1666439967064
+  "updated": 1666447157668
 }

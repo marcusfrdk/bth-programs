@@ -12,7 +12,8 @@
       "end": "2023 vecka 43",
       "requirements": "Grundl\u00e4ggande beh\u00f6righet samt Matematik 2a alt 2b alt 2c.",
       "code": "ME1604",
-      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20232/BP4EJ"
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20232/BP4EJ",
+      "optional": false
     },
     {
       "name": "Grunder i digital bildproduktion",
@@ -21,7 +22,8 @@
       "end": "2024 vecka 02",
       "requirements": "Omr\u00e5desbeh\u00f6righet A7: Matematik 2a alt 2b alt 2c (Fysik 1b1 alt 1a kr\u00e4vs ej)alternativtOmr\u00e5desbeh\u00f6righet 7: Matematik B (Fysik A kr\u00e4vs ej).",
       "code": "ME1568",
-      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20232/BLT7H"
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20232/BLT7H",
+      "optional": false
     },
     {
       "name": "Funktionell visuell design",
@@ -30,7 +32,8 @@
       "end": "2024 vecka 12",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngen kurs Grunder i digital bildproduktion, 15 hp.",
       "code": "ME1611",
-      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20241/BTAJK"
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20241/BTAJK",
+      "optional": false
     },
     {
       "name": "Ber\u00e4ttande genom visuella medier",
@@ -39,7 +42,8 @@
       "end": "2024 vecka 22",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngen kurs i Introduktion i medieteknik med inriktning mot digital bildproduktion, 15 hp.",
       "code": "ME1624",
-      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20241/BAJEG"
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20241/BAJEG",
+      "optional": false
     },
     {
       "name": "Concept Art",
@@ -48,7 +52,8 @@
       "end": "2024 vecka 40",
       "requirements": "Grundl\u00e4ggande beh\u00f6righet",
       "code": "ME1651",
-      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20242/BDTYJ"
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20242/BDTYJ",
+      "optional": false
     },
     {
       "name": "3D-modellering och animation",
@@ -57,7 +62,8 @@
       "end": "2024 vecka 44",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarad kurs Introduktion i medieteknik med inriktning mot digital bildproduktion, 15 hp samt genomg\u00e5ngen kurs Grunder i digital bildproduktion, 15 hp.",
       "code": "ME1650",
-      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20242/BQ3UJ"
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20242/BQ3UJ",
+      "optional": false
     },
     {
       "name": "Medieteknisk prototyputveckling",
@@ -66,7 +72,8 @@
       "end": "2025 vecka 03",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att n\u00e5gon av f\u00f6ljande kurser \u00e4r genomg\u00e5ngen: Grunder i digitala spel 15 hp, Grunder i digital ljudproduktion 15 hp, Grunder i digital bildproduktion 15 hp.",
       "code": "ME1625",
-      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20242/BXKAQ"
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20242/BXKAQ",
+      "optional": false
     },
     {
       "name": "Generativ bild",
@@ -75,7 +82,8 @@
       "end": "2025 vecka 13",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngen kurs Medieteknisk prototyputveckling, 15 hp.",
       "code": "ME1615",
-      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20251/BHAXX"
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20251/BHAXX",
+      "optional": false
     },
     {
       "name": "Utst\u00e4llningsteknik",
@@ -84,7 +92,8 @@
       "end": "2025 vecka 13",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngen kurs Digifysisk gestaltning, 7,5 hp.",
       "code": "ME1655",
-      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20251/BW3JM"
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20251/BW3JM",
+      "optional": false
     },
     {
       "name": "Design i samverkan",
@@ -93,7 +102,8 @@
       "end": "2025 vecka 23",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngen kurs Interaktivt ber\u00e4ttande, 7,5 hp.",
       "code": "ME1616",
-      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20251/B9CNW"
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20251/B9CNW",
+      "optional": false
     },
     {
       "name": "Responsiva h\u00e5llbara milj\u00f6er",
@@ -102,7 +112,8 @@
       "end": "2025 vecka 44",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs 90 hp avklarade i huvudomr\u00e5det medieteknik.",
       "code": "ME1656",
-      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20252/B6M3G"
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20252/B6M3G",
+      "optional": false
     },
     {
       "name": "Forskningsintroduktion medieteknik",
@@ -111,7 +122,8 @@
       "end": "2026 vecka 03",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs 60 hp avklarade i huvudomr\u00e5det medieteknik.",
       "code": "ME1644",
-      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20252/BXWAN"
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20252/BXWAN",
+      "optional": false
     },
     {
       "name": "Virtuell produktion",
@@ -120,7 +132,8 @@
       "end": "2026 vecka 03",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs 90 hp avklarade i huvudomr\u00e5det medieteknik.",
       "code": "ME1654",
-      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20252/BNE4H"
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20252/BNE4H",
+      "optional": false
     },
     {
       "name": "Kandidatarbete i medieteknik",
@@ -129,9 +142,10 @@
       "end": "2026 vecka 23",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs minst 90 hp genomg\u00e5nget inom huvudomr\u00e5det medieteknik samt genomg\u00e5ngen kurs Forskningsmetodik f\u00f6r medieteknik.",
       "code": "ME1603",
-      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20261/BH74J"
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20261/BH74J",
+      "optional": false
     }
   ],
   "href": "https://www.bth.se/utbildning/program-och-kurser/megdp/",
-  "updated": 1666439804162
+  "updated": 1666446995294
 }

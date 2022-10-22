@@ -12,7 +12,8 @@
       "end": "2023 vecka 43",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs grundl\u00e4ggande beh\u00f6righet samt Matematik 3b alt 3c och  Samh\u00e4llskunskap 1b alt 1a1 och 1a2 eller Matematik C och Samh\u00e4llskunskap A.",
       "code": "FM1479",
-      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20232/BLUJR"
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20232/BLUJR",
+      "optional": false
     },
     {
       "name": "Rum 1",
@@ -21,7 +22,8 @@
       "end": "2023 vecka 48",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs grundl\u00e4ggande beh\u00f6righet samt Matematik 3b alt 3c och Samh\u00e4llskunskap 1b alt 1a1 och 1a2 eller Matematik C och Samh\u00e4llskunskap A.",
       "code": "FM1481",
-      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20232/B9FUL"
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20232/B9FUL",
+      "optional": false
     },
     {
       "name": "Stadsbyggnadshistoria",
@@ -30,7 +32,8 @@
       "end": "2024 vecka 02",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs grundl\u00e4ggande beh\u00f6righet samt Matematik 3b alt 3c och Samh\u00e4llskunskap 1b alt 1a1 och 1a2 eller Matematik C och Samh\u00e4llskunskap A.",
       "code": "FM1480",
-      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20232/BC7RM"
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20232/BC7RM",
+      "optional": false
     },
     {
       "name": "Geografiska informationssystem och statistik",
@@ -39,7 +42,8 @@
       "end": "2024 vecka 07",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs grundl\u00e4ggande beh\u00f6righet samt Matematik 3b alt 3c och Samh\u00e4llskunskap 1b alt 1a1 och 1a2 eller Matematik C och Samh\u00e4llskunskap A.",
       "code": "FM1503",
-      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20241/BAUQF"
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20241/BAUQF",
+      "optional": false
     },
     {
       "name": "Vetenskapsteorins grunder",
@@ -48,7 +52,8 @@
       "end": "2024 vecka 12",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs grundl\u00e4ggande beh\u00f6righet samt Matematik 3b alt 3c och Samh\u00e4llskunskap 1b alt 1a1 och 1a2 eller Matematik C och Samh\u00e4llskunskap A.",
       "code": "FM1504",
-      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20241/BLYFW"
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20241/BLYFW",
+      "optional": false
     },
     {
       "name": "\u00d6versiktlig planering och detaljplanering",
@@ -57,7 +62,8 @@
       "end": "2024 vecka 22",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs grundl\u00e4ggande beh\u00f6righet samt Matematik 3b alt 3c och Samh\u00e4llskunskap 1b alt 1a1 och 1a2 eller Matematik C och Samh\u00e4llskunskap A.",
       "code": "FM1482",
-      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20241/BTHYF"
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20241/BTHYF",
+      "optional": false
     },
     {
       "name": "Naturresurser och landskap",
@@ -66,7 +72,8 @@
       "end": "2024 vecka 44",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser Introduktion till Fysisk planering, 15 hp, Rum 1, 7,5 hp samt Vetenskapsteorins grunder, 7,5 hp.",
       "code": "FM1485",
-      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20242/BTXLY"
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20242/BTXLY",
+      "optional": false
     },
     {
       "name": "Planeringsteori",
@@ -75,7 +82,8 @@
       "end": "2024 vecka 49",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser Introduktion till Fysisk planering, 15 hp och Vetenskapsteorins grunder, 7,5 hp.",
       "code": "FM1486",
-      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20242/B3GGK"
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20242/B3GGK",
+      "optional": false
     },
     {
       "name": "Planeringsekonomi och genomf\u00f6rande",
@@ -84,7 +92,8 @@
       "end": "2025 vecka 03",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarad kurs Introduktion till Fysisk planering, 15 hp.",
       "code": "FM1487",
-      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20242/BMHAR"
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20242/BMHAR",
+      "optional": false
     },
     {
       "name": "Plan- och milj\u00f6r\u00e4tt",
@@ -93,7 +102,8 @@
       "end": "2025 vecka 08",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser Introduktion till Fysisk planering, 15 hp och \u00d6versiktlig planering och detaljplanering, 15 hp.",
       "code": "FM1488",
-      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20251/BUKQG"
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20251/BUKQG",
+      "optional": false
     },
     {
       "name": "Rum 2",
@@ -102,7 +112,8 @@
       "end": "2025 vecka 13",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser Introduktion till Fysisk planering, 15 hp, Rum 1, 7,5 hp samt Vetenskapsteorins grunder, 7,5 hp.",
       "code": "FM1489",
-      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20251/BRH7Y"
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20251/BRH7Y",
+      "optional": false
     },
     {
       "name": "Infrastruktur och mobilitet",
@@ -111,7 +122,8 @@
       "end": "2025 vecka 23",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser Introduktion till Fysisk planering, 15 hp samt Rum 1, 7,5 hp.",
       "code": "FM1490",
-      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20251/BCX94"
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20251/BCX94",
+      "optional": false
     },
     {
       "name": "Strategisk planering",
@@ -120,7 +132,8 @@
       "end": "2025 vecka 44",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser Naturresurser och landskap 15 hp samt Plan- och milj\u00f6r\u00e4tt 7,5 hp.",
       "code": "FM1510",
-      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20252/BNPQK"
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20252/BNPQK",
+      "optional": false
     },
     {
       "name": "Komplexa stadsbyggnadsprojekt",
@@ -129,7 +142,8 @@
       "end": "2026 vecka 03",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser Introduktion till Fysisk planering, 15 hp samt Rum 1, 7,5 hp.",
       "code": "FM1492",
-      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20252/BRUAQ"
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20252/BRUAQ",
+      "optional": false
     },
     {
       "name": "Metod, teori och tematisk f\u00f6rdjupning",
@@ -138,7 +152,8 @@
       "end": "2026 vecka 13",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser \u00d6versiktlig planering och detaljplanering, 15 hp,  Naturresurser och Landskap 15 hp samt Planeringsteori 7,5 hp.",
       "code": "FM1512",
-      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20261/BMQUL"
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20261/BMQUL",
+      "optional": false
     },
     {
       "name": "Kandidatarbete, planeringsprojekt",
@@ -147,7 +162,8 @@
       "end": "2026 vecka 23",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser om minst 130 hp inom huvudomr\u00e5det Fysisk planering.",
       "code": "FM1497",
-      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20261/BJKJK"
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20261/BJKJK",
+      "optional": true
     },
     {
       "name": "Kandidatarbete, vetenskaplig uppsats",
@@ -156,9 +172,10 @@
       "end": "2026 vecka 23",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser om minst 130 hp inom huvudomr\u00e5det Fysisk planering.",
       "code": "FM1496",
-      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20261/BJ6UL"
+      "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20261/BJ6UL",
+      "optional": true
     }
   ],
   "href": "https://www.bth.se/utbildning/program-och-kurser/fmgfp/",
-  "updated": 1666439828887
+  "updated": 1666447024753
 }

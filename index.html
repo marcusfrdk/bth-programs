@@ -11,12 +11,27 @@
         box-sizing: border-box;
         padding: 0;
         margin: 0;
+        color: var(--strong);
+        text-decoration: none;
+      }
+
+      ul {
+        list-style: none;
+      }
+
+      ul li {
+        margin-bottom: 1rem;
       }
 
       :root {
         --background: #ffffff;
         --bottom: #f3f3f3;
+        --middle: #eaeaea;
         --primary: #242424;
+        --strong: #242424;
+        --weak: #888888;
+
+        --padding: 2rem;
 
         background-color: var(--background, #ffffff);
       }
@@ -25,15 +40,175 @@
         :root {
           --background: #242424;
           --bottom: #3d3d3d;
+          --middle: #5c5c5c;
           --primary: #3378ff;
+          --strong: #ffffff;
+          --weak: #bababa;
 
           background-color: var(--background, #242424);
+        }
+      }
+
+      html {
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+        width: 100vw;
+        position: relative;
+      }
+
+      body {
+        display: flex;
+        flex-direction: column;
+        width: calc(100vw - 2rem);
+        max-width: 1920px;
+        position: relative;
+        padding: 1rem 0;
+      }
+
+      #backdrop {
+        padding: var(--padding);
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        background-color: var(--bottom);
+        border-radius: 0.5rem;
+        margin-bottom: 1rem;
+        overflow: hidden;
+      }
+
+      #backdrop > *:not(:last-child) {
+        margin-bottom: 0.5rem;
+      }
+
+      #program-name {
+        font-size: 2rem;
+      }
+
+      #program-points {
+        font-size: 1.25rem;
+        color: var(--weak);
+      }
+
+      #program-selector {
+        width: fit-content;
+        padding: 0.5rem 0.75rem;
+        background-color: var(--bottom);
+        border: none;
+        border-radius: 0.25rem;
+        cursor: pointer;
+        margin-bottom: 1rem;
+      }
+
+      #program-requirements {
+        padding: 1rem;
+        background-color: var(--bottom);
+        margin-bottom: 1rem;
+        border-radius: 0.5rem;
+      }
+
+      #program-requirements > *:first-child {
+        margin-bottom: 0.25rem;
+        font-size: 0.875rem;
+        color: var(--weak);
+      }
+
+      .ellipsis {
+        text-overflow: ellipsis;
+        overflow: hidden;
+        width: 100%;
+      }
+
+      .group-title {
+        margin-bottom: 0.5rem;
+        font-size: 1.125rem;
+        font-weight: bold;
+        width: 100%;
+        border-radius: 0.25rem;
+        display: flex;
+        align-items: center;
+      }
+
+      .group-title > *:last-child {
+        margin-left: 0.5rem;
+        color: var(--weak);
+        font-size: 0.875rem;
+      }
+
+      .course {
+        background-color: var(--bottom);
+        border-radius: 0.5rem;
+        padding: 1rem;
+        display: flex;
+        flex-direction: column;
+      }
+
+      .course-metadata {
+        display: flex;
+        align-items: center;
+        margin-top: 0.5rem;
+      }
+
+      .course-metadata > * {
+        font-size: 0.875rem;
+        color: var(--weak);
+      }
+
+      .course-metadata > *:nth-child(2) {
+        margin: 0 0.5rem;
+      }
+
+      /* .course .course-code {
+        margin-top: 0.5rem;
+        font-size: 0.875rem;
+        color: var(--weak);
+      } */
+
+      .course-name-container {
+        display: flex;
+        align-items: center;
+      }
+
+      .course-name-container > *:nth-child(2) {
+        margin-left: 0.5rem;
+        font-size: 0.75rem;
+        background-color: var(--middle);
+        color: var(--weak);
+        padding: 0.25rem 0.5rem;
+        border-radius: 0.25rem;
+      }
+
+      @media screen and (max-width: 768px) {
+        :root {
+          --padding: 1rem;
+        }
+
+        #program-name {
+          font-size: 1.5rem;
+        }
+
+        #program-points {
+          font-size: 1rem;
+        }
+
+        #program-selector {
+          width: 100%;
         }
       }
     </style>
   </head>
   <body>
-    <select id="course-selector"></select>
+    <div id="backdrop">
+      <h1 id="program-name" class="ellipsis">name</h1>
+      <p id="program-points" class="ellipsis"></p>
+    </div>
+
+    <div id="program-requirements" class=""></div>
+
+    <select id="program-selector" class="hide-select-arrow"></select>
+
+    <ul id="courses"></ul>
   </body>
   <script type="text/javascript">
     const placeholder_data = {
@@ -52,6 +227,8 @@
           requirements:
             "Grundl\u00e4ggande beh\u00f6righet samt Matematik 4 och Fysik 2.",
           code: "MA1486",
+          href: "http://www.bth.se/utbildning/program-och-kurser/kurser/20232/BGWHN",
+          optional: false,
         },
         {
           name: "Programmering och probleml\u00f6sning med Python",
@@ -60,6 +237,8 @@
           end: "2023 vecka 43",
           requirements: "Grundl\u00e4ggande beh\u00f6righet",
           code: "DV1574",
+          href: "http://www.bth.se/utbildning/program-och-kurser/kurser/20232/BC6GY",
+          optional: false,
         },
         {
           name: "Ingenj\u00f6rsarbete inom ICT - Introduktion",
@@ -69,6 +248,8 @@
           requirements:
             "Grundl\u00e4ggande beh\u00f6righet samt Matematik 4, Fysik 2, och Kemi 1 eller Matematik E, Fysik B och KemiA.",
           code: "PA1461",
+          href: "http://www.bth.se/utbildning/program-och-kurser/kurser/20232/BP6K9",
+          optional: false,
         },
         {
           name: "Artificiell intelligens",
@@ -77,6 +258,8 @@
           end: "2024 vecka 02",
           requirements: "Grundl\u00e4ggande beh\u00f6righet",
           code: "DV1621",
+          href: "http://www.bth.se/utbildning/program-och-kurser/kurser/20232/B3JNH",
+          optional: false,
         },
         {
           name: "Linj\u00e4r algebra 1",
@@ -86,6 +269,8 @@
           requirements:
             "Grundl\u00e4ggande beh\u00f6righet samt Matematik 4 och Fysik 2.",
           code: "MA1448",
+          href: "http://www.bth.se/utbildning/program-och-kurser/kurser/20232/BNWA9",
+          optional: false,
         },
         {
           name: "Analys 1",
@@ -95,6 +280,8 @@
           requirements:
             "Grundl\u00e4ggande beh\u00f6righet samt Matematik 4 och Fysik 2.",
           code: "MA1444",
+          href: "http://www.bth.se/utbildning/program-och-kurser/kurser/20241/B6T3R",
+          optional: false,
         },
         {
           name: "Fysik grundkurs",
@@ -104,6 +291,8 @@
           requirements:
             "Grundl\u00e4ggande beh\u00f6righet samt Matematik 3c och Fysik 2.",
           code: "FY1431",
+          href: "http://www.bth.se/utbildning/program-och-kurser/kurser/20241/BEHDU",
+          optional: false,
         },
         {
           name: "Programvaruutveckling",
@@ -113,6 +302,8 @@
           requirements:
             "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngna 8 hp inom introduktion till ingenj\u00f6rsmetodik och genomg\u00e5ngna 6 hp inom programmering.",
           code: "PA1473",
+          href: "http://www.bth.se/utbildning/program-och-kurser/kurser/20241/BJGLG",
+          optional: false,
         },
         {
           name: "Analys 2",
@@ -122,6 +313,8 @@
           requirements:
             "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngen kurs Analys 1, 6 hp.",
           code: "MA1494",
+          href: "http://www.bth.se/utbildning/program-och-kurser/kurser/20241/BJJHJ",
+          optional: false,
         },
         {
           name: "Introduktion till databaser",
@@ -131,6 +324,8 @@
           requirements:
             "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att studenten har avklarat 6 hp i programmering.",
           code: "DV1664",
+          href: "http://www.bth.se/utbildning/program-och-kurser/kurser/20241/BW9NM",
+          optional: false,
         },
         {
           name: "Diskret matematik",
@@ -140,6 +335,8 @@
           requirements:
             "Genomg\u00e5ngna kurser Matematik, grundkurs, 4 hp alternativt Matematisk probleml\u00f6sning, 4 hp och Linj\u00e4r algebra 1, 6 hp eller motsvarande.",
           code: "MA1446",
+          href: "http://www.bth.se/utbildning/program-och-kurser/kurser/20242/B9JF7",
+          optional: false,
         },
         {
           name: "Matematisk statistik",
@@ -149,6 +346,8 @@
           requirements:
             "Genomg\u00e5ngna kurser i Analys 12 hp samt Linj\u00e4r algebra 6 hp (eller motsvarande).",
           code: "MS1405",
+          href: "http://www.bth.se/utbildning/program-och-kurser/kurser/20242/BFMLU",
+          optional: false,
         },
         {
           name: "Programmering i Python, forts\u00e4ttningskurs",
@@ -158,6 +357,8 @@
           requirements:
             "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngen kurs, Programmering och probleml\u00f6sning med Python, 6 hp, varav minst 2 hp ska vara avklarade.",
           code: "DV1582",
+          href: "http://www.bth.se/utbildning/program-och-kurser/kurser/20242/BW3MG",
+          optional: false,
         },
         {
           name: "Datastrukturer och algoritmer",
@@ -167,6 +368,8 @@
           requirements:
             "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs minst 6 hp avklarade i grundl\u00e4ggande programmering i C++, Java eller Python samt minst 2 hp avklarade i objektorienterad programmering.",
           code: "DV1625",
+          href: "http://www.bth.se/utbildning/program-och-kurser/kurser/20242/BPQGN",
+          optional: false,
         },
         {
           name: "Flervariabelanalys",
@@ -176,6 +379,8 @@
           requirements:
             "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngna kurser Linj\u00e4r algebra 6 hp, Analys 6 hp och Analys 2 6 hp.",
           code: "MA1447",
+          href: "http://www.bth.se/utbildning/program-och-kurser/kurser/20242/BHDQR",
+          optional: false,
         },
         {
           name: "Anv\u00e4ndbarhet och interaktionsdesign",
@@ -185,6 +390,8 @@
           requirements:
             "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att studenten har avklarat 6 hp inom huvudomr\u00e5detdatavetenskap eller programvaruteknik.",
           code: "DV1599",
+          href: "http://www.bth.se/utbildning/program-och-kurser/kurser/20251/BYN4U",
+          optional: false,
         },
         {
           name: "Interaktiva laborationer",
@@ -194,6 +401,8 @@
           requirements:
             "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngna kurser i programmering, 6 hp.",
           code: "DV1604",
+          href: "http://www.bth.se/utbildning/program-och-kurser/kurser/20251/B46LU",
+          optional: false,
         },
         {
           name: "Introduktion till molnteknologi",
@@ -203,6 +412,8 @@
           requirements:
             "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs 6 hp i programmering.",
           code: "DV1615",
+          href: "http://www.bth.se/utbildning/program-och-kurser/kurser/20251/BTHGG",
+          optional: false,
         },
         {
           name: "Signalbehandling med introduktion till maskininl\u00e4rning",
@@ -212,6 +423,8 @@
           requirements:
             "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att f\u00f6ljande kurser \u00e4r genomg\u00e5ngna:Linj\u00e4r algebra, 6 hp,Flervariabel analys, 6 hp,Matematisk statistik, 6 hp.",
           code: "ET1541",
+          href: "http://www.bth.se/utbildning/program-och-kurser/kurser/20251/B7RX4",
+          optional: false,
         },
         {
           name: "Datorteknik",
@@ -221,6 +434,8 @@
           requirements:
             "Programmering eller algoritmer och datastrukturer, 16 hp.",
           code: "DV1493",
+          href: "http://www.bth.se/utbildning/program-och-kurser/kurser/20251/BNQ6R",
+          optional: false,
         },
         {
           name: "Intelligent dataanalys",
@@ -230,6 +445,8 @@
           requirements:
             "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarad kurs Matematisk statistik, 6 hp samt 12 hp avklarade fr\u00e5n moment i programmeringskurser.",
           code: "DV1597",
+          href: "http://www.bth.se/utbildning/program-och-kurser/kurser/20251/B4DD9",
+          optional: false,
         },
         {
           name: "Grundkurs i h\u00e5llbar utveckling",
@@ -238,6 +455,8 @@
           end: "2026 vecka 03",
           requirements: "Grundl\u00e4ggande beh\u00f6righet",
           code: "SL1417",
+          href: "http://www.bth.se/utbildning/program-och-kurser/kurser/20252/B9HTJ",
+          optional: false,
         },
         {
           name: "Programmering i C",
@@ -247,6 +466,8 @@
           requirements:
             "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att 12 hp programmering \u00e4r avklarade.",
           code: "DV1580",
+          href: "http://www.bth.se/utbildning/program-och-kurser/kurser/20252/BYAYK",
+          optional: false,
         },
         {
           name: "Till\u00e4mpad artificiell intelligens",
@@ -256,6 +477,8 @@
           requirements:
             "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs 12 avklarade hp fr\u00e5n moment i programmeringskurser (Python eller dylikt) samt 6 avklarade hp i datastrukturer och algoritmer.",
           code: "DV2619",
+          href: "http://www.bth.se/utbildning/program-och-kurser/kurser/20252/BUF99",
+          optional: false,
         },
         {
           name: "Maskininl\u00e4rning",
@@ -265,6 +488,8 @@
           requirements:
             "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngen kurs i Till\u00e4mpad artificiell intelligens, 6 hp.",
           code: "DV2599",
+          href: "http://www.bth.se/utbildning/program-och-kurser/kurser/20252/BTK67",
+          optional: false,
         },
         {
           name: "Operativsystem",
@@ -274,6 +499,8 @@
           requirements:
             "F\u00f6r tilltr\u00e4de i kursen kr\u00e4vs 12 avklarade hp i programmering samt 1,5 hp avklarade fr\u00e5n algoritmer och datastrukturer.",
           code: "DV1629",
+          href: "http://www.bth.se/utbildning/program-och-kurser/kurser/20252/BWPGK",
+          optional: false,
         },
         {
           name: "Industriell ekonomi, \u00f6versiktskurs",
@@ -283,6 +510,8 @@
           requirements:
             "Omr\u00e5desbeh\u00f6righet 3: Matematik C, Samh\u00e4llskunskap A.  (Naturkunskap B kr\u00e4vs ej.)",
           code: "IY1402",
+          href: "http://www.bth.se/utbildning/program-och-kurser/kurser/20261/BWPNG",
+          optional: false,
         },
         {
           name: "Kompilator- och \u00f6vers\u00e4ttarteknik",
@@ -292,6 +521,8 @@
           requirements:
             "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs 18 hp avklarade i programmering inklusive datastrukturer och algoritmer.",
           code: "DV1655",
+          href: "http://www.bth.se/utbildning/program-och-kurser/kurser/20261/BX9FM",
+          optional: false,
         },
         {
           name: "Projekt i systemteknik",
@@ -301,6 +532,8 @@
           requirements:
             "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs 2 hp avklarade i objektorienterad design och 6 hp avklarade i programvaruutveckling.",
           code: "PA1475",
+          href: "http://www.bth.se/utbildning/program-och-kurser/kurser/20261/BFAYJ",
+          optional: false,
         },
         {
           name: "Robusta metoder",
@@ -310,6 +543,8 @@
           requirements:
             "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarad kurs i Matematisk statistik, 6 hp.",
           code: "MS1415",
+          href: "http://www.bth.se/utbildning/program-och-kurser/kurser/20261/BX64N",
+          optional: false,
         },
         {
           name: "Testning av mjukvara",
@@ -319,6 +554,8 @@
           requirements:
             "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs 12 hp avklarade fr\u00e5n moment i programmeringskurser samt avklarad kurs Programvaruutveckling, 6 hp.",
           code: "PA1465",
+          href: "http://www.bth.se/utbildning/program-och-kurser/kurser/20261/B9DAR",
+          optional: false,
         },
         {
           name: "Digital etik",
@@ -328,6 +565,8 @@
           requirements:
             "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarad kurs Till\u00e4mpad AI, 6 hp.",
           code: "DV2583",
+          href: "http://www.bth.se/utbildning/program-och-kurser/kurser/20262/BCUPU",
+          optional: false,
         },
         {
           name: "Programvaruarkitektur och kvalitet",
@@ -337,6 +576,8 @@
           requirements:
             "Studenten m\u00e5ste ha klarat av totalt 22,5 h\u00f6gskolepo\u00e4ng fr\u00e5n f\u00f6ljande omr\u00e5den: Programvarudesign, Datastruktureroch algoritmer, Databasteknik, Datakommunikation, Realtidssystem, Operativsystem samt avklarat en kurs i Programmering p\u00e5 minst 6 h\u00f6gskolepo\u00e4ng.",
           code: "PA1454",
+          href: "http://www.bth.se/utbildning/program-och-kurser/kurser/20262/B4FA4",
+          optional: false,
         },
         {
           name: "S\u00e4kerhet i AI-system",
@@ -346,6 +587,8 @@
           requirements:
             "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarad kurs Maskininl\u00e4rning, 6 hp eller avklarad kurs Signalbehandling med introduktion till maskininl\u00e4rning, 6 hp.",
           code: "DV2607",
+          href: "http://www.bth.se/utbildning/program-och-kurser/kurser/20262/BUPU9",
+          optional: false,
         },
         {
           name: "Multiprocessorprogrammering",
@@ -355,6 +598,8 @@
           requirements:
             "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs 60 hp avklarade i huvudomr\u00e5det datavetenskap eller programvaruteknik inklusive avklarade kurser i programmering 12 hp, algoritmer och datastrukturer 6 hp, operativsystem samt datorteknik 6 hp.",
           code: "DV2606",
+          href: "http://www.bth.se/utbildning/program-och-kurser/kurser/20262/B673N",
+          optional: false,
         },
         {
           name: "Teknikutveckling, digitalisering och samh\u00e4llsf\u00f6r\u00e4ndring",
@@ -363,6 +608,8 @@
           end: "2027 vecka 02",
           requirements: "Grundl\u00e4ggande beh\u00f6righet.",
           code: "TE1423",
+          href: "http://www.bth.se/utbildning/program-och-kurser/kurser/20262/BLQXL",
+          optional: false,
         },
         {
           name: "Avancerad maskininl\u00e4rning",
@@ -372,6 +619,8 @@
           requirements:
             "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser i Till\u00e4mpad artificiell intelligens, 6 hp och Maskininl\u00e4rning, 6 hp.",
           code: "DV2627",
+          href: "http://www.bth.se/utbildning/program-och-kurser/kurser/20271/BX9Q7",
+          optional: false,
         },
         {
           name: "Forskningsmetodik i datavetenskap",
@@ -381,6 +630,8 @@
           requirements:
             "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs 180 avklarade hp. Av dessa ska minst 165 hp ska vara inom n\u00e5got av omr\u00e5dena datavetenskap, informationssystem, datateknik, AI och maskininl\u00e4rning, telekommunikationssystem och/eller dators\u00e4kerhet. Minst 7,5 hp ska vara inom datavetenskap eller objektorienterad programmering. I de avklarade 180 hp ska \u00e4ven minst 15 hp matematik ing\u00e5.",
           code: "DV2631",
+          href: "http://www.bth.se/utbildning/program-och-kurser/kurser/20271/B6KCG",
+          optional: false,
         },
         {
           name: "Djup maskininl\u00e4rning",
@@ -390,6 +641,8 @@
           requirements:
             "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngen kurs Maskininl\u00e4rning 6 hp.",
           code: "DV2586",
+          href: "http://www.bth.se/utbildning/program-och-kurser/kurser/20271/BHPA7",
+          optional: false,
         },
         {
           name: "Robotik",
@@ -399,6 +652,8 @@
           requirements:
             "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser i Linj\u00e4r algebra, 6 hp, Analys 2 (integralkalkyl) ,6 hp, Flervariabel analys, 6 hp samt 12 hp fr\u00e5n moment i programmeringskurser. Vidare kr\u00e4vs att studenten har genomg\u00e5tt kursen Fysik grundkurs (mekanik), 6 hp.",
           code: "ET2625",
+          href: "http://www.bth.se/utbildning/program-och-kurser/kurser/20271/BPXTN",
+          optional: false,
         },
         {
           name: "Avancerat mjukvaruprojekt i team",
@@ -408,6 +663,8 @@
           requirements:
             "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser i programmering, 6 hp,  algoritmer och datastrukturer, 6 hp, programvaruutveckling, 6 hp, projekt i mjukvaruutveckling eller systemteknik, 7,5 hp samt genomg\u00e5ngen kurs i databasteknik, 6 hp.",
           code: "PA2567",
+          href: "http://www.bth.se/utbildning/program-och-kurser/kurser/20272/BG6NG",
+          optional: false,
         },
         {
           name: "Entrepren\u00f6rskap och det innovativa f\u00f6retaget",
@@ -416,6 +673,8 @@
           end: "2027 vecka 43",
           requirements: "Antagen p\u00e5 civilingenj\u00f6rsprogram",
           code: "IY2539",
+          href: "http://www.bth.se/utbildning/program-och-kurser/kurser/20272/BCQGM",
+          optional: true,
         },
         {
           name: "ICT startups och h\u00f6gteknologiskt entrepren\u00f6rskap",
@@ -425,6 +684,8 @@
           requirements:
             "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngen kurs Industriell ekonomi, \u00f6versikt, 6 hp.",
           code: "IY1430",
+          href: "http://www.bth.se/utbildning/program-och-kurser/kurser/20272/BEDJ4",
+          optional: true,
         },
         {
           name: "UNIX och Linux, en \u00f6versikt och introduktion",
@@ -433,6 +694,8 @@
           end: "2027 vecka 43",
           requirements: "Grundl\u00e4ggande beh\u00f6righet.",
           code: "DV1466",
+          href: "http://www.bth.se/utbildning/program-och-kurser/kurser/20272/BDCKH",
+          optional: true,
         },
         {
           name: "Bayesiansk statistik",
@@ -442,6 +705,8 @@
           requirements:
             "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarad kurs i Matematisk statistik, 6 hp.",
           code: "MS2505",
+          href: "http://www.bth.se/utbildning/program-och-kurser/kurser/20272/BCDC7",
+          optional: true,
         },
         {
           name: "Till\u00e4mpad Cloud Computing och Big Data",
@@ -451,6 +716,8 @@
           requirements:
             "Minst 90hp inom ett tekniskt omr\u00e5de varav minst 30 hp skall utg\u00f6ras av kurser inom ett eller flera av f\u00f6ljande omr\u00e5den: Programmering, Objektorienterad systemutveckling, Programvarudesign, Datastrukturer och algoritmer, Databasteknik, Datakommunikation, Realtidssystem, Operativsystem.eller Minst 90 hp inom omr\u00e5det teknologi och minst 2 \u00e5rs yrkeserfarenhet av mjukvarurelaterad utveckling (visas exempelvis genom intyg fr\u00e5n arbetsgivare).",
           code: "PA2577",
+          href: "http://www.bth.se/utbildning/program-och-kurser/kurser/20272/BNPU4",
+          optional: true,
         },
         {
           name: "Till\u00e4mpad optimering",
@@ -460,6 +727,8 @@
           requirements:
             "Genomg\u00e5ngna kurser i Analys 12 hp, Flervariabelanalys 6 hp samt Linj\u00e4r algebra 6 hp.",
           code: "MA2512",
+          href: "http://www.bth.se/utbildning/program-och-kurser/kurser/20272/BTGGH",
+          optional: true,
         },
         {
           name: "Utveckling av mobila applikationer",
@@ -469,6 +738,8 @@
           requirements:
             "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs 60 hp avklarade inom huvudomr\u00e5det datavetenskap eller programvaruteknik.",
           code: "PA1469",
+          href: "http://www.bth.se/utbildning/program-och-kurser/kurser/20272/BG9Y4",
+          optional: true,
         },
         {
           name: "Examensarbete f\u00f6r civilingenj\u00f6rer",
@@ -478,15 +749,98 @@
           requirements:
             "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att studenten har avklarat minst 240 hp som f\u00e5r ing\u00e5 i en civilingenj\u00f6rsexamen. Av dessa ska minst 30 hp vara avklarade kurser p\u00e5 avancerad niv\u00e5.",
           code: "TE2502",
+          href: "http://www.bth.se/utbildning/program-och-kurser/kurser/20281/BFGDQ",
+          optional: false,
         },
       ],
-      updated: 1666433273392,
+      href: "https://www.bth.se/utbildning/program-och-kurser/dvami/",
+      updated: 1666446728947,
     };
 
-    const select = document.getElementById("course-selector");
+    const select = document.getElementById("program-selector");
+
+    function getPeriod(start) {
+      const week = parseInt(start.split(" ")[2]);
+      if (week < 10) return 3;
+      if (week < 20) return 4;
+      if (week < 40) return 1;
+      if (week < 50) return 2;
+    }
+
+    function getGroupTitle(year, period) {
+      const container = document.createElement("div");
+      const yearTitle = document.createElement("p");
+      const periodTitle = document.createElement("p");
+      container.classList.add("group-title");
+      yearTitle.innerText = `År ${year}`;
+      periodTitle.innerText = `Läsperiod ${period}`;
+      container.appendChild(yearTitle);
+      container.appendChild(periodTitle);
+      return container;
+    }
 
     function setProgram(data) {
-      console.log("Setting", data);
+      document.getElementById("program-name").innerText = data.name;
+      document.getElementById("program-points").innerText = data.points + " hp";
+      document.getElementById(
+        "program-requirements"
+      ).innerHTML = `<p>Krav</p><p class="ellipsis">${data.requirements}</p>`;
+
+      const courses = document.getElementById("courses");
+      courses.innerHTML = "";
+
+      period = 1;
+      year = 1;
+
+      courses.appendChild(getGroupTitle(year, period));
+
+      data.courses.forEach((course) => {
+        prevPeriod = period;
+        prevYear = year;
+        period = getPeriod(course.start);
+        if (period < prevPeriod) year++;
+
+        if (prevPeriod !== period || prevYear !== year) {
+          courses.appendChild(getGroupTitle(year, period));
+        }
+
+        const listItem = document.createElement("li");
+        const anchor = document.createElement("a");
+        anchor.classList.add("course");
+        const nameContainer = document.createElement("div");
+        nameContainer.classList.add("course-name-container");
+        const name = document.createElement("p");
+        const optional = document.createElement("p");
+
+        const metadata = document.createElement("div");
+        metadata.classList.add("course-metadata");
+        const points = document.createElement("p");
+        const code = document.createElement("p");
+        const splitter = document.createElement("p");
+        splitter.innerText = "|";
+        points.classList.add("course-points");
+        code.classList.add("course-code");
+        metadata.appendChild(code);
+        metadata.appendChild(splitter);
+        metadata.appendChild(points);
+
+        anchor.href = course.href;
+
+        name.innerText = course.name;
+        nameContainer.appendChild(name);
+        if (course.optional) {
+          optional.innerText = "Valfri";
+          nameContainer.appendChild(optional);
+        }
+
+        points.innerText = course.points + " hp";
+        code.innerText = course.code;
+
+        anchor.appendChild(nameContainer);
+        anchor.appendChild(metadata);
+        listItem.appendChild(anchor);
+        courses.appendChild(listItem);
+      });
     }
 
     async function getProgram(e) {
