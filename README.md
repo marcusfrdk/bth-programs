@@ -1,6 +1,8 @@
-# Blekinge Institute of Technology - Courses
+<p align=center><img src="./assets/bth-logo.png" /></p>
 
-This is a simple repository for fetching and viewing all courses a program has. The information is the same as the official [course catalog](https://www.bth.se/utbildning/program-och-kurser/). However, this repository will include all information in one place, making it easier for students to get a better overview of their program.
+# Blekinge Institute of Technology - Programs and Courses
+
+Get an overview of your programs and courses at Blekinge Institute of Technology.
 
 ## Requirements
 
@@ -17,3 +19,23 @@ pip3 install -r requirements.txt
 ```
 
 _`pip` instead of `pip3` if on Windows_
+
+## Usage
+
+The generated data files can be found in `www/data/*.json`
+
+### All
+
+To generate all program data files, run the following command:
+
+```bash
+python3 run_all.py
+```
+
+### Single/Multiple
+
+To get a single/multiple program data file(s), run the following command:
+
+```bash
+python3 main.py CODE [CODE...]
+```

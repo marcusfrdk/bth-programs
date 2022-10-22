@@ -3,7 +3,7 @@ from re import match
 from bs4 import BeautifulSoup
 from requests_html import HTMLSession
 
-from main import run
+from run import run
 
 
 def is_program(href: str) -> bool:
