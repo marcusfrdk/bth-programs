@@ -122,6 +122,12 @@
         margin-right: 1rem;
       }
 
+      #updated {
+        font-size: 0.875rem;
+        color: var(--weak);
+        margin-top: 0.5rem;
+      }
+
       #program-requirements {
         padding: 1rem;
         background-color: var(--bottom);
@@ -245,10 +251,12 @@
     </style>
   </head>
   <body>
-    <div id="backdrop">
-      <h1 id="program-name" class="ellipsis"></h1>
-      <p id="program-points" class="ellipsis"></p>
-    </div>
+    <a id="program-href">
+      <div id="backdrop">
+        <h1 id="program-name" class="ellipsis"></h1>
+        <p id="program-points" class="ellipsis"></p>
+      </div>
+    </a>
 
     <div id="program-requirements" class=""></div>
 
@@ -266,7 +274,7 @@
     <ul id="courses"></ul>
 
     <p style="color: var(--weak)">
-      Created by
+      Skapad av
       <a
         href="https://marcusfredriksson.com"
         target="_blank"
@@ -274,6 +282,8 @@
         >marcusfrdk</a
       >
     </p>
+
+    <p id="updated">Data updated at</p>
   </body>
   <script type="text/javascript">
     const programSelector = document.getElementById("program-selector");
@@ -362,6 +372,7 @@
     }
 
     function setProgram(data) {
+      document.getElementById("program-href").href = data.href;
       document.getElementById("program-name").innerText = data.name;
       document.getElementById("program-points").innerText = data.points + " hp";
       document.getElementById(
@@ -459,6 +470,9 @@
       const data = await response.json();
       const content = JSON.parse(atob(data.content));
       setProgram(content);
+      document.getElementById(
+        "updated"
+      ).innerText = `Datan genererades ${new Date(content.updated)}`;
     }
 
     async function getIndex() {
