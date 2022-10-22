@@ -5,6 +5,12 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap"
+      rel="stylesheet"
+    />
     <title>BTH - Programs and Courses</title>
     <style>
       * {
@@ -13,6 +19,7 @@
         margin: 0;
         color: var(--strong);
         text-decoration: none;
+        font-family: "Inter", sans-serif;
       }
 
       ul {
@@ -155,19 +162,23 @@
         color: var(--weak);
       }
 
-      .course-metadata > *:nth-child(2) {
+      .course-splitter {
         margin: 0 0.5rem;
       }
 
-      /* .course .course-code {
+      .course-requirements {
         margin-top: 0.5rem;
-        font-size: 0.875rem;
-        color: var(--weak);
-      } */
+      }
 
       .course-name-container {
         display: flex;
         align-items: center;
+        width: 100%;
+        overflow: hidden;
+      }
+
+      .course-name-container > *:first-child {
+        font-weight: bold;
       }
 
       .course-name-container > *:nth-child(2) {
@@ -213,6 +224,34 @@
   <script type="text/javascript">
     const select = document.getElementById("program-selector");
 
+    function getBlockingCourses(program) {
+      // Currently a very primitive implementation, since
+      // the wording for "required" is very human-like,
+      // an implementation is pretty sketchy. Please
+      // improve this if you can.
+
+      const courses = program.courses;
+      const blockingCourses = [];
+      const blockingWords = [
+        "krävs",
+        "krävas",
+        "avklarad",
+        "avklarade",
+        "klarat av",
+        "avklarat",
+      ];
+
+      courses.forEach((course) => {
+        blockingWords.forEach((word) => {
+          if (course.requirements.includes(word)) {
+            blockingCourses.push(course.name);
+          }
+        });
+      });
+
+      return blockingCourses;
+    }
+
     function getPeriod(start) {
       const week = parseInt(start.split(" ")[2]);
       if (week < 10) return 3;
@@ -240,6 +279,8 @@
         "program-requirements"
       ).innerHTML = `<p>Krav</p><p class="ellipsis">${data.requirements}</p>`;
 
+      const blockingCourses = getBlockingCourses(data);
+
       const courses = document.getElementById("courses");
       courses.innerHTML = "";
 
@@ -263,20 +304,39 @@
         anchor.classList.add("course");
         const nameContainer = document.createElement("div");
         nameContainer.classList.add("course-name-container");
+        nameContainer.classList.add("ellipsis");
         const name = document.createElement("p");
         const optional = document.createElement("p");
 
         const metadata = document.createElement("div");
         metadata.classList.add("course-metadata");
+        metadata.classList.add("ellipsis");
+
         const points = document.createElement("p");
         const code = document.createElement("p");
         const splitter = document.createElement("p");
         splitter.innerText = "|";
+        splitter.classList.add("course-splitter");
         points.classList.add("course-points");
         code.classList.add("course-code");
         metadata.appendChild(code);
         metadata.appendChild(splitter);
         metadata.appendChild(points);
+
+        if (blockingCourses.includes(course.name)) {
+          const splitter2 = document.createElement("p");
+          const blocking = document.createElement("p");
+          splitter2.innerText = "|";
+          splitter2.classList.add("course-splitter");
+          blocking.innerText = "Kräver avklarade kurser";
+          metadata.appendChild(splitter2);
+          metadata.appendChild(blocking);
+        }
+
+        const requirements = document.createElement("p");
+        requirements.classList.add("course-requirements");
+        requirements.classList.add("ellipsis");
+        requirements.innerText = course.requirements;
 
         anchor.href = course.href;
 
@@ -292,6 +352,7 @@
 
         anchor.appendChild(nameContainer);
         anchor.appendChild(metadata);
+        anchor.appendChild(requirements);
         listItem.appendChild(anchor);
         courses.appendChild(listItem);
       });
