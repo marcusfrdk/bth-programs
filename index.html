@@ -251,7 +251,7 @@
     </style>
   </head>
   <body>
-    <a id="program-href">
+    <a id="program-href" target="_blank">
       <div id="backdrop">
         <h1 id="program-name" class="ellipsis"></h1>
         <p id="program-points" class="ellipsis"></p>
@@ -401,6 +401,7 @@
 
         const listItem = document.createElement("li");
         const anchor = document.createElement("a");
+        anchor.target = "_blank";
         anchor.classList.add("course");
         anchor.classList.add(`y${year}p${period}`);
         const nameContainer = document.createElement("div");
