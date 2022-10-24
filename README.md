@@ -1,4 +1,4 @@
-<p align=center><img src="./assets/bth-logo.png" /></p>
+<p align=center><img src="./assets/bth-logo.png" width="256" /></p>
 
 # Blekinge Institute of Technology - Programs and Courses
 
@@ -6,26 +6,13 @@ Get an overview of your programs and courses at Blekinge Institute of Technology
 
 You can [view the application here](https://bth.marcusfredriksson.com).
 
-## Requirements
+## Disclaimer
 
-- Python 3.6 or greater
+This project is _not affiliated_ with Blekinge Institute of Technology in any way.
 
-## Installation
+## Usage
 
-To get setup with your own environment for development, run the following commands:
-
-```bash
-git clone https://github.com/marcusfrdk/bth-programs
-cd bth-courses
-pip3 install -r requirements.txt
-```
-
-_`pip` instead of `pip3` if on Windows_
-
-## Notes
-
-- Generated data files can be found in `data/*.json`
-- The program utilizes multithreading and will by default utilize all available CPU cores, to set a custom amount of threads, use the `--threads` flag.
+_Note: Generated data files can be found in `data/*.json`_
 
 ### All
 
@@ -43,8 +30,14 @@ To get a single/multiple program data file(s), run the following command:
 python3 run.py CODE [CODE...]
 ```
 
-## Todo
+## Command Line Arguments
 
-- [ ] Add support for courses spanning over multiple semesters
-- [ ] Add ability to select courses and add to custom schedule
-- [ ] Header that shows up when scrolling doen with program name and program selector
+| Argument    | Description                                   | Type         |
+| ----------- | --------------------------------------------- | ------------ |
+| `code`      | one or multiple program codes to download     | str or \*str |
+| `--help`    | Show help message and exit                    |              |
+| `--threads` | limits the program to a set number of threads |              |
+
+## Contributing
+
+If you want to contribute to this project, please read the [contributing guidelines](./CONTRIBUTING.md).
