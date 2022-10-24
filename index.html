@@ -11,7 +11,7 @@
       href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap"
       rel="stylesheet"
     />
-    <title>Programs and Courses | BTH</title>
+    <title>BTH | Programs and Courses</title>
     <style>
       * {
         box-sizing: border-box;
@@ -141,17 +141,21 @@
         color: var(--weak);
       }
 
-      a.current {
+      div.current {
         background-color: var(--primary);
       }
 
-      a.current * {
-        color: #ffffff;
+      div.current * {
+        color: #ffffff !important;
       }
 
-      a.current .tag {
+      div.current .course-description {
+        background-color: var(--primary-light);
+      }
+
+      div.current .tag {
         background-color: var(--primary-light) !important;
-        color: #ffffff;
+        color: #ffffff !important;
       }
 
       .ellipsis {
@@ -208,6 +212,30 @@
         align-items: center;
         width: 100%;
         overflow: hidden;
+      }
+
+      .course-description-container {
+        margin-top: 0.5rem;
+      }
+
+      .course-toggle-description {
+        color: var(--weak);
+        cursor: pointer;
+        background: none;
+        border: none;
+        font-size: 0.875rem;
+      }
+
+      .course-description {
+        margin-bottom: 0.5rem;
+        display: none;
+        background-color: var(--middle);
+        padding: 0.5rem;
+        border-radius: 0.25rem;
+      }
+
+      .course-description-container.show > *:first-child {
+        display: block;
       }
 
       .course-name-container > *:first-child {
@@ -282,6 +310,17 @@
   <script type="text/javascript">
     const programSelector = document.getElementById("program-selector");
     const yearSelector = document.getElementById("year-selector");
+
+    function toggleCourseDescription(e) {
+      if (e.target.classList.contains("course-toggle-description")) {
+        e.target.parentNode.classList.toggle("show");
+        if (e.target.parentNode.classList.contains("show")) {
+          e.target.innerText = "Dölj beskrivning";
+        } else {
+          e.target.innerText = "Visa beskrivning";
+        }
+      }
+    }
 
     function getBlockingCourses(program) {
       // Currently a very poor implementation, since
@@ -389,6 +428,29 @@
       return container;
     }
 
+    function createElement(tag, params) {
+      const element = document.createElement(tag);
+      Object.entries(params).forEach(([key, value]) => {
+        switch (key) {
+          case "children":
+            params.children.forEach((child) => {
+              element.appendChild(child);
+            });
+            break;
+          case "class":
+            params.class.split(" ").forEach((className) => {
+              element.classList.add(className);
+            });
+            break;
+          default:
+            if (key in element) element[key] = value;
+            else console.log(`Key '${key}'' does not exist on element.`);
+            break;
+        }
+      });
+      return element;
+    }
+
     function setProgram(data) {
       document.getElementById("program-href").href = data.href;
       document.getElementById("program-name").innerText = data.name;
@@ -419,65 +481,88 @@
           courses.appendChild(getGroupTitle(year, semester));
         }
 
-        const listItem = document.createElement("li");
-        const anchor = document.createElement("a");
-        anchor.target = "_blank";
-        anchor.classList.add("course");
-        anchor.classList.add(`y${year}p${semester}`);
-        const nameContainer = document.createElement("div");
-        nameContainer.classList.add("course-name-container");
-        nameContainer.classList.add("ellipsis");
-        const name = document.createElement("p");
-        const optional = document.createElement("p");
-        optional.classList.add("tag");
-
-        const metadata = document.createElement("div");
-        metadata.classList.add("course-metadata");
-        metadata.classList.add("ellipsis");
-
-        const points = document.createElement("p");
-        const code = document.createElement("p");
-        const splitter = document.createElement("p");
-        splitter.innerText = "|";
-        splitter.classList.add("course-splitter");
-        points.classList.add("course-points");
-        code.classList.add("course-code");
-        metadata.appendChild(code);
-        metadata.appendChild(splitter);
-        metadata.appendChild(points);
-
-        if (blockingCourses.includes(course.name)) {
-          const splitter2 = document.createElement("p");
-          const blocking = document.createElement("p");
-          splitter2.innerText = "|";
-          splitter2.classList.add("course-splitter");
-          blocking.innerText = "Kräver avklarade kurser";
-          metadata.appendChild(splitter2);
-          metadata.appendChild(blocking);
+        function splitter() {
+          return createElement("p", {
+            innerText: "|",
+            class: "course-splitter",
+          });
         }
 
-        const requirements = document.createElement("p");
-        requirements.classList.add("course-requirements");
-        requirements.classList.add("ellipsis");
-        requirements.innerText = course.requirements;
+        const descriptionContainer = createElement("div", {
+          class: "course-description-container",
+          children: [
+            createElement("p", {
+              innerText: course.description,
+              class: "course-description ellipsis",
+            }),
+            createElement("button", {
+              innerText: "Visa beskrivning",
+              class: "course-toggle-description",
+            }),
+          ],
+          onclick: toggleCourseDescription,
+        });
 
-        anchor.href = course.href;
+        const requirements = createElement("p", {
+          innerText: course.requirements,
+          class: "ellipsis course-requirements",
+        });
 
-        name.innerText = course.name;
-        nameContainer.appendChild(name);
-        if (course.optional) {
-          optional.innerText = "Valfri";
-          nameContainer.appendChild(optional);
-        }
+        const metadata = createElement("div", {
+          class: "course-metadata",
+          children: [
+            createElement("p", {
+              class: "course-code",
+              innerText: course.code,
+            }),
+            splitter(),
+            createElement("p", {
+              class: "points",
+              innerText: course.points + " hp",
+            }),
+            ...(blockingCourses.includes(course.name)
+              ? [
+                  splitter(),
+                  createElement("p", {
+                    innerText: "Kräver avklarade kurser",
+                  }),
+                ]
+              : []),
+          ],
+        });
 
-        points.innerText = course.points + " hp";
-        code.innerText = course.code;
+        const title = createElement("div", {
+          class: "course-name-container",
+          children: [
+            createElement("a", {
+              href: course.href,
+              children: [
+                createElement("p", {
+                  innerText: course.name,
+                }),
+              ],
+            }),
+            ...(course.optional
+              ? [
+                  createElement("p", {
+                    innerText: "Valbar",
+                    class: "tag",
+                  }),
+                ]
+              : []),
+          ],
+        });
 
-        anchor.appendChild(nameContainer);
-        anchor.appendChild(metadata);
-        anchor.appendChild(requirements);
-        listItem.appendChild(anchor);
-        courses.appendChild(listItem);
+        const wrapper = createElement("div", {
+          class: `y${year}p${semester} course`,
+          children: [title, metadata, requirements, descriptionContainer],
+        });
+
+        const li = createElement("li", {
+          children: [wrapper],
+        });
+
+        courses.appendChild(li);
       });
 
       highlightCurrentCourses();
