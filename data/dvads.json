@@ -146,7 +146,7 @@
       "code": "DV1563",
       "description": "Syftet med denna kurs \u00e4r att introducera kommandotolken, grundl\u00e4ggande standardverktyg och kommandon, deras anv\u00e4ndningsomr\u00e5den i UNIX samt att kombinera dessa till st\u00f6rre arbetsfl\u00f6den.",
       "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20242/BT3NW",
-      "optional": true
+      "optional": false
     },
     {
       "name": "Kryptering 1",
@@ -502,5 +502,5 @@
     }
   ],
   "href": "https://www.bth.se/utbildning/program-och-kurser/dvads/",
-  "updated": 1666632475645
+  "updated": 1666647183354
 }

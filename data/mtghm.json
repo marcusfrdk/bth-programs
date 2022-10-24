@@ -289,7 +289,7 @@
       "code": "MT1546",
       "description": "Syftet med kursen \u00e4r att ge en helhetsbild \u00f6ver begreppet Lean produktion och en f\u00f6rst\u00e5else f\u00f6rrelationerna mellan filosofi, principerna och verktygen i Lean produktion.",
       "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20261/BPXHN",
-      "optional": true
+      "optional": false
     },
     {
       "name": "Termodynamik",
@@ -315,5 +315,5 @@
     }
   ],
   "href": "https://www.bth.se/utbildning/program-och-kurser/mtghm/",
-  "updated": 1666633078895
+  "updated": 1666647525793
 }

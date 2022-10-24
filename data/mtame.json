@@ -58,7 +58,7 @@
       "code": "MT2571",
       "description": "Digital tvilling \u00e4r ett koncept som anv\u00e4nds f\u00f6r att representera en digital kopia av en produkt. Det h\u00e4r konceptet m\u00f6jligg\u00f6rs av \u00f6kad tillg\u00e4nglighet av sensorer och uppkopplade produkter, i kombination med \u00f6kad datorkraft och datalagring. Genom att ha en digital kopia av den enskilda produktindividen i drift \u00e4r det m\u00f6jligt att i realtid f\u00f6lja enskilda produkters tillst\u00e5nd och analysera och simulera scenarier f\u00f6r underh\u00e5ll, samt st\u00f6dja utvecklingen av n\u00e4sta generation produkter.Syftet med kursen \u00e4r f\u00f6r studenterna att f\u00f6rv\u00e4rva kunskap och f\u00f6rst\u00e5else om konceptet digital tvilling, samt att tillhandah\u00e5lla verktyg och metoder f\u00f6r att kunna utveckla egna digitala tvillingar av produkter.Kursen inkluderar en blandning av teori, metoder och verktyg f\u00f6r digitala tvillingar, som till\u00e4mpas i fall f\u00f6r implementering och drift av en digital kopia av en fysisk produkt.",
       "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20241/BJHRF",
-      "optional": true
+      "optional": false
     },
     {
       "name": "Strukturanalys",
@@ -135,7 +135,7 @@
       "code": "MT2559",
       "description": "Syftet med kursen \u00e4r att ge deltagaren kunskap att f\u00f6rst\u00e5, samt f\u00f6rm\u00e5gan att implementera och anv\u00e4nda, teorier och metoder f\u00f6r simuleringsst\u00f6d i produktutveckling.",
       "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20242/BRFU4",
-      "optional": true
+      "optional": false
     },
     {
       "name": "Masterarbete i maskinteknik med inriktning mot strukturmekanik",
@@ -150,5 +150,5 @@
     }
   ],
   "href": "https://www.bth.se/utbildning/program-och-kurser/mtame/",
-  "updated": 1666633306265
+  "updated": 1666647750239
 }

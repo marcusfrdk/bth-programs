@@ -47,7 +47,7 @@
       "code": "PA2577",
       "description": "I dagens mobila uppkopplade v\u00e4rld genereras stora m\u00e4ngder data som beh\u00f6ver hanteras, analyseras, och l\u00e4nkas samman. Detta g\u00f6rs p\u00e5 en stor m\u00e4ngd servrar p\u00e5 det s\u00e5 kallade Molnet. Utvecklingen, drifts\u00e4ttningen, och hanteringen av dessa kallas Cloud Computing. Syftet med den h\u00e4r kursen \u00e4r att ge en bred bakgrund om att designa, utveckla, drifts\u00e4tta, testa och \u00f6vervaka en cloud-l\u00f6sning, specifikt med fokus p\u00e5 stora datam\u00e4ngder. Kursen ger en \u00f6versikt \u00f6ver popul\u00e4ra cloud-plattformar samt design och drifts\u00e4ttning av cloud-applikationer. Vidare introducerar kursen MapReduce, nosql-databaser, och verktyg f\u00f6r storskalig distribuerad dataanalys s\u00e5som Hadoop, och hur dessa kan drifts\u00e4ttas i en cloud applikation.",
       "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20232/B6D7G",
-      "optional": true
+      "optional": false
     },
     {
       "name": "Forskningsmetodik och magisterarbete i programvaruteknik f\u00f6r yrkesverksamma",
@@ -84,5 +84,5 @@
     }
   ],
   "href": "https://www.bth.se/utbildning/program-och-kurser/paasa/",
-  "updated": 1666633219330
+  "updated": 1666647659081
 }

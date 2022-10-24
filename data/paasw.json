@@ -14,7 +14,7 @@
       "code": "PA2555",
       "description": "Utveckling av programvara \u00e4r en betydande investering. Av denna anledning \u00e4r det viktigt att r\u00e4tt produkt eller tj\u00e4nst utvecklas p\u00e5 ett kostnadseffektivt s\u00e4tt och levereras till kunder och anv\u00e4ndare i r\u00e4tt tid, kvalit\u00e9 och pris. Merparten av programvaran utvecklas i team s\u00e5 d\u00e4rf\u00f6r \u00e4r det mycket viktigt att utvecklare har ing\u00e5ende kunskaper och f\u00e4rdigheter i att leda och arbeta effektivt i projektteam.",
       "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20232/BJ6KN",
-      "optional": true
+      "optional": false
     },
     {
       "name": "Seminarier i Programvaruteknik",
@@ -47,7 +47,7 @@
       "code": "PA1453",
       "description": "Programvaruarkitektur \u00e4r ett viktigt tekniskt koncept i modern, storskalig programvaruutveckling, d\u00e4r programvaruarkitektur tj\u00e4nar flera syften: planering av utvecklingsresurser; analys  av problemdom\u00e4nen fr\u00e5n flera olika perspektiv med hj\u00e4lp av arkitekturella vyer, samt abstraktion av stora m\u00e4ngder information f\u00f6r att uppn\u00e5 en anv\u00e4ndbar \u00f6versikt av systemet. Dessutom \u00e4r programvaruarkitekturen och de beslut som fattats ang\u00e5ende dess konstruktion nyckelkomponenter f\u00f6r att planera och \u00e5stadkomma specifika niv\u00e5er av kvalitet i det f\u00e4rdiga systemet och d\u00e4rmed ocks\u00e5 avg\u00f6rande f\u00f6r systemets framg\u00e5ngsm\u00f6jligheter.I kursen f\u00f6rv\u00e4ntas studenten skaffa sig detaljerad kunskap om programvaruarkitektur och kvalitet, om programvaruarkitektur och dess relaterade beslutseffekter p\u00e5 kvaliteten p\u00e5 den utvecklade programvaran.Studenten f\u00f6rv\u00e4ntas uppn\u00e5 detaljerad f\u00f6rst\u00e5else om hur: i) programvaruarkitektur av befintliga programvarusystem dokumenteras; ii) programvaruarkitekturer konstrueras baserat p\u00e5 moderna metoder och ideer, till exempel arkitekturstilar, -m\u00f6nster och taktiker, genom att ta h\u00e4nsyn till den \u00f6nskade programvaran, den omgivande teknologin och utvecklingsorganisationen; iii) resonera sakligt och faktabaserat om en specifik programvaruarkitekturs l\u00e4mplighet f\u00f6r en viss produkt eller tj\u00e4nst.",
       "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20232/BAC3F",
-      "optional": true
+      "optional": false
     },
     {
       "name": "Forskningsmetodik i Programvaruteknik och Datavetenskap",
@@ -69,7 +69,7 @@
       "code": "PA2552",
       "description": "Testning \u00e4r en central aktivitet i mjukvaruutveckling, men det \u00e4r ofta en utmaning att utf\u00f6ra testning av programvara p\u00e5 ett effektivt och \u00e4ndam\u00e5lsenligt s\u00e4tt. M\u00e5len f\u00f6r kursen \u00e4r att f\u00e5 deltagarna att inse hur testning kan f\u00f6rb\u00e4ttra programvarans kvalitet om den effektivt integreras i mjukvaruutvecklingsprocesserna, f\u00f6rst\u00e5 hur detta kan \u00e5stadkommas med hj\u00e4lp av b\u00e5de etablerade och nya tekniker inom mjukvarutestning, och f\u00e5 praktisk erfarenhet av verktyg som st\u00f6djer och automatiserar dessa tekniker.",
       "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20241/BDNH9",
-      "optional": true
+      "optional": false
     },
     {
       "name": "Beslutsst\u00f6djande system",
@@ -179,7 +179,7 @@
       "code": "PA2557",
       "description": "Kursen syftar till detaljerad f\u00f6rst\u00e5else av programvarukvalitet och utmaningar f\u00f6r att uppn\u00e5 h\u00f6g kvalitet. Dessutom diskuteras \u00e4mnen s\u00e5som kvalitetsstyrning av programvara och dess roll inom ramen f\u00f6r programvaruutveckling och de aktiviteter, tekniker och modeller som \u00e4r centrala f\u00f6r att s\u00e4kra programvarukvalitet.Deltagarna ska under kursen utveckla en medvetenhet om r\u00e5dande state-of-the-art och inommjukvaruindustrin.",
       "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20242/BJF37",
-      "optional": true
+      "optional": false
     },
     {
       "name": "Maskininl\u00e4rning",
@@ -238,5 +238,5 @@
     }
   ],
   "href": "https://www.bth.se/utbildning/program-och-kurser/paasw/",
-  "updated": 1666633245727
+  "updated": 1666647686050
 }

@@ -91,7 +91,7 @@
       "code": "ET1524",
       "description": "Kursens syfte \u00e4r att ge grundl\u00e4ggande kunskaper i datakommunikation och datan\u00e4t med inriktning mot distribuerade uppkopplade system samt orientering kring aktuella och framtida till\u00e4mpningsomr\u00e5den, s\u00e5som \"Internet of Things\". Kursen ger \u00e4ven kunskap och f\u00e4rdigheter kring n\u00e4tverksprogrammering som grundl\u00e4ggande verktyg f\u00f6r utbyte av data inom distribuerade system.",
       "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20241/BL6HU",
-      "optional": true
+      "optional": false
     },
     {
       "name": "Individuellt programvaruprojekt",
@@ -293,5 +293,5 @@
     }
   ],
   "href": "https://www.bth.se/utbildning/program-och-kurser/pagpt/",
-  "updated": 1666633167110
+  "updated": 1666647604857
 }

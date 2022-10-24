@@ -344,7 +344,7 @@
       "code": "MT2569",
       "description": "Syftet med kursen \u00e4r att studenten ska f\u00e5 mycket goda insikter och f\u00e4rdigheter i hur b\u00e5de tekniska och sociala innovationer skapas. Kursen behandlar design och utveckling av s\u00e5v\u00e4l nya produkter (varor och tj\u00e4nster) och nya processer (tekniska och organisatoriska), med s\u00e4rskilt fokus p\u00e5 metoder, verktyg och strategier f\u00f6r de tidiga faserna av innovationsprocessen. Kursen bygger p\u00e5 en process f\u00f6r Design Thinking \u2013 en process f\u00f6r att hantera komplexa fr\u00e5gor och sammanhang d\u00e4r designern matchar insikter om m\u00e4nniskors behov med genomf\u00f6rbara l\u00f6sningar i ett marknadsm\u00e4ssigt erbjudande \u2013 som inkluderar f\u00f6rel\u00e4sningar och \u00f6vningar med anknytning till teorier om designprocesser och metoder inom \u00e4mnet design och innovation. Studenterna kommer aktivt s\u00f6ka efter och analysera anv\u00e4ndares behov f\u00f6r att sedan ta fram id\u00e9er, koncept och detaljl\u00f6sningar f\u00f6r att matcha dessa behov. Att kunna sammanfoga l\u00f6nsamhet, genomf\u00f6rbarhet och \u00f6nskv\u00e4rdhet i ett totalt erbjudande \u00e4r av avg\u00f6rande betydelse f\u00f6r produkt-tj\u00e4nstesystem (PSS). Design Thinking handlar om att ge studenten insikt och f\u00f6rm\u00e5ga att matcha m\u00e4nniskors \u00f6nskem\u00e5l och behov med vad som \u00e4r tekniskt genomf\u00f6rbart i ett livskraftigt aff\u00e4rserbjudande f\u00f6r \u00f6kat kundv\u00e4rde och marknadsm\u00f6jligheter. Det \u00e4r en metod och f\u00f6rh\u00e5llningss\u00e4tt d\u00e4r man ges och utvecklar verktyg f\u00f6r att genomsyra all innovationsverksamhet med en m\u00e4nniskocentrerad designfilosofi.",
       "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20262/BJYUL",
-      "optional": true
+      "optional": false
     },
     {
       "name": "Differentialekvationer med Liegruppanalys",
@@ -388,7 +388,7 @@
       "code": "SL2543",
       "description": "Utifr\u00e5n kunskaper och f\u00e4rdigheter fr\u00e5n tidigare kurser ska studenterna l\u00e4ra sig att (1) g\u00f6ra h\u00e5llbarhetsanalys vid produktutveckling och (2) generera f\u00f6rb\u00e4ttringsid\u00e9er utifr\u00e5n analysresultaten. De ska l\u00e4ra sig (3) f\u00f6r- och nackdelar med olika tillv\u00e4gag\u00e5ngss\u00e4tt f\u00f6r ovanst\u00e5ende och (4) hur dessa tillv\u00e4gag\u00e5ngss\u00e4tt kan integreras i konceptutveckling. Kompetens i h\u00e5llbar produktutveckling \u00e4r efterfr\u00e5gad i n\u00e4ringsliv och samh\u00e4lle. Kursen utvecklar teoretisk f\u00f6rst\u00e5else och praktisk f\u00e4rdighet i sk\u00e4rningspunkten mellan tv\u00e5 av BTH:s expertomr\u00e5den \u2013 h\u00e5llbarhet och produktutveckling.",
       "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20262/BQN3H",
-      "optional": true
+      "optional": false
     },
     {
       "name": "Mekanisk systemdynamik",
@@ -421,7 +421,7 @@
       "code": "MT2568",
       "description": "V\u00e4rdeinnovation \u00e4r att samtidigt bedriva ett differentieringsfokus och s\u00f6ka l\u00e5g kostnad. V\u00e4rdeinnovation fokuserar p\u00e5 att g\u00f6ra konkurrensen irrelevant genom att skapa ett nytt och unikt v\u00e4rde f\u00f6r k\u00f6pare och f\u00f6retag, och d\u00e4rigenom \u00f6ppna upp nya och obestridda marknadsutrymme. Eftersom v\u00e4rdet f\u00f6r k\u00f6pare kommer fr\u00e5n erbjudandets m\u00f6jligheter minus dess pris, samt att v\u00e4rdet f\u00f6r f\u00f6retaget genereras fr\u00e5n erbjudandets pris minus dess kostnader uppn\u00e5s v\u00e4rdeinnovation f\u00f6rst n\u00e4r hela systemet av nytta/m\u00f6jlighet, pris och kostnad \u00e4r i samf\u00f6rst\u00e5nd. Syftet med kursen \u00e4r att ge studenterna en f\u00f6rst\u00e5else f\u00f6r hur metoder och verktyg f\u00f6r att utveckla produkter, baserade p\u00e5 en v\u00e4rdevy, kan anv\u00e4ndas. Studenterna kommer att f\u00e5 kunskap i projektledning, och -hantering, kundbehov, v\u00e4rdeanalys, konceptgenerering, verifiering och framst\u00e4llande. Kursen fokuserar p\u00e5 att genomf\u00f6ra ett produktutvecklingsprojekt med v\u00e4rdefokus. Genom att utf\u00f6ra riktiga teambaserade projekt ges studenten chansen att reflektera \u00f6ver teoretisk bas samt att till\u00e4mpa detta i en riktig milj\u00f6. Dessa erfarenheter som kommer att g\u00f6ra att den studerande f\u00e5r goda f\u00f6ruts\u00e4ttningar att vara attraktiv f\u00f6r arbetslivet.",
       "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20262/BGJQH",
-      "optional": true
+      "optional": false
     },
     {
       "name": "Avancerad h\u00e5llbar produktutveckling",
@@ -564,7 +564,7 @@
       "code": "MT2573",
       "description": "Syftet med kursen \u00e4r att studenterna ska f\u00e5 f\u00f6rst\u00e5else f\u00f6r hur olika l\u00f6sningar utvecklas i industrin idag genom att till\u00e4mpa och integrera kunskap som beh\u00f6vs f\u00f6r framtida produkt- och tj\u00e4nstesystemsinnovationer (PSS-innovation). Studenterna f\u00f6rv\u00e4rvar kunskaper inom projektledning, kreativ konceptutveckling, systemt\u00e4nkande f\u00f6r h\u00e5llbarhet och tekniska l\u00f6sningar. ",
       "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20272/BAL6J",
-      "optional": true
+      "optional": false
     },
     {
       "name": "Forskningsmetodik med inriktning mot ingenj\u00f6rsvetenskap",
@@ -623,5 +623,5 @@
     }
   ],
   "href": "https://www.bth.se/utbildning/program-och-kurser/mtaci/",
-  "updated": 1666632861022
+  "updated": 1666647313002
 }

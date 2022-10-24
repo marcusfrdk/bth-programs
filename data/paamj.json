@@ -256,7 +256,7 @@
       "code": "DV2619",
       "description": "Artificiell intelligens (AI) i olika former finns i en allt st\u00f6rre del av de datoriserade systemen vi anv\u00e4nder, t.ex. i form av optimeringstekniker, beslutsst\u00f6dsystem, bildbehandlingsanalys och robotar. Kursen syftar till att introducera omr\u00e5det artificiell intelligens och n\u00e5gra av dess till\u00e4mpningar.",
       "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20252/BUF99",
-      "optional": true
+      "optional": false
     },
     {
       "name": "Multiprocessorprogrammering",
@@ -289,7 +289,7 @@
       "code": "DV1601",
       "description": "Kursen syftar till att ge kunskap om design av interaktionssystem f\u00f6r \u00f6kad anv\u00e4ndbarhet och st\u00f6d f\u00f6r anv\u00e4ndarens behov. Kursen lyfter fram tillv\u00e4gag\u00e5ngss\u00e4tt och begrepp inom bed\u00f6mning av anv\u00e4ndbarhet och interaktionsdesign. Vidare introducerar kursen till omr\u00e5det m\u00e4nniska-datorinteraktion (HCI) och olika utvecklingsmetoder.",
       "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20261/BC7TK",
-      "optional": true
+      "optional": false
     },
     {
       "name": "H\u00e5llbarhet i och f\u00f6r mjukvaruutveckling",
@@ -487,7 +487,7 @@
       "code": "IY1430",
       "description": "Kursen behandlar de speciella f\u00f6ruts\u00e4ttningarna ur vilka h\u00f6gteknologiska f\u00f6retag uppst\u00e5r och verkar, med s\u00e4rskild tyngdpunkt p\u00e5 ICT-industrin. Detta inbegriper riskkapital och v\u00e4rdering av id\u00e9er och intellektuella r\u00e4ttigheter, partnerskap med andra f\u00f6retag, strategier f\u00f6r uppskalning av verksamheter samt betydelsen av omgivande entrepren\u00f6riella ekosystem.",
       "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20272/BNUYR",
-      "optional": true
+      "optional": false
     },
     {
       "name": "Maskininl\u00e4rning",
@@ -535,5 +535,5 @@
     }
   ],
   "href": "https://www.bth.se/utbildning/program-och-kurser/paamj/",
-  "updated": 1666632903860
+  "updated": 1666647358154
 }

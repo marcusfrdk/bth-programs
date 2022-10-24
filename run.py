@@ -9,8 +9,6 @@ from bs4 import BeautifulSoup
 from numpy import array_split
 from requests import get
 
-optional_courses = []
-
 
 class ProgramAction(Action):
   def __call__(self, parser, namespace, values, option_string=None):
@@ -58,10 +56,9 @@ def get_points(soup: BeautifulSoup) -> float:
   return float(points.replace(",", "."))
 
 
-def set_optional_courses(soup: BeautifulSoup) -> None:
+def get_optional_courses(soup: BeautifulSoup) -> None:
   """ Sets the optional courses for the program as a side effect """
-  courses = [a.text for a in soup.find(id="collapse-courses").find_all("a") if a.parent.text.endswith("*")]
-  optional_courses.extend(courses)
+  return [a.text for a in soup.find(id="collapse-courses").find_all("a") if a.parent.text.endswith("*")]
 
 
 def get_course_href(soup: BeautifulSoup) -> list:
@@ -101,6 +98,9 @@ def get_program(code: str) -> dict:
   """ Gets useful information about the selected program """
   assert code is not None
 
+  global optional_courses
+  optional_courses = []
+
   href = f"https://www.bth.se/utbildning/program-och-kurser/{code}/"
   attempt = 0
   max_attempts = 3
@@ -116,7 +116,7 @@ def get_program(code: str) -> dict:
 
   soup = BeautifulSoup(res.text, "html.parser")
   courses = get_course_href(soup)
-  set_optional_courses(soup)
+  optional_courses = get_optional_courses(soup)
 
   return {
     **get_metadata(soup, req_tag="div"),

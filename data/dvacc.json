@@ -14,7 +14,7 @@
       "code": "DV1457",
       "description": "Syftet med kursen \u00e4r att studenten ska till\u00e4gna sig en f\u00f6rdjupad f\u00f6rst\u00e5else f\u00f6r UNIX-baserade system och f\u00f6r operativsystemn\u00e4ra programmering. Detta inneb\u00e4r bl a att kunna programmera p\u00e5 operativsystemets mest abstrakta niv\u00e5, n\u00e4rmast anv\u00e4ndaren, och ned\u00e5t genom abstraktionsniv\u00e5erna till den l\u00e4gsta niv\u00e5n, systemanropen.Kursen l\u00e4r ut hur man designar mjukvara som interagerar med datorn via operativsystemet UNIX (och UNIX-baserade/liknande operativsystem s\u00e5som Linux och MacOS). Den l\u00e4gger grunden f\u00f6r vidare studier inom andra omr\u00e5den (till exempel datas\u00e4kerhet) som kr\u00e4ver konkret f\u00f6rst\u00e5else f\u00f6r den underliggande teknologin. Syftet uppn\u00e5s genom att studenten via en serie laborationer f\u00e5r praktisk erfarenhet av att utveckla program i en UNIX-milj\u00f6.",
       "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20232/B6YRM",
-      "optional": true
+      "optional": false
     },
     {
       "name": "Till\u00e4mpad artificiell intelligens",
@@ -25,7 +25,7 @@
       "code": "DV2618",
       "description": "Artificiell intelligens (AI) i olika former finns i en allt st\u00f6rre del av de datoriserade systemen vi anv\u00e4nder, t.ex. i form av optimeringstekniker, beslutsst\u00f6dsystem, bildbehandlingsanalys och robotar. Kursen syftar till att introducera omr\u00e5det artificiell intelligens och n\u00e5gra av dess till\u00e4mpningar.",
       "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20232/BCFMR",
-      "optional": true
+      "optional": false
     },
     {
       "name": "Introduktion till Cloud Computing",
@@ -36,7 +36,7 @@
       "code": "DV1566",
       "description": "Kursen fokuserar p\u00e5 de grundl\u00e4ggande koncepten f\u00f6r distribuerade system och cloud computing. Kursen omfattar teoretiska och praktiska aspekter med fokus p\u00e5 verkliga exempel. Efter genomf\u00f6rd  kurs ska studenten vara kapabel att v\u00e4lja, installera och anv\u00e4nda grundl\u00e4ggande molnresurser (till exempel datorer och lagring som en tj\u00e4nst) och att utforma och implementera skalbara arkitekturer och applikationer.",
       "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20232/BN7DT",
-      "optional": true
+      "optional": false
     },
     {
       "name": "Maskininl\u00e4rning",
@@ -47,7 +47,7 @@
       "code": "DV2626",
       "description": "Det huvudsakliga syftet med kursen \u00e4r att introducera teori och metod fr\u00e5n maskininl\u00e4rning (machine learning) samt praktiska till\u00e4mpningar inom informationsutvinning (data mining). Den teknologiska utvecklingen har bidragit till att vi blivit mer beroende av databaser f\u00f6r lagring och databehandling. Antalet databaser och m\u00e4ngden inneh\u00e5ll i dessa v\u00e4xer snabbt. I takt med denna tillv\u00e4xt blir det sv\u00e5rare att manuellt finna anv\u00e4ndbar information fr\u00e5n den stora m\u00e4ngden data. Vi beh\u00f6ver d\u00e4rf\u00f6r semiautomatiska och automatiska metoder f\u00f6r att anv\u00e4nda, aggregera, analysera och extrahera s\u00e5dan information. Metoder och tekniker fr\u00e5n maskininl\u00e4rning, informationsutvinning, och artificiell intelligens har visat sig anv\u00e4ndbara f\u00f6r detta syfte.",
       "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20232/BDLDY",
-      "optional": true
+      "optional": false
     },
     {
       "name": "Anv\u00e4ndbarhet och interaktionsdesign",
@@ -249,5 +249,5 @@
     }
   ],
   "href": "https://www.bth.se/utbildning/program-och-kurser/dvacc/",
-  "updated": 1666633272227
+  "updated": 1666647716027
 }

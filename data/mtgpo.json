@@ -36,7 +36,7 @@
       "code": "MT1448",
       "description": "I kursen skall studenten skaffa sig grundl\u00e4ggande kunskaper och f\u00e4rdigheter om kvalitetsutveckling och ges en introduktion till modern syn p\u00e5 begreppet kvalitet.",
       "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20232/BFKGH",
-      "optional": true
+      "optional": false
     },
     {
       "name": "Tillverkningsmetoder",
@@ -157,7 +157,7 @@
       "code": "MT1444",
       "description": "Syftet med kursen \u00e4r att ge en helhetsbild \u00f6ver begreppet Lean produktion och en f\u00f6rst\u00e5else f\u00f6r relationerna mellan filosofi, principerna och verktygen i Lean produktion.",
       "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20251/BDR34",
-      "optional": true
+      "optional": false
     },
     {
       "name": "Grundl\u00e4ggande maskinelement f\u00f6r tekniker",
@@ -183,5 +183,5 @@
     }
   ],
   "href": "https://www.bth.se/utbildning/program-och-kurser/mtgpo/",
-  "updated": 1666633117539
+  "updated": 1666647564750
 }

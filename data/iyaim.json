@@ -168,7 +168,7 @@
       "code": "IY2620",
       "description": "Kursen syftar till att ge studenten adekvata f\u00e4rdigheter f\u00f6r att arbeta med empiriska modeller och metoder f\u00f6r att unders\u00f6ka v\u00e4rdet av empiriska data utifr\u00e5n olika fr\u00e5gest\u00e4llningar r\u00f6rande konkurrens och marknadssituation f\u00f6r olika f\u00f6retag och marknader. Studenterna kommer att genomf\u00f6ra och rapportera olika empiriska analyser utifr\u00e5n tidigare genomg\u00e5ngna teoretiska modeller f\u00f6r att besvara typiska strategiska fr\u00e5gest\u00e4llningar ett f\u00f6retag m\u00f6ter vad det betr\u00e4ffar konkurrens, marknadskoncentration samt positionering.",
       "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20242/BAYHH",
-      "optional": true
+      "optional": false
     },
     {
       "name": "Masterarbete i industriell ekonomi och management",
@@ -183,5 +183,5 @@
     }
   ],
   "href": "https://www.bth.se/utbildning/program-och-kurser/iyaim/",
-  "updated": 1666633289660
+  "updated": 1666647733937
 }
