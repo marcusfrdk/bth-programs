@@ -36,7 +36,7 @@ python3 run.py CODE [CODE...]
 | ----------- | --------------------------------------------- | ------------ |
 | `code`      | one or multiple program codes to download     | str or \*str |
 | `--help`    | Show help message and exit                    |              |
-| `--threads` | limits the program to a set number of threads |              |
+| `--threads` | limits the program to a set number of threads | int          |
 
 ## Contributing
 
