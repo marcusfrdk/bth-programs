@@ -12,6 +12,7 @@
       "end": "2023 vecka 43",
       "requirements": "Grundl\u00e4ggande beh\u00f6righet",
       "code": "ME1645",
+      "description": "Kursen syftar till att introducera och ge grundl\u00e4ggande f\u00e4rdigheter inom metoder och tekniker f\u00f6r att skapa design av digitala upplevelser f\u00f6r l\u00e4rande. Kursen syftar \u00e4ven till att l\u00e4gga en medieteknisk grund som innefattar en gemensam begreppsapparat och introduktion till medietekniska metoder med fokus p\u00e5 digitala l\u00e4rande.",
       "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20232/BNJFK",
       "optional": false
     },
@@ -22,6 +23,7 @@
       "end": "2024 vecka 02",
       "requirements": "Grundl\u00e4ggande beh\u00f6righet",
       "code": "ME1634",
+      "description": "Syftet med kursen \u00e4r att studenten ska skaffa sig grundl\u00e4ggande kunskaper inom programmering samt skaffa sig f\u00f6rst\u00e5else f\u00f6r programmeringens roll i medieteknisk gestaltning.",
       "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20232/BYKDJ",
       "optional": false
     },
@@ -32,6 +34,7 @@
       "end": "2024 vecka 02",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngen kurs Gestaltande programmering 7,5 hp.",
       "code": "ME1635",
+      "description": "Kursen syftar till att studenten ska skaffa sig grundl\u00e4ggande kunskaper i realtidsplattformar f\u00f6r att skapa upplevelser i 3D. Kursen syftar \u00e4ven p\u00e5 processen att skapa det audiovisuella inneh\u00e5llet som kr\u00e4vs f\u00f6r upplevelsen.",
       "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20232/BM3KL",
       "optional": false
     },
@@ -42,6 +45,7 @@
       "end": "2024 vecka 12",
       "requirements": "Grundl\u00e4ggande beh\u00f6righet.",
       "code": "ME1636",
+      "description": "Kursen syftar till att ge kunskap och bygga f\u00f6rst\u00e5else f\u00f6r olika typer av digitala upplevelser genom olika anv\u00e4ndargr\u00e4nssnitt. Dessutom utvecklas studentens bed\u00f6mningsf\u00f6rm\u00e5ga av upplevelser och gr\u00e4nssnitt, med fokus p\u00e5 deras kvaliteter samt bidragande nyckelfaktorer, som led i framg\u00e5ngsrik design av digitala upplevelser.",
       "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20241/BDH6R",
       "optional": false
     },
@@ -52,6 +56,7 @@
       "end": "2024 vecka 22",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vas avklarad kurs Gestaltande programmering 7,5 hp samt genomg\u00e5ngen kurs Realtidsplattformar f\u00f6r upplevelser i 3D 7,5 hp.",
       "code": "ME1640",
+      "description": "Kursen syftar till att studenten ska till\u00e4mpa sina f\u00e4rdigheter inom digital medieteknik samt att ge specialkunskaper inom arbetsmetodik, gruppdynamik, id\u00e9arbete samt produktionsmodeller.",
       "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20241/BT6MF",
       "optional": false
     },
@@ -62,6 +67,7 @@
       "end": "2024 vecka 44",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs 30 hp avklarade i huvudomr\u00e5det medieteknik.",
       "code": "ME1646",
+      "description": "Kursen syftar till att studenten ska bredda och f\u00f6rdjupa sina medietekniska kunskaper inom pedagogik och didaktik med fokus mot digitalt l\u00e4rande. Kursen ger en f\u00f6rdjupad f\u00f6rst\u00e5else f\u00f6r hur pedagogiska och didaktiska begrepp och koncept kan till\u00e4mpas i digitala milj\u00f6er.",
       "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20242/B6FGN",
       "optional": false
     },
@@ -72,6 +78,7 @@
       "end": "2024 vecka 44",
       "requirements": "F\u00f6r tilltr\u00e4det till kursen kr\u00e4vs genomg\u00e5ngna kurser Gestaltande programmering 7,5 hp samt Realtidsplattformar f\u00f6r upplevelser i 3D, 7,5 hp.",
       "code": "ME1647",
+      "description": "Kursen fokuserar p\u00e5 en f\u00f6rdjupning inom digitala upplevelser. Studenterna utvecklar sina kunskaper inom omr\u00e5det design av digitala upplevelser f\u00f6r l\u00e4rande med fokus p\u00e5 hur tekniken kan fr\u00e4mja kunskapsinl\u00e4rningen.",
       "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20242/BXMHK",
       "optional": false
     },
@@ -82,6 +89,7 @@
       "end": "2025 vecka 03",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att n\u00e5gon av f\u00f6ljande kurser \u00e4r genomg\u00e5ngen: Grunder i digitala spel 15 hp, Grunder i digital ljudproduktion 15 hp, Grunder i digital bildproduktion 15 hp.",
       "code": "ME1625",
+      "description": "Kursen syftar till att studenten ska bredda och f\u00f6rdjupa sina medietekniska praktiker och kunskaper genom prototyper, som utforskar, pr\u00f6var och omf\u00f6rhandlar digitala och analoga samspel, motst\u00e5nd och gr\u00e4nsdragningar.",
       "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20242/BDHJ9",
       "optional": false
     },
@@ -92,6 +100,7 @@
       "end": "2025 vecka 13",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngen kurs Medieteknisk prototyputveckling, 15 hp.",
       "code": "ME1613",
+      "description": "Kursen syftar till att med utg\u00e5ngspunkt i cross- och transmedia utforska icke-linj\u00e4rt och interaktivt ber\u00e4ttande.",
       "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20251/BM7LX",
       "optional": false
     },
@@ -102,6 +111,7 @@
       "end": "2025 vecka 13",
       "requirements": "F\u00f6r tilltr\u00e4det till kursen kr\u00e4vs genomg\u00e5ngna kurser Produktion av digitala upplevelser 15 hp samt Digital didaktisk design, 7,5 hp.",
       "code": "ME1648",
+      "description": "I kursen utforskar studenten hur m\u00e4nskliga behov kan anv\u00e4ndas f\u00f6r att motivera en anv\u00e4ndare till progression i sitt l\u00e4rande. Begrepp s\u00e5 som positiv f\u00f6rst\u00e4rkning, utmaning, bel\u00f6ning, och interaktionsfeedback kommer att tas upp och unders\u00f6kas hur de kan anv\u00e4ndas f\u00f6r att \u00f6ka motiveringen f\u00f6r forts\u00e4tta l\u00e4rande.",
       "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20251/BXT7H",
       "optional": false
     },
@@ -112,10 +122,11 @@
       "end": "2025 vecka 23",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs 60 hp avklarade i huvudomr\u00e5det medieteknik.",
       "code": "ME1649",
+      "description": "Kursen syftar till att  utf\u00f6r ett sj\u00e4lvst\u00e4ndigt arbete d\u00e4r studenten  integrerar, f\u00f6rdjupar och vidareutvecklar sina kunskaper och f\u00e4rdigheter inom ett begr\u00e4nsat omr\u00e5de av det som behandlats inom tidigare genomf\u00f6rda kurser inom programmet. Kursen fokuserar p\u00e5 unders\u00f6kande till\u00e4mpningar av medietekniska kunskaper i olika kontexter med inriktning mot digitalt l\u00e4rande.",
       "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20251/BFTQF",
       "optional": false
     }
   ],
   "href": "https://www.bth.se/utbildning/program-och-kurser/megul/",
-  "updated": 1666476028928
+  "updated": 1666632974455
 }

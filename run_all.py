@@ -23,8 +23,8 @@ def get_all_programs():
 
 def main():
   programs = get_all_programs()
-  for program in programs:
-    run(program)
+  for i, program in enumerate(programs):
+    run(program, i, len(programs))
   generate_index()
 
 

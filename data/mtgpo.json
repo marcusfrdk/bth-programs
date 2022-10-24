@@ -12,6 +12,7 @@
       "end": "2023 vecka 43",
       "requirements": "Grundl\u00e4ggande beh\u00f6righet.",
       "code": "MT1443",
+      "description": "I kursen skall studenterna skaffa sig grundl\u00e4ggande kunskaper och f\u00e4rdigheter f\u00f6r att framg\u00e5ngsrikt kunna bedriva fortsatta studier p\u00e5 distans inom det maskintekniska omr\u00e5det. Kursen introducerar ocks\u00e5 studenten till de tekniska hj\u00e4lpmedel och programvaror som anv\u00e4nds f\u00f6r teknisk \u201dcollaboration on line\u201d med syfte att studenten skall kunna anv\u00e4nda sig av tekniken i ett framtida yrkesarbete d\u00e4r kontakt med kunder ofta sker via distansbaserad teknik. Kursen syftar \u00e4ven till att studenten skall f\u00e5 en introduktion till teknisk dokumentation och informationss\u00f6kning samt muntlig framst\u00e4llning/framf\u00f6rande.",
       "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20232/BFN6W",
       "optional": false
     },
@@ -22,6 +23,7 @@
       "end": "2023 vecka 43",
       "requirements": "Grundl\u00e4ggande beh\u00f6righet.",
       "code": "MT1510",
+      "description": "I kursen skaffar sig studenten kunskaper om hur moderna system f\u00f6r konstruktionsarbete och produktutveckling anv\u00e4nds, framf\u00f6rallt vid skapande av solida modeller och sammanst\u00e4llningar d\u00e4rav. I kursen skaffar sig studenterna \u00e4ven grundl\u00e4ggande kunskaper inom ritteknik och standard r\u00f6rande detta omr\u00e5de.",
       "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20232/B7AJM",
       "optional": false
     },
@@ -32,6 +34,7 @@
       "end": "2024 vecka 02",
       "requirements": "Grundl\u00e4ggande beh\u00f6righet.",
       "code": "MT1448",
+      "description": "I kursen skall studenten skaffa sig grundl\u00e4ggande kunskaper och f\u00e4rdigheter om kvalitetsutveckling och ges en introduktion till modern syn p\u00e5 begreppet kvalitet.",
       "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20232/BFKGH",
       "optional": true
     },
@@ -42,6 +45,7 @@
       "end": "2024 vecka 02",
       "requirements": "Grundl\u00e4ggande beh\u00f6righet.",
       "code": "MT1445",
+      "description": "Tillverkningsteknologi, som \u00e4r ett mycket brett begrepp, koncentreras i kursen till den mekaniska verkstadsindustrins metoder. Syftet \u00e4r att studenterna ska skaffa sig en tillverkningsteknisk allm\u00e4nbildning som en maskiningenj\u00f6r beh\u00f6ver f\u00f6r att p\u00e5 ett kostnadsmedvetet s\u00e4tt delta i och styra produktutveckling.",
       "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20232/BQYCG",
       "optional": false
     },
@@ -52,6 +56,7 @@
       "end": "2024 vecka 12",
       "requirements": "Grundl\u00e4ggande beh\u00f6righet och genomf\u00f6rd grundkurs, MT1101 Datorst\u00f6d inom Konstruktion 1 eller motsvarande.",
       "code": "MT1440",
+      "description": "Studenten skall vidareutveckla sina kunskaper i hur moderna system f\u00f6r konstruktionsarbete och produktutveckling anv\u00e4nds, framf\u00f6r allt vid skapande av komplexa yt- och solidmodeller.",
       "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20241/BTFNU",
       "optional": false
     },
@@ -62,6 +67,7 @@
       "end": "2024 vecka 12",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs grundl\u00e4ggande beh\u00f6righet samt Matematik 2a alt 2b alt 2c.",
       "code": "MA1492",
+      "description": "Kursens syfte \u00e4r att ge de grundl\u00e4ggande kunskaper i matematik som kr\u00e4vs f\u00f6r den yrkesverksamma produktutvecklaren. Syftet med kursen \u00e4r \u00e4ven att studenten skall utarbeta en matematisk grund f\u00f6r fortsatta studier i maskinteknik.",
       "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20241/BX3EM",
       "optional": false
     },
@@ -72,6 +78,7 @@
       "end": "2024 vecka 22",
       "requirements": "Grundl\u00e4ggande beh\u00f6righet samt Matematik 2 eller motsvarande.",
       "code": "ET1545",
+      "description": "Kursen syftar till att studenten skall f\u00f6rv\u00e4rva grundl\u00e4ggande kunskaper om elektriska begrepp och digital teknik f\u00f6r att kunna programmera styrteknisk utrustning. Vidare skall studenten kunna v\u00e4lja och dimensionera styrteknisk utrustning s\u00e5som givare och motorer som anv\u00e4nds i produktionstekniska sammanhang.",
       "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20241/B3WMG",
       "optional": false
     },
@@ -82,6 +89,7 @@
       "end": "2024 vecka 22",
       "requirements": "Genomg\u00e5ngen kurs MA1467 Matematik 2 f\u00f6r produktutveckling.",
       "code": "FY1427",
+      "description": "Kursen syftar till att studenten skall utveckla kunskaper om fysikaliska fenomen och lagar vars tekniska till\u00e4mpningar anv\u00e4nds i maskinteknikerns yrkesverksamhet. Syftet med kursen \u00e4r \u00e4ven att studenten skall utarbeta en grund f\u00f6r fortsatta studier i teknik.",
       "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20241/BLNFG",
       "optional": false
     },
@@ -92,6 +100,7 @@
       "end": "2024 vecka 44",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs sammanlagt 4,5 hp avklarat fr\u00e5n f\u00f6ljade kurser:Fysik f\u00f6r produktutvecklingMatematik 1 f\u00f6r produktutvecklingMatematik 2 f\u00f6r produktutveckling",
       "code": "MT1534",
+      "description": "Kursen syftar till att introducera till grundl\u00e4ggande mekanik. Mekanik handlar om att best\u00e4mma krafter och moment som p\u00e5verkar en struktur, best\u00e4mma tyngdpunkt samt g\u00f6ra j\u00e4mviktsber\u00e4kningar f\u00f6r system med och utan friktion. Detta \u00e4r kunskaper som beh\u00f6vs i efterf\u00f6ljande kurser som t.ex. h\u00e5llfasthetsl\u00e4ra. \u00c4ven i sitt framtida yrkes liv b\u00f6r man som maskintekniker ha en god grund av mekanikkunskaper att st\u00e5 p\u00e5.",
       "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20242/BNWDM",
       "optional": false
     },
@@ -102,6 +111,7 @@
       "end": "2024 vecka 44",
       "requirements": "Erfarenhet av yrkesm\u00e4ssigt ingenj\u00f6rsarbete eller tidigare h\u00f6gskolestudier.",
       "code": "MT1442",
+      "description": "I kursen skall studenten bygga p\u00e5 sina kunskaper i mekaniska till\u00e4mpnings\u00e4mnen med kunskaper om innovativ produktframtagning, projektstyrning,milj\u00f6anpassad/h\u00e5llbar produktutveckling och integrerad produktutveckling. I kursen skaffar sig studenten kunskaper i strategier, begrepp och metodik f\u00f6r produktutveckling och dess uppkomst samt planl\u00e4ggning fr\u00e5n id\u00e9f\u00f6rslag i principkonstruktionsstadiet till prim\u00e4rkonstruktionsstadiet. Syftet med kursen \u00e4r ocks\u00e5 att studenten skall skaffa sig basverktyg f\u00f6r att kunna analysera olika produktalternativ utifr\u00e5n milj\u00f6ns, omgivningens och kundernas krav.",
       "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20242/BQTRH",
       "optional": false
     },
@@ -112,6 +122,7 @@
       "end": "2025 vecka 03",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngen kurs Grundl\u00e4ggande mekanik f\u00f6r tekniker.",
       "code": "MT1507",
+      "description": "I kursen skaffar sig studenten grundl\u00e4ggande kunskaper i h\u00e5llfasthetsl\u00e4ra. Kunskaper om h\u00e5llfasthetsl\u00e4ra \u00e4r n\u00f6dv\u00e4ndig f\u00f6r en tekniker inom det maskintekniska omr\u00e5det och ligger ocks\u00e5 som bas f\u00f6r studier av andra mer avancerade tekniska kurser.",
       "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20242/BKY4F",
       "optional": false
     },
@@ -122,6 +133,7 @@
       "end": "2025 vecka 03",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngna kurser Innovativ och H\u00e5llbar produktutveckling, 7,5 hp och Datorst\u00f6d inom Konstruktion 2, 7,5 hp.",
       "code": "MT1520",
+      "description": "Kursens syfte \u00e4r att till\u00e4mpa kunskaper om innovativ produktframtagning, projekthantering, milj\u00f6anpassad/h\u00e5llbar produktutveckling som inh\u00e4mtats i tidigare kurser. I detta ing\u00e5r strategier, begrepp och metodik f\u00f6r produktutveckling och dess uppkomst samt planl\u00e4ggning fr\u00e5n id\u00e9f\u00f6rslag och koncept till funktionell produkt. Syftet med kursen \u00e4r att studenten ska anv\u00e4nda basverktyg f\u00f6r att kunna analysera olika produktalternativ utifr\u00e5n milj\u00f6ns, omgivningens och kundernas krav.",
       "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20242/BG9CR",
       "optional": false
     },
@@ -132,6 +144,7 @@
       "end": "2025 vecka 13",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att 3,5 hp fr\u00e5n kursen Grundl\u00e4ggande mekanik f\u00f6r tekniker (7,5 hp) \u00e4r avklarade samt genomg\u00e5ngen kurs Grundl\u00e4ggande h\u00e5llfasthetsl\u00e4ra f\u00f6r tekniker, 7,5 hp.",
       "code": "MT1548",
+      "description": "Studenterna \u00f6var i kursen f\u00e4rdigheten att v\u00e4lja material och dimensionera mekaniskt belastade detaljer. Kursen ger en introduktion till materiall\u00e4ra med orientering om olika konstruktionsmaterial.  I kursen \u00f6vas \u00e4ven f\u00f6rm\u00e5ga att v\u00e4lja material till, samt dimensionera, mekaniska konstruktioner. Som st\u00f6d introduceras studenterna till modelldriven produktutveckling.",
       "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20251/B9U3U",
       "optional": false
     },
@@ -142,6 +155,7 @@
       "end": "2025 vecka 13",
       "requirements": "Grundl\u00e4ggande beh\u00f6righet.",
       "code": "MT1444",
+      "description": "Syftet med kursen \u00e4r att ge en helhetsbild \u00f6ver begreppet Lean produktion och en f\u00f6rst\u00e5else f\u00f6r relationerna mellan filosofi, principerna och verktygen i Lean produktion.",
       "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20251/BDR34",
       "optional": true
     },
@@ -152,6 +166,7 @@
       "end": "2025 vecka 23",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att 3,5 hp fr\u00e5n kursen Grundl\u00e4ggande mekanik f\u00f6r tekniker (7,5 hp) \u00e4r avklarade samt Genomg\u00e5ngen kurs Grundl\u00e4ggande h\u00e5llfasthetsl\u00e4ra f\u00f6r tekniker, 7,5 hp.",
       "code": "MT1536",
+      "description": "I kursen ska studenten skaffa sig kunskaper om maskinelements verkningss\u00e4tt samt grundl\u00e4ggande dimensionering av dessa. Avsikten \u00e4r att komplettera de grundl\u00e4ggande kurserna i mekanik och h\u00e5llfasthetsl\u00e4ra.",
       "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20251/B3TXH",
       "optional": false
     },
@@ -162,10 +177,11 @@
       "end": "2025 vecka 23",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen krav 90 hp avklarade fr\u00e5n en utbildning som ger h\u00f6gskoleexamen med inriktning mot maskinteknik.",
       "code": "MT1542",
+      "description": "Kursen ska ge praktisk och teoretisk till\u00e4mpning av de kunskaper och f\u00e4rdigheter som studenten inh\u00e4mtat under sin studietid. I kursen skall studenten anv\u00e4nda sig av de samlade kunskaper och f\u00e4rdigheter som f\u00f6rv\u00e4rvats under utbildningen och anv\u00e4nda dessa i ett produktutvecklingsprojekt.",
       "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20251/BR43W",
       "optional": false
     }
   ],
   "href": "https://www.bth.se/utbildning/program-och-kurser/mtgpo/",
-  "updated": 1666476160563
+  "updated": 1666633117539
 }

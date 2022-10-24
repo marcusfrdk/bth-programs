@@ -12,6 +12,7 @@
       "end": "2023 vecka 43",
       "requirements": "Grundl\u00e4ggande beh\u00f6righet",
       "code": "DV1670",
+      "description": "Kursen syftar till att l\u00e4ra ut grunderna inom programmering och probleml\u00f6sning med hj\u00e4lp av programmeringsspr\u00e5ket Python. Denna kunskap skapar grunden f\u00f6r alla som vill l\u00e4ra sig programmera och anv\u00e4nds b\u00e5de inom industrin och i andra kurser p\u00e5 h\u00f6gskolan. Under kursens g\u00e5ng ing\u00e5r att skapa rutiner f\u00f6r probleml\u00f6sning och fels\u00f6kning via enkla grundkonstruktioner i Python samt bygga en utvecklingsmilj\u00f6 som hj\u00e4lper till med utveckling och fels\u00f6kning.",
       "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20232/BXLAL",
       "optional": false
     },
@@ -22,6 +23,7 @@
       "end": "2023 vecka 43",
       "requirements": "Grundl\u00e4ggande beh\u00f6righet.",
       "code": "PA1439",
+      "description": "Kursen l\u00e4r ut webbutveckling d\u00e4r teknikerna HTML, CSS, PHP och SQL anv\u00e4nds f\u00f6r att tillsammans bygga en databasdriven webbplats. Kursen \u00e4r f\u00f6r de som vill l\u00e4ra sig om webbutveckling och webbprogrammering.",
       "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20232/BUCW4",
       "optional": false
     },
@@ -32,6 +34,7 @@
       "end": "2024 vecka 02",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngen kurs i programmering, 7,5 h\u00f6gskolepo\u00e4ng.",
       "code": "DV1657",
+      "description": "Syftet med kursen \u00e4r att ge studenten grundl\u00e4ggande kunskaper i klientbaserad webbprogrammering i webbl\u00e4saren med programmeringsspr\u00e5ket JavaScript och n\u00e4rliggande relevanta tekniker. Syftet \u00e4r \u00e4ven att bygga vidare p\u00e5 studentens befintliga kunskap inom probleml\u00f6sning, utvecklingsverktyg samt metoder f\u00f6r utveckling av programvara och fels\u00f6kning.",
       "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20232/BJ4HQ",
       "optional": false
     },
@@ -42,6 +45,7 @@
       "end": "2024 vecka 02",
       "requirements": "Genomg\u00e5ngen kurs i Webbteknologier, 7,5 hp.",
       "code": "PA1436",
+      "description": "Kursen syftar till en orientering inom omr\u00e5dena design och anv\u00e4ndbarhet, specifikt f\u00f6r till\u00e4mpningsomr\u00e5det webb. Kursen har tekniken som utg\u00e5ngspunkt, d\u00e4r olika tekniker introduceras och anv\u00e4nds f\u00f6r att underl\u00e4tta webbdesign och anv\u00e4ndbarhet f\u00f6r webbplatsen med syftet att skapa en korrekt och anv\u00e4ndarv\u00e4nlig webbplats.",
       "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20232/BLYLH",
       "optional": false
     },
@@ -52,6 +56,7 @@
       "end": "2024 vecka 12",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngen kurs i Programmering och probleml\u00f6sning med Python 7,5 hp.",
       "code": "DV1660",
+      "description": "Kursen syftar till att l\u00e4ra studenterna objektorienterade angreppss\u00e4tt och designprinciper f\u00f6r att utveckla objektorienterade program. Vidare ska studenterna l\u00e4ra sig s\u00e5v\u00e4l teoretiska aspekter som implementationsaspekter av algoritmer och datastrukturer.",
       "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20241/BH6WM",
       "optional": false
     },
@@ -62,6 +67,7 @@
       "end": "2024 vecka 12",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngna kurser motsvarande 15 hp i programmering och/eller webbteknologier.",
       "code": "DV1606",
+      "description": "Kursens syfte \u00e4r att studenten ska f\u00f6rst\u00e5 och l\u00e4ra sig modellera och implementera en databas samt utveckla en webbapplikation som anv\u00e4nder databasen. Som applikationsspr\u00e5k anv\u00e4nds serverbaserad JavaScript i webbmilj\u00f6.",
       "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20241/B3NCJ",
       "optional": false
     },
@@ -72,6 +78,7 @@
       "end": "2024 vecka 22",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngen kurs Webbteknologier, 7,5 hp samt genomg\u00e5ngen kurs i databaser motsvarande 7,5 hp.",
       "code": "DV1608",
+      "description": "Kursens fokus \u00e4r objektorienterade programmeringstekniker i programmeringsspr\u00e5ket PHP. Klassiska objektorienterade konstruktioner hanteras tillsammans med objektorienterad programmering i webbaserat ramverk tillsammans med databaser samt enhetstestning.",
       "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20241/B9EC9",
       "optional": false
     },
@@ -82,6 +89,7 @@
       "end": "2024 vecka 22",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngna kurser motsvarande 15 hp i programmering och webbteknologier varav 6 hp ska vara programmering med JavaScript.",
       "code": "DV1609",
+      "description": "Kursen syftar till att l\u00e4ra ut utveckling av webbapplikationer med HTML, CSS och JavaScript och fokuserar p\u00e5 mobila enheter och l\u00e4splattor.",
       "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20241/BWE3Y",
       "optional": false
     },
@@ -92,6 +100,7 @@
       "end": "2024 vecka 44",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser eller moment fr\u00e5n kurser i programmering och webbteknologier omfattande 22,5 hp samt genomg\u00e5ngen kurs Webbapplikationer f\u00f6r mobila enheter, 7,5 hp.",
       "code": "DV1612",
+      "description": "Kursen l\u00e4r ut programmering f\u00f6r klienter i webbl\u00e4saren med ett stort fokus p\u00e5 anv\u00e4ndbarhet och anv\u00e4ndarupplevelse samt tekniker f\u00f6r automatiserad testning, byggsystem och fl\u00f6de f\u00f6r kontinuerlig integration av programvaran. Studenten f\u00f6rv\u00e4ntas ing\u00e5ende redog\u00f6ra f\u00f6r val av tekniker genom att skriftligen beskriva och sammanfatta erfarenheter och observationer fr\u00e5n \u00f6vningar och projekt.",
       "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20242/BQ4H7",
       "optional": false
     },
@@ -102,6 +111,7 @@
       "end": "2024 vecka 44",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser eller moment fr\u00e5n kurser i programmering och webbteknologier omfattande totalt 22,5 hp.",
       "code": "DV1611",
+      "description": "Syftet med kursen \u00e4r att studenten ska l\u00e4ra sig operativsystemet Linux och dess best\u00e5ndsdelar s\u00e5som processer, filsystemet och terminalen. Kursens fokusomr\u00e5den ligger \u00e4ven i operativsystemets uppbyggnad, programhantering och serverhantering samt att programmera i spr\u00e5ket bash. Studenten ska \u00e4ven l\u00e4ra sig skapa virtualiseringstekniker s\u00e5som VirtualBox och Docker.",
       "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20242/BXXLR",
       "optional": false
     },
@@ -112,6 +122,7 @@
       "end": "2025 vecka 03",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarad Matematik 3b alt. 3c eller Matematik C fr\u00e5n gymnasieskolan samt genomg\u00e5ngna kurser i programmering om minst 15 hp.",
       "code": "MA1487",
+      "description": "Kursen avser att ge studenten f\u00f6ruts\u00e4ttningar att inh\u00e4mta kunskaper i matematisk modellering. Utg\u00e5ngspunkten \u00e4r att kunna till\u00e4mpa olika typer av matematiska metoder och modeller p\u00e5 problemst\u00e4llningar inom framf\u00f6r allt teknik- och naturvetenskaperna, s\u00e5v\u00e4l som inom mer tv\u00e4rvetenskapliga \u00e4mnen. Kursen skall \u00e4ven bidra till f\u00f6rst\u00e5elsen av diskret matematik, statistik, optimering och den matematiska modelleringens betydelse vad det g\u00e4ller f\u00f6rb\u00e4ttringspotentialer inom de olika till\u00e4mpningsomr\u00e5dena.",
       "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20242/BDRPN",
       "optional": false
     },
@@ -122,6 +133,7 @@
       "end": "2025 vecka 03",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser eller moment fr\u00e5n kurser i programmering och/eller webbteknologier omfattande totalt 22,5 hp. D\u00e4rut\u00f6ver kr\u00e4vs genomg\u00e5ngen kurs i Objektorienterade webbteknologier, 7,5 hp.",
       "code": "PA1477",
+      "description": "Kursen l\u00e4r ut avancerad programmering med webbteknologier och l\u00e5ter studenten f\u00f6rdjupa sig i ett flertal teknikomr\u00e5den inom nischen. Studenten f\u00e5r hantera verktyg och tekniker f\u00f6r att jobba med kodkvalitet och hur begrepp som \u201dsnygg kod\u201d hanteras.",
       "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20242/BQKCM",
       "optional": false
     },
@@ -132,6 +144,7 @@
       "end": "2025 vecka 13",
       "requirements": "Genomg\u00e5ngen grundl\u00e4ggande kurs i programmering om minst 7,5 hp.",
       "code": "ET1447",
+      "description": "Kursens syfte \u00e4r grundl\u00e4ggande kunskaper i \u00e4mnet datakommunikation med inriktning mot Internet samt en \u00f6versikt p\u00e5 systemniv\u00e5 \u00f6ver GSM-n\u00e4tet och framtida mobiltelefonn\u00e4t.",
       "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20251/BNM4J",
       "optional": false
     },
@@ -142,6 +155,7 @@
       "end": "2025 vecka 23",
       "requirements": "60 hp avklarade p\u00e5 programmet Webbprogrammering",
       "code": "PA1438",
+      "description": "Syftet med examensarbetet \u00e4r att studenten integrerar, f\u00f6rdjupar och vidareutvecklar sina kunskaper och f\u00e4rdigheter inom ett begr\u00e4nsat omr\u00e5de av det som behandlats inom tidigare genomf\u00f6rda kurser inom programmet. Betoningen i examensarbetet ligger p\u00e5 det tekniska inneh\u00e5llet. Arbetet kan vara av utredande eller konstruktiv karakt\u00e4r. Resultatet fr\u00e5n examensarbetet \u00e4r en rapport d\u00e4r studenten som visar kunskaper, f\u00f6rst\u00e5else, f\u00f6rm\u00e5gor och f\u00f6rh\u00e5llningss\u00e4tt som kr\u00e4vs av en h\u00f6gskoleingenj\u00f6r. Examensarbetet genomf\u00f6rs f\u00f6retr\u00e4desvis i samarbete med ett f\u00f6retag.",
       "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20251/BXCQF",
       "optional": false
     },
@@ -152,10 +166,11 @@
       "end": "2025 vecka 23",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att den studerande har klarat programmering, 15 h\u00f6gskolepo\u00e4ng eller motsvarande.",
       "code": "PA1417",
+      "description": "Kursens syfte \u00e4r att introducera systemverifiering och testning. Kursen tar upp testmetoder, strategier och testmilj\u00f6. Det tas \u00e4ven upp hur gruppen kring testningen kan organiseras och hur testgruppen fungerar tillsammans med \u00f6vriga delar av systemutvecklingsgruppen. Test av mjukvarusystem \u00e4r en komplex och viktig del i att f\u00e5 ett fungerande system levererat till anv\u00e4ndarna. Kompetens inom systemverifiering och test \u00e4r och kommer vara efterfr\u00e5gat.",
       "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20251/BPXK9",
       "optional": false
     }
   ],
   "href": "https://www.bth.se/utbildning/program-och-kurser/pagwg/",
-  "updated": 1666476210818
+  "updated": 1666633184546
 }

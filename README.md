@@ -22,9 +22,10 @@ pip3 install -r requirements.txt
 
 _`pip` instead of `pip3` if on Windows_
 
-## Usage
+## Notes
 
-The generated data files can be found in `data/*.json`
+- Generated data files can be found in `data/*.json`
+- The program utilizes multithreading and will by default utilize all available CPU cores, to set a custom amount of threads, use the `--threads` flag.
 
 ### All
 

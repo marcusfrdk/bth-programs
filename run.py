@@ -21,11 +21,23 @@ class ProgramAction(Action):
     setattr(namespace, self.dest, values)
 
 
+class ThreadsAction(Action):
+  def __call__(self, parser, namespace, values, option_string=None):
+    if values < 1:
+      print("Number of threads must be at least 1.")
+      exit(1)
+    elif values > cpu_count():
+      print(f"Number of threads must be at most {cpu_count()}.")
+      exit(1)
+    setattr(namespace, self.dest, values)
+
+
 def get_args() -> dict:
   parser = ArgumentParser(description="Program to get all the courses of a program at BTH.")
   parser.add_argument("program", help="the program code, eg. 'dvami', 'dvasi', 'paamj'",
                       nargs="+", type=str, action=ProgramAction)
-  parser.add_argument("--dev", help="shows tracebacks for exceptions", action="store_true")
+  parser.add_argument(
+    "--threads", help="sets the number of threads to use, min (1) and max (available count)", type=int, action=ThreadsAction)
   return vars(parser.parse_args())
 
 
@@ -58,6 +70,10 @@ def get_course_href(soup: BeautifulSoup) -> list:
 
 def get_requirements(soup: BeautifulSoup, tag: str) -> str:
   return soup.find(tag, {"class": "Facts-item qualifications"}).text.replace("Förkunskapskrav:", "").strip()
+
+
+def get_description(soup: BeautifulSoup) -> str:
+  return soup.find("div", {"class": "Wysiwyg"}).find("p").text
 
 
 def get_course_code(soup: BeautifulSoup) -> str:
@@ -125,6 +141,7 @@ def get_courses(hrefs: list) -> None:
           course = {
             **course,
             "code": get_course_code(soup),
+            "description": get_description(soup),
             "href": href,
             "optional": course["name"] in optional_courses
           }
@@ -132,7 +149,7 @@ def get_courses(hrefs: list) -> None:
 
           print(f"Successfully got info for '{href}'")
           attempt = max_attempts
-        except:
+        except AttributeError:
           print(f"Failed getting info for '{href}', retrying...")
           attempt += 1
 
@@ -156,8 +173,9 @@ def generate_index() -> None:
     f.write(dumps(data, indent=2))
 
 
-def run(code: str) -> None:
-  title = f"Getting info for program '{code}'"
+def run(code: str, index: int = None, total_length: int = None) -> None:
+  title = f"Getting info for program '{code}' {f'({index + 1}/{total_length})' if isinstance(index, int) and isinstance(total_length, int) and total_length > 1 else ''}"
+
   print("-" * len(title))
   print(title)
   print("-" * len(title))
@@ -179,7 +197,7 @@ if __name__ == "__main__":
   args = get_args()
   codes = args.get("program")
 
-  for code in codes:
-    run(code)
+  for i, code in enumerate(codes):
+    run(code, i, len(codes))
 
   generate_index()

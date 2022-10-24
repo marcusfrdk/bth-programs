@@ -12,6 +12,7 @@
       "end": "2023 vecka 43",
       "requirements": "Kandidatexamen 180 hp d\u00e4r minst 30 hp planering ing\u00e5r, alternativt kandidatexamen 180 hp och d\u00e4rut\u00f6ver 30 hp planering eller motsvarande.",
       "code": "FM2550",
+      "description": "Kursens syfte \u00e4r att ge en introduktion till programmet och g\u00f6ra de studerande f\u00f6rtrogna med programmets uppl\u00e4gg och inriktning. Vidare syftar kursen till att introducera strategisk fysisk planering och problematisera olika syns\u00e4tt och begrepp som \u00e5terkommande anv\u00e4nds i programmets kurser och projekt.",
       "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20232/BHYNX",
       "optional": false
     },
@@ -22,6 +23,7 @@
       "end": "2024 vecka 02",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs kandidatexamen 180 hp d\u00e4r minst 30 hp planering ing\u00e5r, alternativt kandidatexamen 180hp och d\u00e4rut\u00f6ver 30 hp planering eller motsvarande.",
       "code": "FM2606",
+      "description": "Kursen syftar till att f\u00f6rdjupa kunskaper om de tekniker, metoder och vetenskapliga f\u00f6rh\u00e5llningss\u00e4tt som till\u00e4mpas i arbetet med att formulera m\u00e5l och visioner inom planeringen. Vidare syftar kursen till att utveckla en kunskap och en f\u00e4rdighet som m\u00f6jligg\u00f6r att kunna kritiskt granska detta arbete utifr\u00e5n hur olika akt\u00f6rer som experter, politiker, medborgare och kommersiella akt\u00f6rer p\u00e5verkar processen.",
       "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20232/BYDCF",
       "optional": false
     },
@@ -32,6 +34,7 @@
       "end": "2024 vecka 07",
       "requirements": "Genomg\u00e5ngna kurser motsvarande 30hp p\u00e5 avancerad niv\u00e5 inom huvudomr\u00e5det Fysisk planering",
       "code": "FM2597",
+      "description": "Syftet med kursen \u00e4r att ge de studerande f\u00f6rdjupade kunskaper om olika vetenskapsteoretiska utg\u00e5ngspunkter och deras ontologiska och epistemologiska premisser. Vidare \u00e4r syftet att pr\u00f6va och reflektera \u00f6ver olika metodval i samband med valda vetenskapsteoretiska utg\u00e5ngspunkter.",
       "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20241/BTE9Y",
       "optional": false
     },
@@ -42,6 +45,7 @@
       "end": "2024 vecka 12",
       "requirements": "Genomg\u00e5ngna kurser motsvarande 30hp p\u00e5 avancerad niv\u00e5 inom huvudomr\u00e5det Fysisk planering",
       "code": "FM2598",
+      "description": "Syftet med kursen \u00e4r att f\u00f6rdjupa kunskaperna hos den studerande om hur samh\u00e4llet organiseras och styrs, och hur olika styrformer relaterar till lagar och regleringar samt till planeringens praktik. Vidare f\u00f6rdjupas den studerandes kunskaper om projekt som arbetsform och f\u00e4rdigheter i att arbeta i projekt.",
       "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20241/BANAY",
       "optional": false
     },
@@ -52,6 +56,7 @@
       "end": "2024 vecka 17",
       "requirements": "F\u00f6rtilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngna kurser motsvarande 30 hp p\u00e5 avancerad niv\u00e5 inom masterprogrammet Strategisk Fysisk planering.",
       "code": "FM2607",
+      "description": "Kursens syfte \u00e4r att studenterna skall uppn\u00e5 en f\u00f6rdjupad kunskap om olika planeringsteoretiska inriktningar av s\u00e4rskild betydelse f\u00f6r strategisk planering. Kursen syftar \u00e4ven till att studenterna skall kunna reflektera \u00f6ver hur planeringsteoretiska kunskaper f\u00f6rh\u00e5ller sig till planeringens praktik.",
       "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20241/BMXCU",
       "optional": false
     },
@@ -62,6 +67,7 @@
       "end": "2024 vecka 22",
       "requirements": "Genomg\u00e5ngna kurser motsvarande 30hp p\u00e5 avancerad niv\u00e5 inom masterprogrammet Strategisk Fysisk planering",
       "code": "FM2599",
+      "description": "Syftet med kursen \u00e4r att de studerande skall f\u00f6rdjupa sig i ett aktuellt tema av relevans f\u00f6r strategisk planering. Vidare \u00e4r syftet att tr\u00e4na studenterna i att arbeta sj\u00e4lvst\u00e4ndigt med att identifiera aktuella planeringsproblem och kunskapsluckor, samt belysa det valda temat utifr\u00e5n s\u00e5v\u00e4l ett kunskapsteoretiskt perspektiv som ett professionsperspektiv.",
       "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20241/BDKR4",
       "optional": false
     },
@@ -72,6 +78,7 @@
       "end": "2024 vecka 44",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngna kurser motsvarande 60 hp p\u00e5 avancerad niv\u00e5 inom huvudomr\u00e5det fysisk planering varav minst 45 hp ska vara avklarade. Bland de avklarade kurserna ska kursen Introduktion till strategisk fysisk planering 15 hp ing\u00e5.",
       "code": "FM2608",
+      "description": "Kursens syfte \u00e4r att diskutera och problematisera perspektiv p\u00e5 planering och policyutveckling p\u00e5 olika niv\u00e5er i olika kontexter och l\u00e4nder, med regional utveckling i fokus.",
       "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20242/BLC4K",
       "optional": false
     },
@@ -82,6 +89,7 @@
       "end": "2025 vecka 03",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngna kurser motsvarande 60 hp p\u00e5 avancerad niv\u00e5 inom huvudomr\u00e5det fysisk planering varav minst 45 hp ska vara avklarade. Bland de avklarade kurserna ska kursen Introduktion till strategisk fysisk planering 15 hp ing\u00e5.",
       "code": "FM2609",
+      "description": "Kursens syfte \u00e4r att ge de studerande en m\u00f6jlighet att i praktiken till\u00e4mpa de kunskaper om strategisk planering som f\u00f6rv\u00e4rvats under programmet. H\u00e4r visar de studerande sin f\u00f6rm\u00e5ga att praktisera strategisk planering och att till\u00e4mpa s\u00e5dana f\u00e4rdigheter som \u00e4r relevanta f\u00f6r det projekt som valts. Vidare \u00e4r syftet att det valda planeringsprojektet skall utf\u00f6ras i samarbete med tillt\u00e4nkta avn\u00e4mare till utbildningen.",
       "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20242/BU3MR",
       "optional": false
     },
@@ -92,10 +100,11 @@
       "end": "2025 vecka 23",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngna kurser motsvarande 90 hp p\u00e5 avancerad niv\u00e5 inom huvudomr\u00e5det fysisk planering, varav minst 75 hp ska vara avklarade, inklusive kursen Introduktion till strategisk fysisk planering, 15 hp.",
       "code": "FM2612",
+      "description": "Kursens syfte \u00e4r att studenten i ett sj\u00e4lvst\u00e4ndigt examensarbete ska visa v\u00e4sentligt f\u00f6rdjupade kunskaper och f\u00e4rdigheter inom \u00e4mnesomr\u00e5det f\u00f6r fysisk planering med tydlig f\u00f6rankring i aktuell forskning och bepr\u00f6vad erfarenhet. Examensarbetet skall bidra med ny kunskap inom \u00e4mnesomr\u00e5det.",
       "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20251/BTRUQ",
       "optional": false
     }
   ],
   "href": "https://www.bth.se/utbildning/program-och-kurser/fmasn/",
-  "updated": 1666476341253
+  "updated": 1666633333122
 }

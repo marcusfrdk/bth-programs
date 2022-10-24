@@ -12,6 +12,7 @@
       "end": "2024 vecka 02",
       "requirements": "Grundl\u00e4ggande beh\u00f6righet och Matematik 2a/2b/2c samt p\u00e5b\u00f6rjad kurs Matematik gamma 15 fup.",
       "code": "FY0003",
+      "description": "Kursen syftar till att studenten ska skaffa sig de kunskaper i fysik som kr\u00e4vs f\u00f6r att b\u00f6rja p\u00e5 ingenj\u00f6rsutbildning p\u00e5 h\u00f6gskoleniv\u00e5, d.v.s. motsvarande tre \u00e5rskurser fysik fr\u00e5n gymnasieskolans NV-program, samt en \u00f6versiktlig f\u00f6rst\u00e5else f\u00f6r fysikens till\u00e4mpningar inom olika teknikomr\u00e5den.",
       "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20232/BF3DM",
       "optional": false
     },
@@ -22,6 +23,7 @@
       "end": "2024 vecka 02",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs grundl\u00e4ggande beh\u00f6righet samt Matematik B eller Matematik 2a/2b/2c.",
       "code": "MA0005",
+      "description": "Kursens syfte \u00e4r att studenten ska inh\u00e4mta de kunskaper i matematik som kr\u00e4vs f\u00f6r studier inom vissa h\u00f6gskoleprogram, samt som grundl\u00e4ggande beh\u00f6righet inf\u00f6r Matematik delta.",
       "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20232/BG7QW",
       "optional": false
     },
@@ -32,6 +34,7 @@
       "end": "2024 vecka 12",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs grundl\u00e4ggande beh\u00f6righet samt Matematik 2a/2b/2c.",
       "code": "KE0003",
+      "description": "Kursen syftar till att studenten ska skaffa sig de kunskaper i kemi som kr\u00e4vs f\u00f6r att p\u00e5b\u00f6rja ingenj\u00f6rsutbildning p\u00e5 h\u00f6gskoleniv\u00e5, det vill s\u00e4ga motsvarande Kemi 1 enligt gymnasieskolans kursplan.",
       "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20232/BL6JK",
       "optional": false
     },
@@ -42,6 +45,7 @@
       "end": "2024 vecka 22",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngen Matematik gamma 15 fup och Fysik alfa 12 fup.",
       "code": "FY0006",
+      "description": "Kursen syftar till att studenten ska skaffa sig de kunskaper i fysik som kr\u00e4vs f\u00f6r att b\u00f6rja p\u00e5 ingenj\u00f6rsutbildning p\u00e5 h\u00f6gskoleniv\u00e5, d.v.s. motsvarande tre \u00e5rskurser fysik fr\u00e5n gymnasieskolans NV-program, samt en \u00f6versiktlig f\u00f6rst\u00e5else f\u00f6r fysikens till\u00e4mpningar inom olika teknikomr\u00e5den.",
       "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20241/BJHGU",
       "optional": false
     },
@@ -52,10 +56,11 @@
       "end": "2024 vecka 22",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs 2,5 fup avklarade p\u00e5 kursen Matematik gamma, 15 fup.",
       "code": "MA0007",
+      "description": "Kursen syftar till att studenten ska bli v\u00e4l f\u00f6rberedd inf\u00f6r matematikstudier p\u00e5, samt ge beh\u00f6righet till, civilingenj\u00f6rsutbildningar.",
       "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20241/BA4RX",
       "optional": false
     }
   ],
   "href": "https://www.bth.se/utbildning/program-och-kurser/tegdt/",
-  "updated": 1666476371768
+  "updated": 1666633367978
 }

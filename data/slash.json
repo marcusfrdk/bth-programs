@@ -12,6 +12,7 @@
       "end": "2024 vecka 22",
       "requirements": "Kandidatexamen eller yrkesexamen om 180 h\u00f6gskolepo\u00e4ng och Engelska B samt minst sex m\u00e5naders relevant yrkeslivserfarenhet, s\u00e5som arbete, praktikarbete, volont\u00e4rarbete, f\u00f6rtroendeuppdrag, eller motsvarande, p\u00e5 heltid eller deltid, som visar p\u00e5 erfarenhet av h\u00e5llbarhetsarbete.",
       "code": "SL2534",
+      "description": "Syftet med kursen \u00e4r att studenten ska (1) utveckla f\u00f6rdjupad kunskap om och f\u00f6rst\u00e5else f\u00f6r teoretiska grunder f\u00f6r ledarskap i komplexitet, s\u00e4rskilt i relation till transformativ f\u00f6r\u00e4ndring f\u00f6r h\u00e5llbarhet och (2) utveckla f\u00e4rdighet som kr\u00e4vs f\u00f6r att arbeta effektivt med komplexa utmaningar, inklusive f\u00f6rm\u00e5ga att kritiskt reflektera \u00f6ver olika arbetss\u00e4tt inom omr\u00e5det.",
       "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20232/B4TXM",
       "optional": false
     },
@@ -22,6 +23,7 @@
       "end": "2023 vecka 43",
       "requirements": "Kandidatexamen eller yrkesexamen om 180 hp samt Engelska B.",
       "code": "SL2533",
+      "description": "Syftet med kursen \u00e4r att studenten ska (1) utveckla f\u00f6rdjupad kunskap om och f\u00f6rst\u00e5else f\u00f6r samh\u00e4llets h\u00e5llbarhetsutmaningar och grundl\u00e4ggande orsaker till dessa, (2) utveckla f\u00f6rdjupad kunskap om och f\u00f6rst\u00e5else f\u00f6r en strukturerande och koordinerande metodik f\u00f6r strategisk h\u00e5llbar utveckling, inklusive dess vetenskapliga grunder, samt (3) utveckla f\u00e4rdighet i att till\u00e4mpa metodiken och i att kritiskt reflektera \u00f6ver den i f\u00f6rh\u00e5llande till vanligen citerade begrepp, metoder och verktyg av relevans f\u00f6r strategisk h\u00e5llbar utveckling.",
       "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20232/B4JMH",
       "optional": false
     },
@@ -32,6 +34,7 @@
       "end": "2024 vecka 17",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurs Strategisk h\u00e5llbar utveckling 12,5 hp samt att 2,5 hp av kursen Ledarskap i komplexitet (10 hp) \u00e4r avklarade.",
       "code": "SL2537",
+      "description": "Syftet med kursen \u00e4r att studenten ska (1) utveckla f\u00f6rdjupad kunskap om och f\u00f6rst\u00e5else f\u00f6r olika forskningsmetoder och angreppss\u00e4tt, s\u00e4rskilt inom h\u00e5llbarhetsforskning, (2) utveckla kompetens och f\u00e4rdighet f\u00f6r att kritiskt bed\u00f6ma och anv\u00e4nda l\u00e4mpliga metoder och angreppss\u00e4tt, samt (3) f\u00f6rbereda f\u00f6r sitt examensarbete inom strategiskt ledarskap f\u00f6r h\u00e5llbarhet.",
       "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20232/BY3GN",
       "optional": false
     },
@@ -42,6 +45,7 @@
       "end": "2023 vecka 48",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att 5 hp av kursen Strategisk h\u00e5llbar utveckling (12,5 hp) \u00e4r avklarade.",
       "code": "SL2540",
+      "description": "Syftet med kursen \u00e4r att studenten ska (1) utveckla f\u00f6rdjupad kunskap om och f\u00f6rst\u00e5else f\u00f6r hur innovation kan st\u00f6dja samh\u00e4llets omst\u00e4llning till h\u00e5llbarhet, och (2) utveckla praktisk f\u00e4rdighet inom detta omr\u00e5de, till exempel hur man kritiskt bed\u00f6mer befintliga produkter och processer samt hur man till\u00e4mpar kreativitetsmetoder och kreativitetsverktyg f\u00f6r innovation f\u00f6r h\u00e5llbarhet.",
       "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20232/BNPUR",
       "optional": false
     },
@@ -52,6 +56,7 @@
       "end": "2024 vecka 07",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att kursen Strategisk h\u00e5llbar utveckling 12,5 hp \u00e4r avklarad, samt att 2,5 hp av kursen Ledarskap i komplexitet, 10 hp \u00e4r avklarade.",
       "code": "SL2550",
+      "description": "Syftet med kursen \u00e4r att studenten ska (1) utveckla f\u00f6rdjupad kunskap om och f\u00f6rst\u00e5else f\u00f6r strategiskt t\u00e4nkande och planering f\u00f6r h\u00e5llbarhet, (2) utveckla f\u00f6rdjupad kunskap om och praktisk f\u00f6rst\u00e5else f\u00f6r hur en metodik f\u00f6r strategisk h\u00e5llbar utveckling kan anv\u00e4ndas f\u00f6r att strukturera och koordinera detta arbete, samt (3) utveckla ledaregenskaper genom lagarbete.",
       "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20232/BHATJ",
       "optional": false
     },
@@ -62,10 +67,11 @@
       "end": "2024 vecka 22",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser Strategisk h\u00e5llbar utveckling 12,5 hp och Innovation f\u00f6r h\u00e5llbarhet, 5 hp samt att 2,5 hp av kursen Ledarskap i komplexitet (10 hp) \u00e4r avklarade.",
       "code": "SL2538",
+      "description": "Syftet med kursen \u00e4r att studenten ska (1) utveckla f\u00f6rdjupad kunskap om ett specifikt forsknings\u00e4mne av relevans f\u00f6r strategiskt ledarskap f\u00f6r h\u00e5llbarhet, (2) utveckla f\u00f6rdjupad kunskap om och f\u00e4rdighet i att till\u00e4mpa forskningsmetodik, samt (3) utveckla ledaregenskaper genom lagarbete.",
       "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20241/BUJEM",
       "optional": false
     }
   ],
   "href": "https://www.bth.se/utbildning/program-och-kurser/slash/",
-  "updated": 1666476251706
+  "updated": 1666633225803
 }

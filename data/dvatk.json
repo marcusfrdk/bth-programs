@@ -12,6 +12,7 @@
       "end": "2023 vecka 43",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att 5 hp i C/C++ programmering \u00e4r avklarat alternativt 15 hp avklarat i n\u00e5got annat programmeringsspr\u00e5k.",
       "code": "DV1619",
+      "description": "Grundl\u00e4ggande f\u00f6rst\u00e5else f\u00f6r datorkommunikation, med fokus p\u00e5 programmering av TCP/IP. Introduktion till lager och protokoll, Ethernet och IP stacken, med tillh\u00f6rande protokoll (IP, UDP, TCP, DNS, HTTPs, mfl) , \u00f6versikt av kommunikationsarkitekturer (klient-server, peer-2-peer), s\u00e4kerhets- och implementationsaspekter i datorkommunikation.",
       "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20232/BWTHQ",
       "optional": false
     },
@@ -22,6 +23,7 @@
       "end": "2023 vecka 43",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att den studerande har avklarat kurser i programmering, 15 hp, algoritmer och datastrukturer, 6 hp, operativsystem, 6hp och datakommunikation alt lokala n\u00e4tverk, 4 hp.",
       "code": "DV1457",
+      "description": "Syftet med kursen \u00e4r att studenten ska till\u00e4gna sig en f\u00f6rdjupad f\u00f6rst\u00e5else f\u00f6r UNIX-baserade system och f\u00f6r operativsystemn\u00e4ra programmering. Detta inneb\u00e4r bl a att kunna programmera p\u00e5 operativsystemets mest abstrakta niv\u00e5, n\u00e4rmast anv\u00e4ndaren, och ned\u00e5t genom abstraktionsniv\u00e5erna till den l\u00e4gsta niv\u00e5n, systemanropen.Kursen l\u00e4r ut hur man designar mjukvara som interagerar med datorn via operativsystemet UNIX (och UNIX-baserade/liknande operativsystem s\u00e5som Linux och MacOS). Den l\u00e4gger grunden f\u00f6r vidare studier inom andra omr\u00e5den (till exempel datas\u00e4kerhet) som kr\u00e4ver konkret f\u00f6rst\u00e5else f\u00f6r den underliggande teknologin. Syftet uppn\u00e5s genom att studenten via en serie laborationer f\u00e5r praktisk erfarenhet av att utveckla program i en UNIX-milj\u00f6.",
       "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20232/B6YRM",
       "optional": true
     },
@@ -32,6 +34,7 @@
       "end": "2024 vecka 02",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att den studerande har avklarat: programmering 15 hp, algoritmer och datastrukturer 6 hp  och  operativsystem 6 hp.",
       "code": "DV1566",
+      "description": "Kursen fokuserar p\u00e5 de grundl\u00e4ggande koncepten f\u00f6r distribuerade system och cloud computing. Kursen omfattar teoretiska och praktiska aspekter med fokus p\u00e5 verkliga exempel. Efter genomf\u00f6rd  kurs ska studenten vara kapabel att v\u00e4lja, installera och anv\u00e4nda grundl\u00e4ggande molnresurser (till exempel datorer och lagring som en tj\u00e4nst) och att utforma och implementera skalbara arkitekturer och applikationer.",
       "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20232/BN7DT",
       "optional": true
     },
@@ -42,6 +45,7 @@
       "end": "2024 vecka 02",
       "requirements": "Avklarad kurs i Datakommunikation 7,5 hp och Objektorienterad programmering 7,5 hp",
       "code": "ET2595",
+      "description": "Syftet med kursen \u00e4r att studenterna skall l\u00e4ra sig hur data, datorsystem och n\u00e4tverk kan skyddas mot obeh\u00f6rig \u00e5tkomst.",
       "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20232/BPEYX",
       "optional": false
     },
@@ -52,6 +56,7 @@
       "end": "2024 vecka 12",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs minst 7,5 hp avklarade i datakommunikation och minst 7,5 hp avklarade i objektorienterad programmering, 7,5 hp.",
       "code": "DV2601",
+      "description": "Kursen syftar till att ge f\u00f6rdjupade teoretiska och till\u00e4mpade kunskaper inom avancerade och komplexa n\u00e4tverkstekniker. Detta omfattar f\u00f6rst\u00e5else av metoder, protokoll samt mekanismer s\u00e5 att studenten kan f\u00f6rklara och j\u00e4mf\u00f6ra avancerade och grundl\u00e4ggande n\u00e4tverkstekniker.",
       "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20241/B4GEL",
       "optional": true
     },
@@ -62,6 +67,7 @@
       "end": "2024 vecka 12",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs 180 avklarade hp. Av dessa ska minst 165 hp ska vara inom n\u00e5got av omr\u00e5dena datavetenskap, informationssystem, datateknik, AI och maskininl\u00e4rning, telekommunikationssystem och/eller dators\u00e4kerhet. Minst 7,5 hp ska vara inom datavetenskap eller objektorienterad programmering. I de avklarade 180 hp ska \u00e4ven minst 15 hp matematik ing\u00e5.",
       "code": "DV2631",
+      "description": "Syftet med kursen \u00e4r att ge studenterna m\u00f6jlighet att diskutera och praktisera ett vetenskapligt f\u00f6rh\u00e5llningss\u00e4tt, att f\u00e5 kunskap om aktuell forskning inom ett valt omr\u00e5de och att \u00f6va p\u00e5 akademiskt skrivande. S\u00e5dana omr\u00e5den h\u00e4nf\u00f6r sig till huvudomr\u00e5dena datavetenskap, informationssystem, datateknik, artificiell intelligens och maskininl\u00e4rning, telekommunikationssystem och dators\u00e4kerhet. En viktig forskningsfr\u00e5ga \u00e4r att f\u00f6resl\u00e5, utveckla, utv\u00e4rdera och j\u00e4mf\u00f6ra metoder, verktyg, spr\u00e5k, modeller/designer, algoritmer etc, och deras inverkan p\u00e5 olika system, organisationer och m\u00e4nniskor.Kursen ger studenterna en f\u00f6rst\u00e5else f\u00f6r den forskningsmetodik som g\u00f6r det m\u00f6jligt att behandla ovan n\u00e4mnda forskningsfr\u00e5ga. Vidare kommer studenterna att introduceras till de samh\u00e4lleliga och etiska aspekterna av den aktuella forskningen och f\u00e5 erfarenhet av att planera, genomf\u00f6ra och redovisa ett forskningsprojekt.",
       "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20241/B4H3Y",
       "optional": false
     },
@@ -72,6 +78,7 @@
       "end": "2024 vecka 22",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs minst 7,5 hp avklarade i datakommunikation och minst 7,5 hp avklarade i objektorienterad programmering, 7,5 hp.",
       "code": "DV2602",
+      "description": "Kursen ger kunskaper i processer, metoder och tekniker f\u00f6r installation, drift och underh\u00e5ll av kommunikationsn\u00e4tverk och tillh\u00f6rande tj\u00e4nster. Kursen problematiserar de utmaningar som finns p\u00e5 grund av antalet n\u00e4tverkskomponenter, tj\u00e4nster och anv\u00e4ndare. Kursen ger \u00e4ven en \u00f6versikt av n\u00e4tverk och tj\u00e4nstekonfiguration, samt \u00f6vervakning av dessa.",
       "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20241/B7W6W",
       "optional": true
     },
@@ -82,6 +89,7 @@
       "end": "2024 vecka 22",
       "requirements": "15 hp matematik avklarat.",
       "code": "MS1411",
+      "description": "Kursens syfte \u00e4r att studenterna skall skaffa sig kunskaper i s\u00e5v\u00e4l sannolikhetsteori som statistisk teori och metodik. Tonvikten ligger p\u00e5 sannolikhetsteori och stokastiska processer med tekniska till\u00e4mpningar.",
       "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20241/BPKPK",
       "optional": true
     },
@@ -92,6 +100,7 @@
       "end": "2024 vecka 44",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarad kurs Matematik, forts\u00e4ttningskurs, 7,5 hp samt genomg\u00e5ngen kurs i Matematisk statistik 7,5 hp.",
       "code": "DV2604",
+      "description": "Kursen syftar till att studenten ska f\u00f6rv\u00e4rva kunskaper i k\u00f6teori f\u00f6r att l\u00f6sa dimensionerings och optimeringsproblem som uppst\u00e5r i kommunikationssystem. Studenten skaffar sig f\u00f6rm\u00e5gan att med matematiska verktyg best\u00e4mma m\u00e4ngden av resurser (l\u00e4nkar, samtals-kanaler, buffertar, processorkraft etc.). Dessa resurser kr\u00e4vs f\u00f6r att ett system ska uppn\u00e5 en viss tj\u00e4nstekvalitet till en minimal kostnad f\u00f6r operat\u00f6ren och d\u00e4rmed kunden.",
       "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20242/BTHNU",
       "optional": true
     },
@@ -102,6 +111,7 @@
       "end": "2024 vecka 44",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs 12 avklarade hp fr\u00e5n moment i programmeringskurser (Python eller dylikt) samt 6 avklarade hp i datastrukturer och algoritmer.",
       "code": "DV2618",
+      "description": "Artificiell intelligens (AI) i olika former finns i en allt st\u00f6rre del av de datoriserade systemen vi anv\u00e4nder, t.ex. i form av optimeringstekniker, beslutsst\u00f6dsystem, bildbehandlingsanalys och robotar. Kursen syftar till att introducera omr\u00e5det artificiell intelligens och n\u00e5gra av dess till\u00e4mpningar.",
       "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20242/BADLG",
       "optional": true
     },
@@ -112,6 +122,7 @@
       "end": "2025 vecka 03",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att studenten har 90 h\u00f6gskolepo\u00e4ng i programvaruteknik eller datavetenskap samt minst 30 h\u00f6gskolepo\u00e4ng p\u00e5 masterniv\u00e5 inom dessa omr\u00e5den.",
       "code": "DV2545",
+      "description": "Kursens syfte \u00e4r att ge studenterna m\u00f6jligheter till att f\u00f6rdjupa sina kunskaper och sin f\u00f6rst\u00e5else inom ett specifikt omr\u00e5de inom datavetenskap eller programvaruteknik. Kursen utg\u00f6r en direkt f\u00f6rberedelse f\u00f6r ett kommande magisterarbete.",
       "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20242/BCD7J",
       "optional": true
     },
@@ -122,6 +133,7 @@
       "end": "2025 vecka 03",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs en avklarad kurs inom Till\u00e4mpad artificiell intelligens omfattande minst 6 hp.",
       "code": "DV2626",
+      "description": "Det huvudsakliga syftet med kursen \u00e4r att introducera teori och metod fr\u00e5n maskininl\u00e4rning (machine learning) samt praktiska till\u00e4mpningar inom informationsutvinning (data mining). Den teknologiska utvecklingen har bidragit till att vi blivit mer beroende av databaser f\u00f6r lagring och databehandling. Antalet databaser och m\u00e4ngden inneh\u00e5ll i dessa v\u00e4xer snabbt. I takt med denna tillv\u00e4xt blir det sv\u00e5rare att manuellt finna anv\u00e4ndbar information fr\u00e5n den stora m\u00e4ngden data. Vi beh\u00f6ver d\u00e4rf\u00f6r semiautomatiska och automatiska metoder f\u00f6r att anv\u00e4nda, aggregera, analysera och extrahera s\u00e5dan information. Metoder och tekniker fr\u00e5n maskininl\u00e4rning, informationsutvinning, och artificiell intelligens har visat sig anv\u00e4ndbara f\u00f6r detta syfte.",
       "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20242/B7UDJ",
       "optional": true
     },
@@ -132,6 +144,7 @@
       "end": "2025 vecka 03",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngen kurs Avancerad n\u00e4tverksteknik 7,5 hp.",
       "code": "DV2603",
+      "description": "Kursens syfte \u00e4r att ge en \u00f6vergripande f\u00f6rst\u00e5else av teknik, m\u00f6jligheter och till\u00e4mpningar av mjukvarubaserade kommunikationsn\u00e4tverk. Kursen behandlar den utveckling som p\u00e5g\u00e5r inom n\u00e4tverk, switching, virtualisering, algoritmer, mjukvaruplattformar, programvaruteknik och s\u00e4kerhetskoncept f\u00f6r mjukvarubaserade kommunikationsn\u00e4t och molnbaserade tj\u00e4nster, med fokus p\u00e5 Software Defined Networking (SDN) och Network Function Virtualization (NFV).",
       "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20242/BDAPU",
       "optional": true
     },
@@ -142,6 +155,7 @@
       "end": "2025 vecka 03",
       "requirements": "Avklarad kurs i Datakommunikation 7,5 hp och Matematisk statistik 7,5 hp.",
       "code": "ET2601",
+      "description": "Omr\u00e5det upplevd kvalitet i n\u00e4tverksbaserade tj\u00e4nster (Quality of Experience, QoE) f\u00e5r mycket uppm\u00e4rksamhet hos tj\u00e4nsteoperat\u00f6rerna. B\u00e4ttre tj\u00e4nster ger fler n\u00f6jda kunder och kan d\u00e4rmed bidra till h\u00f6gre inkomster. Tj\u00e4nsteoperat\u00f6rer anv\u00e4nder sig av m\u00e4tningar av upplevd kvalitet och framh\u00e4ver g\u00e4rna positiva resultat i marknadsf\u00f6ringen, medan negativa resultat anv\u00e4nds i tj\u00e4nsteutvecklingen. Mot denna bakgrund \u00e4r syftet med kursen att ge studenterna insikter, praktiska f\u00e4rdigheter och tolkningsf\u00f6rm\u00e5ga i hur en kvalitetsm\u00e4tnings- och kvalitetsbed\u00f6mningsprocess g\u00e5r till, vilka n\u00e4tverksbeteenden och -parametrar som p\u00e5verkar upplevelsen av olika typer av tj\u00e4nster, hur man ta fram och tolkar QoE modeller, och p\u00e5 vilket s\u00e4tt tj\u00e4nsteleveransen kan f\u00f6rb\u00e4ttras under givna omst\u00e4ndigheter och randvillkor.",
       "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20242/BLQPF",
       "optional": true
     },
@@ -152,10 +166,11 @@
       "end": "2025 vecka 23",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs minst 90 h\u00f6gskolepo\u00e4ng inom huvudomr\u00e5det datavetenskap, varav minst 30 h\u00f6gskolepo\u00e4ng p\u00e5 avancerad niv\u00e5. Dessutom kr\u00e4vs att den studerande har avklarat en kurs i forskningsmetodik i programvaruteknik och/eller datavetenskap om 7.5 h\u00f6gskolepo\u00e4ng.",
       "code": "DV2572",
+      "description": "Syftet med kursen \u00e4r att studenten ska tr\u00e4na sin f\u00f6rm\u00e5ga att definiera, planera, genomf\u00f6ra och redovisa ett sj\u00e4lvst\u00e4ndigt vetenskapligt forskningsarbete. Studenten f\u00f6rv\u00e4ntas till\u00e4mpa de under utbildningen f\u00f6rv\u00e4rvade kunskaperna f\u00f6r att sj\u00e4lvst\u00e4ndigt f\u00f6rdjupa sig inom ett eller flera specifika delomr\u00e5den inom huvudomr\u00e5det datavetenskap. M\u00e5let f\u00f6r studenten \u00e4r att muntligen och skriftligen redovisa resultatet av forskningsarbetet samt att kritiskt granska och opponera p\u00e5 ett annat examensarbete. Redovisningen ska uppfylla de krav och kriterier som g\u00e4ller f\u00f6r vetenskaplig text.",
       "href": "http://www.bth.se/utbildning/program-och-kurser/kurser/20251/BAKGG",
       "optional": false
     }
   ],
   "href": "https://www.bth.se/utbildning/program-och-kurser/dvatk/",
-  "updated": 1666476354806
+  "updated": 1666633349348
 }
