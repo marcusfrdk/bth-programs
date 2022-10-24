@@ -75,6 +75,21 @@
         padding: 1rem 0;
       }
 
+      select {
+        font-size: 0.875rem;
+        width: fit-content;
+        background-color: var(--bottom);
+        border: none;
+        border-radius: 0.25rem;
+        cursor: pointer;
+        margin-bottom: 1rem;
+        height: 2.5rem;
+        padding: 0 0.75rem;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      }
+
       #backdrop {
         padding: var(--padding);
         display: flex;
@@ -102,20 +117,6 @@
 
       #selectors {
         display: flex;
-      }
-
-      #selectors select {
-        width: fit-content;
-        background-color: var(--bottom);
-        border: none;
-        border-radius: 0.25rem;
-        cursor: pointer;
-        margin-bottom: 1rem;
-        height: 2.5rem;
-        padding: 0 0.5rem;
-        display: flex;
-        align-items: center;
-        justify-content: center;
       }
 
       #selectors > *:not(:last-child) {
@@ -284,6 +285,11 @@
           --padding: 1rem;
         }
 
+        select {
+          width: 100%;
+          font-size: 1rem;
+        }
+
         #program-name {
           font-size: 1.5rem;
         }
@@ -298,10 +304,6 @@
 
         #selectors {
           flex-direction: column;
-        }
-
-        #selectors select {
-          width: 100%;
         }
 
         #back-to-top {
