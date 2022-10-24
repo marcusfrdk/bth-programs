@@ -39,3 +39,4 @@ All Javascript code must follow the [standard coding style](https://javascript.i
 - [ ] Add support for courses spanning over multiple semesters
 - [ ] Add ability to select courses and add to custom schedule
 - [ ] Header that shows up when scrolling doen with program name and program selector
+- [ ] Gracefully end threads on KeyboardInterrupt
