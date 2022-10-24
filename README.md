@@ -47,3 +47,4 @@ python3 run.py CODE [CODE...]
 
 - [ ] Add support for courses spanning over multiple semesters
 - [ ] Add ability to select courses and add to custom schedule
+- [ ] Header that shows up when scrolling doen with program name and program selector

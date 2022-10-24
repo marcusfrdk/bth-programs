@@ -251,6 +251,34 @@
         border-radius: 0.25rem;
       }
 
+      #back-to-top {
+        background-color: var(--bottom);
+        position: fixed;
+        bottom: 2rem;
+        right: 2rem;
+        height: 3rem;
+        width: 3rem;
+        border: none;
+        border-radius: 50%;
+        cursor: pointer;
+        border: 0.125rem solid var(--background);
+        opacity: 0;
+        pointer-events: none;
+        transition-property: opacity, height, width;
+        transition: 128ms ease-in-out;
+      }
+
+      #back-to-top.show {
+        opacity: 1;
+        pointer-events: all;
+      }
+
+      #back-to-top > svg {
+        fill: var(--strong);
+        height: 50%;
+        width: 50%;
+      }
+
       @media screen and (max-width: 768px) {
         :root {
           --padding: 1rem;
@@ -274,6 +302,11 @@
 
         #selectors select {
           width: 100%;
+        }
+
+        #back-to-top {
+          height: 4rem;
+          width: 4rem;
         }
       }
     </style>
@@ -306,6 +339,16 @@
     </p>
 
     <p id="updated">Data updated at</p>
+
+    <button id="back-to-top" onclick="backToTop()">
+      <svg
+        viewBox="0 0 24 24"
+        xmlns="http://www.w3.org/2000/svg"
+        xmlns:xlink="http://www.w3.org/1999/xlink"
+      >
+        <polygon points="4 15 12 7 20 15 18 17 12 11 6 17"></polygon>
+      </svg>
+    </button>
   </body>
   <script type="text/javascript">
     const programSelector = document.getElementById("program-selector");
@@ -602,11 +645,29 @@
       getProgram({ target: { value } });
     }
 
+    function backToTop() {
+      window.scrollTo({
+        top: 0,
+        behavior: "smooth",
+      });
+    }
+
+    function watchScrollPos(e) {
+      const element = document.getElementById("back-to-top");
+      if (window.scrollY > window.innerHeight) {
+        element.classList.add("show");
+      } else {
+        element.classList.remove("show");
+      }
+    }
+
     getIndex();
     programSelector.addEventListener("change", getProgram);
     yearSelector.addEventListener("change", highlightCurrentCourses);
+    window.addEventListener("scroll", watchScrollPos);
     window.addEventListener("beforeunload", function () {
       programSelector.removeEventListener("change", getProgram);
+      window.removeEventListener("scroll", watchScrollPos);
     });
   </script>
 </html>
