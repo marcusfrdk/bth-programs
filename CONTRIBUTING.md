@@ -42,4 +42,4 @@ All Javascript code must follow the [standard coding style](https://javascript.i
 - [ ] Gracefully end threads on KeyboardInterrupt
 - [ ] Asyncronous multithreading
 - [ ] Fix page blocking time
-- [ ] Fix CLS (Cumulative Layout Shift) (Add skeleton?)
+- [x] Fix CLS (Cumulative Layout Shift) (Add skeleton?)
