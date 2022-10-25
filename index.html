@@ -348,7 +348,7 @@
       }
     </style>
   </head>
-  <body>
+  <body onload="getIndex()">
     <a id="program-href" target="_blank">
       <div id="backdrop">
         <h1 id="program-name" class="ellipsis"></h1>
@@ -401,7 +401,7 @@
       </svg>
     </button>
   </body>
-  <script type="text/javascript">
+  <script type="text/javascript" defer>
     const programSelector = document.getElementById("program-selector");
     const yearSelector = document.getElementById("year-selector");
 
@@ -770,7 +770,6 @@
       }
     }
 
-    getIndex();
     programSelector.addEventListener("change", getProgram);
     yearSelector.addEventListener("change", highlightCurrentCourses);
     window.addEventListener("scroll", watchScrollPos);
