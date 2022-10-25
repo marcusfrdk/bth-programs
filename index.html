@@ -723,24 +723,21 @@
     async function getProgram(e) {
       const code = e.target.value;
       localStorage.setItem("program", code);
-      const url = `https://api.github.com/repos/marcusfrdk/bth-programs/contents/data/${code}.json`;
+      const url = `https://raw.githubusercontent.com/marcusfrdk/bth-programs/main/data/${code}.json#${Date.now()}`;
       const response = await fetch(url);
       const data = await response.json();
-      const content = JSON.parse(atob(data.content));
-      setProgram(content);
-      updateYearSelector(content);
+      setProgram(data);
+      updateYearSelector(data);
       document.getElementById(
         "updated"
-      ).innerText = `Datan genererades ${new Date(content.updated)}`;
+      ).innerText = `Datan genererades ${new Date(data.updated)}`;
     }
 
     async function getIndex() {
-      const url =
-        "https://api.github.com/repos/marcusfrdk/bth-programs/contents/data/index.json";
+      const url = `https://raw.githubusercontent.com/marcusfrdk/bth-programs/main/data/index.json#${Date.now()}`;
       const res = await fetch(url);
-      const data = await res.json();
-      const content = JSON.parse(atob(data.content)).sort();
-      content.forEach((item) => {
+      const data = (await res.json()).sort();
+      data.forEach((item) => {
         if (item !== "index") {
           const option = document.createElement("option");
           option.value = item;
