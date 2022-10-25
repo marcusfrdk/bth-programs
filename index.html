@@ -355,6 +355,63 @@
     const programSelector = document.getElementById("program-selector");
     const yearSelector = document.getElementById("year-selector");
 
+    function getCourseIcon(course) {
+      // Please update emojis if you feel like it
+      const code = course.code.toLowerCase().replace(/[^a-z]/g, "");
+      let icon = "";
+      switch (code) {
+        case "dv":
+          icon = "⌨️";
+          break;
+        case "ma":
+          icon = "🔢";
+          break;
+        case "ms":
+          icon = "📊";
+          break;
+        case "pa":
+          icon = "👨‍💻";
+          break;
+        case "iy":
+          icon = "💵";
+          break;
+        case "fy":
+          icon = "🔭";
+          break;
+        case "sl":
+          icon = "👨‍👩‍👧‍👦";
+          break;
+        case "te":
+          icon = "💻";
+          break;
+        case "et":
+          icon = "⚡";
+          break;
+        case "fm":
+          icon = "🏡";
+          break;
+        case "mt":
+          icon = "⚙️";
+          break;
+        case "me":
+          icon = "📹";
+          break;
+        case "om":
+          icon = "🩺";
+          break;
+        case "km":
+          icon = "💊";
+          break;
+        case "ke":
+          icon = "🔬";
+          break;
+        case "ud":
+          icon = "🕹️";
+          break;
+      }
+      return icon ? icon + " " : "";
+    }
+
     function toggleCourseDescription(e) {
       if (e.target.classList.contains("course-toggle-description")) {
         e.target.parentNode.classList.toggle("show");
@@ -583,7 +640,7 @@
               target: "_blank",
               children: [
                 createElement("p", {
-                  innerText: course.name,
+                  innerText: getCourseIcon(course) + course.name,
                 }),
               ],
             }),
