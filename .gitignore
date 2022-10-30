@@ -1,2 +1,4 @@
 __pycache__/
-plans/
+study_plans/
+courses.json
+course_urls.json
