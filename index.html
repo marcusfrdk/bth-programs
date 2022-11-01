@@ -689,7 +689,7 @@
         }
       });
       const stored = localStorage.getItem("program");
-      const value = stored || content[0];
+      const value = stored || data[0];
       programSelector.value = value;
       getProgram({ target: { value } });
     }
