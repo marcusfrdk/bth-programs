@@ -1,4 +1,0 @@
-bs4==0.0.1
-numpy==1.23.4
-requests==2.28.1
-requests-html==0.10.0
