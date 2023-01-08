@@ -31,11 +31,12 @@ class ThreadsAction(Action):
 
 
 def get_args() -> dict:
-  parser = ArgumentParser(description="Program to get all the courses of a program at BTH.")
+  parser = ArgumentParser(
+      description="Program to get all the courses of a program at BTH.")
   parser.add_argument("program", help="the program code, eg. 'dvami', 'dvasi', 'paamj'",
                       nargs="+", type=str, action=ProgramAction)
   parser.add_argument(
-    "--threads", help="sets the number of threads to use, min (1) and max (available count)", type=int, action=ThreadsAction)
+      "--threads", help="sets the number of threads to use, min (1) and max (available count)", type=int, action=ThreadsAction)
   return vars(parser.parse_args())
 
 
@@ -75,7 +76,7 @@ def get_description(soup: BeautifulSoup) -> str:
 
 def get_course_code(soup: BeautifulSoup) -> str:
   code = [w.strip() for w in [li for li in soup.find_all(
-    "span", {"class": "Facts-item-label-container"}) if "Kurskod:" in li.text][0].text.split()]
+      "span", {"class": "Facts-item-label-container"}) if "Kurskod:" in li.text][0].text.split()]
   return code[1]
 
 
@@ -86,11 +87,11 @@ def get_metadata(soup: BeautifulSoup, req_tag: str) -> dict:
   req = get_requirements(soup, req_tag)
 
   return {
-    "name": name,
-    "points": points,
-    "start": start,
-    "end": end,
-    "requirements": req
+      "name": name,
+      "points": points,
+      "start": start,
+      "end": end,
+      "requirements": req
   }
 
 
@@ -119,9 +120,9 @@ def get_program(code: str) -> dict:
   optional_courses = get_optional_courses(soup)
 
   return {
-    **get_metadata(soup, req_tag="div"),
-    "courses": courses,
-    "href": href
+      **get_metadata(soup, req_tag="div"),
+      "courses": courses,
+      "href": href
   }
 
 
@@ -139,11 +140,11 @@ def get_courses(hrefs: list) -> None:
           soup = BeautifulSoup(get(href).text, "html.parser")
           course = get_metadata(soup, req_tag="li")
           course = {
-            **course,
-            "code": get_course_code(soup),
-            "description": get_description(soup),
-            "href": href,
-            "optional": course["name"] in optional_courses
+              **course,
+              "code": get_course_code(soup),
+              "description": get_description(soup),
+              "href": href,
+              "optional": course["name"] in optional_courses
           }
           data.append(course)
 
@@ -167,7 +168,7 @@ def get_courses(hrefs: list) -> None:
 def generate_index() -> None:
   data_path = path.abspath(path.join(path.dirname(__file__), "data"))
   data = [f.replace(".json", "") for f in listdir(data_path) if path.isfile(
-    path.join(data_path, f)) and f.endswith(".json")]
+      path.join(data_path, f)) and f.endswith(".json")]
 
   with open(path.join(data_path, "index.json"), "w", encoding="utf-8") as f:
     f.write(dumps(data, indent=2))
@@ -183,12 +184,13 @@ def run(code: str, index: int = None, total_length: int = None) -> None:
   program = get_program(code)
   courses = get_courses(program.get("courses"))
   data = {
-    **program,
-    "courses": sorted(sorted(courses, key=lambda k: k["name"]), key=lambda k: k["start"]),
-    "updated": int(time_ns() / 1e6)
+      **program,
+      "courses": sorted(sorted(courses, key=lambda k: k["name"]), key=lambda k: k["start"]),
+      "updated": int(time_ns() / 1e6)
   }
 
-  data_path = path.abspath(path.join(path.dirname(__file__), "data", f"{code}.json"))
+  data_path = path.abspath(
+      path.join(path.dirname(__file__), "data", f"{code}.json"))
   with open(data_path, "w", encoding="utf-8") as f:
     f.write(dumps(data, indent=2))
 
