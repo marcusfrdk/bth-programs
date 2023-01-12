@@ -1,0 +1,122 @@
+{
+  "name": "Tekniskt bas\u00e5r",
+  "city": "DistansHela eller delar av undervisningen bedrivs p\u00e5 distans.",
+  "study_plan": "https://edu.bth.se/utbildningsplaner/TEGTB_ht-21.pdf",
+  "form": "Distans",
+  "speed": 100,
+  "location": "Distans",
+  "code": "TEGTB21h1",
+  "points": 60.0,
+  "languages": [
+    "Svenska",
+    "Engelska"
+  ],
+  "teacher": "Per Gralvik",
+  "url": "",
+  "required_courses": [
+    {
+      "name": "Matematik gamma",
+      "city": "KarlskronaSt\u00f6rre delen av undervisningen bedrivs p\u00e5 distans, se vidare under rubriken Anm\u00e4rkning.",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=MA0005&revision=2&lang=sv",
+      "form": "Distans",
+      "speed": 50,
+      "location": "Distans",
+      "code": "MA0005",
+      "points": 2021.0,
+      "languages": [
+        "Svenska"
+      ],
+      "teachers": [
+        "Per Gralvik"
+      ],
+      "description": "Kursens syfte \u00e4r att studenten ska inh\u00e4mta de kunskaper i matematik som kr\u00e4vs f\u00f6r studier inom vissa h\u00f6gskoleprogram, samt som grundl\u00e4ggande beh\u00f6righet inf\u00f6r Matematik delta.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs grundl\u00e4ggande beh\u00f6righet samt Matematik B eller Matematik 2a/2b/2c.",
+      "start": "2021 vecka 34",
+      "end": "2022 vecka 02"
+    },
+    {
+      "name": "Fysik alfa",
+      "city": "KarlskronaSt\u00f6rre delen av undervisningen bedrivs p\u00e5 distans, se vidare under rubriken Anm\u00e4rkning.",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=FY0003&revision=3,1&lang=sv",
+      "form": "Distans",
+      "speed": 50,
+      "location": "Distans",
+      "code": "FY0003",
+      "points": 2021.0,
+      "languages": [
+        "Svenska"
+      ],
+      "teachers": [
+        "Hanne M\u00e5nsson"
+      ],
+      "description": "Kursen syftar till att studenten ska skaffa sig de kunskaper i fysik som kr\u00e4vs f\u00f6r att b\u00f6rja p\u00e5 ingenj\u00f6rsutbildning p\u00e5 h\u00f6gskoleniv\u00e5, d.v.s. motsvarande tre \u00e5rskurser fysik fr\u00e5n gymnasieskolans NV-program, samt en \u00f6versiktlig f\u00f6rst\u00e5else f\u00f6r fysikens till\u00e4mpningar inom olika teknikomr\u00e5den.",
+      "requirements": "Grundl\u00e4ggande beh\u00f6righet och Matematik 2a/2b/2c samt p\u00e5b\u00f6rjad kurs Matematik gamma 15 fup.",
+      "start": "2021 vecka 35",
+      "end": "2022 vecka 02"
+    },
+    {
+      "name": "Kemi alfa",
+      "city": "KarlskronaSt\u00f6rre delen av undervisningen bedrivs p\u00e5 distans, se vidare under rubriken Anm\u00e4rkning.",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=KE0003&revision=2&lang=sv",
+      "form": "Distans",
+      "speed": 25,
+      "location": "Distans",
+      "code": "KE0003",
+      "points": 2021.0,
+      "languages": [
+        "Svenska"
+      ],
+      "teachers": [
+        "Gunilla \u00c5kesson Nilsson"
+      ],
+      "description": "Kursen syftar till att studenten ska skaffa sig de kunskaper i kemi som kr\u00e4vs f\u00f6r att p\u00e5b\u00f6rja ingenj\u00f6rsutbildning p\u00e5 h\u00f6gskoleniv\u00e5, det vill s\u00e4ga motsvarande Kemi 1 enligt gymnasieskolans kursplan.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs grundl\u00e4ggande beh\u00f6righet samt Matematik 2a/2b/2c.",
+      "start": "2021 vecka 39",
+      "end": "2022 vecka 02"
+    },
+    {
+      "name": "Fysik beta",
+      "city": "DistansSt\u00f6rre delen av undervisningen bedrivs p\u00e5 distans, se vidare under rubriken Anm\u00e4rkning.",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=FY0006&revision=1,1&lang=sv",
+      "form": "Distans",
+      "speed": 50,
+      "location": "Distans",
+      "code": "FY0006",
+      "points": 2022.0,
+      "languages": [
+        "Svenska"
+      ],
+      "teachers": [
+        "Tomas Petersson"
+      ],
+      "description": "Kursen syftar till att studenten ska skaffa sig de kunskaper i fysik som kr\u00e4vs f\u00f6r att b\u00f6rja p\u00e5 ingenj\u00f6rsutbildning p\u00e5 h\u00f6gskoleniv\u00e5, d.v.s. motsvarande tre \u00e5rskurser fysik fr\u00e5n gymnasieskolans NV-program, samt en \u00f6versiktlig f\u00f6rst\u00e5else f\u00f6r fysikens till\u00e4mpningar inom olika teknikomr\u00e5den.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngen Matematik gamma 15 fup och Fysik alfa 12 fup.",
+      "start": "2022 vecka 03",
+      "end": "2022 vecka 22"
+    },
+    {
+      "name": "Matematik delta",
+      "city": "KarlskronaSt\u00f6rre delen av undervisningen bedrivs p\u00e5 distans, se vidare under rubriken Anm\u00e4rkning.",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=MA0007&revision=2&lang=sv",
+      "form": "Distans",
+      "speed": 50,
+      "location": "Distans",
+      "code": "MA0007",
+      "points": 2022.0,
+      "languages": [
+        "Svenska"
+      ],
+      "teachers": [
+        "Linda Mattsson"
+      ],
+      "description": "Kursen syftar till att studenten ska bli v\u00e4l f\u00f6rberedd inf\u00f6r matematikstudier p\u00e5, samt ge beh\u00f6righet till, civilingenj\u00f6rsutbildningar.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs 2,5 fup avklarade p\u00e5 kursen Matematik gamma, 15 fup.",
+      "start": "2022 vecka 03",
+      "end": "2022 vecka 22"
+    }
+  ],
+  "optional_courses": [],
+  "start": "2021 vecka 34",
+  "end": "2022 vecka 02",
+  "generated": "2023-01-08 22:06:01.666404"
+}

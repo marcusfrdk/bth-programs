@@ -1,0 +1,164 @@
+{
+  "name": "Magisterprogram i Software Engineering",
+  "city": "DistansHela eller delar av undervisningen bedrivs p\u00e5 distans.",
+  "study_plan": "https://edu.bth.se/utbildningsplaner/PAASA_vt-22.pdf",
+  "form": "Distans",
+  "speed": 50,
+  "location": "Distans",
+  "code": "PAASA22v",
+  "points": 60.0,
+  "languages": [
+    "Engelska"
+  ],
+  "teacher": "Deepika Badampudi",
+  "url": "",
+  "required_courses": [
+    {
+      "name": "Adaptiv Lean Programvarutestning",
+      "city": "DistansSt\u00f6rre delen av undervisningen bedrivs p\u00e5 distans, se vidare under rubriken Anm\u00e4rkning.",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=PA2579&revision=3&lang=sv",
+      "form": "Distans",
+      "speed": 25,
+      "location": "Distans",
+      "code": "PA2579",
+      "points": 7.5,
+      "languages": [
+        "Engelska"
+      ],
+      "teachers": [
+        "Michel Nass",
+        "Emil Al\u00e9groth"
+      ],
+      "description": "Syftet med kursen \u00e4r att ge grundl\u00e4ggande f\u00f6rst\u00e5else om tekniker och verktyg f\u00f6r verifiering och validering av mjukvara i milj\u00f6er d\u00e4r principer f\u00f6r adaptiv, agil eller lean mjukvaruutveckling till\u00e4mpas. M\u00e5let \u00e4r att f\u00f6rse studenten med branschrelevant kunskap av verifiering och validering som en testingenj\u00f6r skall ha kunskap om i en modern utvecklingsmilj\u00f6 f\u00f6r att fr\u00e4mja utveckling av mjukvara av h\u00f6g kvalitet till nytta f\u00f6r IT-utvecklingen inom b\u00e5de industri och samh\u00e4llet i stort.",
+      "requirements": "Minst 90 hp inom ett tekniskt omr\u00e5de varav en avklarad kurs p\u00e5 7,5 hp inom Grundl\u00e4ggande Programvaruteknik (Software Engineering) eller Programvaruutvecklingsprojekt i grupp, och varav minst 30 hp skall utg\u00f6ras av kurser inom ett eller flera av f\u00f6ljande omr\u00e5den: Programmering, Objektorienterad systemutveckling, Programvarudesign, Datastrukturer och algoritmer, Databasteknik, Datakommunikation, Realtidssystem, Operativsystem.",
+      "start": "2022 vecka 03",
+      "end": "2022 vecka 22"
+    },
+    {
+      "name": "Produkthantering och kravhantering f\u00f6r digitala milj\u00f6er",
+      "city": "DistansSt\u00f6rre delen av undervisningen bedrivs p\u00e5 distans, se vidare under rubriken Anm\u00e4rkning.",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=PA2578&revision=3&lang=sv",
+      "form": "Distans",
+      "speed": 25,
+      "location": "Distans",
+      "code": "PA2578",
+      "points": 7.5,
+      "languages": [
+        "Engelska"
+      ],
+      "teachers": [
+        "Krzysztof Wnuk"
+      ],
+      "description": "Syftet med kursen \u00e4r att erbjuda en gedigen och substantiell tr\u00e4ning i kontinuerlig kravhantering och produkthantering f\u00f6r digitala milj\u00f6er. Det inkluderar en f\u00f6rst\u00e5else f\u00f6r hur digitalisering p\u00e5verkar f\u00f6retagens verksamhet och vilka produkter som kan komma att digitaliseras",
+      "requirements": "Minst 90 hp varav minst 60 hp inom  ett tekniskt omr\u00e5de.",
+      "start": "2022 vecka 03",
+      "end": "2022 vecka 22"
+    },
+    {
+      "name": "Agil och Lean utveckling av mjukvaruintensiva produkter",
+      "city": "DistansSt\u00f6rre delen av undervisningen bedrivs p\u00e5 distans, se vidare under rubriken Anm\u00e4rkning.",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=PA2580&revision=2&lang=sv",
+      "form": "Distans",
+      "speed": 25,
+      "location": "Distans",
+      "code": "PA2580",
+      "points": 7.5,
+      "languages": [
+        "Engelska"
+      ],
+      "teachers": [
+        "Fabian Fagerholm"
+      ],
+      "description": "Syftet med kursen \u00e4r att ge en f\u00f6rst\u00e5else f\u00f6r till\u00e4mpning av mjukvaruutveckling i en milj\u00f6 som bygger p\u00e5 filosofin Lean och agilt arbetss\u00e4tt. Det inkluderar en f\u00f6rst\u00e5else f\u00f6r branschrelevanta tekniker f\u00f6r att fr\u00e4mja utvecklingen av mjukvaruprodukter samt f\u00f6rst\u00e5else f\u00f6r att v\u00e4rdet \u00e4r av st\u00f6rsta vikt inom verksamheter och organisationer. Fokus i kursen ligger d\u00e4rmed p\u00e5 att skapa en \u00f6kad f\u00f6rst\u00e5else f\u00f6r relationen mellan v\u00e4rden och principers p\u00e5verkan f\u00f6r verksamheter och organisationer f\u00f6r att uppn\u00e5 b\u00e4sta till\u00e4mpning av agilt arbetss\u00e4tt och Lean som filosofi.",
+      "requirements": "Minst 90 hp inom ett tekniskt omr\u00e5de varav en avklarad kurs p\u00e5 7,5 hp inom Grundl\u00e4ggande Programvaruteknik (Software Engineering) eller Programvaruutvecklingsprojekt i grupp, och varav minst 30 hp skall utg\u00f6ras av kurser inom ett eller flera av f\u00f6ljande omr\u00e5den: Programmering, Objektorienterad systemutveckling, Programvarudesign, Datastrukturer och algoritmer, Databasteknik, Datakommunikation, Realtidssystem, Operativsystem.",
+      "start": "2022 vecka 35",
+      "end": "2023 vecka 02"
+    },
+    {
+      "name": "Till\u00e4mpad Cloud Computing och Big Data",
+      "city": "DistansSt\u00f6rre delen av undervisningen bedrivs p\u00e5 distans, se vidare under rubriken Anm\u00e4rkning.",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=PA2577&revision=2&lang=sv",
+      "form": "Distans",
+      "speed": 25,
+      "location": "Distans",
+      "code": "PA2577",
+      "points": 7.5,
+      "languages": [
+        "Engelska"
+      ],
+      "teachers": [
+        "Mikael Svahnberg"
+      ],
+      "description": "I dagens mobila uppkopplade v\u00e4rld genereras stora m\u00e4ngder data som beh\u00f6ver hanteras, analyseras, och l\u00e4nkas samman. Detta g\u00f6rs p\u00e5 en stor m\u00e4ngd servrar p\u00e5 det s\u00e5 kallade Molnet. Utvecklingen, drifts\u00e4ttningen, och hanteringen av dessa kallas Cloud Computing. Syftet med den h\u00e4r kursen \u00e4r att ge en bred bakgrund om att designa, utveckla, drifts\u00e4tta, testa och \u00f6vervaka en cloud-l\u00f6sning, specifikt med fokus p\u00e5 stora datam\u00e4ngder. Kursen ger en \u00f6versikt \u00f6ver popul\u00e4ra cloud-plattformar samt design och drifts\u00e4ttning av cloud-applikationer. Vidare introducerar kursen MapReduce, nosql-databaser, och verktyg f\u00f6r storskalig distribuerad dataanalys s\u00e5som Hadoop, och hur dessa kan drifts\u00e4ttas i en cloud applikation.",
+      "requirements": "Minst 90hp inom ett tekniskt omr\u00e5de varav minst 30 hp skall utg\u00f6ras av kurser inom ett eller flera av f\u00f6ljande omr\u00e5den: Programmering, Objektorienterad systemutveckling, Programvarudesign, Datastrukturer och algoritmer, Databasteknik, Datakommunikation, Realtidssystem, Operativsystem.",
+      "start": "2022 vecka 35",
+      "end": "2023 vecka 02"
+    },
+    {
+      "name": "Forskningsmetodik och magisterarbete i programvaruteknik f\u00f6r yrkesverksamma",
+      "city": "DistansSt\u00f6rre delen av undervisningen bedrivs p\u00e5 distans, se vidare under rubriken Anm\u00e4rkning.",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=PA2592&revision=1&lang=sv",
+      "form": "Distans",
+      "speed": 10,
+      "location": "Distans",
+      "code": "PA2592",
+      "points": 18.0,
+      "languages": [
+        "Engelska"
+      ],
+      "teachers": [
+        "Nauman Ali"
+      ],
+      "description": "Syftet med kursen \u00e4r att studenten ska tr\u00e4na sin f\u00f6rm\u00e5ga att definiera, planera, genomf\u00f6ra och redovisa ett sj\u00e4lvst\u00e4ndigt vetenskapligt forskningsarbete. Studenten f\u00f6rv\u00e4ntas till\u00e4mpa de under utbildningen f\u00f6rv\u00e4rvade kunskaperna f\u00f6r att sj\u00e4lvst\u00e4ndigt f\u00f6rdjupa sig inom ett eller flera specifika delomr\u00e5den inom huvudomr\u00e5det programvaruteknik. M\u00e5let f\u00f6r studenten \u00e4r att muntligen och skriftligen redovisa resultatet av forskningsarbetet samt att kritiskt granska och opponera p\u00e5 ett annat examensarbete.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs minst 120 hp inom omr\u00e5det teknologi och 7,5 hp i en avancerad (A1N) kurs inom omr\u00e5det mjukvaruteknik samt minst 2 \u00e5rs yrkeserfarenhet av mjukvarurelaterad utveckling (visas exempelvis genom intyg fr\u00e5n arbetsgivare).",
+      "start": "2023 vecka 03",
+      "end": "2023 vecka 22"
+    },
+    {
+      "name": "Introduktion till s\u00e4kerhet f\u00f6r mjukvaruutveckling",
+      "city": "DistansSt\u00f6rre delen av undervisningen bedrivs p\u00e5 distans, se vidare under rubriken Anm\u00e4rkning.",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=PA2585&revision=1&lang=sv",
+      "form": "Distans",
+      "speed": 17,
+      "location": "Distans",
+      "code": "PA2585",
+      "points": 6.0,
+      "languages": [
+        "Engelska"
+      ],
+      "teachers": [
+        "Oleksandr  Adamov",
+        "Tony Gorschek"
+      ],
+      "description": "Syftet med kursen \u00e4r att introducera s\u00e4kerhet och s\u00e4kerhetsprinciper/metoder relevanta f\u00f6r mjukvaruutveckling samt dess olika delar/faser s\u00e5som kravhantering, design, implementering, verifikation, validering samt underh\u00e5ll.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att minst 120 hp \u00e4r avklarade varav 90 hp inom ett tekniskt omr\u00e5de samt minst 2 \u00e5rs yrkeserfarenhet inom omr\u00e5de som \u00e4r relaterat till mjukvaruintensiv produkt och/eller tj\u00e4nsteutveckling (visas exempelvis genom intyg fr\u00e5n arbetsgivare.)",
+      "start": "2023 vecka 03",
+      "end": "2023 vecka 22"
+    },
+    {
+      "name": "Maskininl\u00e4rning och s\u00e4kerhet",
+      "city": "DistansSt\u00f6rre delen av undervisningen bedrivs p\u00e5 distans, se vidare under rubriken Anm\u00e4rkning.",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=DV2612&revision=1&lang=sv",
+      "form": "Distans",
+      "speed": 17,
+      "location": "Distans",
+      "code": "DV2612",
+      "points": 6.0,
+      "languages": [
+        "Engelska"
+      ],
+      "teachers": [
+        "vvk",
+        "Volodymyr  Tkach"
+      ],
+      "description": "Syftet med kursen \u00e4r att studenterna ska l\u00e4ra sig aktuella tillv\u00e4gag\u00e5ngss\u00e4tt, metoder och verktyg f\u00f6r maskininl\u00e4rning (ML) f\u00f6r s\u00e4kerhet. Kursen kommer \u00e4ven fokusera p\u00e5 olika s\u00e4kerhetsproblem relaterade till ML processen.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs minst 120 hp varav 90 hp inom ett tekniskt omr\u00e5de och minst 2 \u00e5rs yrkeserfarenhet inom omr\u00e5de som \u00e4r relaterat till mjukvaruintensiv produkt och/eller tj\u00e4nsteutveckling (visas exempelvis genom intyg fr\u00e5n arbetsgivare.)",
+      "start": "2023 vecka 03",
+      "end": "2023 vecka 22"
+    }
+  ],
+  "optional_courses": [],
+  "start": "2022 vecka 03",
+  "end": "2022 vecka 22",
+  "generated": "2023-01-08 22:02:39.681624"
+}

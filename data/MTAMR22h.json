@@ -1,0 +1,268 @@
+{
+  "name": "Civilingenj\u00f6r i marin teknik",
+  "city": "Karlskrona",
+  "study_plan": "https://edu.bth.se/utbildningsplaner/MTAMR_ht-22.pdf",
+  "form": "Campus",
+  "speed": 100,
+  "location": "Campus",
+  "code": "MTAMR22h",
+  "points": 300.0,
+  "languages": [
+    "Svenska",
+    "Engelska"
+  ],
+  "teacher": "joo",
+  "url": "https://www.bth.se/utbildning/program/mtamr20h/",
+  "required_courses": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+      "name": "Nautisk introduktion",
+      "city": "Karlskrona",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=MT1557&revision=1&lang=sv",
+      "form": "Campus",
+      "speed": 25,
+      "location": "Campus",
+      "code": "MT1557",
+      "points": 6.0,
+      "languages": [
+        "Svenska"
+      ],
+      "teachers": [],
+      "description": "Kursen ger studenten en grundl\u00e4ggande f\u00f6rst\u00e5else f\u00f6r hur marin verksamhet bedrivs ur ett praktiskt och teoretiskt perspektiv. Kunskaper och f\u00e4rdigheter som erh\u00e5lls i kursen anv\u00e4nds senare i programmet i de mer avancerade kurserna, och ger en grund f\u00f6r den marintekniska milj\u00f6 den f\u00e4rdiga ingenj\u00f6ren m\u00f6ter.",
+      "requirements": "Grundl\u00e4ggande beh\u00f6righet samt Matematik 4, Fysik 2, och Kemi 1 eller Matematik E, Fysik B och Kemi A.",
+      "start": "2023 vecka 13",
+      "end": "2023 vecka 22"
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+      "name": "Signaler och system, grundkurs",
+      "city": "Karlskrona",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=ET1555&revision=1&lang=sv",
+      "form": "Campus",
+      "speed": 25,
+      "location": "Campus",
+      "code": "ET1555",
+      "points": 9.0,
+      "languages": [
+        "Svenska"
+      ],
+      "teachers": [],
+      "description": "Kursen syftar till att studenten ska erh\u00e5lla de teoretiska grunderna inom modern digital signalbehandling, f\u00f6r s\u00e5v\u00e4l deterministiska som stokastiska signaler, samt att ge kunskap och insikt om till\u00e4mpade signalbehandlingsproblem. Den studerande skall vara v\u00e4l f\u00f6rberedd f\u00f6r s\u00e5v\u00e4l signalbehandling inom industrin som f\u00f6r fortsatta studier inom omr\u00e5det.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarad kurs i Transformteori, 6 hp samt genomg\u00e5ngen kurs i Reglerteknik, 6 hp.",
+      "start": "2025 vecka 04",
+      "end": "2025 vecka 23"
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+      "name": "Sensorsystem",
+      "city": "Karlskrona",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=ET2613&revision=1&lang=sv",
+      "form": "Campus",
+      "speed": 50,
+      "location": "Campus",
+      "code": "ET2613",
+      "points": 7.0,
+      "languages": [
+        "Svenska"
+      ],
+      "teachers": [],
+      "description": "Syftet med kursen \u00e4r att studenten ska f\u00f6rv\u00e4rva kunskap om egenskaperna hos och anv\u00e4ndningen av ett autonomt sensorsystem best\u00e5ende av sensorer, aktuatorer, kommunikationsmoduler och bearbetningsalgoritmer som utg\u00f6r IoT, Internet of Things. Studenten ska kunna designa och implementera smarta inbyggda system f\u00f6r m\u00e4tning, kontroll, kommunikation och m\u00f6nsterigenk\u00e4nning.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarad kurs i Elektroteknik med till\u00e4mpningar inom m\u00e4tteknik, 6 hp samt genomg\u00e5ngna kurser i Elektromagnetisk f\u00e4ltteori, 6 hp, Reglerteknik, grundkurs, 6 hp och Signaler och system, forts\u00e4ttningskurs, 4 hp.",
+      "start": "2025 vecka 45",
+      "end": "2026 vecka 03"
+    },
+    {
+      "name": "Elkraft och energiteknik",
+      "city": "Karlskrona",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=ET2615&revision=1&lang=sv",
+      "form": "Campus",
+      "speed": 50,
+      "location": "Campus",
+      "code": "ET2615",
+      "points": 6.0,
+      "languages": [
+        "Svenska"
+      ],
+      "teachers": [],
+      "description": "Kursen syftar till att studenterna ska f\u00f6rv\u00e4rva grundl\u00e4ggande kunskaper om elkraftsystems uppbyggnad och dess ing\u00e5ende elektriska maskiner fr\u00e5n generering via transmission till f\u00f6rbrukning samt f\u00e4rdigheter i att utf\u00f6ra grundl\u00e4ggande ber\u00e4kningar p\u00e5 s\u00e5dana komponenter. S\u00e5dana kunskaper och f\u00e4rdigheter \u00e4r n\u00f6dv\u00e4ndiga grunder f\u00f6r vidare h\u00f6gskolestudier inom elkraftteknik och f\u00f6r professionellt arbete som ingenj\u00f6r i energiomvandlingsprojekt som v\u00e5g-, vind och solkraft.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarad kurs i Ell\u00e4ra, 6 hp och genomg\u00e5ngna kurser i Elektromagnetisk f\u00e4ltteori, 6 hp, Dynamik, 6 hp, Elektronik med till\u00e4mpningar inom m\u00e4tteknik, 6 hp och Reglerteknik 6 hp.",
+      "start": "2026 vecka 04",
+      "end": "2026 vecka 13"
+    },
+    {
+      "name": "Projektkurs 2 med industriell ekonomi och aff\u00e4rsplanering",
+      "city": "Karlskrona",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=MT2552&revision=1&lang=sv",
+      "form": "Campus",
+      "speed": 50,
+      "location": "Campus",
+      "code": "MT2552",
+      "points": 15.0,
+      "languages": [
+        "Svenska"
+      ],
+      "teachers": [],
+      "description": "I kursen tr\u00e4nar sig studenten p\u00e5 att till\u00e4mpa sina kunskaper och f\u00e4rdigheter i verklighetstrogna industri- eller innovationsprojekt. F\u00f6r att f\u00f6rbereda studenten f\u00f6r skarpa industriprojekt v\u00e4vs moment om ekonomi och aff\u00e4rsplanering in som en integral del av kursen.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarad Projektkurs 1 med produktutveckling och projektledning, 15 hp.",
+      "start": "2026 vecka 04",
+      "end": "2026 vecka 23"
+    },
+    {
+      "name": "Undervattensteknik",
+      "city": "Karlskrona",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=MT2551&revision=1&lang=sv",
+      "form": "Campus",
+      "speed": 50,
+      "location": "Campus",
+      "code": "MT2551",
+      "points": 5.0,
+      "languages": [
+        "Svenska"
+      ],
+      "teachers": [],
+      "description": "Kursens syfte \u00e4r att ge grundl\u00e4ggande f\u00f6rst\u00e5else och f\u00f6rm\u00e5ga till utveckling och anv\u00e4ndning av undervattensfarkoster. I kursen deltar studenten i konstruktionen av en undervattensfarkost. Studenten skall definiera problemst\u00e4llningar, l\u00f6sa energi- och kraftbehov samt utveckla reglersystem f\u00f6r att planera, utf\u00f6ra och utv\u00e4rdera undervattensoperationer.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att f\u00f6ljande kurser \u00e4r genomg\u00e5ngna: Matlab med till\u00e4mpningar inom matematik och teknik, 4 hp, Str\u00f6mningsl\u00e4ra, 8 hp, Reglerteknik grundkurs, 6 hp och Marin konstruktion, 8 hp.",
+      "start": "2026 vecka 04",
+      "end": "2026 vecka 13"
+    },
+    {
+      "name": "Fartygstillsyn och marina regelverk",
+      "city": "Karlskrona",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=MT1558&revision=1&lang=sv",
+      "form": "Campus",
+      "speed": 25,
+      "location": "Campus",
+      "code": "MT1558",
+      "points": 4.0,
+      "languages": [
+        "Svenska"
+      ],
+      "teachers": [],
+      "description": "Kursens syfte \u00e4r att ge en f\u00f6rst\u00e5else om hur fartygsutveckling, fartygskonstruktion, drift, ombyggnationer och uppgraderingar styrs av nationella regler och internationella koder, regelverk och \u00f6verenskommelser.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser i Marin konstruktion, 8 hp och Nautisk introduktion, 6 hp.",
+      "start": "2026 vecka 14",
+      "end": "2026 vecka 23"
+    },
+    {
+      "name": "Systems Engineering",
+      "city": "Karlskrona",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=MT2574&revision=1&lang=sv",
+      "form": "Campus",
+      "speed": 50,
+      "location": "Campus",
+      "code": "MT2574",
+      "points": 7.5,
+      "languages": [
+        "Engelska"
+      ],
+      "teachers": [],
+      "description": "Systems Engineering som disciplin har sitt ursprung i behovet av att utveckla alltmer komplexa system inom rymdindustrin. Till\u00e4mpningen av metoder och verktyg f\u00f6r Systems Engineering har i stor utstr\u00e4ckning p\u00e5verkat utvecklingen av t.ex. flygplan och satelliter. De \u00f6kande socioekonomiska utmaningarna i samband med globalisering, befolkningstillv\u00e4xt, ekonomisk globalisering och h\u00e5llbarhet, betonar behovet av att Systems Engineering kompetenser till\u00e4mpas i olika dom\u00e4ner. Systems Engineering projekt kr\u00e4ver tv\u00e4rvetenskapliga f\u00e4rdigheter och tv\u00e4rfunktionella designteam, inklusive en bred upps\u00e4ttning av discipliner, s\u00e5som design, tillverkning, systemanalys, kunskapshantering och h\u00e5llbarhetsanalys. Kursdeltagarna har m\u00f6jlighet att f\u00f6rv\u00e4rva metodologiska och teoretiska kunskaper inom Systems Engineering och att till\u00e4mpa dem i ''real-life'' Systems Engineering projekt i samarbete med utvalda partnerf\u00f6retag.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs minst 180 avklarade hp, varav 90 hp inom maskinteknik, industriell ekonomi eller n\u00e4rliggande tekniskt omr\u00e5de inklusive 5 hp datorst\u00f6d f\u00f6r ingenj\u00f6rsarbete.",
+      "start": "2026 vecka 36",
+      "end": "2026 vecka 44"
+    },
+    {
+      "name": "S\u00e4kerhet, ergonomi och m\u00e4nniska-system-interaktion",
+      "city": "Karlskrona",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=MT1522&revision=1&lang=sv",
+      "form": "Campus",
+      "speed": 50,
+      "location": "Campus",
+      "code": "MT1522",
+      "points": 7.5,
+      "languages": [
+        "Svenska"
+      ],
+      "teachers": [],
+      "description": "Kursen ger studenten kunskaper f\u00f6r att kunna f\u00f6rst\u00e5 vilka krav som st\u00e4lls p\u00e5 m\u00e4nniska och system i en marin milj\u00f6, d\u00e4r viktiga delar i detta \u00e4r s\u00e4kerhet och s\u00e4kerhetskultur, arbetsmilj\u00f6 och ergonomi samt hur m\u00e4nniskan interagerar med omgivningen och om design av interaktionssystem. Vidare introducerar kursen till omr\u00e5det m\u00e4nniska-datorinteraktion (HCI).",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarad kurs i Fartygstillsyn och marina regelverk, 4 hp.",
+      "start": "2026 vecka 36",
+      "end": "2026 vecka 44"
+    },
+    {
+      "name": "Forskningsmetodik med inriktning mot ingenj\u00f6rsvetenskap",
+      "city": "Karlskrona",
+      "study_plan": "https://edu.bth.seutb_kursplan.asp?kurskod=MT2521&revisionsnr=13&format=pdf",
+      "form": "Campus",
+      "speed": 50,
+      "location": "Campus",
+      "code": "MT2521",
+      "points": 7.5,
+      "languages": [
+        "Engelska"
+      ],
+      "teachers": [],
+      "description": "Studenten ska skaffa sig en grundl\u00e4ggande introduktion till moderna syns\u00e4tt om vetenskap, s\u00e4rskilt naturvetenskap och ingenj\u00f6rsvetenskap. Studenten ska f\u00f6rv\u00e4rva en inblick i vetenskapens historia och filosofi samt hur vetenskapliga metoder till\u00e4mpas inom ingenj\u00f6rsvetenskap, speciellt i elektro - och maskinteknik. Den studerande skall efter detta tillf\u00f6rskaffat sig kunskaper i hur man bedriver forskningsprojekt samt hur man skriver vetenskapliga texter.",
+      "requirements": "Avklarade studier om minst 180 hp inom omr\u00e5det teknik.",
+      "start": "2026 vecka 45",
+      "end": "2027 vecka 02"
+    },
+    {
+      "name": "Kravhantering och produkthantering",
+      "city": "Karlskrona",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=PA2591&revision=1&lang=sv",
+      "form": "Campus",
+      "speed": 50,
+      "location": "Campus",
+      "code": "PA2591",
+      "points": 7.5,
+      "languages": [
+        "Engelska"
+      ],
+      "teachers": [],
+      "description": "Kursens syfte \u00e4r att ge grundl\u00e4ggande och f\u00f6rdjupande kunskaper och f\u00e4rdigheter inom kontinuerlig kravhantering och produkthantering i storskalig utveckling av mjukvaruintensiva system och produkter i en f\u00f6r\u00e4ndringsben\u00e4gen och kostnadsk\u00e4nslig verklighet. Kursen ger b\u00e5de teoretisk analysf\u00f6rm\u00e5ga inom \u00e4mnet och praktisk till\u00e4mpning av metoder och tekniker f\u00f6r kravhantering och produkthantering.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser omfattande minst 120 hp varav minst 90 hp ska vara inom f\u00f6ljande omr\u00e5den: programvaruteknik, datavetenskap, informationssystem, datalogi, maskinteknik eller industriell ekonomi. Dessutom kr\u00e4vs en genomg\u00e5ngen kurs p\u00e5 minst 7,5 hp inom grundl\u00e4ggande Programvaruteknik eller Systemteknik alternativt en genomg\u00e5ngen projektkurs i grupp p\u00e5 minst 7,5 hp i Programvaruteknik eller Systemteknik.",
+      "start": "2026 vecka 45",
+      "end": "2027 vecka 02"
+    },
+    {
+      "name": "Examensarbete f\u00f6r civilingenj\u00f6rer",
+      "city": "Karlskrona",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=TE2502&revision=4,1&lang=sv",
+      "form": "Campus",
+      "speed": 100,
+      "location": "Campus",
+      "code": "TE2502",
+      "points": 30.0,
+      "languages": [
+        "Svenska"
+      ],
+      "teachers": [],
+      "description": "Syftet med kursen \u00e4r att studenten tr\u00e4nar sin f\u00f6rm\u00e5ga att definiera, planera, genomf\u00f6ra och redovisa ett sj\u00e4lvst\u00e4ndigt forsknings- och utvecklingsarbete inom huvud\u00e4mnet f\u00f6r civilingenj\u00f6rsprogrammet. Examensarbetet inneb\u00e4r en till\u00e4mpning och syntes av de under utbildningen f\u00f6rv\u00e4rvade kunskaper och ska visa studentens f\u00f6rm\u00e5ga att arbeta sj\u00e4lvst\u00e4ndigt som civilingenj\u00f6r.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att studenten har avklarat minst 240 hp som f\u00e5r ing\u00e5 i en civilingenj\u00f6rsexamen. Av dessa ska minst 30 hp vara avklarade kurser p\u00e5 avancerad niv\u00e5.",
+      "start": "2027 vecka 03",
+      "end": "2027 vecka 22"
+    }
+  ],
+  "optional_courses": [],
+  "start": "2022 vecka 34",
+  "end": "2023 vecka 02",
+  "generated": "2023-01-08 21:57:04.270023"
+}

@@ -1,0 +1,123 @@
+{
+  "name": "Tekniskt bas\u00e5r",
+  "city": "Karlskrona",
+  "study_plan": "https://edu.bth.se/utbildningsplaner/TEGTB_ht-20.pdf",
+  "form": "Campus",
+  "speed": 100,
+  "location": "Campus",
+  "code": "TEGTB20h",
+  "points": 60.0,
+  "languages": [
+    "Svenska",
+    "Engelska"
+  ],
+  "teacher": "Per Gralvik",
+  "url": "",
+  "required_courses": [
+    {
+      "name": "Matematik gamma",
+      "city": "Karlskrona",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=MA0005&revision=1&lang=sv",
+      "form": "Campus",
+      "speed": 50,
+      "location": "Campus",
+      "code": "MA0005",
+      "points": 2020.0,
+      "languages": [
+        "Svenska"
+      ],
+      "teachers": [
+        "Per Gralvik"
+      ],
+      "description": "Kursens syfte \u00e4r att studenten ska inh\u00e4mta de kunskaper i matematik som kr\u00e4vs f\u00f6r studier inom vissa h\u00f6gskoleprogram, samt som grundl\u00e4ggande beh\u00f6righet inf\u00f6r Matematik delta.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs grundl\u00e4ggande beh\u00f6righet samt Matematik B eller Matematik 2a/2b/2c.",
+      "start": "2020 vecka 35",
+      "end": "2021 vecka 02"
+    },
+    {
+      "name": "Fysik alfa",
+      "city": "Karlskrona",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=FY0003&revision=2&lang=sv",
+      "form": "Campus",
+      "speed": 50,
+      "location": "Campus",
+      "code": "FY0003",
+      "points": 2020.0,
+      "languages": [
+        "Svenska"
+      ],
+      "teachers": [
+        "Thomas Ahlqvist"
+      ],
+      "description": "Kursen syftar till att studenten ska skaffa sig de kunskaper i fysik som kr\u00e4vs f\u00f6r att b\u00f6rja p\u00e5 ingenj\u00f6rsutbildning p\u00e5 h\u00f6gskoleniv\u00e5, d.v.s. motsvarande tre \u00e5rskurser fysik fr\u00e5n gymnasieskolans NV-program, samt en \u00f6versiktlig f\u00f6rst\u00e5else f\u00f6r fysikens till\u00e4mpningar inom olika teknikomr\u00e5den.",
+      "requirements": "Grundl\u00e4ggande beh\u00f6righet och Matematik 2a/2b/2c samt p\u00e5b\u00f6rjad kurs Matematik gamma 15 fup.",
+      "start": "2020 vecka 36",
+      "end": "2021 vecka 02"
+    },
+    {
+      "name": "Kemi alfa",
+      "city": "Karlskrona",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=KE0003&revision=1&lang=sv",
+      "form": "Campus",
+      "speed": 50,
+      "location": "Campus",
+      "code": "KE0003",
+      "points": 2020.0,
+      "languages": [
+        "Svenska"
+      ],
+      "teachers": [
+        "Gunilla \u00c5kesson Nilsson"
+      ],
+      "description": "Kursen syftar till att studenten ska skaffa sig de kunskaper i kemi som kr\u00e4vs f\u00f6r att p\u00e5b\u00f6rja ingenj\u00f6rsutbildning p\u00e5 h\u00f6gskoleniv\u00e5, det vill s\u00e4ga motsvarande Kemi 1 enligt gymnasieskolans kursplan.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs grundl\u00e4ggande beh\u00f6righet samt Matematik 2a/2b/2c.",
+      "start": "2020 vecka 40",
+      "end": "2021 vecka 02"
+    },
+    {
+      "name": "Fysik beta",
+      "city": "Karlskrona",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=FY0005&revision=1&lang=sv",
+      "form": "Campus",
+      "speed": 50,
+      "location": "Campus",
+      "code": "FY0005",
+      "points": 2021.0,
+      "languages": [
+        "Svenska"
+      ],
+      "teachers": [
+        "Tomas Petersson",
+        "Vanja Lindberg"
+      ],
+      "description": "Kursen syftar till att studenten ska skaffa sig de kunskaper i fysik som kr\u00e4vs f\u00f6r att b\u00f6rja p\u00e5 ingenj\u00f6rsutbildning p\u00e5 h\u00f6gskoleniv\u00e5, d.v.s. motsvarande tre \u00e5rskurser fysik fr\u00e5n gymnasieskolans NV-program, samt en \u00f6versiktlig f\u00f6rst\u00e5else f\u00f6r fysikens till\u00e4mpningar inom olika teknikomr\u00e5den.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs grundl\u00e4ggande beh\u00f6righet och Matematik 2a/2b/2c samt genomg\u00e5ngna kurser Matematik gamma 15 fup och Matematik delta, 10 fup.",
+      "start": "2021 vecka 03",
+      "end": "2021 vecka 22"
+    },
+    {
+      "name": "Matematik delta",
+      "city": "Karlskrona",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=MA0007&revision=1&lang=sv",
+      "form": "Campus",
+      "speed": 50,
+      "location": "Campus",
+      "code": "MA0007",
+      "points": 2021.0,
+      "languages": [
+        "Svenska"
+      ],
+      "teachers": [
+        "Linda Mattsson"
+      ],
+      "description": "Kursen syftar till att studenten ska bli v\u00e4l f\u00f6rberedd inf\u00f6r matematikstudier p\u00e5, samt ge beh\u00f6righet till, civilingenj\u00f6rsutbildningar.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs 2,5 fup avklarade p\u00e5 kursen Matematik gamma, 15 fup.",
+      "start": "2021 vecka 03",
+      "end": "2021 vecka 22"
+    }
+  ],
+  "optional_courses": [],
+  "start": "2020 vecka 35",
+  "end": "2021 vecka 02",
+  "generated": "2023-01-08 22:06:01.750115"
+}

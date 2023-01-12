@@ -17,7 +17,7 @@ def get_course(url: str) -> dict:
     code = parse.get_course_code(soup)
     utils.log(f"Hämtar information on kursen {code}...", "info")
     start, end = parse.get_time(soup, True)
-    data = {
+    return {
         "name": parse.get_name(soup, True),
         "city": parse.get_city(soup),
         "study_plan": parse.get_study_plan(soup, True),
@@ -33,8 +33,6 @@ def get_course(url: str) -> dict:
         "start": start,
         "end": end
     }
-    utils.log(f"Information on kursen {code} sparades", "info")
-    return data
   except AttributeError:
     utils.log(f"Kunde inte hämta information on kursen {url}", "varning")
 
@@ -76,16 +74,18 @@ def get_program(url: str) -> None:
   except AttributeError:
     traceback.print_exc()
     utils.log(f"Programmet {code} är inte publik ännu", "varning")
+    return None
 
 
 def get_programs(urls: list[np.ndarray]):
   with ThreadPoolExecutor() as executor:
     results = executor.map(get_program, urls)
     for result in results:
-      fp = os.path.join(utils.data_path, f"{result['code']}.json")
-      with open(fp, "w", encoding="utf-8") as f:
-        f.write(json.dumps(result, indent=2))
-      utils.log(f"Programmet {result['code']} sparades", "lyckat")
+      if result and "code" in result:
+        fp = os.path.join(utils.data_path, f"{result['code']}.json")
+        with open(fp, "w", encoding="utf-8") as f:
+          f.write(json.dumps(result, indent=2))
+        utils.log(f"Programmet {result['code']} sparades", "lyckat")
 
 
 def get_all_programs(url: str) -> dict:
@@ -95,8 +95,7 @@ def get_all_programs(url: str) -> dict:
   children = list(filter(lambda c: c != "\n", results))
   for child in children[5:]:
     code = child.text[child.text.find("(") + 1: child.text.find(")")]
-    years = {re.sub(r"[^0-9]", "", a.text)
-                    : f"{utils.edu_base_url}/{a['href']}" for a in child.find_all("a")}
+    years = {re.sub(r"[^0-9]", "", a.text): f"{utils.edu_base_url}/{a['href']}" for a in child.find_all("a")}
     programs[code] = years
   return programs
 
@@ -104,7 +103,7 @@ def get_all_programs(url: str) -> dict:
 def main() -> int:
   try:
     all_programs = get_all_programs(utils.edu_overview_url)
-    for years in [x for i, x in enumerate(all_programs.values()) if i < 1]:
+    for years in all_programs.values():
       values = list(years.values())
       chunks = np.array_split(values, min(len(values), os.cpu_count()))
       threads = []

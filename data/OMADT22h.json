@@ -1,0 +1,103 @@
+{
+  "name": "Specialistsjuksk\u00f6terskeprogram med inriktning mot distriktssk\u00f6terska",
+  "city": "Karlskrona",
+  "study_plan": "https://edu.bth.se/utbildningsplaner/OMADT_ht-22.pdf",
+  "form": "Campus",
+  "speed": 100,
+  "location": "Campus",
+  "code": "OMADT22h",
+  "points": 75.0,
+  "languages": [
+    "Svenska",
+    "Engelska"
+  ],
+  "teacher": "Christel Borg",
+  "url": "https://www.bth.se/utbildning/program/omadt20h/",
+  "required_courses": [
+    {
+      "name": "Specialistsjuksk\u00f6terskans profession och vetenskapliga f\u00f6rh\u00e5llningss\u00e4tt inom distriktssk\u00f6terskans verksamhetsomr\u00e5de",
+      "city": "Karlskrona",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=OM2543&revision=1&lang=sv",
+      "form": "Campus",
+      "speed": 100,
+      "location": "Campus",
+      "code": "OM2543",
+      "points": 30.0,
+      "languages": [
+        "Svenska"
+      ],
+      "teachers": [
+        "Christel Borg",
+        "Johanna Tell"
+      ],
+      "description": "Syftet med kursen \u00e4r att studenten skall f\u00f6rdjupa sin f\u00f6rst\u00e5else f\u00f6r och f\u00f6rm\u00e5ga till att kritiskt analysera omv\u00e5rdnadsvetenskapens centrala begrepp ur ett teoretiskt och empiriskt perspektiv. Syftet \u00e4r vidare att vidareutveckla f\u00f6rm\u00e5gan att analysera och diskutera relationen specialistsjuksk\u00f6terskans profession i f\u00f6rh\u00e5llande till omv\u00e5rdnadens k\u00e4rnkompetenser med s\u00e4rskilt fokus p\u00e5 att kunna leda och utveckla omv\u00e5rdnaden i en l\u00e4rande och f\u00f6r\u00e4nderlig milj\u00f6. Syftet \u00e4r slutligen att producera en projektplan inf\u00f6r examensarbetet.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs sjuksk\u00f6terskeexamen och kandidatexamen. Svensk legitimation som sjuksk\u00f6terska. Yrkeserfarenhet som sjuksk\u00f6terska motsvarande 6 m\u00e5naders heltidstj\u00e4nstg\u00f6ring.",
+      "start": "2022 vecka 35",
+      "end": "2023 vecka 02"
+    },
+    {
+      "name": "Farmakologi och f\u00f6rskrivningsr\u00e4tt f\u00f6r vissa l\u00e4kemedel, hj\u00e4lpmedel och f\u00f6rbrukningsartiklar inom distriktssk\u00f6terskans verksamhetsomr\u00e5de",
+      "city": "Karlskrona",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=OM2544&revision=1&lang=sv",
+      "form": "Campus",
+      "speed": 100,
+      "location": "Campus",
+      "code": "OM2544",
+      "points": 15.0,
+      "languages": [
+        "Svenska"
+      ],
+      "teachers": [
+        "Ann-Kristin Olsson",
+        "Christel Borg"
+      ],
+      "description": "Syftet med kursen \u00e4r att studenten ska f\u00f6rdjupa sina kunskaper utifr\u00e5n ett vetenskapligt, reflektivt och kritiskt f\u00f6rh\u00e5llningss\u00e4tt inom farmakologi, vaccination samt h\u00e4lsa, oh\u00e4lsa och sjukdom inom ramen f\u00f6r distriktssk\u00f6terskans f\u00f6rskrivningsr\u00e4tt. Syftet \u00e4r vidare att med st\u00f6d av styrdokument kunna f\u00f6rskriva l\u00e4kemedel, tekniska hj\u00e4lpmedel och f\u00f6rbrukningsartiklar.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs sjuksk\u00f6terskeexamen och kandidatexamen i omv\u00e5rdnad/v\u00e5rdvetenskap. Svensk legitimation som sjuksk\u00f6terska. Yrkeserfarenhet som sjuksk\u00f6terska motsvarande 6 m\u00e5naders heltidstj\u00e4nstg\u00f6ring.",
+      "start": "2023 vecka 03",
+      "end": "2023 vecka 12"
+    },
+    {
+      "name": "H\u00e4lsofr\u00e4mjande omv\u00e5rdnad ur ett livsloppsperspektiv",
+      "city": "Karlskrona",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=OM2545&revision=1&lang=sv",
+      "form": "Campus",
+      "speed": 100,
+      "location": "Campus",
+      "code": "OM2545",
+      "points": 15.0,
+      "languages": [
+        "Svenska"
+      ],
+      "teachers": [
+        "Christel Borg",
+        "Johanna Tell"
+      ],
+      "description": "Syftet med kursen \u00e4r att studenten ska f\u00f6rjupa sina kunskaper om h\u00e4lsofr\u00e4mjande omv\u00e5rdnad och medicinska omv\u00e5rdnads\u00e5tg\u00e4rder i ett livsloppsperspektiv utifr\u00e5n omv\u00e5rdnadsprocessen och k\u00e4rnkompetenser och visa f\u00f6rm\u00e5ga att utf\u00f6ra kvalificerad omv\u00e5rdnad utifr\u00e5n komplexa situationer fr\u00e5n det nyf\u00f6dda barnet till livets slut.",
+      "requirements": "Sjuksk\u00f6terskeexamen och kandidatexamen i omv\u00e5rdnad/v\u00e5rdvetenskap. Svensk legitimation som sjuksk\u00f6terska. Yrkeserfarenhet som sjuksk\u00f6terska motsvarande 6 m\u00e5naders heltidstj\u00e4nstg\u00f6ring. D\u00e4rut\u00f6ver kr\u00e4vs minst 15 hp p\u00e5 niv\u00e5 A1N inom omv\u00e5rdnad.",
+      "start": "2023 vecka 13",
+      "end": "2023 vecka 22"
+    },
+    {
+      "name": "Examensarbete i omv\u00e5rdnad med inriktning mot distriktsk\u00f6terskans verksamhetsomr\u00e5de",
+      "city": "Karlskrona",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=OM2531&revision=2&lang=sv",
+      "form": "Campus",
+      "speed": 100,
+      "location": "Campus",
+      "code": "OM2531",
+      "points": 15.0,
+      "languages": [
+        "Svenska"
+      ],
+      "teachers": [],
+      "description": "Syftet med kursen \u00e4r att studenten f\u00f6rdjupar kunskapen om forskningsdesign, forskningsmetod, forskningsetik samt sin f\u00f6rm\u00e5ga att till\u00e4mpa forskningsprocessens steg i ett examensarbete i omv\u00e5rdnad med inriktning mot distriktssk\u00f6terskans verksamhetsomr\u00e5de. Syftet \u00e4r ocks\u00e5 att studenten vidareutvecklar f\u00f6rm\u00e5gan att kritiskt granska, bed\u00f6ma och diskutera eget samt andras examensarbete.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarad kurs Specialistsjuksk\u00f6terskans profession och vetenskapliga f\u00f6rh\u00e5llningss\u00e4tt inom distriktssk\u00f6terskans verksamhetsomr\u00e5de, 30 hp.",
+      "start": "2023 vecka 35",
+      "end": "2023 vecka 43"
+    }
+  ],
+  "optional_courses": [],
+  "start": "2022 vecka 35",
+  "end": "2023 vecka 02",
+  "generated": "2023-01-08 22:05:24.240272"
+}
