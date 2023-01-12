@@ -3,15 +3,18 @@ import re
 from bs4 import BeautifulSoup
 
 
-def get_city(soup: BeautifulSoup):
-  return soup.find("h3", string="Ort").nextSibling.nextSibling.text
+def get_city(soup: BeautifulSoup) -> str:
+  result = soup.find("h3", string="Ort")
+  if not result:
+    raise ValueError()
+  return result.nextSibling.nextSibling.text
 
 
 def get_time(soup: BeautifulSoup, is_course: bool) -> tuple:
   string = "Kurstid" if is_course else "Programtid"
   result = soup.find("h3", string=string)
   if not result:
-    return "", ""
+    raise ValueError()
   result = result.nextSibling.nextSibling.text
   return tuple(map(lambda v: v.strip(), result.split("till")))
 
@@ -19,8 +22,10 @@ def get_time(soup: BeautifulSoup, is_course: bool) -> tuple:
 def get_study_plan(soup: BeautifulSoup, is_course: bool) -> str:
   try:
     string = "Kursplan" if is_course else "Utbildningsplan"
-    result = soup.find(
-        "h3", string=string).nextSibling.nextSibling.find("a")["href"]
+    result = soup.find("h3", string=string)
+    if not result:
+      raise ValueError()
+    result = result.nextSibling.nextSibling.find("a")["href"]
     if "http" not in result:
       result = utils.edu_root_url + result
     return result
@@ -32,14 +37,16 @@ def get_study_plan(soup: BeautifulSoup, is_course: bool) -> str:
 
 def get_program_url(soup: BeautifulSoup) -> str:
   result = soup.find("a", string="Programmets hemsida")
-  if result:
-    return result["href"]
-  return ""
+  if not result:
+    raise ValueError()
+  return result["href"]
 
 
 def get_form_base(soup: BeautifulSoup) -> str:
-  return soup.find(
-      "h3", string="Undervisningsform").nextSibling.nextSibling.text.strip()
+  result = soup.find("h3", string="Undervisningsform")
+  if not result:
+    raise ValueError()
+  return result.nextSibling.nextSibling.text.strip()
 
 
 def get_form(soup: BeautifulSoup) -> str:
@@ -49,7 +56,7 @@ def get_form(soup: BeautifulSoup) -> str:
 def get_speed(soup: BeautifulSoup) -> int:
   """ Returns a percentage as an integer. """
   form = get_form_base(soup).strip().lower()
-  if "heltid" in form:
+  if not form or "heltid" in form:
     return 100
   return int(re.sub(r"[^0-9]", "", form))
 
@@ -63,18 +70,26 @@ def get_program_code(url: str) -> str:
 
 
 def get_course_code(soup: BeautifulSoup) -> str:
-  return soup.find("h1", {"id": "utb_kurstitel"}).text.split(" ")[0]
+  result = soup.find("h1", {"id": "utb_kurstitel"})
+  if not result:
+    raise ValueError()
+  return result.text.split(" ")[0]
 
 
 def get_name(soup: BeautifulSoup, is_course: bool) -> str:
   html_id = "utb_kurstitel" if is_course else "utb_programtitel"
-  result = soup.find("h1", {"id": html_id}).text
-  return (" ".join(result.split(" ")[1:]) if is_course else result).strip()
+  result = soup.find("h1", {"id": html_id})
+  if not result:
+    raise ValueError()
+  return (" ".join(result.text.split(" ")[1:]) if is_course else result.text).strip()
 
 
 def get_points(soup: BeautifulSoup, is_course: bool) -> float:
   html_id = "utb_program_omfattning_start"
-  result = soup.find("div", {"id": html_id}).text.strip().replace(",", ".")
+  result = soup.find("div", {"id": html_id})
+  if not result:
+    raise ValueError()
+  result = result.text.strip().replace(",", ".")
   if not is_course:
     return float(result.split(" ")[0])
   return float(result.lower().split("högskolepoäng")[0].strip().split(" ")[-1])
@@ -82,7 +97,10 @@ def get_points(soup: BeautifulSoup, is_course: bool) -> float:
 
 def get_languages(soup: BeautifulSoup, is_course: bool) -> list[str]:
   string = "Undervisningsspråk" if is_course else "Språk"
-  result = soup.find("h3", string=string).nextSibling.nextSibling.text.lower()
+  result = soup.find("h3", string=string)
+  if not result:
+    raise ValueError()
+  result = result.nextSibling.nextSibling.text.lower()
   languages = []
   if "svenska" in result or "swedish" in result:
     languages.append("Svenska")
@@ -98,11 +116,17 @@ def get_course_teachers(soup: BeautifulSoup) -> list[str]:
 
 
 def get_program_teacher(soup: BeautifulSoup) -> str:
-  return soup.find("h3", string="Programansvarig").nextSibling.nextSibling.text
+  result = soup.find("h3", string="Programansvarig")
+  if not result:
+    raise ValueError()
+  return result.nextSibling.nextSibling.text
 
 
 def get_course_description(soup: BeautifulSoup) -> str:
-  result = soup.find("h2", string="Syfte").nextSibling.text.strip()
+  result = soup.find("h2", string="Syfte")
+  if not result:
+    raise ValueError()
+  result = result.nextSibling.text.strip()
   # VVV - Lazy fix for courses with a description including <ul> list tags.
   if ":" in result:
     return ""
@@ -110,11 +134,16 @@ def get_course_description(soup: BeautifulSoup) -> str:
 
 
 def get_course_requirements(soup: BeautifulSoup) -> str:
-  return soup.find("h2", string="Förkunskapskrav").nextSibling.text.strip()
+  result = soup.find("h2", string="Förkunskapskrav")
+  if not result:
+    raise ValueError()
+  return result.nextSibling.text.strip()
 
 
 def get_program_courses(soup: BeautifulSoup) -> tuple:
   wrapper = soup.find("div", {"id": "utb_dragspel_kurser"})
+  if not wrapper:
+    raise ValueError()
   semesters = wrapper.find_all("div", {"class": "utb_dragspel_kurser_content"})
 
   optional: list[str] = []

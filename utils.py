@@ -9,13 +9,9 @@ from bs4 import BeautifulSoup
 root_path = os.path.abspath(os.path.dirname(__file__))
 html_output_path = os.path.join(root_path, "output.html")
 data_path = os.path.join(root_path, "data")
-log_path = os.path.join(root_path, "generate.log")
-
-if os.path.exists(log_path):
-  os.remove(log_path)
-
-if not os.path.isdir(data_path):
-  os.makedirs(data_path)
+index_path = os.path.join(data_path, "index.json")
+log_path_generate = os.path.join(root_path, "generate.log")
+log_path_fix_generate = os.path.join(root_path, "fix-generate.log")
 
 edu_root_url = "https://edu.bth.se"
 edu_base_url = f"{edu_root_url}/utbildning"
@@ -28,10 +24,10 @@ log_status = {
 }
 
 
-def log(msg: str, prefix: typing.Literal["info", "varning"]) -> None:
+def log(msg: str, prefix: typing.Literal["info", "varning"], fp: str = log_path_generate) -> None:
   status = prefix if prefix in log_status else "info"
   print(f"{log_status[status]}{msg}")
-  with open(log_path, "a", encoding="utf-8") as f:
+  with open(log_path_generate, "a", encoding="utf-8") as f:
     f.write(f"{datetime.datetime.now()} {log_status[status]}{msg}\n")
 
 

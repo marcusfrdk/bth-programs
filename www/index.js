@@ -9,9 +9,13 @@ function setHeight() {
 }
 
 // Data
+const activeBranch = "refactor";
 
 async function getIndex() {
-  console.log("Getting index");
+  const url = `https://raw.githubusercontent.com/marcusfrdk/bth-programs/${activeBranch}/data/index.json#${Date.now()}`;
+  const response = await fetch(url);
+  const data = await response.json();
+  console.log(data);
 }
 
 async function loadData() {
@@ -26,6 +30,8 @@ function setLoading(state) {
 
 // Main
 window.addEventListener("resize", setHeight);
+
+getIndex();
 
 // Cleanup
 window.onunload = () => {
