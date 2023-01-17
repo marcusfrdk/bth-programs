@@ -11,27 +11,56 @@ function setHeight() {
 // Data
 const activeBranch = "refactor";
 
-async function getIndex() {
+async function fetchIndex(){
   const url = `https://raw.githubusercontent.com/marcusfrdk/bth-programs/${activeBranch}/data/index.json#${Date.now()}`;
   const response = await fetch(url);
-  const data = await response.json();
-  console.log(data);
+  if(response.status === 200) return await response.json();
+  else [];
 }
 
-async function loadData() {
-  const data = require("../data/DVAMI21h.json");
-  console.log(data);
+async function getIndex() {
+  const cache = localStorage.getItem("index");
+  
+
+
+}
+
+async function loadData(course) {
+  console.log("Loading", course);
+}
+
+function setAvailablePrograms(index){
+  const doc = document.getElementById("program-selector");
+  Object.keys(index).forEach((code) => {
+    const option = document.createElement("option");
+    option.value = code;
+    option.text = code.toUpperCase();
+    doc.appendChild(option);
+  });
+
+
+
+
 }
 
 function setLoading(state) {
-  const docs = document.getElementsByClassName("loading");
-  console.log(docs);
+  // const docs = document.getElementsByClassName("loading");
+  // console.log(docs);
+
+}
+
+async function main(){
+  const index = await getIndex();
+  if(index){
+    setAvailablePrograms(index);
+  }
+  setLoading(false);
 }
 
 // Main
 window.addEventListener("resize", setHeight);
 
-getIndex();
+main();
 
 // Cleanup
 window.onunload = () => {
