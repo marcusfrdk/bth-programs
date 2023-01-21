@@ -15,11 +15,39 @@
   let selectedCode: string;
   let selectedYear: string;
 
+  async function getProgramUntilSuccess(){
+    // Function to auto-load another program if the attempted program does not exist.
+    const list: [string, string][] = [];
+    Object.entries(data.programs).forEach(([m, values]) => {
+      values.forEach((n) => {
+        list.push([m, n]);
+      })
+    });
+
+    let success = false;
+    let i = 0;
+    while(!success){
+      const url = `/data/${list[i][0]}${list[i][1]}.json`;
+      const res = await fetch(url);
+      if(res.status === 200){
+        program = await res.json(); 
+        years = data.programs[list[i][0]];
+        success = true;
+      } else {
+        i++;
+      }
+    }
+  }
+
   async function getProgram(code: string, year: string): Promise<void> { 
     const url = `/data/${code}${year}.json`;
     const res = await fetch(url);
-    program = await res.json(); 
-    years = data.programs[code]
+    if(res.status === 200){
+      program = await res.json(); 
+      years = data.programs[code]
+    } else {
+      getProgramUntilSuccess()
+    }
   }
 
   async function updateProgram(code: string): Promise<void> {
