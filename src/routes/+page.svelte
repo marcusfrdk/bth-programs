@@ -58,5 +58,6 @@
 <style lang="scss">
   main {
     min-height: var(--viewport-height);
+    overflow-x: hidden;
   }
 </style>

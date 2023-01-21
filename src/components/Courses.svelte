@@ -75,7 +75,7 @@
       font-size: 1.125rem;
       
       & > small {
-        margin-left: 0.25rem;
+        margin-left: 0.5rem;
         color: var(--weak);
       }
     }
@@ -137,7 +137,7 @@
           list-style: none;
           align-items: center;
           width: 100%;
-          overflow-x: scroll;
+          overflow-x: auto;
           scroll-snap-type: x mandatory;
           padding-bottom: 0.5rem;
 

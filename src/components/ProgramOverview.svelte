@@ -61,7 +61,7 @@
         list-style: none;
         align-items: center;
         width: 100%;
-        overflow-x: scroll;
+        overflow-x: auto;
         scroll-snap-type: x mandatory;
         padding-bottom: 1rem;
         & > li {

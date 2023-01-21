@@ -37,7 +37,7 @@
       max-width: calc(100vw - 2rem);
       padding: 1rem;
       padding-left: 0;
-      overflow-x: scroll;
+      overflow-x: auto;
       scroll-snap-type: x mandatory;
     }
   }
