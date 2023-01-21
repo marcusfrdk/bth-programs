@@ -84,7 +84,7 @@ def get_study_plan(soup: BeautifulSoup, is_course: bool) -> str:
       raise ValueError()
     result = result.nextSibling.nextSibling.find("a")["href"]
     if "http" not in result:
-      result = EDU_ROOT_URL + result
+      result = EDU_ROOT_URL + "/" + result
     return result
   except TypeError:
     log(f"Kunde inte spara kursplanen för {(get_course_code if is_course else get_program_code)(soup)}...")
@@ -103,10 +103,6 @@ def get_form_base(soup: BeautifulSoup) -> str:
   if not result:
     raise ValueError()
   return result.nextSibling.nextSibling.text.strip()
-
-
-def get_form(soup: BeautifulSoup) -> str:
-  return get_form_base(soup).split(",")[0]
 
 
 def get_speed(soup: BeautifulSoup) -> int:

@@ -4,32 +4,44 @@
   export let onSelect: (year: string) => void;
 </script>
 
-<ul>
-  {#if years.length > 0}
-    {#each years as year}
-      <li
-        class={selected === year ? "selected" : ""}
-        on:click={() => onSelect(year)} 
-        on:keydown={() => onSelect(year)}
-      >{year}</li>
-    {/each}
-  {:else}
-    {#each Array(3) as _}
-      <li class="loading pulse">21h</li>
-    {/each}
-  {/if}
-</ul>
+<section>
+  <ul>
+    {#if years.length > 0}
+      {#each years as year}
+        <li
+          class={selected === year ? "selected" : ""}
+          on:click={() => onSelect(year)} 
+          on:keydown={() => onSelect(year)}
+        >{year}</li>
+      {/each}
+    {:else}
+      {#each Array(3) as _}
+        <li class="loading pulse">21h</li>
+      {/each}
+    {/if}
+  </ul>
+</section>
 
 <style lang="scss">
-  ul {
+  section {
+    width: 100vw;
     display: flex;
-    list-style: none;
-    align-items: center;
-    width: 100%;
-    padding: 1rem;
-    overflow-x: scroll;
-    scroll-snap-type: x mandatory;
+    justify-content: center;
+
+    & > ul {
+      
+      display: flex;
+      list-style: none;
+      align-items: center;
+      width: 64rem;
+      max-width: calc(100vw - 2rem);
+      padding: 1rem;
+      padding-left: 0;
+      overflow-x: scroll;
+      scroll-snap-type: x mandatory;
+    }
   }
+  
 
   li {
     background-color: var(--bottom);

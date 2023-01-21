@@ -1,12 +1,16 @@
 <script lang="ts">
+	import type { IProgram } from "../types/Program";
 	import { browser } from "$app/environment";
 	import Header from "$components/Header.svelte";
 	import YearSelector from "$components/YearSelector.svelte";
   import { onMount } from "svelte";
+	import ProgramOverview from "$components/ProgramOverview.svelte";
+	import Courses from "$components/Courses.svelte";
+	import Footer from "$components/Footer.svelte";
   
   export let data: {programs: Record<string, string[]>};
 
-  let program: Record<string, any> = {};
+  let program: IProgram;
   let years: string[] = [];
   let selectedCode: string;
   let selectedYear: string;
@@ -46,6 +50,9 @@
 <main>
   <Header program={selectedCode} programs={Object.keys(data.programs)} onSelect={updateProgram} />
   <YearSelector selected={selectedYear} years={years} onSelect={updateYear} />
+  <ProgramOverview {program} />
+  <Courses {program} />
+  <Footer {program} />
 </main>
 
 <style lang="scss">

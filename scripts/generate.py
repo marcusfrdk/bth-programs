@@ -19,7 +19,6 @@ def get_course(url: str):
     data["name"] = utils.get_name(soup, True)
     data["city"] = utils.get_city(soup)
     data["study_plan"] = utils.get_study_plan(soup, True)
-    data["form"] = utils.get_form(soup)
     data["speed"] = utils.get_speed(soup)
     data["location"] = utils.get_location(soup)
     data["code"] = code
@@ -81,7 +80,6 @@ def get_program(url: str) -> None:
         "name": utils.get_name(soup, False),
         "city": utils.get_city(soup),
         "study_plan": utils.get_study_plan(soup, False),
-        "form": utils.get_form(soup),
         "speed": utils.get_speed(soup),
         "location": utils.get_location(soup),
         "code": code,
