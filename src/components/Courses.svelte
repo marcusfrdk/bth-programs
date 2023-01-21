@@ -1,55 +1,62 @@
 <script lang="ts">
 	import { generateColor } from "$utils/colors";
+	import { getSemester } from "$utils/format";
+	import { groupSemesters } from "$utils/object";
 	import type { ICourse, IProgram } from "../types/Program";
 
   export let program: IProgram;
-  let courses: ICourse[] = [];
+  let courses: Record<string, ICourse[]> = {};
+  let optional: string[] = [];
 
   $: if(program) {
-    courses = structuredClone([...program.required_courses, ...program.optional_courses]
-                          .filter(f => f?.start)
-                          .sort((a, b) => a.name && b.name && a.name > b.name ? -1 : 1) // sort names
-                          .sort((a, b) => a.start && b.start && a.start > b.start ? 1 : -1)) // sort start date
+    courses = groupSemesters([...program.required_courses, ...program.optional_courses]
+    .filter(f => f?.start)
+    .sort((a, b) => a.name && b.name && a.name > b.name ? -1 : 1)
+    .sort((a, b) => a.start && b.start && a.start > b.start ? 1 : -1));
 
-    // console.log(Object.values(courses_temp).map((values) => [values.code, values.start]));
-    // console.log(program.required_courses)
-    // console.log(program.optional_courses)
+    optional = program.optional_courses.filter(f => f).map(course => course.code as string);
   }
 </script>
 
 <div class="container">
   <ul>
-    {#if courses.length > 0}
-      {#each courses as course}
-        <li>
-          <div class="header">
-            <div>
-              <div style={`background-color: ${generateColor(course.code?.slice(0, 2) || "")};`} />
-              <p>{course.name}</p>
+    {#if Object.keys(courses).length > 0}
+      {#each Object.entries(courses) as semester}
+        <h2 class="semester">{semester[0].split(" ")[0]}<small>{getSemester(semester[0])}</small></h2>
+        {#each semester[1] as course}
+          <li>
+            <div class="header">
+              <div>
+                <div style={`background-color: ${generateColor(course.code?.slice(0, 2) || "")};`} />
+                <p>{course.name}</p>
+                {#if optional.includes(course?.code || "")}
+                  <p class="optional">Valfri</p>
+                {/if}
+              </div>
+              {#if course.study_plan}
+                <a href={course.study_plan} rel="noreferrer" target="_blank">Studieplan</a>
+              {/if}
             </div>
-            {#if course.study_plan}
-              <a href={course.study_plan} rel="noreferrer" target="_blank">Studieplan</a>
-            {/if}
-          </div>
-          <p class="details">{[
-            course.code, 
-            course.points ? `${course.points} högskolepoäng` : undefined,
-            course.requirements?.includes("avklar") ? "Kräver avklarade kurser" : undefined
-          ].filter(f => f).join(" | ")}</p>
-          <p class="requirements">{course?.requirements || "Inga inträdeskrav"}</p>
-          <ul class="other">
-            {#each [
-              ...(course?.teachers || []),
-              course.city,
-              course.location,
-              course.speed ? `${course.speed}%` : undefined,
-              ...(course?.languages || []),
-            ].filter(f => f) as other}
-              <li>{other}</li>
-            {/each}
-          </ul>
-        </li>
-      {/each}
+            <p class="details">{[
+              course.code, 
+              course.points ? `${course.points} högskolepoäng` : undefined,
+              course.requirements?.includes("avklar") ? "Kräver avklarade kurser" : undefined
+            ].filter(f => f).join(" | ")}</p>
+            <p class="requirements">{course?.requirements || "Inga inträdeskrav"}</p>
+            <ul class="other">
+              {#each [
+                ...(course?.teachers || []),
+                course.city,
+                course.location,
+                course.speed ? `${course.speed}%` : undefined,
+                ...(course?.languages || []),
+              ].filter(f => f) as other}
+                <li>{other}</li>
+              {/each}
+            </ul>
+          </li>
+        {/each}
+      {/each}  
     {:else}
       {#each Array(9) as _}
         <li class="loading pulse" />
@@ -63,6 +70,15 @@
     display: flex;
     width: 100vw;
     justify-content: center;
+
+    h2 {
+      font-size: 1.125rem;
+      
+      & > small {
+        margin-left: 0.25rem;
+        color: var(--weak);
+      }
+    }
 
     & > ul {
       list-style: none;
@@ -87,7 +103,15 @@
               min-width: 1rem;
               background-color: var(--middle);
               border-radius: 50%;
-              margin-right: 1rem;
+              margin-right: 0.5rem;
+            }
+            & > p.optional {
+              background-color: var(--middle);
+              margin: 0 0.5rem;
+              font-size: 0.875rem;
+              padding: 0.125rem 0.25rem;
+              border-radius: 0.25rem;
+              color: var(--weak);
             }
           }
           & > a {
@@ -133,7 +157,7 @@
         }
 
         &.loading {
-          height: 5rem;
+          height: 10rem;
           width: 100%;
           background-color: var(--bottom);
           border-radius: 0.5rem;

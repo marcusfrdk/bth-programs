@@ -32,6 +32,7 @@
     left: 0;
     display: flex;
     justify-content: center;
+    z-index: 100;
     
     & > div {
       width: 64rem;

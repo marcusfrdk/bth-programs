@@ -78,14 +78,14 @@
         }
       }
 
-      &.loading {
-        h1, p, li, ul.details > li {
-          color: var(--bottom);
-          background-color: var(--bottom);
-          width: fit-content;
-          border-radius: 99rem;
-          animation: pulse 2s infinite ease-in-out;
-        }
+    }
+    &.loading {
+      h1, p, li, ul.details > li {
+        color: var(--bottom) !important;
+        background-color: var(--bottom);
+        width: fit-content;
+        border-radius: 99rem;
+        animation: pulse 2s infinite ease-in-out;
       }
     }
   }
