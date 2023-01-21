@@ -1,0 +1,319 @@
+{
+  "name": "Digital bildproduktion",
+  "city": "Karlshamn",
+  "study_plan": "https://edu.bth.se/utbildningsplaner/MEGDP_ht-21.pdf",
+  "form": "Campus",
+  "speed": 100,
+  "location": "Campus",
+  "code": "MEGDP21h",
+  "points": 180.0,
+  "languages": [
+    "Svenska",
+    "Engelska"
+  ],
+  "teacher": "Liselotte Heimdahl",
+  "url": "https://www.bth.se/utbildning/program/megdp20h/",
+  "required_courses": [
+    {
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20231&KtAnmKod=BFJGW&lang=sv&parentPtKod=MEGDP21h",
+      "name": "Utst\u00e4llningsteknik",
+      "city": "Karlshamn",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=ME1655&revision=1,1&lang=sv",
+      "form": "Campus",
+      "speed": 50,
+      "location": "Campus",
+      "code": "ME1655",
+      "points": 7.5,
+      "languages": [
+        "Svenska"
+      ],
+      "teachers": [
+        "Jonas Svegland",
+        "Linus de Petris"
+      ],
+      "description": "Kursens syfte \u00e4r att studenten ska skaffa sig kunskaper om material, metodik, design och teknik f\u00f6r interaktiva platsspecifika utst\u00e4llningar och installationer.",
+      "requirements": "Grundl\u00e4ggande beh\u00f6righet",
+      "start": "2023 vecka 03",
+      "end": "2023 vecka 12"
+    },
+    {
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20222&KtAnmKod=BUC4H&lang=sv&parentPtKod=MEGDP21h",
+      "name": "Concept Art",
+      "city": "Karlshamn",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=ME1651&revision=1&lang=sv",
+      "form": "Campus",
+      "speed": 100,
+      "location": "Campus",
+      "code": "ME1651",
+      "points": 7.5,
+      "languages": [
+        "Svenska"
+      ],
+      "teachers": [
+        "Siamak Khatibi",
+        "Liselotte Heimdahl"
+      ],
+      "description": "Kursen syftar till att ge studenten kunskaper och f\u00e4rdigheter i visuell konceptutveckling f\u00f6r design med st\u00f6d i f\u00f6rst\u00e5else av estetiska uttryck och deras kontexter.",
+      "requirements": "Grundl\u00e4ggande beh\u00f6righet",
+      "start": "2022 vecka 35",
+      "end": "2022 vecka 38"
+    },
+    {
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20232&KtAnmKod=B7EWQ&lang=sv&parentPtKod=MEGDP21h",
+      "name": "Responsiva h\u00e5llbara milj\u00f6er",
+      "city": "Karlshamn",
+      "study_plan": "",
+      "form": "Campus",
+      "speed": 100,
+      "location": "Campus",
+      "code": "ME1656",
+      "points": 15.0,
+      "languages": [
+        "Svenska"
+      ],
+      "teachers": [],
+      "description": "Kursens syftar till att studenten med st\u00f6d av valda h\u00e5llbarhetsprinciper ska integrera kritiskt id\u00e9- och konceptarbete med skapandet av avancerade medietekniska prototyper.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs 90 hp avklarade i huvudomr\u00e5det medieteknik.",
+      "start": "2023 vecka 35",
+      "end": "2023 vecka 43"
+    },
+    {
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20232&KtAnmKod=BXJ99&lang=sv&parentPtKod=MEGDP21h",
+      "name": "Virtuell produktion",
+      "city": "Karlshamn",
+      "study_plan": "",
+      "form": "Campus",
+      "speed": 75,
+      "location": "Campus",
+      "code": "ME1654",
+      "points": 7.5,
+      "languages": [
+        "Svenska"
+      ],
+      "teachers": [],
+      "description": "Kursen syftar till att studenten ska skaffa sig praktiska kunskaper i att arbeta med realtidsrenderad",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs 90 hp avklarade i huvudomr\u00e5det medieteknik.",
+      "start": "2023 vecka 44",
+      "end": "2024 vecka 02"
+    },
+    {
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20212&KtAnmKod=BD7LW&lang=sv&parentPtKod=MEGDP21h",
+      "name": "Grunder i digital bildproduktion",
+      "city": "Karlshamn",
+      "study_plan": "https://edu.bth.seutb_kursplan.asp?kurskod=ME1568&revisionsnr=6&format=pdf",
+      "form": "Campus",
+      "speed": 100,
+      "location": "Campus",
+      "code": "ME1568",
+      "points": 15.0,
+      "languages": [
+        "Svenska"
+      ],
+      "teachers": [
+        "Liselotte Heimdahl"
+      ],
+      "description": "Studenten ska skaffa sig grundl\u00e4ggande kunskaper om visuellt ber\u00e4ttande, dess historia och nutid och g\u00f6ra kopplingar mellan analoga och digitala uttryck.",
+      "requirements": "Omr\u00e5desbeh\u00f6righet A7: Matematik 2a alt 2b alt 2c (Fysik 1b1 alt 1a kr\u00e4vs ej)",
+      "start": "2021 vecka 44",
+      "end": "2022 vecka 02"
+    },
+    {
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20221&KtAnmKod=BXWQJ&lang=sv&parentPtKod=MEGDP21h",
+      "name": "Ber\u00e4ttande genom visuella medier",
+      "city": "Karlshamn",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=ME1624&revision=2&lang=sv",
+      "form": "Campus",
+      "speed": 100,
+      "location": "Campus",
+      "code": "ME1624",
+      "points": 15.0,
+      "languages": [
+        "Svenska"
+      ],
+      "teachers": [
+        "Martin Stockhaus",
+        "Liselotte Heimdahl"
+      ],
+      "description": "Syftet med kursen \u00e4r att studenten ska skaffa sig insikter om det dramatiska ber\u00e4ttandets verklighetsproducerande roll, hur samspelet mellan ber\u00e4ttelser i olika medieformer f\u00f6rhandlar och f\u00f6r\u00e4ndrar den gemensamma verkligheten.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngen kurs i Introduktion i medieteknik med inriktning mot digital bildproduktion, 15 hp.",
+      "start": "2022 vecka 03",
+      "end": "2022 vecka 12"
+    },
+    {
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20221&KtAnmKod=BRPDQ&lang=sv&parentPtKod=MEGDP21h",
+      "name": "Funktionell visuell design",
+      "city": "Karlshamn",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=ME1611&revision=3&lang=sv",
+      "form": "Campus",
+      "speed": 100,
+      "location": "Campus",
+      "code": "ME1611",
+      "points": 15.0,
+      "languages": [
+        "Svenska"
+      ],
+      "teachers": [
+        "Linus de Petris",
+        "Liselotte Heimdahl"
+      ],
+      "description": "Kursen syftar till att utforska visuell funktionalitet och kommunikation genom skapandet av digitala gr\u00e4nssnitt och grafiska system. I kursen introduceras studenten till kritiska designperspektiv p\u00e5 visuell funktionalitet vad g\u00e4ller designerns roll i designprocessen, samt i relation till samh\u00e4llsnormer kring design och designprodukter.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngen kurs Grunder i digital bildproduktion, 15 hp.",
+      "start": "2022 vecka 13",
+      "end": "2022 vecka 22"
+    },
+    {
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20241&KtAnmKod=BTQQX&lang=sv&parentPtKod=MEGDP21h",
+      "name": "Kandidatarbete i medieteknik",
+      "city": "Karlshamn",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=ME1603&revision=3&lang=sv",
+      "form": "Campus",
+      "speed": 100,
+      "location": "Campus",
+      "code": "ME1603",
+      "points": 30.0,
+      "languages": [
+        "Svenska"
+      ],
+      "teachers": [],
+      "description": "Kursen syftar till att studenten ska forts\u00e4tta att utveckla sina teoretiska och praktiska kunskaper inom huvudomr\u00e5det och f\u00f6rdjupa sig inom ett s\u00e4rskilt omr\u00e5de inom ramen f\u00f6r en unders\u00f6kande produktion i digitala medier. Kursen syftar vidare till att studenten ska utveckla f\u00f6rst\u00e5else f\u00f6r de aktuella forsknings- och professionsomr\u00e5dena och i hur relevanta forsknings- och professionsfr\u00e5gor formuleras, problematiseras och behandlas med hj\u00e4lp av teorier och metoder som \u00e4r relevanta f\u00f6r huvudomr\u00e5det. Slutligen avser kursen att studenten ska utveckla sin f\u00f6rm\u00e5ga att v\u00e4rdera sina resultat och diskutera dem i tal och skrift samt att presentera dem f\u00f6r olika m\u00e5lgrupper.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs minst 90 hp genomg\u00e5nget inom huvudomr\u00e5det medieteknik samt genomg\u00e5ngen kurs Forskningsmetodik f\u00f6r medieteknik.",
+      "start": "2024 vecka 03",
+      "end": "2024 vecka 22"
+    },
+    {
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20231&KtAnmKod=B4TRN&lang=sv&parentPtKod=MEGDP21h",
+      "name": "Generativ bild",
+      "city": "Karlshamn",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=ME1615&revision=3,1&lang=sv",
+      "form": "Campus",
+      "speed": 100,
+      "location": "Campus",
+      "code": "ME1615",
+      "points": 7.5,
+      "languages": [
+        "Svenska"
+      ],
+      "teachers": [
+        "Martin Stockhaus",
+        "Siamak Khatibi"
+      ],
+      "description": "Kursen syftar till att utforska m\u00f6jligheter som uppkommer n\u00e4r bilder programmatiskt genereras av autonoma system och agenter. Kursen syftar till att med st\u00f6d i aktuell forskning kring generativ bildproduktion introducera en diskussion kring hur nya f\u00f6ruts\u00e4ttningar f\u00f6r\u00e4ndrar digital bildproduktion.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngen kurs Medieteknisk prototyputveckling, 15 hp.",
+      "start": "2023 vecka 03",
+      "end": "2023 vecka 12"
+    },
+    {
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20212&KtAnmKod=BFPDF&lang=sv&parentPtKod=MEGDP21h",
+      "name": "Introduktion i medieteknik med inriktning mot digital bildproduktion",
+      "city": "Karlshamn",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=ME1604&revision=3&lang=sv",
+      "form": "Campus",
+      "speed": 100,
+      "location": "Campus",
+      "code": "ME1604",
+      "points": 15.0,
+      "languages": [
+        "Svenska"
+      ],
+      "teachers": [
+        "Leo Andrea Nordwall",
+        "Liselotte Heimdahl"
+      ],
+      "description": "Kursens syfte \u00e4r att studenten ska skaffa sig grundl\u00e4ggande kunskaper och f\u00e4rdigheter i medieteknik med inriktning mot Digital bildproduktion. Kursen syftar \u00e4ven till att studenten ska utveckla sin f\u00f6rst\u00e5else f\u00f6r huvudomr\u00e5det med fokus p\u00e5 f\u00e4rdighetskunskaper, vetenskapliga perspektiv och unders\u00f6kningsmetodik.",
+      "requirements": "Grundl\u00e4ggande beh\u00f6righet samt Matematik 2a alt 2b alt 2c.",
+      "start": "2021 vecka 34",
+      "end": "2021 vecka 43"
+    },
+    {
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20232&KtAnmKod=B7G94&lang=sv&parentPtKod=MEGDP21h",
+      "name": "Forskningsintroduktion medieteknik",
+      "city": "Karlshamn",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=ME1644&revision=1&lang=sv",
+      "form": "Campus",
+      "speed": 100,
+      "location": "Campus",
+      "code": "ME1644",
+      "points": 7.5,
+      "languages": [
+        "Svenska"
+      ],
+      "teachers": [],
+      "description": "Kursen syftar till att studenten ska arbeta sj\u00e4lvst\u00e4ndigt med att orientera sig inom forskningsmetodologi, metoder och kunskapsteoretiska perspektiv relevanta f\u00f6r medieteknik.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs 60 hp avklarade i huvudomr\u00e5det medieteknik.",
+      "start": "2023 vecka 44",
+      "end": "2024 vecka 02"
+    },
+    {
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20222&KtAnmKod=BHNWU&lang=sv&parentPtKod=MEGDP21h",
+      "name": "3D-modellering och animation",
+      "city": "Karlshamn",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=ME1650&revision=1&lang=sv",
+      "form": "Campus",
+      "speed": 100,
+      "location": "Campus",
+      "code": "ME1650",
+      "points": 7.5,
+      "languages": [
+        "Svenska"
+      ],
+      "teachers": [
+        "Siamak Khatibi",
+        "Liselotte Heimdahl"
+      ],
+      "description": "Kursen syftar till att ge studenten grundl\u00e4ggande kunskaper och f\u00e4rdigheter om metoder inom 3D-modellering och animation.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarad kurs Introduktion i medieteknik med inriktning mot digital bildproduktion, 15 hp samt genomg\u00e5ngen kurs Grunder i digital bildproduktion, 15 hp.",
+      "start": "2022 vecka 39",
+      "end": "2022 vecka 43"
+    },
+    {
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20222&KtAnmKod=BANY7&lang=sv&parentPtKod=MEGDP21h",
+      "name": "Medieteknisk prototyputveckling",
+      "city": "Karlshamn",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=ME1625&revision=2&lang=sv",
+      "form": "Campus",
+      "speed": 100,
+      "location": "Campus",
+      "code": "ME1625",
+      "points": 15.0,
+      "languages": [
+        "Svenska"
+      ],
+      "teachers": [
+        "Jonas Svegland",
+        "Mattias Schertell",
+        "Linus de Petris"
+      ],
+      "description": "Kursen syftar till att studenten ska bredda och f\u00f6rdjupa sina medietekniska praktiker och kunskaper genom prototyper, som utforskar, pr\u00f6var och omf\u00f6rhandlar digitala och analoga samspel, motst\u00e5nd och gr\u00e4nsdragningar.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att n\u00e5gon av f\u00f6ljande kurser \u00e4r genomg\u00e5ngen: Grunder i digitala spel 15 hp, Grunder i digital ljudproduktion 15 hp, Grunder i digital bildproduktion 15 hp.",
+      "start": "2022 vecka 44",
+      "end": "2023 vecka 02"
+    },
+    {
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20231&KtAnmKod=BHWTM&lang=sv&parentPtKod=MEGDP21h",
+      "name": "Design i samverkan",
+      "city": "Karlshamn",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=ME1616&revision=3&lang=sv",
+      "form": "Campus",
+      "speed": 100,
+      "location": "Campus",
+      "code": "ME1616",
+      "points": 15.0,
+      "languages": [
+        "Svenska"
+      ],
+      "teachers": [
+        "Jonas Svegland",
+        "Anders Falk",
+        "Paul Carlsson"
+      ],
+      "description": "Kursen syftar till att studenten skaffar sig f\u00f6rdjupade kunskaper kring designsituationer och designmetoder. Kursen syftar ocks\u00e5 till att studenterna integrerar dessa kunskaper med sina programspecifika profilkunskaper i samverkan med externa parter.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngen kurs Interaktivt ber\u00e4ttande, 7,5 hp.",
+      "start": "2023 vecka 13",
+      "end": "2023 vecka 22"
+    }
+  ],
+  "optional_courses": [],
+  "start": "2021 vecka 34",
+  "end": "2022 vecka 02",
+  "generated": "2023-01-21 11:53:57.149440"
+}

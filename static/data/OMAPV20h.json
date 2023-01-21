@@ -1,0 +1,88 @@
+{
+  "name": "Specialistsjuksk\u00f6terskeprogram med inriktning mot psykiatrisk v\u00e5rd",
+  "city": "Karlskrona",
+  "study_plan": "https://edu.bth.se/utbildningsplaner/OMAPV_ht-20.pdf",
+  "form": "Campus",
+  "speed": 100,
+  "location": "Campus",
+  "code": "OMAPV20h",
+  "points": 60.0,
+  "languages": [
+    "Svenska",
+    "Engelska"
+  ],
+  "teacher": "Boel Sandstr\u00f6m",
+  "url": "https://www.bth.se/utbildning/program/omapv20h/",
+  "required_courses": [
+    {
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20211&KtAnmKod=BEK9M&lang=sv&parentPtKod=OMAPV20h",
+      "name": "Examensarbete i omv\u00e5rdnad med inriktning mot psykiatrisk v\u00e5rd",
+      "city": "Karlskrona",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=OM2538&revision=2&lang=sv",
+      "form": "Campus",
+      "speed": 100,
+      "location": "Campus",
+      "code": "OM2538",
+      "points": 15.0,
+      "languages": [
+        "Svenska"
+      ],
+      "teachers": [
+        "Christel Borg",
+        "Boel Sandstr\u00f6m"
+      ],
+      "description": "Syftet med kursen \u00e4r att studenten f\u00f6rdjupar kunskapen om forskningsdesign, forskningsmetod, forskningsetik samt sin f\u00f6rm\u00e5ga att till\u00e4mpa forskningsprocessens steg i ett examensarbete i omv\u00e5rdnad med inriktning mot psykiatrisk v\u00e5rd. Syftet \u00e4r ocks\u00e5 att studenten vidareutvecklar f\u00f6rm\u00e5gan att kritiskt granska, bed\u00f6ma och diskutera eget samt andras examensarbete.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarad kurs Specialistsjuksk\u00f6terskans profession och vetenskapliga f\u00f6rh\u00e5llningss\u00e4tt inom psykiatrisk v\u00e5rd, 30 hp.",
+      "start": "2021 vecka 13",
+      "end": "2021 vecka 22"
+    },
+    {
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20211&KtAnmKod=BTJLK&lang=sv&parentPtKod=OMAPV20h",
+      "name": "Specifik omv\u00e5rdnad inom psykiatrisk v\u00e5rd",
+      "city": "Karlskrona",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=OM2537&revision=2&lang=sv",
+      "form": "Campus",
+      "speed": 100,
+      "location": "Campus",
+      "code": "OM2537",
+      "points": 15.0,
+      "languages": [
+        "Svenska"
+      ],
+      "teachers": [
+        "Christel Borg",
+        "Boel Sandstr\u00f6m"
+      ],
+      "description": "Syftet med kursen \u00e4r att studenten ska f\u00f6rdjupa sina kunskaper om psykiatrisk omv\u00e5rdnad och specifika omv\u00e5rdnads\u00e5tg\u00e4rder inom psykiatrisk v\u00e5rd utifr\u00e5n omv\u00e5rdnadsprocessen och k\u00e4rnkompetenserna samt visa f\u00f6rm\u00e5ga att utf\u00f6ra kvalificerad omv\u00e5rdnad i komplexa situationer. Vidare ska studenten f\u00f6rdjupa sina kunskaper om f\u00f6rebyggande arbete och rehabilitering f\u00f6r personer inom alla \u00e5ldersgrupper inom \u00f6ppen eller sluten v\u00e5rd genom att kunna genomf\u00f6ra h\u00e4lsosamtal, f\u00f6rebygga uppkomsten av sjukdom och sjukdomskomplikationer samt  vid redan uppkomna funktionsneds\u00e4ttningar, fr\u00e4mja \u00e5terh\u00e4mtning och rehabilitering.",
+      "requirements": "Sjuksk\u00f6terskeexamen och kandidatexamen i omv\u00e5rdnad/v\u00e5rdvetenskap.",
+      "start": "2021 vecka 03",
+      "end": "2021 vecka 12"
+    },
+    {
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20202&KtAnmKod=B36HR&lang=sv&parentPtKod=OMAPV20h",
+      "name": "Specialistsjuksk\u00f6terskans profession och vetenskapliga f\u00f6rh\u00e5llningss\u00e4tt inom psykiatrisk v\u00e5rd",
+      "city": "Karlskrona",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=OM2536&revision=2&lang=sv",
+      "form": "Campus",
+      "speed": 100,
+      "location": "Campus",
+      "code": "OM2536",
+      "points": 30.0,
+      "languages": [
+        "Svenska"
+      ],
+      "teachers": [
+        "Christel Borg",
+        "Boel Sandstr\u00f6m"
+      ],
+      "description": "Syftet med kursen \u00e4r att studenten skall f\u00f6rdjupa sin f\u00f6rst\u00e5else f\u00f6r och f\u00f6rm\u00e5ga till att kritiskt analysera omv\u00e5rdnadsvetenskapen centrala begrepp ur ett teoretiskt och empiriskt perspektiv samt vidareutveckla f\u00f6rm\u00e5gan att analysera och diskutera relationen specialistsjuksk\u00f6terskans profession i f\u00f6rh\u00e5llande till omv\u00e5rdnadens k\u00e4rnkompetenser med s\u00e4rskilt fokus p\u00e5 att kunna leda och utveckla omv\u00e5rdnaden i en l\u00e4rande och f\u00f6r\u00e4nderlig milj\u00f6. Syftet \u00e4r slutligen att producera en projektplan inf\u00f6r examensarbetet.",
+      "requirements": "Sjuksk\u00f6terskeexamen och kandidatexamen i omv\u00e5rdnad/v\u00e5rdvetenskap.",
+      "start": "2020 vecka 36",
+      "end": "2021 vecka 02"
+    }
+  ],
+  "optional_courses": [],
+  "start": "2020 vecka 36",
+  "end": "2021 vecka 02",
+  "generated": "2023-01-21 11:59:33.523669"
+}
