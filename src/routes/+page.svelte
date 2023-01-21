@@ -75,6 +75,12 @@
   });
 </script>
 
+<svelte:head>
+  <title>BTH Program och Kurser</title>
+  <meta name="description" content="En webbapplikation för att få en överblick över alla utbildningar på Blekinge Tekniska Högskola. Appen låter en användare se mer detaljerad och snabbare vy än den officiella källan." />
+  <meta name="canonical" content="https://bth.marcusfredriksson.com" />
+</svelte:head>
+
 <main>
   <Header program={selectedCode} programs={Object.keys(data.programs)} onSelect={updateProgram} />
   <YearSelector selected={selectedYear} years={years} onSelect={updateYear} />
