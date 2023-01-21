@@ -28,7 +28,7 @@
             <div class="header">
               <div>
                 <div style={`background-color: ${generateColor(course.code?.slice(0, 2) || "")};`} />
-                <p>{course.name}</p>
+                <a href={course.url} rel="noreferrer" target="_blank" class="title">{course.name}</a>
                 {#if optional.includes(course?.code || "")}
                   <p class="optional">Valfri</p>
                 {/if}
@@ -39,7 +39,7 @@
             </div>
             <p class="details">{[
               course.code, 
-              course.points ? `${course.points} högskolepoäng` : undefined,
+              course.points ? `${course.points} hp` : undefined,
               course.requirements?.includes("avklar") ? "Kräver avklarade kurser" : undefined
             ].filter(f => f).join(" | ")}</p>
             <p class="requirements">{course?.requirements || "Inga inträdeskrav"}</p>
@@ -104,6 +104,9 @@
               background-color: var(--middle);
               border-radius: 50%;
               margin-right: 0.5rem;
+            }
+            & > a.title {
+              font-weight: var(--font-medium);
             }
             & > p.optional {
               background-color: var(--middle);

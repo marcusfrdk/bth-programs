@@ -7,7 +7,7 @@
 <section class={!program ? "loading" : ""}>
   <div>
     <h1>{program?.name || "Program title"}</h1>
-    <p class="points">{program?.points} högskolepoäng</p>
+    <p class="points">{program?.points} hp</p>
     <p class="languages">{program?.languages?.join(" | ")}</p>
     <ul class="details">
       <li>{program?.teacher}</li>
