@@ -15,7 +15,7 @@ EDU_OVERVIEW_URL = f"{EDU_BASE_URL}/programoversikt.asp"
 root_path = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
 data_path = os.path.join(root_path, "static", "data")
 log_path = os.path.join(root_path, "generate.log")
-index_path = os.path.join(data_path, "index.json")
+index_path = os.path.join(root_path, "src", "index.json")
 
 def confirm(prompt: str) -> bool:
   return input(f"{prompt} (y/n) ").lower() in ["y", "yes"]

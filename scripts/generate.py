@@ -123,7 +123,7 @@ def init() -> None:
 def generate_index():
   files = [file for file in os.listdir(utils.data_path) if ".json" in file]
   with open(utils.index_path, "w+", encoding="utf-8") as f:
-    f.write(json.dumps(files, indent=2))
+    f.write(json.dumps(sorted(files), indent=2))
   utils.log("En index-fil har genererats")
 
 def main() -> int:
