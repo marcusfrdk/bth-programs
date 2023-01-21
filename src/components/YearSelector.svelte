@@ -1,17 +1,23 @@
 <script lang="ts">
   export let selected: string;
-  export let years: string[] = [];
+  export let years: string[];
   export let onSelect: (year: string) => void;
 </script>
 
 <ul>
-  {#each years as year}
-    <li
-      class={selected === year ? "selected" : ""}
-      on:click={() => onSelect(year)} 
-      on:keydown={() => onSelect(year)}
-    >{year}</li>
-  {/each}
+  {#if years.length > 0}
+    {#each years as year}
+      <li
+        class={selected === year ? "selected" : ""}
+        on:click={() => onSelect(year)} 
+        on:keydown={() => onSelect(year)}
+      >{year}</li>
+    {/each}
+  {:else}
+    {#each Array(3) as _}
+      <li class="loading pulse">21h</li>
+    {/each}
+  {/if}
 </ul>
 
 <style lang="scss">
@@ -34,6 +40,10 @@
     scroll-snap-align: start;
     user-select: none;
     cursor: pointer;
+
+    &.loading {
+      color: var(--bottom);
+    }
 
     &.selected {
       background-color: var(--primary);

@@ -6,7 +6,6 @@
   
   export let data: {programs: Record<string, string[]>};
 
-  let loading = true;
   let program: Record<string, any> = {};
   let years: string[] = [];
   let selectedCode: string;
@@ -35,17 +34,11 @@
 
   onMount(async () => {
     if(browser){
-      const storedCode = localStorage.getItem("code");
-      const storedYear = localStorage.getItem("year");
-
-      console.log(storedCode, storedYear);
-
-      const key = storedCode || Object.keys(data.programs)[0];
-      const value = storedYear || data.programs[key][0];
+      const key = localStorage.getItem("code") || Object.keys(data.programs)[0];
+      const value = localStorage.getItem("year") || data.programs[key][0];
       getProgram(key, value);
       selectedCode = key;
       selectedYear = value;
-      loading = false;
     }
   });
 </script>
@@ -58,6 +51,5 @@
 <style lang="scss">
   main {
     min-height: var(--viewport-height);
-    background-color: red;
   }
 </style>
