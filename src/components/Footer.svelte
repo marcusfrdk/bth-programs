@@ -6,8 +6,9 @@
 
 <footer>
   <div>
-    <p>Skapad av <a href="https://marcusfredriksson.com">marcusfrdk</a></p>
-    <p>{program?.generated ? `Datan genererades ${new Date(program?.generated)}` : "Laddar data..."}</p>
+    <p class="created-by">Skapad av <a href="https://marcusfredriksson.com">marcusfrdk</a></p>
+    <p class="generated-at">{program?.generated ? `Datan genererades ${new Date(program?.generated)}` : "Laddar data..."}</p>
+    <p class="note">Denna sidan är inte en officiell del av <a href="https://www.bth.se">BTH</a> och är endast ett hobbyprojekt för att lösa ett problem.</p>
   </div>
 </footer>
 
@@ -20,15 +21,27 @@
     & > div {
       width: 64rem;
       max-width: calc(100vw - 2rem);
-      & > p:first-of-type {
+      & > p.created-by {
         & > a {
           text-decoration: underline;
         }
       }
-      & > p:last-of-type {
+      & > p.generated-at {
         font-size: 0.875rem;
         color: var(--weak);
         margin-top: 0.25rem;
+      }
+      & > p.note {
+        margin-top: 0.5rem;
+        padding: 0.5rem;
+        background-color: var(--bottom);
+        width: fit-content;
+        border-radius: 0.5rem;
+        color: var(--muted);
+        & > a {
+          color: var(--muted);
+          text-decoration: underline;
+        }
       }
     }
   }

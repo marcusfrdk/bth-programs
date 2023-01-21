@@ -4,7 +4,6 @@
   export let program: string;
   export let programs: string[];
   export let onSelect: (code: string) => void;
-  
 </script>
 
 <header>
@@ -16,7 +15,7 @@
         height="40"
         width="40"
       />
-      <p>BTH Programs</p>
+      <p>BTH Program och Kurser</p>
     </a>
     <ProgramSelector {program} {programs} {onSelect} />
   </div>
@@ -45,11 +44,19 @@
         color: var(--weak);
         display: flex;
         align-items: center;
-
+        margin-right: 1rem;
+        width: 100%;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        
         & > p {
           font-size: 1.125rem;
           font-weight: 600;
           margin-left: 1rem;
+          overflow: hidden;
+          text-overflow: ellipsis;
+          width: 100%;
         }
       }
     }
