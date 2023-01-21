@@ -1,8 +1,7 @@
 {
   "name": "Masterprogram i stadsplanering",
   "city": "Karlskrona",
-  "study_plan": "https://edu.bth.se/utbildningsplaner/FMASL_ht-20.pdf",
-  "form": "Campus",
+  "study_plan": "https://edu.bth.se/utbildning//utbildningsplaner/FMASL_ht-20.pdf",
   "speed": 100,
   "location": "Campus",
   "code": "FMASL20h",
@@ -18,8 +17,7 @@
       "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20211&KtAnmKod=BPDHU&lang=sv&parentPtKod=FMASL20h",
       "name": "Samh\u00e4llsorganisation och styrformer",
       "city": "Karlskrona",
-      "study_plan": "https://edu.bth.seutb_kursplan.asp?kurskod=FM2598&revisionsnr=4&format=pdf",
-      "form": "Campus",
+      "study_plan": "https://edu.bth.se/utbildning/utb_kursplan.asp?kurskod=FM2598&revisionsnr=4&format=pdf",
       "speed": 75,
       "location": "Campus",
       "code": "FM2598",
@@ -36,32 +34,51 @@
       "end": "2021 vecka 12"
     },
     {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20211&KtAnmKod=BJK9N&lang=sv&parentPtKod=FMASL20h",
-      "name": "Studio II - situationer",
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20212&KtAnmKod=BKXLX&lang=sv&parentPtKod=FMASL20h",
+      "name": "Urbanteori",
       "city": "Karlskrona",
-      "study_plan": "https://edu.bth.seutb_kursplan.asp?kurskod=FM2592&revisionsnr=7&format=pdf",
-      "form": "Campus",
-      "speed": 100,
+      "study_plan": "https://edu.bth.se/utbildning/utb_kursplan.asp?kurskod=FM2590&revisionsnr=7&format=pdf",
+      "speed": 75,
       "location": "Campus",
-      "code": "FM2592",
-      "points": 15.0,
+      "code": "FM2590",
+      "points": 7.5,
       "languages": [
         "Svenska"
       ],
       "teachers": [
-        "Ebba H\u00f6gstr\u00f6m"
+        "Jimmie Anders\u00e9n"
       ],
-      "description": "Kursens syfte \u00e4r att f\u00f6rdjupa kunskaper och f\u00e4rdigheter i att kartl\u00e4gga, analysera och representera i olika skalniv\u00e5er sociala situationer i f\u00f6rh\u00e5llande till rumslig praktik samt operationalisera detta  i ett unders\u00f6kande projektarbete.",
-      "requirements": "30hp i kurser p\u00e5 avancerad niv\u00e5 inom huvudomr\u00e5det Fysisk planering.",
-      "start": "2021 vecka 13",
-      "end": "2021 vecka 22"
+      "description": "Kursens syfte \u00e4r att f\u00f6rdjupa kunskaperna om samtida urbana teorier.",
+      "requirements": "60hp i kurser p\u00e5 avancerad niv\u00e5 inom huvudomr\u00e5det Fysisk planering.",
+      "start": "2021 vecka 39",
+      "end": "2021 vecka 43"
+    },
+    {
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20211&KtAnmKod=BWWY4&lang=sv&parentPtKod=FMASL20h",
+      "name": "Vetenskapligt arbete: teoretiska utg\u00e5ngspunkter och unders\u00f6kningsmetoder",
+      "city": "Karlskrona",
+      "study_plan": "https://edu.bth.se/utbildning/utb_kursplan.asp?kurskod=FM2597&revisionsnr=4&format=pdf",
+      "speed": 75,
+      "location": "Campus",
+      "code": "FM2597",
+      "points": 7.5,
+      "languages": [
+        "Svenska"
+      ],
+      "teachers": [
+        "Christer Persson",
+        "Catharina Nord"
+      ],
+      "description": "Syftet med kursen \u00e4r att ge de studerande f\u00f6rdjupade kunskaper om olika vetenskapsteoretiska utg\u00e5ngspunkter och deras ontologiska och epistemologiska premisser. Vidare \u00e4r syftet att pr\u00f6va och reflektera \u00f6ver olika metodval i samband med valda vetenskapsteoretiska utg\u00e5ngspunkter.",
+      "requirements": "Genomg\u00e5ngna kurser motsvarande 30hp p\u00e5 avancerad niv\u00e5 inom huvudomr\u00e5det Fysisk planering",
+      "start": "2021 vecka 03",
+      "end": "2021 vecka 07"
     },
     {
       "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20202&KtAnmKod=BA3Y4&lang=sv&parentPtKod=FMASL20h",
       "name": "Introduktion till stadsplanering",
       "city": "Karlskrona",
-      "study_plan": "https://edu.bth.seutb_kursplan.asp?kurskod=FM2596&revisionsnr=5&format=pdf",
-      "form": "Campus",
+      "study_plan": "https://edu.bth.se/utbildning/utb_kursplan.asp?kurskod=FM2596&revisionsnr=5&format=pdf",
       "speed": 100,
       "location": "Campus",
       "code": "FM2596",
@@ -82,7 +99,6 @@
       "name": "Infrastruktur och h\u00e5llbarhet",
       "city": "Karlskrona",
       "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=FM2587&revision=7,1&lang=sv",
-      "form": "Campus",
       "speed": 75,
       "location": "Campus",
       "code": "FM2587",
@@ -99,54 +115,30 @@
       "end": "2021 vecka 39"
     },
     {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20212&KtAnmKod=BKXLX&lang=sv&parentPtKod=FMASL20h",
-      "name": "Urbanteori",
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20212&KtAnmKod=BLTJQ&lang=sv&parentPtKod=FMASL20h",
+      "name": "Studio III - komplexiteter",
       "city": "Karlskrona",
-      "study_plan": "https://edu.bth.seutb_kursplan.asp?kurskod=FM2590&revisionsnr=7&format=pdf",
-      "form": "Campus",
-      "speed": 75,
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=FM2593&revision=7,1&lang=sv",
+      "speed": 100,
       "location": "Campus",
-      "code": "FM2590",
-      "points": 7.5,
+      "code": "FM2593",
+      "points": 15.0,
       "languages": [
         "Svenska"
       ],
       "teachers": [
-        "Jimmie Anders\u00e9n"
+        "aay"
       ],
-      "description": "Kursens syfte \u00e4r att f\u00f6rdjupa kunskaperna om samtida urbana teorier.",
+      "description": "Kursens syfte \u00e4r att f\u00f6rdjupa och problematisera kunskaper om de komplexa rumsliga sammanhang som urbana landskap \u00e4r en del av och som stadsplaneraren verkar i och genom samt konkretisera detta genom projektarbete.",
       "requirements": "60hp i kurser p\u00e5 avancerad niv\u00e5 inom huvudomr\u00e5det Fysisk planering.",
-      "start": "2021 vecka 39",
-      "end": "2021 vecka 43"
-    },
-    {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20211&KtAnmKod=BWWY4&lang=sv&parentPtKod=FMASL20h",
-      "name": "Vetenskapligt arbete: teoretiska utg\u00e5ngspunkter och unders\u00f6kningsmetoder",
-      "city": "Karlskrona",
-      "study_plan": "https://edu.bth.seutb_kursplan.asp?kurskod=FM2597&revisionsnr=4&format=pdf",
-      "form": "Campus",
-      "speed": 75,
-      "location": "Campus",
-      "code": "FM2597",
-      "points": 7.5,
-      "languages": [
-        "Svenska"
-      ],
-      "teachers": [
-        "Christer Persson",
-        "Catharina Nord"
-      ],
-      "description": "Syftet med kursen \u00e4r att ge de studerande f\u00f6rdjupade kunskaper om olika vetenskapsteoretiska utg\u00e5ngspunkter och deras ontologiska och epistemologiska premisser. Vidare \u00e4r syftet att pr\u00f6va och reflektera \u00f6ver olika metodval i samband med valda vetenskapsteoretiska utg\u00e5ngspunkter.",
-      "requirements": "Genomg\u00e5ngna kurser motsvarande 30hp p\u00e5 avancerad niv\u00e5 inom huvudomr\u00e5det Fysisk planering",
-      "start": "2021 vecka 03",
-      "end": "2021 vecka 07"
+      "start": "2021 vecka 44",
+      "end": "2022 vecka 02"
     },
     {
       "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20202&KtAnmKod=BEMF9&lang=sv&parentPtKod=FMASL20h",
       "name": "Studio I - strukturer",
       "city": "Karlskrona",
       "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=FM2611&revision=2&lang=sv",
-      "form": "Campus",
       "speed": 100,
       "location": "Campus",
       "code": "FM2611",
@@ -164,32 +156,30 @@
       "end": "2021 vecka 02"
     },
     {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20212&KtAnmKod=BLTJQ&lang=sv&parentPtKod=FMASL20h",
-      "name": "Studio III - komplexiteter",
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20211&KtAnmKod=BJK9N&lang=sv&parentPtKod=FMASL20h",
+      "name": "Studio II - situationer",
       "city": "Karlskrona",
-      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=FM2593&revision=7,1&lang=sv",
-      "form": "Campus",
+      "study_plan": "https://edu.bth.se/utbildning/utb_kursplan.asp?kurskod=FM2592&revisionsnr=7&format=pdf",
       "speed": 100,
       "location": "Campus",
-      "code": "FM2593",
+      "code": "FM2592",
       "points": 15.0,
       "languages": [
         "Svenska"
       ],
       "teachers": [
-        "aay"
+        "Ebba H\u00f6gstr\u00f6m"
       ],
-      "description": "Kursens syfte \u00e4r att f\u00f6rdjupa och problematisera kunskaper om de komplexa rumsliga sammanhang som urbana landskap \u00e4r en del av och som stadsplaneraren verkar i och genom samt konkretisera detta genom projektarbete.",
-      "requirements": "60hp i kurser p\u00e5 avancerad niv\u00e5 inom huvudomr\u00e5det Fysisk planering.",
-      "start": "2021 vecka 44",
-      "end": "2022 vecka 02"
+      "description": "Kursens syfte \u00e4r att f\u00f6rdjupa kunskaper och f\u00e4rdigheter i att kartl\u00e4gga, analysera och representera i olika skalniv\u00e5er sociala situationer i f\u00f6rh\u00e5llande till rumslig praktik samt operationalisera detta  i ett unders\u00f6kande projektarbete.",
+      "requirements": "30hp i kurser p\u00e5 avancerad niv\u00e5 inom huvudomr\u00e5det Fysisk planering.",
+      "start": "2021 vecka 13",
+      "end": "2021 vecka 22"
     },
     {
       "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20221&KtAnmKod=B7RXQ&lang=sv&parentPtKod=FMASL20h",
       "name": "Masterarbete i fysisk planering",
       "city": "Karlskrona",
-      "study_plan": "https://edu.bth.seutb_kursplan.asp?kurskod=FM2594&revisionsnr=7&format=pdf",
-      "form": "Campus",
+      "study_plan": "https://edu.bth.se/utbildning/utb_kursplan.asp?kurskod=FM2594&revisionsnr=7&format=pdf",
       "speed": 100,
       "location": "Campus",
       "code": "FM2594",
@@ -198,9 +188,9 @@
         "Svenska"
       ],
       "teachers": [
-        "Abdellah Abarkan",
         "Peter Schlyter",
         "Ebba H\u00f6gstr\u00f6m",
+        "Abdellah Abarkan",
         "mum"
       ],
       "description": "Kursen syfte \u00e4r att den studerande genom examensarbetet ska visa sin f\u00f6rm\u00e5ga att till\u00e4mpa de kunskaper, f\u00e4rdigheter och f\u00f6rh\u00e5llningss\u00e4tt som f\u00f6rv\u00e4rvats under studietiden genom att sj\u00e4lvst\u00e4ndigt genomf\u00f6ra ett arbete p\u00e5 vetenskaplig grund, eller vetenskaplig och konstn\u00e4rlig grund.",
@@ -212,5 +202,5 @@
   "optional_courses": [],
   "start": "2020 vecka 36",
   "end": "2021 vecka 02",
-  "generated": "2023-01-21 11:57:17.759080"
+  "generated": "2023-01-21 17:28:21.732238"
 }

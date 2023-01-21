@@ -1,8 +1,7 @@
 {
   "name": "Produktutveckling",
   "city": "DistansHela eller delar av undervisningen bedrivs p\u00e5 distans.",
-  "study_plan": "https://edu.bth.se/utbildningsplaner/MTGPO_ht-22.pdf",
-  "form": "Distans",
+  "study_plan": "https://edu.bth.se/utbildning//utbildningsplaner/MTGPO_ht-22.pdf",
   "speed": 100,
   "location": "Distans",
   "code": "MTGPO22h",
@@ -18,8 +17,7 @@
       "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20232&KtAnmKod=BWRHX&lang=sv&parentPtKod=MTGPO22h",
       "name": "Grundl\u00e4ggande h\u00e5llfasthetsl\u00e4ra f\u00f6r tekniker",
       "city": "DistansSt\u00f6rre delen av undervisningen bedrivs p\u00e5 distans, se vidare under rubriken Anm\u00e4rkning.",
-      "study_plan": "https://edu.bth.seutb_kursplan.asp?kurskod=MT1507&revisionsnr=6&format=pdf",
-      "form": "Distans",
+      "study_plan": "https://edu.bth.se/utbildning/utb_kursplan.asp?kurskod=MT1507&revisionsnr=6&format=pdf",
       "speed": 50,
       "location": "Distans",
       "code": "MT1507",
@@ -34,11 +32,50 @@
       "end": "2024 vecka 02"
     },
     {
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20222&KtAnmKod=BDTCH&lang=sv&parentPtKod=MTGPO22h",
+      "name": "Tillverkningsmetoder",
+      "city": "DistansSt\u00f6rre delen av undervisningen bedrivs p\u00e5 distans, se vidare under rubriken Anm\u00e4rkning.",
+      "study_plan": "https://edu.bth.se/utbildning/utb_kursplan.asp?kurskod=MT1445&revisionsnr=9&format=pdf",
+      "speed": 50,
+      "location": "Distans",
+      "code": "MT1445",
+      "points": 7.5,
+      "languages": [
+        "Svenska"
+      ],
+      "teachers": [
+        "Martin Magnevall"
+      ],
+      "description": "Tillverkningsteknologi, som \u00e4r ett mycket brett begrepp, koncentreras i kursen till den mekaniska verkstadsindustrins metoder. Syftet \u00e4r att studenterna ska skaffa sig en tillverkningsteknisk allm\u00e4nbildning som en maskiningenj\u00f6r beh\u00f6ver f\u00f6r att p\u00e5 ett kostnadsmedvetet s\u00e4tt delta i och styra produktutveckling.",
+      "requirements": "Grundl\u00e4ggande beh\u00f6righet.",
+      "start": "2022 vecka 44",
+      "end": "2023 vecka 02"
+    },
+    {
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20222&KtAnmKod=BYXRE&lang=sv&parentPtKod=MTGPO22h",
+      "name": "Kvalitetsutveckling",
+      "city": "DistansSt\u00f6rre delen av undervisningen bedrivs p\u00e5 distans, se vidare under rubriken Anm\u00e4rkning.",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=MT1448&revision=11,2&lang=sv",
+      "speed": 50,
+      "location": "Distans",
+      "code": "MT1448",
+      "points": 7.5,
+      "languages": [
+        "Svenska"
+      ],
+      "teachers": [
+        "Lena Prinselaar"
+      ],
+      "description": "I kursen skall studenten skaffa sig grundl\u00e4ggande kunskaper och f\u00e4rdigheter om kvalitetsutveckling och ges en introduktion till modern syn p\u00e5 begreppet kvalitet.",
+      "requirements": "Grundl\u00e4ggande beh\u00f6righet.",
+      "start": "2022 vecka 44",
+      "end": "2023 vecka 02"
+    },
+    {
       "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20241&KtAnmKod=B6HKQ&lang=sv&parentPtKod=MTGPO22h",
       "name": "Sj\u00e4lvst\u00e4ndigt arbete inom Produktutveckling",
       "city": "DistansSt\u00f6rre delen av undervisningen bedrivs p\u00e5 distans, se vidare under rubriken Anm\u00e4rkning.",
       "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=MT1542&revision=4&lang=sv",
-      "form": "Distans",
       "speed": 50,
       "location": "Distans",
       "code": "MT1542",
@@ -53,49 +90,70 @@
       "end": "2024 vecka 22"
     },
     {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20232&KtAnmKod=BFJT9&lang=sv&parentPtKod=MTGPO22h",
-      "name": "Innovativ och h\u00e5llbar produktutveckling",
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20231&KtAnmKod=BAR4R&lang=sv&parentPtKod=MTGPO22h",
+      "name": "Fysik f\u00f6r produktutveckling",
       "city": "DistansSt\u00f6rre delen av undervisningen bedrivs p\u00e5 distans, se vidare under rubriken Anm\u00e4rkning.",
-      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=MT1442&revision=10,2&lang=sv",
-      "form": "Distans",
+      "study_plan": "https://edu.bth.se/utbildning/utb_kursplan.asp?kurskod=FY1427&revisionsnr=5&format=pdf",
       "speed": 50,
       "location": "Distans",
-      "code": "MT1442",
+      "code": "FY1427",
       "points": 7.5,
       "languages": [
         "Svenska"
       ],
-      "teachers": [],
-      "description": "I kursen skall studenten bygga p\u00e5 sina kunskaper i mekaniska till\u00e4mpnings\u00e4mnen med kunskaper om innovativ produktframtagning, projektstyrning,",
-      "requirements": "Erfarenhet av yrkesm\u00e4ssigt ingenj\u00f6rsarbete eller tidigare h\u00f6gskolestudier.",
-      "start": "2023 vecka 35",
-      "end": "2023 vecka 43"
+      "teachers": [
+        "Tomas Petersson"
+      ],
+      "description": "Kursen syftar till att studenten skall utveckla kunskaper om fysikaliska fenomen och lagar vars tekniska till\u00e4mpningar anv\u00e4nds i maskinteknikerns yrkesverksamhet. Syftet med kursen \u00e4r \u00e4ven att studenten skall utarbeta en grund f\u00f6r fortsatta studier i teknik.",
+      "requirements": "Genomg\u00e5ngen kurs MA1467 Matematik 2 f\u00f6r produktutveckling.",
+      "start": "2023 vecka 13",
+      "end": "2023 vecka 22"
     },
     {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20232&KtAnmKod=BQE9Q&lang=sv&parentPtKod=MTGPO22h",
-      "name": "Innovationsprojekt",
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20231&KtAnmKod=BW3W9&lang=sv&parentPtKod=MTGPO22h",
+      "name": "Automation 1",
       "city": "DistansSt\u00f6rre delen av undervisningen bedrivs p\u00e5 distans, se vidare under rubriken Anm\u00e4rkning.",
-      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=MT1520&revision=4&lang=sv",
-      "form": "Distans",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=ET1545&revision=4&lang=sv",
       "speed": 50,
       "location": "Distans",
-      "code": "MT1520",
+      "code": "ET1545",
       "points": 7.5,
       "languages": [
         "Svenska"
       ],
-      "teachers": [],
-      "description": "Kursens syfte \u00e4r att till\u00e4mpa kunskaper om innovativ produktframtagning, projekthantering, milj\u00f6anpassad/h\u00e5llbar produktutveckling som inh\u00e4mtats i tidigare kurser. I detta ing\u00e5r strategier, begrepp och metodik f\u00f6r produktutveckling och dess uppkomst samt planl\u00e4ggning fr\u00e5n id\u00e9f\u00f6rslag och koncept till funktionell produkt. Syftet med kursen \u00e4r att studenten ska anv\u00e4nda basverktyg f\u00f6r att kunna analysera olika produktalternativ utifr\u00e5n milj\u00f6ns, omgivningens och kundernas krav.",
-      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngna kurser Innovativ och H\u00e5llbar produktutveckling, 7,5 hp och Datorst\u00f6d inom Konstruktion 2, 7,5 hp.",
-      "start": "2023 vecka 44",
-      "end": "2024 vecka 02"
+      "teachers": [
+        "Mikael \u00c5sman"
+      ],
+      "description": "Kursen syftar till att studenten skall f\u00f6rv\u00e4rva grundl\u00e4ggande kunskaper om elektriska begrepp och digital teknik f\u00f6r att kunna programmera styrteknisk utrustning. Vidare skall studenten kunna v\u00e4lja och dimensionera styrteknisk utrustning s\u00e5som givare och motorer som anv\u00e4nds i produktionstekniska sammanhang.",
+      "requirements": "Grundl\u00e4ggande beh\u00f6righet samt Matematik 2 eller motsvarande.",
+      "start": "2023 vecka 13",
+      "end": "2023 vecka 22"
+    },
+    {
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20222&KtAnmKod=BCJP4&lang=sv&parentPtKod=MTGPO22h",
+      "name": "Kommunikation p\u00e5 distans",
+      "city": "DistansSt\u00f6rre delen av undervisningen bedrivs p\u00e5 distans, se vidare under rubriken Anm\u00e4rkning.",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=MT1443&revision=9&lang=sv",
+      "speed": 50,
+      "location": "Distans",
+      "code": "MT1443",
+      "points": 7.5,
+      "languages": [
+        "Svenska"
+      ],
+      "teachers": [
+        "Lena Prinselaar"
+      ],
+      "description": "I kursen skall studenterna skaffa sig grundl\u00e4ggande kunskaper och f\u00e4rdigheter f\u00f6r att framg\u00e5ngsrikt kunna bedriva fortsatta studier p\u00e5 distans inom det maskintekniska omr\u00e5det. Kursen introducerar ocks\u00e5 studenten till de tekniska hj\u00e4lpmedel och programvaror som anv\u00e4nds f\u00f6r teknisk \u0094collaboration on line\u0094 med syfte att studenten skall kunna anv\u00e4nda sig av tekniken i ett framtida yrkesarbete d\u00e4r kontakt med kunder ofta sker via distansbaserad teknik. Kursen syftar \u00e4ven till att studenten skall f\u00e5 en introduktion till teknisk dokumentation och informationss\u00f6kning samt muntlig framst\u00e4llning/framf\u00f6rande.",
+      "requirements": "Grundl\u00e4ggande beh\u00f6righet.",
+      "start": "2022 vecka 34",
+      "end": "2022 vecka 43"
     },
     {
       "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20232&KtAnmKod=BUTCY&lang=sv&parentPtKod=MTGPO22h",
       "name": "Grundl\u00e4ggande mekanik f\u00f6r tekniker",
       "city": "DistansSt\u00f6rre delen av undervisningen bedrivs p\u00e5 distans, se vidare under rubriken Anm\u00e4rkning.",
       "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=MT1534&revision=4&lang=sv",
-      "form": "Distans",
       "speed": 50,
       "location": "Distans",
       "code": "MT1534",
@@ -110,11 +168,28 @@
       "end": "2023 vecka 43"
     },
     {
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20232&KtAnmKod=BQE9Q&lang=sv&parentPtKod=MTGPO22h",
+      "name": "Innovationsprojekt",
+      "city": "DistansSt\u00f6rre delen av undervisningen bedrivs p\u00e5 distans, se vidare under rubriken Anm\u00e4rkning.",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=MT1520&revision=4&lang=sv",
+      "speed": 50,
+      "location": "Distans",
+      "code": "MT1520",
+      "points": 7.5,
+      "languages": [
+        "Svenska"
+      ],
+      "teachers": [],
+      "description": "Kursens syfte \u00e4r att till\u00e4mpa kunskaper om innovativ produktframtagning, projekthantering, milj\u00f6anpassad/h\u00e5llbar produktutveckling som inh\u00e4mtats i tidigare kurser. I detta ing\u00e5r strategier, begrepp och metodik f\u00f6r produktutveckling och dess uppkomst samt planl\u00e4ggning fr\u00e5n id\u00e9f\u00f6rslag och koncept till funktionell produkt. Syftet med kursen \u00e4r att studenten ska anv\u00e4nda basverktyg f\u00f6r att kunna analysera olika produktalternativ utifr\u00e5n milj\u00f6ns, omgivningens och kundernas krav.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngna kurser Innovativ och H\u00e5llbar produktutveckling, 7,5 hp och Datorst\u00f6d inom Konstruktion 2, 7,5 hp.",
+      "start": "2023 vecka 44",
+      "end": "2024 vecka 02"
+    },
+    {
       "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20241&KtAnmKod=B3HC9&lang=sv&parentPtKod=MTGPO22h",
       "name": "Grundl\u00e4ggande maskinelement f\u00f6r tekniker",
       "city": "DistansSt\u00f6rre delen av undervisningen bedrivs p\u00e5 distans, se vidare under rubriken Anm\u00e4rkning.",
       "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=MT1536&revision=4&lang=sv",
-      "form": "Distans",
       "speed": 50,
       "location": "Distans",
       "code": "MT1536",
@@ -129,30 +204,48 @@
       "end": "2024 vecka 22"
     },
     {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20241&KtAnmKod=BWC7G&lang=sv&parentPtKod=MTGPO22h",
-      "name": "Lean Produktion",
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20232&KtAnmKod=BFJT9&lang=sv&parentPtKod=MTGPO22h",
+      "name": "Innovativ och h\u00e5llbar produktutveckling",
       "city": "DistansSt\u00f6rre delen av undervisningen bedrivs p\u00e5 distans, se vidare under rubriken Anm\u00e4rkning.",
-      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=MT1444&revision=16,1&lang=sv",
-      "form": "Distans",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=MT1442&revision=10,2&lang=sv",
       "speed": 50,
       "location": "Distans",
-      "code": "MT1444",
+      "code": "MT1442",
       "points": 7.5,
       "languages": [
         "Svenska"
       ],
       "teachers": [],
-      "description": "Syftet med kursen \u00e4r att ge en helhetsbild \u00f6ver begreppet Lean produktion och en f\u00f6rst\u00e5else f\u00f6r relationerna mellan filosofi, principerna och verktygen i Lean produktion.",
-      "requirements": "Grundl\u00e4ggande beh\u00f6righet.",
-      "start": "2024 vecka 03",
-      "end": "2024 vecka 12"
+      "description": "I kursen skall studenten bygga p\u00e5 sina kunskaper i mekaniska till\u00e4mpnings\u00e4mnen med kunskaper om innovativ produktframtagning, projektstyrning,",
+      "requirements": "Erfarenhet av yrkesm\u00e4ssigt ingenj\u00f6rsarbete eller tidigare h\u00f6gskolestudier.",
+      "start": "2023 vecka 35",
+      "end": "2023 vecka 43"
+    },
+    {
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20231&KtAnmKod=BXTL7&lang=sv&parentPtKod=MTGPO22h",
+      "name": "Datorst\u00f6d inom Konstruktion 2",
+      "city": "DistansSt\u00f6rre delen av undervisningen bedrivs p\u00e5 distans, se vidare under rubriken Anm\u00e4rkning.",
+      "study_plan": "https://edu.bth.se/utbildning/utb_kursplan.asp?kurskod=MT1440&revisionsnr=15&format=pdf",
+      "speed": 50,
+      "location": "Distans",
+      "code": "MT1440",
+      "points": 7.5,
+      "languages": [
+        "Svenska"
+      ],
+      "teachers": [
+        "Markus Wejletorp"
+      ],
+      "description": "Studenten skall vidareutveckla sina kunskaper i hur moderna system f\u00f6r konstruktionsarbete och produktutveckling anv\u00e4nds, framf\u00f6r allt vid skapande av komplexa yt- och solidmodeller.",
+      "requirements": "Grundl\u00e4ggande beh\u00f6righet och genomf\u00f6rd grundkurs, MT1101 Datorst\u00f6d inom Konstruktion 1 eller motsvarande.",
+      "start": "2023 vecka 03",
+      "end": "2023 vecka 12"
     },
     {
       "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20222&KtAnmKod=BNMU7&lang=sv&parentPtKod=MTGPO22h",
       "name": "Datorst\u00f6d inom Konstruktion 1",
       "city": "DistansSt\u00f6rre delen av undervisningen bedrivs p\u00e5 distans, se vidare under rubriken Anm\u00e4rkning.",
-      "study_plan": "https://edu.bth.seutb_kursplan.asp?kurskod=MT1510&revisionsnr=5&format=pdf",
-      "form": "Distans",
+      "study_plan": "https://edu.bth.se/utbildning/utb_kursplan.asp?kurskod=MT1510&revisionsnr=5&format=pdf",
       "speed": 50,
       "location": "Distans",
       "code": "MT1510",
@@ -173,7 +266,6 @@
       "name": "Dimensionering och materialval",
       "city": "DistansSt\u00f6rre delen av undervisningen bedrivs p\u00e5 distans, se vidare under rubriken Anm\u00e4rkning.",
       "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=MT1548&revision=1&lang=sv",
-      "form": "Distans",
       "speed": 50,
       "location": "Distans",
       "code": "MT1548",
@@ -188,137 +280,10 @@
       "end": "2024 vecka 12"
     },
     {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20231&KtAnmKod=BAR4R&lang=sv&parentPtKod=MTGPO22h",
-      "name": "Fysik f\u00f6r produktutveckling",
-      "city": "DistansSt\u00f6rre delen av undervisningen bedrivs p\u00e5 distans, se vidare under rubriken Anm\u00e4rkning.",
-      "study_plan": "https://edu.bth.seutb_kursplan.asp?kurskod=FY1427&revisionsnr=5&format=pdf",
-      "form": "Distans",
-      "speed": 50,
-      "location": "Distans",
-      "code": "FY1427",
-      "points": 7.5,
-      "languages": [
-        "Svenska"
-      ],
-      "teachers": [
-        "Tomas Petersson"
-      ],
-      "description": "Kursen syftar till att studenten skall utveckla kunskaper om fysikaliska fenomen och lagar vars tekniska till\u00e4mpningar anv\u00e4nds i maskinteknikerns yrkesverksamhet. Syftet med kursen \u00e4r \u00e4ven att studenten skall utarbeta en grund f\u00f6r fortsatta studier i teknik.",
-      "requirements": "Genomg\u00e5ngen kurs MA1467 Matematik 2 f\u00f6r produktutveckling.",
-      "start": "2023 vecka 13",
-      "end": "2023 vecka 22"
-    },
-    {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20222&KtAnmKod=BCJP4&lang=sv&parentPtKod=MTGPO22h",
-      "name": "Kommunikation p\u00e5 distans",
-      "city": "DistansSt\u00f6rre delen av undervisningen bedrivs p\u00e5 distans, se vidare under rubriken Anm\u00e4rkning.",
-      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=MT1443&revision=9&lang=sv",
-      "form": "Distans",
-      "speed": 50,
-      "location": "Distans",
-      "code": "MT1443",
-      "points": 7.5,
-      "languages": [
-        "Svenska"
-      ],
-      "teachers": [
-        "Lena Prinselaar"
-      ],
-      "description": "I kursen skall studenterna skaffa sig grundl\u00e4ggande kunskaper och f\u00e4rdigheter f\u00f6r att framg\u00e5ngsrikt kunna bedriva fortsatta studier p\u00e5 distans inom det maskintekniska omr\u00e5det. Kursen introducerar ocks\u00e5 studenten till de tekniska hj\u00e4lpmedel och programvaror som anv\u00e4nds f\u00f6r teknisk \u0094collaboration on line\u0094 med syfte att studenten skall kunna anv\u00e4nda sig av tekniken i ett framtida yrkesarbete d\u00e4r kontakt med kunder ofta sker via distansbaserad teknik. Kursen syftar \u00e4ven till att studenten skall f\u00e5 en introduktion till teknisk dokumentation och informationss\u00f6kning samt muntlig framst\u00e4llning/framf\u00f6rande.",
-      "requirements": "Grundl\u00e4ggande beh\u00f6righet.",
-      "start": "2022 vecka 34",
-      "end": "2022 vecka 43"
-    },
-    {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20222&KtAnmKod=BYXRE&lang=sv&parentPtKod=MTGPO22h",
-      "name": "Kvalitetsutveckling",
-      "city": "DistansSt\u00f6rre delen av undervisningen bedrivs p\u00e5 distans, se vidare under rubriken Anm\u00e4rkning.",
-      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=MT1448&revision=11,2&lang=sv",
-      "form": "Distans",
-      "speed": 50,
-      "location": "Distans",
-      "code": "MT1448",
-      "points": 7.5,
-      "languages": [
-        "Svenska"
-      ],
-      "teachers": [
-        "Lena Prinselaar"
-      ],
-      "description": "I kursen skall studenten skaffa sig grundl\u00e4ggande kunskaper och f\u00e4rdigheter om kvalitetsutveckling och ges en introduktion till modern syn p\u00e5 begreppet kvalitet.",
-      "requirements": "Grundl\u00e4ggande beh\u00f6righet.",
-      "start": "2022 vecka 44",
-      "end": "2023 vecka 02"
-    },
-    {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20231&KtAnmKod=BXTL7&lang=sv&parentPtKod=MTGPO22h",
-      "name": "Datorst\u00f6d inom Konstruktion 2",
-      "city": "DistansSt\u00f6rre delen av undervisningen bedrivs p\u00e5 distans, se vidare under rubriken Anm\u00e4rkning.",
-      "study_plan": "https://edu.bth.seutb_kursplan.asp?kurskod=MT1440&revisionsnr=15&format=pdf",
-      "form": "Distans",
-      "speed": 50,
-      "location": "Distans",
-      "code": "MT1440",
-      "points": 7.5,
-      "languages": [
-        "Svenska"
-      ],
-      "teachers": [
-        "Markus Wejletorp"
-      ],
-      "description": "Studenten skall vidareutveckla sina kunskaper i hur moderna system f\u00f6r konstruktionsarbete och produktutveckling anv\u00e4nds, framf\u00f6r allt vid skapande av komplexa yt- och solidmodeller.",
-      "requirements": "Grundl\u00e4ggande beh\u00f6righet och genomf\u00f6rd grundkurs, MT1101 Datorst\u00f6d inom Konstruktion 1 eller motsvarande.",
-      "start": "2023 vecka 03",
-      "end": "2023 vecka 12"
-    },
-    {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20231&KtAnmKod=BW3W9&lang=sv&parentPtKod=MTGPO22h",
-      "name": "Automation 1",
-      "city": "DistansSt\u00f6rre delen av undervisningen bedrivs p\u00e5 distans, se vidare under rubriken Anm\u00e4rkning.",
-      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=ET1545&revision=4&lang=sv",
-      "form": "Distans",
-      "speed": 50,
-      "location": "Distans",
-      "code": "ET1545",
-      "points": 7.5,
-      "languages": [
-        "Svenska"
-      ],
-      "teachers": [
-        "Mikael \u00c5sman"
-      ],
-      "description": "Kursen syftar till att studenten skall f\u00f6rv\u00e4rva grundl\u00e4ggande kunskaper om elektriska begrepp och digital teknik f\u00f6r att kunna programmera styrteknisk utrustning. Vidare skall studenten kunna v\u00e4lja och dimensionera styrteknisk utrustning s\u00e5som givare och motorer som anv\u00e4nds i produktionstekniska sammanhang.",
-      "requirements": "Grundl\u00e4ggande beh\u00f6righet samt Matematik 2 eller motsvarande.",
-      "start": "2023 vecka 13",
-      "end": "2023 vecka 22"
-    },
-    {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20222&KtAnmKod=BDTCH&lang=sv&parentPtKod=MTGPO22h",
-      "name": "Tillverkningsmetoder",
-      "city": "DistansSt\u00f6rre delen av undervisningen bedrivs p\u00e5 distans, se vidare under rubriken Anm\u00e4rkning.",
-      "study_plan": "https://edu.bth.seutb_kursplan.asp?kurskod=MT1445&revisionsnr=9&format=pdf",
-      "form": "Distans",
-      "speed": 50,
-      "location": "Distans",
-      "code": "MT1445",
-      "points": 7.5,
-      "languages": [
-        "Svenska"
-      ],
-      "teachers": [
-        "Martin Magnevall"
-      ],
-      "description": "Tillverkningsteknologi, som \u00e4r ett mycket brett begrepp, koncentreras i kursen till den mekaniska verkstadsindustrins metoder. Syftet \u00e4r att studenterna ska skaffa sig en tillverkningsteknisk allm\u00e4nbildning som en maskiningenj\u00f6r beh\u00f6ver f\u00f6r att p\u00e5 ett kostnadsmedvetet s\u00e4tt delta i och styra produktutveckling.",
-      "requirements": "Grundl\u00e4ggande beh\u00f6righet.",
-      "start": "2022 vecka 44",
-      "end": "2023 vecka 02"
-    },
-    {
       "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20231&KtAnmKod=B4DEU&lang=sv&parentPtKod=MTGPO22h",
       "name": "Matematik f\u00f6r produktutveckling",
       "city": "DistansSt\u00f6rre delen av undervisningen bedrivs p\u00e5 distans, se vidare under rubriken Anm\u00e4rkning.",
       "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=MA1492&revision=2&lang=sv",
-      "form": "Distans",
       "speed": 50,
       "location": "Distans",
       "code": "MA1492",
@@ -327,18 +292,36 @@
         "Svenska"
       ],
       "teachers": [
+        "Malin Bernelf",
         "Robert Nyqvist",
-        "Thomas Sievert",
-        "Malin Bernelf"
+        "Thomas Sievert"
       ],
       "description": "Kursens syfte \u00e4r att ge de grundl\u00e4ggande kunskaper i matematik som kr\u00e4vs f\u00f6r den yrkesverksamma produktutvecklaren. Syftet med kursen \u00e4r \u00e4ven att studenten skall utarbeta en matematisk grund f\u00f6r fortsatta studier i maskinteknik.",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs grundl\u00e4ggande beh\u00f6righet samt Matematik 2a alt 2b alt 2c.",
       "start": "2023 vecka 03",
       "end": "2023 vecka 12"
+    },
+    {
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20241&KtAnmKod=BWC7G&lang=sv&parentPtKod=MTGPO22h",
+      "name": "Lean Produktion",
+      "city": "DistansSt\u00f6rre delen av undervisningen bedrivs p\u00e5 distans, se vidare under rubriken Anm\u00e4rkning.",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=MT1444&revision=16,1&lang=sv",
+      "speed": 50,
+      "location": "Distans",
+      "code": "MT1444",
+      "points": 7.5,
+      "languages": [
+        "Svenska"
+      ],
+      "teachers": [],
+      "description": "Syftet med kursen \u00e4r att ge en helhetsbild \u00f6ver begreppet Lean produktion och en f\u00f6rst\u00e5else f\u00f6r relationerna mellan filosofi, principerna och verktygen i Lean produktion.",
+      "requirements": "Grundl\u00e4ggande beh\u00f6righet.",
+      "start": "2024 vecka 03",
+      "end": "2024 vecka 12"
     }
   ],
   "optional_courses": [],
   "start": "2022 vecka 34",
   "end": "2023 vecka 02",
-  "generated": "2023-01-21 11:58:18.125984"
+  "generated": "2023-01-21 17:29:26.462698"
 }

@@ -1,8 +1,7 @@
 {
   "name": "Sjuksk\u00f6terskeprogrammet",
   "city": "Karlskrona",
-  "study_plan": "https://edu.bth.se/utbildningsplaner/OMGSP_ht-18.pdf",
-  "form": "Campus",
+  "study_plan": "https://edu.bth.se/utbildning//utbildningsplaner/OMGSP_ht-18.pdf",
   "speed": 100,
   "location": "Campus",
   "code": "OMGSP18h",
@@ -19,7 +18,6 @@
       "name": "eH\u00e4lsa inom omv\u00e5rdnad I",
       "city": "Karlskrona",
       "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=OM1486&revision=2,1&lang=sv",
-      "form": "Campus",
       "speed": 75,
       "location": "Campus",
       "code": "OM1486",
@@ -28,8 +26,8 @@
         "Svenska"
       ],
       "teachers": [
-        "Martin Jarl",
-        "Peter Anderberg"
+        "Peter Anderberg",
+        "Martin Jarl"
       ],
       "description": "Syftet med kursen \u00e4r att ge grundl\u00e4ggande kunskaper om centrala begrepp inom e-h\u00e4lsa, samt att kunna v\u00e4rdera och kritiskt granska utveckling och anv\u00e4ndning av h\u00e4lsoteknik fr\u00e5n ett omv\u00e5rdnadsperspektiv.",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser Profession och omv\u00e5rdnad 9 hp, Sjuksk\u00f6terskeprofessionen och samh\u00e4llet 7,5 hp, Verksamhetsf\u00f6rlagd utbildning (VFU) M\u00f6tet med m\u00e4nniskor 6 hp, Medicin I, 7,5 hp, Grundl\u00e4ggande omv\u00e5rdnad 7,5 hp och Verksamhetsf\u00f6rlagd utbildning (VFU) M\u00e4nniskan och omv\u00e5rdnaden, 7,5 hp.",
@@ -37,82 +35,10 @@
       "end": "2019 vecka 47"
     },
     {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20191&KtAnmKod=RQ603&lang=sv&parentPtKod=OMGSP18h",
-      "name": "Medicin III",
-      "city": "Karlskrona",
-      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=KM1419&revision=1&lang=sv",
-      "form": "Campus",
-      "speed": 100,
-      "location": "Campus",
-      "code": "KM1419",
-      "points": 7.5,
-      "languages": [
-        "Svenska"
-      ],
-      "teachers": [
-        "Martin Jarl",
-        "Ann-Kristin Olsson"
-      ],
-      "description": "Syftet med kursen \u00e4r att den studerande skall till\u00e4gna sig grundl\u00e4ggande kunskaper om patologi, psykopatologi och medicinsk teknik. Kursen syftar dessutom till att den studerande till\u00e4gnar sig kunskaper i allm\u00e4n farmakologi och l\u00e4kemedelshantering.",
-      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser Profession och omv\u00e5rdnad 9 hp och Verksamhetsf\u00f6rlagd utbildning (VFU) M\u00f6tet med m\u00e4nniskor 6 hp.",
-      "start": "2019 vecka 19",
-      "end": "2019 vecka 23"
-    },
-    {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20191&KtAnmKod=RQ911&lang=sv&parentPtKod=OMGSP18h",
-      "name": "Grundl\u00e4ggande omv\u00e5rdnad",
-      "city": "Karlskrona",
-      "study_plan": "https://edu.bth.seutb_kursplan.asp?kurskod=OM1462&revisionsnr=8&format=pdf",
-      "form": "Campus",
-      "speed": 100,
-      "location": "Campus",
-      "code": "OM1462",
-      "points": 7.5,
-      "languages": [
-        "Svenska"
-      ],
-      "teachers": [
-        "Lisa Sk\u00e4r"
-      ],
-      "description": "Syftet med kursen \u00e4r att den studerande till\u00e4gnar sig grundl\u00e4ggande kunskaper om individens basala och specifika omv\u00e5rdnadsbehov s\u00e5v\u00e4l fysiska, psykiska som sociala, kulturella och andliga. Kursen syftar vidare till att skaffa sig grundl\u00e4ggande kunskaper om omv\u00e5rdnadsprocessen f\u00f6r att f\u00f6rst\u00e5 dess funktion f\u00f6r sjuksk\u00f6terskan i m\u00f6tet med v\u00e5rdtagaren och dess n\u00e4rst\u00e5ende.",
-      "requirements": "Kursens f\u00f6rkunskapskrav \u00e4r grundl\u00e4ggande beh\u00f6righet samt omr\u00e5desbeh\u00f6righet 16: Matematik B, Naturkunskap B och Samh\u00e4llskunskap A. (Naturkunskap B kan ers\u00e4ttas med Fysik A, Kemi A och Biologi A med l\u00e4gst betyget Godk\u00e4nd)",
-      "start": "2019 vecka 04",
-      "end": "2019 vecka 08"
-    },
-    {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20182&KtAnmKod=RK001&lang=sv&parentPtKod=OMGSP18h",
-      "name": "Verksamhetsf\u00f6rlagd utbildning (VFU), M\u00f6tet med m\u00e4nniskor",
-      "city": "Karlskrona",
-      "study_plan": "https://edu.bth.seutb_kursplan.asp?kurskod=OM1442&revisionsnr=10&format=pdf",
-      "form": "Campus",
-      "speed": 100,
-      "location": "Campus",
-      "code": "OM1442",
-      "points": 6.0,
-      "languages": [
-        "Svenska"
-      ],
-      "teachers": [
-        "Johanna Nor\u00e9n Jonasson",
-        "Catarina Augustsson",
-        "Ulrika Bernow Johansson",
-        "Markus Hjelm",
-        "Hel\u00e9n Dellkvist",
-        "Marie Folbert",
-        "Terese Lindberg",
-        "Lena Kransberg"
-      ],
-      "description": "Syftet med kursen \u00e4r att den studerande skall till\u00e4gna sig grundl\u00e4ggande kunskaper om m\u00f6tet med individer i olika v\u00e5rdande kontext.",
-      "requirements": "Kursens f\u00f6rkunskapskrav \u00e4r grundl\u00e4ggande beh\u00f6righet samt omr\u00e5desbeh\u00f6righet 16: Matematik B, Naturkunskap B och Samh\u00e4llskunskap A. (Naturkunskap B kan ers\u00e4ttas med Fysik A, Kemi A och Biologi A med l\u00e4gst betyget Godk\u00e4nd)",
-      "start": "2018 vecka 45",
-      "end": "2018 vecka 48"
-    },
-    {
       "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20201&KtAnmKod=B9T6D&lang=sv&parentPtKod=OMGSP18h",
       "name": "Omv\u00e5rdnad, vetenskapliga teorier och metoder",
       "city": "Karlskrona",
       "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=OM1491&revision=3&lang=sv",
-      "form": "Campus",
       "speed": 100,
       "location": "Campus",
       "code": "OM1491",
@@ -121,8 +47,8 @@
         "Svenska"
       ],
       "teachers": [
-        "Markus Hjelm",
-        "Lina Nilsson"
+        "Lina Nilsson",
+        "Markus Hjelm"
       ],
       "description": "Syftet med kursen \u00e4r att den studerande skall till\u00e4gna sig f\u00f6rdjupade kunskaper i omv\u00e5rdnadsteori samt vetenskapliga teorier och metoder. Kursen syftar vidare till att sj\u00e4lvst\u00e4ndigt skriva en projektid\u00e9 inf\u00f6r examensarbete i omv\u00e5rdnad.",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser Grundl\u00e4ggande omv\u00e5rdnad, 7,5 hp, Verksamhetsf\u00f6rlagd utbildning (VFU) M\u00e4nniskan och omv\u00e5rdnaden, 7,5 hp, Medicin II, 7,5 hp, Medicin III, 7,5 hp samt minst 12 hp avklarade fr\u00e5n kursen Omv\u00e5rdnad vid oh\u00e4lsa 15 hp.",
@@ -130,11 +56,31 @@
       "end": "2020 vecka 23"
     },
     {
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20191&KtAnmKod=RQ603&lang=sv&parentPtKod=OMGSP18h",
+      "name": "Medicin III",
+      "city": "Karlskrona",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=KM1419&revision=1&lang=sv",
+      "speed": 100,
+      "location": "Campus",
+      "code": "KM1419",
+      "points": 7.5,
+      "languages": [
+        "Svenska"
+      ],
+      "teachers": [
+        "Ann-Kristin Olsson",
+        "Martin Jarl"
+      ],
+      "description": "Syftet med kursen \u00e4r att den studerande skall till\u00e4gna sig grundl\u00e4ggande kunskaper om patologi, psykopatologi och medicinsk teknik. Kursen syftar dessutom till att den studerande till\u00e4gnar sig kunskaper i allm\u00e4n farmakologi och l\u00e4kemedelshantering.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser Profession och omv\u00e5rdnad 9 hp och Verksamhetsf\u00f6rlagd utbildning (VFU) M\u00f6tet med m\u00e4nniskor 6 hp.",
+      "start": "2019 vecka 19",
+      "end": "2019 vecka 23"
+    },
+    {
       "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20191&KtAnmKod=RQ210&lang=sv&parentPtKod=OMGSP18h",
       "name": "Medicin II",
       "city": "Karlskrona",
       "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=KM1418&revision=1&lang=sv",
-      "form": "Campus",
       "speed": 100,
       "location": "Campus",
       "code": "KM1418",
@@ -143,8 +89,8 @@
         "Svenska"
       ],
       "teachers": [
-        "Martin Jarl",
-        "Ann-Kristin Olsson"
+        "Ann-Kristin Olsson",
+        "Martin Jarl"
       ],
       "description": "Syftet med kursen \u00e4r att den studerande skall till\u00e4gna sig grundl\u00e4ggande kunskaper i mikrobiologi och v\u00e5rdhygien f\u00f6r att f\u00f6rst\u00e5 risker och att s\u00e4kra rutiner. Vidare syftar kursen till att den studerande skall till\u00e4gna sig kunskaper om kroppens beredskap f\u00f6r att med hj\u00e4lp av fysiologiska och psykologiska f\u00f6rsvarsmekanismer",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser Profession och omv\u00e5rdnad 9 hp och Verksamhetsf\u00f6rlagd utbildning (VFU) M\u00f6tet med m\u00e4nniskor 6 hp.",
@@ -152,61 +98,10 @@
       "end": "2019 vecka 18"
     },
     {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20191&KtAnmKod=RQ720&lang=sv&parentPtKod=OMGSP18h",
-      "name": "Verksamhetsf\u00f6rlagd utbildning (VFU), M\u00e4nniskan och omv\u00e5rdnaden",
-      "city": "Karlskrona",
-      "study_plan": "https://edu.bth.seutb_kursplan.asp?kurskod=OM1463&revisionsnr=8&format=pdf",
-      "form": "Campus",
-      "speed": 100,
-      "location": "Campus",
-      "code": "OM1463",
-      "points": 7.5,
-      "languages": [
-        "Svenska"
-      ],
-      "teachers": [
-        "Martin Jarl",
-        "Terese Lindberg"
-      ],
-      "description": "Syftet med kursen \u00e4r att den studerande skall skaffa sig f\u00f6rdjupade kunskaper om omv\u00e5rdnadsprocessen och till\u00e4mpa dessa i m\u00f6tet med den v\u00e5rdbeh\u00f6vande. Syftet med kursen \u00e4r ocks\u00e5 att den studerande skall tr\u00e4na basala omv\u00e5rdnadsmoment.",
-      "requirements": "Kursens f\u00f6rkunskapskrav \u00e4r grundl\u00e4ggande beh\u00f6righet samt omr\u00e5desbeh\u00f6righet 16: Matematik B, Naturkunskap B och Samh\u00e4llskunskap A. (Naturkunskap B kan ers\u00e4ttas med Fysik A, Kemi A och Biologi A med l\u00e4gst betyget Godk\u00e4nd)",
-      "start": "2019 vecka 09",
-      "end": "2019 vecka 13"
-    },
-    {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20182&KtAnmKod=RK868&lang=sv&parentPtKod=OMGSP18h",
-      "name": "Sjuksk\u00f6terskeprofessionen och samh\u00e4llet",
-      "city": "Karlskrona",
-      "study_plan": "https://edu.bth.seutb_kursplan.asp?kurskod=OM1444&revisionsnr=10&format=pdf",
-      "form": "Campus",
-      "speed": 100,
-      "location": "Campus",
-      "code": "OM1444",
-      "points": 7.5,
-      "languages": [
-        "Svenska"
-      ],
-      "teachers": [
-        "Johanna Nor\u00e9n Jonasson",
-        "Catarina Augustsson",
-        "Ulrika Bernow Johansson",
-        "Markus Hjelm",
-        "Hel\u00e9n Dellkvist",
-        "Marie Folbert",
-        "Terese Lindberg",
-        "Lena Kransberg"
-      ],
-      "description": "Syftet med kursen \u00e4r att den studerande skall till\u00e4gna sig grundl\u00e4ggande kunskaper om sjuksk\u00f6terskans profession, i samh\u00e4llet f\u00f6r att m\u00f6ta individer fr\u00e5n olika sociala och kulturella grupper. Kursen syftar vidare till att den studerande skall till\u00e4gna sig grundl\u00e4ggande kunskaper om sjuksk\u00f6terskans roll i det f\u00f6rebyggande arbetet.",
-      "requirements": "Kursens f\u00f6rkunskapskrav \u00e4r grundl\u00e4ggande beh\u00f6righet samt omr\u00e5desbeh\u00f6righet 16: Matematik B, Naturkunskap B och Samh\u00e4llskunskap A. (Naturkunskap B kan ers\u00e4ttas med Fysik A, Kemi A och Biologi A med l\u00e4gst betyget Godk\u00e4nd)",
-      "start": "2018 vecka 41",
-      "end": "2018 vecka 49"
-    },
-    {
       "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20211&KtAnmKod=BN443&lang=sv&parentPtKod=OMGSP18h",
       "name": "Verksamhetsf\u00f6rlagd utbildning (VFU) Sjuksk\u00f6terskans profession i verksamheten",
       "city": "Karlskrona",
       "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=OM1506&revision=5&lang=sv",
-      "form": "Campus",
       "speed": 50,
       "location": "Campus",
       "code": "OM1506",
@@ -224,55 +119,10 @@
       "end": "2021 vecka 21"
     },
     {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20202&KtAnmKod=BEQQA&lang=sv&parentPtKod=OMGSP18h",
-      "name": "Sjuksk\u00f6terskan som ledare",
-      "city": "Karlskrona",
-      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=OM1498&revision=4&lang=sv",
-      "form": "Campus",
-      "speed": 100,
-      "location": "Campus",
-      "code": "OM1498",
-      "points": 7.5,
-      "languages": [
-        "Svenska"
-      ],
-      "teachers": [
-        "Johanna Tell",
-        "Boel Sandstr\u00f6m"
-      ],
-      "description": "Kursen syftar till att den studerande skall till\u00e4gna sig f\u00f6rdjupade kunskaper om sjuksk\u00f6terskan som ledare och utbildare i olika v\u00e5rd- och omsorgsorganisationer. Kursen syftar \u00e4ven till att den studerande skall f\u00f6rst\u00e5 vikten av och kunna implementera f\u00f6r\u00e4ndrings- och f\u00f6rb\u00e4ttringsarbete.",
-      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att f\u00f6ljande kurser \u00e4r avklarade: Omv\u00e5rdnad vid oh\u00e4lsa,(kursens omfattning ska vara minst 12hp), e-h\u00e4lsa inom omv\u00e5rdnad I, 4,5 hp alternativt  Sjuksk\u00f6terskan och folkh\u00e4lsoarbete 7,5 hp, samt tv\u00e5 av de tre VFU-kurserna; VFU inriktad mot somatisk v\u00e5rd 10,5 hp, VFU inriktad mot psykiatrisk v\u00e5rd/demensv\u00e5rd 10,5 hp och VFU inriktad mot prim\u00e4r v\u00e5rd 10,5 hp.",
-      "start": "2020 vecka 35",
-      "end": "2020 vecka 39"
-    },
-    {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20211&KtAnmKod=BGD3K&lang=sv&parentPtKod=OMGSP18h",
-      "name": "Omv\u00e5rdnad vid akuta situationer och komplexa oh\u00e4lsotillst\u00e5nd",
-      "city": "Karlskrona",
-      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=OM1526&revision=3&lang=sv",
-      "form": "Campus",
-      "speed": 50,
-      "location": "Campus",
-      "code": "OM1526",
-      "points": 15.0,
-      "languages": [
-        "Svenska"
-      ],
-      "teachers": [
-        "Ewa Andersson",
-        "Camilla Allert"
-      ],
-      "description": "Syftet med kursen \u00e4r att studenten skall sj\u00e4lvst\u00e4ndigt kunna till\u00e4mpa omv\u00e5rdnadsprocessen vid akuta situationer och vid komplexa oh\u00e4lsotillst\u00e5nd. Vidare ska studenten kunna till\u00e4mpa k\u00e4rnkompetenserna, samt beakta etiska och samh\u00e4lleliga aspekter vid akuta situationer och vid komplexa oh\u00e4lsotillst\u00e5nd.",
-      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser Omv\u00e5rdnad, vetenskapliga teorier och metoder, 9 hp, Sjuksk\u00f6terskan som ledare, 7,5 hp samt kurserna VFU inriktad mot somatisk v\u00e5rd, 10,5 hp, VFU inriktad mot psykiatrisk v\u00e5rd/demensv\u00e5rd, 10,5 hp och VFU inriktad mot prim\u00e4r v\u00e5rd, 10,5 hp. Valbar kurs 7,5 hp beh\u00f6ver vara genomg\u00e5ngen.",
-      "start": "2021 vecka 03",
-      "end": "2021 vecka 22"
-    },
-    {
       "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20192&KtAnmKod=BR4YP&lang=sv&parentPtKod=OMGSP18h",
       "name": "Omv\u00e5rdnad vid oh\u00e4lsa",
       "city": "Karlskrona",
       "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=OM1485&revision=2&lang=sv",
-      "form": "Campus",
       "speed": 100,
       "location": "Campus",
       "code": "OM1485",
@@ -290,39 +140,120 @@
       "end": "2019 vecka 44"
     },
     {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20182&KtAnmKod=RK618&lang=sv&parentPtKod=OMGSP18h",
-      "name": "Medicin I",
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20202&KtAnmKod=BEQQA&lang=sv&parentPtKod=OMGSP18h",
+      "name": "Sjuksk\u00f6terskan som ledare",
       "city": "Karlskrona",
-      "study_plan": "https://edu.bth.seutb_kursplan.asp?kurskod=KM1412&revisionsnr=10&format=pdf",
-      "form": "Campus",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=OM1498&revision=4&lang=sv",
       "speed": 100,
       "location": "Campus",
-      "code": "KM1412",
+      "code": "OM1498",
       "points": 7.5,
       "languages": [
         "Svenska"
       ],
       "teachers": [
-        "Johanna Nor\u00e9n Jonasson",
-        "Catarina Augustsson",
-        "Ulrika Bernow Johansson",
-        "Markus Hjelm",
-        "Hel\u00e9n Dellkvist",
-        "Marie Folbert",
-        "Terese Lindberg",
-        "Lena Kransberg"
+        "Boel Sandstr\u00f6m",
+        "Johanna Tell"
       ],
-      "description": "Syftet med kursen \u00e4r att den studerande skall till\u00e4gna sig grundl\u00e4ggande kunskaper om m\u00e4nniskans anatomi och fysiologi f\u00f6r att f\u00f6rst\u00e5 uppbyggnad och samspel mellan cell, v\u00e4vnad, organ och organsystem samt samspelet mellan m\u00e4nniskan och naturen.",
+      "description": "Kursen syftar till att den studerande skall till\u00e4gna sig f\u00f6rdjupade kunskaper om sjuksk\u00f6terskan som ledare och utbildare i olika v\u00e5rd- och omsorgsorganisationer. Kursen syftar \u00e4ven till att den studerande skall f\u00f6rst\u00e5 vikten av och kunna implementera f\u00f6r\u00e4ndrings- och f\u00f6rb\u00e4ttringsarbete.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att f\u00f6ljande kurser \u00e4r avklarade: Omv\u00e5rdnad vid oh\u00e4lsa,(kursens omfattning ska vara minst 12hp), e-h\u00e4lsa inom omv\u00e5rdnad I, 4,5 hp alternativt  Sjuksk\u00f6terskan och folkh\u00e4lsoarbete 7,5 hp, samt tv\u00e5 av de tre VFU-kurserna; VFU inriktad mot somatisk v\u00e5rd 10,5 hp, VFU inriktad mot psykiatrisk v\u00e5rd/demensv\u00e5rd 10,5 hp och VFU inriktad mot prim\u00e4r v\u00e5rd 10,5 hp.",
+      "start": "2020 vecka 35",
+      "end": "2020 vecka 39"
+    },
+    {
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20191&KtAnmKod=RQ911&lang=sv&parentPtKod=OMGSP18h",
+      "name": "Grundl\u00e4ggande omv\u00e5rdnad",
+      "city": "Karlskrona",
+      "study_plan": "https://edu.bth.se/utbildning/utb_kursplan.asp?kurskod=OM1462&revisionsnr=8&format=pdf",
+      "speed": 100,
+      "location": "Campus",
+      "code": "OM1462",
+      "points": 7.5,
+      "languages": [
+        "Svenska"
+      ],
+      "teachers": [
+        "Lisa Sk\u00e4r"
+      ],
+      "description": "Syftet med kursen \u00e4r att den studerande till\u00e4gnar sig grundl\u00e4ggande kunskaper om individens basala och specifika omv\u00e5rdnadsbehov s\u00e5v\u00e4l fysiska, psykiska som sociala, kulturella och andliga. Kursen syftar vidare till att skaffa sig grundl\u00e4ggande kunskaper om omv\u00e5rdnadsprocessen f\u00f6r att f\u00f6rst\u00e5 dess funktion f\u00f6r sjuksk\u00f6terskan i m\u00f6tet med v\u00e5rdtagaren och dess n\u00e4rst\u00e5ende.",
       "requirements": "Kursens f\u00f6rkunskapskrav \u00e4r grundl\u00e4ggande beh\u00f6righet samt omr\u00e5desbeh\u00f6righet 16: Matematik B, Naturkunskap B och Samh\u00e4llskunskap A. (Naturkunskap B kan ers\u00e4ttas med Fysik A, Kemi A och Biologi A med l\u00e4gst betyget Godk\u00e4nd)",
-      "start": "2018 vecka 50",
-      "end": "2019 vecka 03"
+      "start": "2019 vecka 04",
+      "end": "2019 vecka 08"
+    },
+    {
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20211&KtAnmKod=BGD3K&lang=sv&parentPtKod=OMGSP18h",
+      "name": "Omv\u00e5rdnad vid akuta situationer och komplexa oh\u00e4lsotillst\u00e5nd",
+      "city": "Karlskrona",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=OM1526&revision=3&lang=sv",
+      "speed": 50,
+      "location": "Campus",
+      "code": "OM1526",
+      "points": 15.0,
+      "languages": [
+        "Svenska"
+      ],
+      "teachers": [
+        "Camilla Allert",
+        "Ewa Andersson"
+      ],
+      "description": "Syftet med kursen \u00e4r att studenten skall sj\u00e4lvst\u00e4ndigt kunna till\u00e4mpa omv\u00e5rdnadsprocessen vid akuta situationer och vid komplexa oh\u00e4lsotillst\u00e5nd. Vidare ska studenten kunna till\u00e4mpa k\u00e4rnkompetenserna, samt beakta etiska och samh\u00e4lleliga aspekter vid akuta situationer och vid komplexa oh\u00e4lsotillst\u00e5nd.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser Omv\u00e5rdnad, vetenskapliga teorier och metoder, 9 hp, Sjuksk\u00f6terskan som ledare, 7,5 hp samt kurserna VFU inriktad mot somatisk v\u00e5rd, 10,5 hp, VFU inriktad mot psykiatrisk v\u00e5rd/demensv\u00e5rd, 10,5 hp och VFU inriktad mot prim\u00e4r v\u00e5rd, 10,5 hp. Valbar kurs 7,5 hp beh\u00f6ver vara genomg\u00e5ngen.",
+      "start": "2021 vecka 03",
+      "end": "2021 vecka 22"
+    },
+    {
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20182&KtAnmKod=RK001&lang=sv&parentPtKod=OMGSP18h",
+      "name": "Verksamhetsf\u00f6rlagd utbildning (VFU), M\u00f6tet med m\u00e4nniskor",
+      "city": "Karlskrona",
+      "study_plan": "https://edu.bth.se/utbildning/utb_kursplan.asp?kurskod=OM1442&revisionsnr=10&format=pdf",
+      "speed": 100,
+      "location": "Campus",
+      "code": "OM1442",
+      "points": 6.0,
+      "languages": [
+        "Svenska"
+      ],
+      "teachers": [
+        "Catarina Augustsson",
+        "Johanna Nor\u00e9n Jonasson",
+        "Markus Hjelm",
+        "Ulrika Bernow Johansson",
+        "Hel\u00e9n Dellkvist",
+        "Terese Lindberg",
+        "Lena Kransberg",
+        "Marie Folbert"
+      ],
+      "description": "Syftet med kursen \u00e4r att den studerande skall till\u00e4gna sig grundl\u00e4ggande kunskaper om m\u00f6tet med individer i olika v\u00e5rdande kontext.",
+      "requirements": "Kursens f\u00f6rkunskapskrav \u00e4r grundl\u00e4ggande beh\u00f6righet samt omr\u00e5desbeh\u00f6righet 16: Matematik B, Naturkunskap B och Samh\u00e4llskunskap A. (Naturkunskap B kan ers\u00e4ttas med Fysik A, Kemi A och Biologi A med l\u00e4gst betyget Godk\u00e4nd)",
+      "start": "2018 vecka 45",
+      "end": "2018 vecka 48"
+    },
+    {
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20191&KtAnmKod=RQ720&lang=sv&parentPtKod=OMGSP18h",
+      "name": "Verksamhetsf\u00f6rlagd utbildning (VFU), M\u00e4nniskan och omv\u00e5rdnaden",
+      "city": "Karlskrona",
+      "study_plan": "https://edu.bth.se/utbildning/utb_kursplan.asp?kurskod=OM1463&revisionsnr=8&format=pdf",
+      "speed": 100,
+      "location": "Campus",
+      "code": "OM1463",
+      "points": 7.5,
+      "languages": [
+        "Svenska"
+      ],
+      "teachers": [
+        "Terese Lindberg",
+        "Martin Jarl"
+      ],
+      "description": "Syftet med kursen \u00e4r att den studerande skall skaffa sig f\u00f6rdjupade kunskaper om omv\u00e5rdnadsprocessen och till\u00e4mpa dessa i m\u00f6tet med den v\u00e5rdbeh\u00f6vande. Syftet med kursen \u00e4r ocks\u00e5 att den studerande skall tr\u00e4na basala omv\u00e5rdnadsmoment.",
+      "requirements": "Kursens f\u00f6rkunskapskrav \u00e4r grundl\u00e4ggande beh\u00f6righet samt omr\u00e5desbeh\u00f6righet 16: Matematik B, Naturkunskap B och Samh\u00e4llskunskap A. (Naturkunskap B kan ers\u00e4ttas med Fysik A, Kemi A och Biologi A med l\u00e4gst betyget Godk\u00e4nd)",
+      "start": "2019 vecka 09",
+      "end": "2019 vecka 13"
     },
     {
       "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20182&KtAnmKod=RK398&lang=sv&parentPtKod=OMGSP18h",
       "name": "Profession och omv\u00e5rdnad",
       "city": "Karlskrona",
       "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=OM1439&revision=12,1&lang=sv",
-      "form": "Campus",
       "speed": 100,
       "location": "Campus",
       "code": "OM1439",
@@ -331,14 +262,14 @@
         "Svenska"
       ],
       "teachers": [
-        "Johanna Nor\u00e9n Jonasson",
         "Catarina Augustsson",
-        "Ulrika Bernow Johansson",
+        "Johanna Nor\u00e9n Jonasson",
         "Markus Hjelm",
+        "Ulrika Bernow Johansson",
         "Hel\u00e9n Dellkvist",
-        "Marie Folbert",
         "Terese Lindberg",
-        "Lena Kransberg"
+        "Lena Kransberg",
+        "Marie Folbert"
       ],
       "description": "Syftet med kursen \u00e4r att den studerande skall till\u00e4gna sig grundl\u00e4ggande kunskaper om sjuksk\u00f6terskans vetenskapliga och yrkesm\u00e4ssiga f\u00f6rh\u00e5llningss\u00e4tt. Kursen syftar till att introducera till h\u00f6gskolestudier och akademiskt skrivande.",
       "requirements": "Kursens f\u00f6rkunskapskrav \u00e4r grundl\u00e4ggande beh\u00f6righet samt omr\u00e5desbeh\u00f6righet 16: Matematik B, Naturkunskap B och Samh\u00e4llskunskap A. (Naturkunskap B kan ers\u00e4ttas med Fysik A, Kemi A och Biologi A med l\u00e4gst betyget Godk\u00e4nd)",
@@ -346,11 +277,64 @@
       "end": "2018 vecka 40"
     },
     {
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20182&KtAnmKod=RK868&lang=sv&parentPtKod=OMGSP18h",
+      "name": "Sjuksk\u00f6terskeprofessionen och samh\u00e4llet",
+      "city": "Karlskrona",
+      "study_plan": "https://edu.bth.se/utbildning/utb_kursplan.asp?kurskod=OM1444&revisionsnr=10&format=pdf",
+      "speed": 100,
+      "location": "Campus",
+      "code": "OM1444",
+      "points": 7.5,
+      "languages": [
+        "Svenska"
+      ],
+      "teachers": [
+        "Catarina Augustsson",
+        "Johanna Nor\u00e9n Jonasson",
+        "Markus Hjelm",
+        "Ulrika Bernow Johansson",
+        "Hel\u00e9n Dellkvist",
+        "Terese Lindberg",
+        "Lena Kransberg",
+        "Marie Folbert"
+      ],
+      "description": "Syftet med kursen \u00e4r att den studerande skall till\u00e4gna sig grundl\u00e4ggande kunskaper om sjuksk\u00f6terskans profession, i samh\u00e4llet f\u00f6r att m\u00f6ta individer fr\u00e5n olika sociala och kulturella grupper. Kursen syftar vidare till att den studerande skall till\u00e4gna sig grundl\u00e4ggande kunskaper om sjuksk\u00f6terskans roll i det f\u00f6rebyggande arbetet.",
+      "requirements": "Kursens f\u00f6rkunskapskrav \u00e4r grundl\u00e4ggande beh\u00f6righet samt omr\u00e5desbeh\u00f6righet 16: Matematik B, Naturkunskap B och Samh\u00e4llskunskap A. (Naturkunskap B kan ers\u00e4ttas med Fysik A, Kemi A och Biologi A med l\u00e4gst betyget Godk\u00e4nd)",
+      "start": "2018 vecka 41",
+      "end": "2018 vecka 49"
+    },
+    {
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20182&KtAnmKod=RK618&lang=sv&parentPtKod=OMGSP18h",
+      "name": "Medicin I",
+      "city": "Karlskrona",
+      "study_plan": "https://edu.bth.se/utbildning/utb_kursplan.asp?kurskod=KM1412&revisionsnr=10&format=pdf",
+      "speed": 100,
+      "location": "Campus",
+      "code": "KM1412",
+      "points": 7.5,
+      "languages": [
+        "Svenska"
+      ],
+      "teachers": [
+        "Catarina Augustsson",
+        "Johanna Nor\u00e9n Jonasson",
+        "Markus Hjelm",
+        "Ulrika Bernow Johansson",
+        "Hel\u00e9n Dellkvist",
+        "Terese Lindberg",
+        "Lena Kransberg",
+        "Marie Folbert"
+      ],
+      "description": "Syftet med kursen \u00e4r att den studerande skall till\u00e4gna sig grundl\u00e4ggande kunskaper om m\u00e4nniskans anatomi och fysiologi f\u00f6r att f\u00f6rst\u00e5 uppbyggnad och samspel mellan cell, v\u00e4vnad, organ och organsystem samt samspelet mellan m\u00e4nniskan och naturen.",
+      "requirements": "Kursens f\u00f6rkunskapskrav \u00e4r grundl\u00e4ggande beh\u00f6righet samt omr\u00e5desbeh\u00f6righet 16: Matematik B, Naturkunskap B och Samh\u00e4llskunskap A. (Naturkunskap B kan ers\u00e4ttas med Fysik A, Kemi A och Biologi A med l\u00e4gst betyget Godk\u00e4nd)",
+      "start": "2018 vecka 50",
+      "end": "2019 vecka 03"
+    },
+    {
       "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20202&KtAnmKod=BWMHR&lang=sv&parentPtKod=OMGSP18h",
       "name": "Examensarbete i omv\u00e5rdnad",
       "city": "Karlskrona",
       "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=OM1512&revision=2&lang=sv",
-      "form": "Campus",
       "speed": 100,
       "location": "Campus",
       "code": "OM1512",
@@ -359,17 +343,17 @@
         "Svenska"
       ],
       "teachers": [
-        "Ingrid Weiber",
-        "Lina Nilsson",
-        "Johanna Tell",
-        "Boel Sandstr\u00f6m",
-        "Ann-Kristin Olsson",
-        "Line Christiansen",
-        "Markus Hjelm",
-        "Ewa Andersson",
         "Annica Sj\u00f6str\u00f6m Strand",
+        "Johanna Tell",
+        "Line Christiansen",
+        "Ingrid Weiber",
+        "Ewa Andersson",
+        "Lina Nilsson",
+        "Ann-Kristin Olsson",
         "Terese Lindberg",
-        "Doris Bohman"
+        "Boel Sandstr\u00f6m",
+        "Doris Bohman",
+        "Markus Hjelm"
       ],
       "description": "Syftet med kursen \u00e4r att den studerande skall integrera och f\u00f6rdjupa sin kunskap inom huvudomr\u00e5det omv\u00e5rdnad samt till\u00e4mpa forskningsprocessens olika delar i form av att genomf\u00f6ra ett examensarbete.",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att f\u00f6ljande kurser \u00e4r avklarade:",
@@ -379,122 +363,10 @@
   ],
   "optional_courses": [
     {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20202&KtAnmKod=BY6XT&lang=sv&parentPtKod=OMGSP18h",
-      "name": "Omv\u00e5rdnad vid neurologisk oh\u00e4lsa",
-      "city": "Karlskrona",
-      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=OM1502&revision=4,1&lang=sv",
-      "form": "Campus",
-      "speed": 100,
-      "location": "Campus",
-      "code": "OM1502",
-      "points": 7.5,
-      "languages": [
-        "Svenska"
-      ],
-      "teachers": [
-        "Johanna Tell",
-        "Catrin Berglund-Johansson"
-      ],
-      "description": "Syftet med kursen \u00e4r att den studerande ska inh\u00e4mta f\u00f6rdjupade kunskaper i stroke genom att \u00f6ka f\u00f6rst\u00e5elsen f\u00f6r de specifika behov som patienter och n\u00e4rst\u00e5ende har. Kursen syftar ocks\u00e5 till att f\u00f6rbereda student f\u00f6r att arbeta med patienter, som insjuknat i stroke, genom hela v\u00e5rdprocessen utifr\u00e5n evidensbaserad v\u00e5rd f\u00f6r att ge en s\u00e5 god och effektiv v\u00e5rd som m\u00f6jligt.",
-      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att f\u00f6ljande kurser \u00e4r avklarade: Omv\u00e5rdnad vid oh\u00e4lsa, (kursens omfattning ska vara minst 12 hp), e-h\u00e4lsa inom omv\u00e5rdnad I, 4,5 hp samt tv\u00e5 av de tre VFU-kurserna; VFU inriktad mot somatisk v\u00e5rd 10,5 hp, VFU inriktad mot psykiatrisk v\u00e5rd/demensv\u00e5rd 10,5 hp och VFU inriktad mot prim\u00e4r v\u00e5rd 10,5 hp.",
-      "start": "2020 vecka 40",
-      "end": "2020 vecka 44"
-    },
-    {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20202&KtAnmKod=BHR6D&lang=sv&parentPtKod=OMGSP18h",
-      "name": "eH\u00e4lsa inom omv\u00e5rdnad II",
-      "city": "Karlskrona",
-      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=OM1487&revision=4&lang=sv",
-      "form": "Campus",
-      "speed": 100,
-      "location": "Campus",
-      "code": "OM1487",
-      "points": 7.5,
-      "languages": [
-        "Svenska"
-      ],
-      "teachers": [
-        "Peter Anderberg",
-        "Lina Nilsson"
-      ],
-      "description": "Syftet med kursen \u00e4r att den studerande skall till\u00e4gna sig kunskaper om teknikens betydelse f\u00f6r individens h\u00e4lsa, v\u00e4lbefinnande och lidande. Vidare skall den studerande kunna analysera de omv\u00e5rdnadsvetenskapliga begreppens inneb\u00f6rd i ett teoretiskt och praktiskt v\u00e5rdsammanhang. Kursen syftar dessutom till att den studerande skall kunna analysera teknikens betydelse i v\u00e5rden ur ett etiskt, estetiskt och existentiellt perspektiv.",
-      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser Omv\u00e5rdnad vid oh\u00e4lsa, (kursens omfattning ska vara minst 12 hp), e-h\u00e4lsa inom omv\u00e5rdnad I, 4,5 hp samt tv\u00e5 av de tre VFU-kurserna; VFU inriktad mot somatisk v\u00e5rd 10,5 hp, VFU inriktad mot psykiatrisk v\u00e5rd/demensv\u00e5rd 10,5 hp och VFU inriktad mot prim\u00e4r v\u00e5rd 10,5 hp.",
-      "start": "2020 vecka 40",
-      "end": "2020 vecka 44"
-    },
-    {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20201&KtAnmKod=BUNDA&lang=sv&parentPtKod=OMGSP18h",
-      "name": "Verksamhetsf\u00f6rlagd utbildning (VFU) inriktad mot psykiatrisk omv\u00e5rdnad och demensv\u00e5rd (Termin 4)",
-      "city": "Karlskrona",
-      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=OM1493&revision=3&lang=sv",
-      "form": "Campus",
-      "speed": 100,
-      "location": "Campus",
-      "code": "OM1493",
-      "points": 10.5,
-      "languages": [
-        "Svenska"
-      ],
-      "teachers": [
-        "Sandra Falksk\u00e4r",
-        "Boel Sandstr\u00f6m"
-      ],
-      "description": "Syftet med kursen \u00e4r att den studerande skall till\u00e4gna sig f\u00f6rdjupade kunskaper inom psykiatrisk omv\u00e5rdnad och demensv\u00e5rd och integrera teoretisk och verksamhetsf\u00f6rlagd utbildning. Kursen syftar till att utifr\u00e5n evidensbaserad omv\u00e5rdnad, f\u00f6rena b\u00e4sta tillg\u00e4ngliga vetenskapliga kunskap med bepr\u00f6vad erfarenhet och kunskap om enskilda v\u00e5rdtagares enskilda situation och upplevelse, f\u00f6r att ge en s\u00e5 god och effektiv v\u00e5rd som m\u00f6jligt. Kursen syftar vidare till att kunna reflektera \u00f6ver och f\u00f6rdjupa f\u00f6rst\u00e5elsen f\u00f6r v\u00e5rdtagaren situation vid oh\u00e4lsa och f\u00f6r dess n\u00e4rst\u00e5ende f\u00f6r att som sjuksk\u00f6terska kunna ge personcentrerad omv\u00e5rdnad.",
-      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser Grundl\u00e4ggande omv\u00e5rdnad 7,5 hp, Verksamhetsf\u00f6rlagd utbildning (VFU) M\u00e4nniskan och omv\u00e5rdnaden, 7,5 hp, Medicin II, 7,5 hp, Medicin III, 7,5 hp samt minst 12 hp avklarade fr\u00e5n kursen Omv\u00e5rdnad vid oh\u00e4lsa, 15 hp.",
-      "start": "2020 vecka 04",
-      "end": "2020 vecka 10"
-    },
-    {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20192&KtAnmKod=BCQ7D&lang=sv&parentPtKod=OMGSP18h",
-      "name": "Verksamhetsf\u00f6rlagd utbildning (VFU) inriktad mot somatisk v\u00e5rd (Termin 3)",
-      "city": "Karlskrona",
-      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=OM1490&revision=2&lang=sv",
-      "form": "Campus",
-      "speed": 100,
-      "location": "Campus",
-      "code": "OM1490",
-      "points": 10.5,
-      "languages": [
-        "Svenska"
-      ],
-      "teachers": [
-        "Agneta Lindvall",
-        "Boel Sandstr\u00f6m"
-      ],
-      "description": "Syftet med kursen \u00e4r att den studerande skall till\u00e4gna sig f\u00f6rdjupade kunskaper inom somatisk v\u00e5rd och integrera teoretisk och verksamhetsf\u00f6rlagd utbildning. Kursen syftar till att utifr\u00e5n evidensbaserad v\u00e5rd, f\u00f6rena b\u00e4sta tillg\u00e4ngliga vetenskapliga kunskap med bepr\u00f6vad erfarenhet och kunskap om v\u00e5rdtagarens enskilda situation och upplevelse, f\u00f6r att ge en s\u00e5 god och effektiv v\u00e5rd som m\u00f6jligt. Kursen syftar vidare till att den studerande skall kunna reflektera \u00f6ver och f\u00f6rdjupa f\u00f6rst\u00e5elsen f\u00f6r v\u00e5rdtagarens situation vid oh\u00e4lsa och f\u00f6r dess n\u00e4rst\u00e5ende f\u00f6r att som sjuksk\u00f6terska kunna ge personcentrerad omv\u00e5rdnad.",
-      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att f\u00f6ljande kurser \u00e4r avklarade: Profession och omv\u00e5rdnad, 9 hp, Sjuksk\u00f6terskeprofessionen och samh\u00e4llet, 7,5 hp,  Verksamhetsf\u00f6rlagd utbildning (VFU) M\u00f6tet med m\u00e4nniskor, 6 hp, Medicin I, 7,5 hp, Grundl\u00e4ggande omv\u00e5rdnad, 7,5 hp och Verksamhetsf\u00f6rlagd utbildning (VFU) M\u00e4nniskan och omv\u00e5rdnaden, 7,5 hp.",
-      "start": "2019 vecka 48",
-      "end": "2020 vecka 03"
-    },
-    {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20201&KtAnmKod=BDJCN&lang=sv&parentPtKod=OMGSP18h",
-      "name": "Verksamhetsf\u00f6rlagd utbildning (VFU) inriktad mot prim\u00e4r v\u00e5rd (Termin 4 F\u00f6rdjupning)",
-      "city": "Karlskrona",
-      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=OM1530&revision=2&lang=sv",
-      "form": "Campus",
-      "speed": 100,
-      "location": "Campus",
-      "code": "OM1530",
-      "points": 10.5,
-      "languages": [
-        "Svenska"
-      ],
-      "teachers": [
-        "Anna Ax\u00e9n",
-        "Christel Borg",
-        "Terese Lindberg"
-      ],
-      "description": "Syftet med kursen \u00e4r att den studerande skall till\u00e4gna sig f\u00f6rdjupade kunskaper inom prim\u00e4r v\u00e5rd och integrera teoretisk och verksamhetsf\u00f6rlagd utbildning. Kursen syftar till att utifr\u00e5n evidensbaserad v\u00e5rd, f\u00f6rena b\u00e4sta tillg\u00e4ngliga vetenskapliga kunskap med bepr\u00f6vad erfarenhet och kunskap om enskilda v\u00e5rdtagares enskilda situation och upplevelse, f\u00f6r att ge en s\u00e5 god och effektiv v\u00e5rd som m\u00f6jligt. Kursen syftar vidare till att kunna reflektera \u00f6ver och f\u00f6rdjupa f\u00f6rst\u00e5elsen f\u00f6r v\u00e5rdtagarens situation vid oh\u00e4lsa och f\u00f6r dess n\u00e4rst\u00e5ende f\u00f6r att som sjuksk\u00f6terska kunna ge personcentrerad omv\u00e5rdnad.",
-      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att f\u00f6ljande kurser \u00e4r avklarade: Grundl\u00e4ggande omv\u00e5rdnad 7,5 hp, Verksamhetsf\u00f6rlagd utbildning (VFU) M\u00e4nniskan och omv\u00e5rdnaden, 7,5 hp, Medicin II, 7,5 hp, Medicin III, 7,5 hp samt minst 12 hp avklarade fr\u00e5n kursen Omv\u00e5rdnad vid oh\u00e4lsa (15 hp).",
-      "start": "2020 vecka 11",
-      "end": "2020 vecka 17"
-    },
-    {
       "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20201&KtAnmKod=BLFWD&lang=sv&parentPtKod=OMGSP18h",
       "name": "Verksamhetsf\u00f6rlagd utbildning (VFU) inriktad mot somatisk v\u00e5rd (Termin 4)",
       "city": "Karlskrona",
       "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=OM1494&revision=3&lang=sv",
-      "form": "Campus",
       "speed": 100,
       "location": "Campus",
       "code": "OM1494",
@@ -503,8 +375,8 @@
         "Svenska"
       ],
       "teachers": [
-        "Camilla Allert",
-        "Boel Sandstr\u00f6m"
+        "Boel Sandstr\u00f6m",
+        "Camilla Allert"
       ],
       "description": "Syftet med kursen \u00e4r att den studerande skall till\u00e4gna sig f\u00f6rdjupade kunskaper inom somatisk v\u00e5rd och integrera teoretisk och verksamhetsf\u00f6rlagd utbildning. Kursen syftar till att utifr\u00e5n evidensbaserad v\u00e5rd, f\u00f6rena b\u00e4sta tillg\u00e4ngliga vetenskapliga kunskap med bepr\u00f6vad erfarenhet och kunskap om v\u00e5rdtagarens enskilda situation och upplevelse, f\u00f6r att ge en s\u00e5 god och effektiv v\u00e5rd som m\u00f6jligt. Kursen syftar vidare till att den studerande skall kunna reflektera \u00f6ver och f\u00f6rdjupa f\u00f6rst\u00e5elsen f\u00f6r v\u00e5rdtagarens situation vid oh\u00e4lsa och f\u00f6r dess n\u00e4rst\u00e5ende f\u00f6r att som sjuksk\u00f6terska kunna ge personcentrerad omv\u00e5rdnad.",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser Grundl\u00e4ggande omv\u00e5rdnad 7,5 hp, Verksamhetsf\u00f6rlagd utbildning (VFU) M\u00e4nniskan och omv\u00e5rdnaden, 7,5 hp, Medicin II, 7,5 hp, Medicin III, 7,5 hp samt minst 12 hp avklarade fr\u00e5n kursen Omv\u00e5rdnad vid oh\u00e4lsa, 15 hp.",
@@ -516,7 +388,6 @@
       "name": "Omv\u00e5rdnad vid kardiologisk oh\u00e4lsa",
       "city": "Karlskrona",
       "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=OM1503&revision=4&lang=sv",
-      "form": "Campus",
       "speed": 100,
       "location": "Campus",
       "code": "OM1503",
@@ -525,8 +396,8 @@
         "Svenska"
       ],
       "teachers": [
-        "Ewa Andersson",
-        "Camilla Allert"
+        "Camilla Allert",
+        "Ewa Andersson"
       ],
       "description": "Syftet med kursen \u00e4r att den studerande skall inh\u00e4mta f\u00f6rdjupande kunskaper i omv\u00e5rdnad vid kardiologiska oh\u00e4lsotillst\u00e5nd och d\u00e4rigenom \u00f6ka sin f\u00f6rst\u00e5else f\u00f6r patientens och n\u00e4rst\u00e5endes specifika behov genom hela v\u00e5rdkedjan fr\u00e5n prehospital till palliativ v\u00e5rd.",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att f\u00f6ljande kurser \u00e4r avklarade:",
@@ -534,33 +405,10 @@
       "end": "2020 vecka 44"
     },
     {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20201&KtAnmKod=BMCGE&lang=sv&parentPtKod=OMGSP18h",
-      "name": "Verksamhetsf\u00f6rlagd utbildning (VFU) inriktad mot somatisk v\u00e5rd, f\u00f6rdjupning",
-      "city": "Karlskrona",
-      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=OM1495&revision=3&lang=sv",
-      "form": "Campus",
-      "speed": 100,
-      "location": "Campus",
-      "code": "OM1495",
-      "points": 10.5,
-      "languages": [
-        "Svenska"
-      ],
-      "teachers": [
-        "Jenny Svensson",
-        "Boel Sandstr\u00f6m"
-      ],
-      "description": "Syftet med kursen \u00e4r att den studerande skall till\u00e4gna sig f\u00f6rdjupade kunskaper inom somatisk v\u00e5rd och integrera teoretisk och verksamhetsf\u00f6rlagd utbildning. Kursen syftar till att utifr\u00e5n evidensbaserad v\u00e5rd, f\u00f6rena b\u00e4sta tillg\u00e4ngliga vetenskapliga kunskap med bepr\u00f6vad erfarenhet och kunskap om v\u00e5rdtagarens enskilda situation och upplevelse, f\u00f6r att ge en s\u00e5 god och effektiv v\u00e5rd som m\u00f6jligt. Kursen syftar vidare till att den studerande skall kunna reflektera \u00f6ver och f\u00f6rdjupa f\u00f6rst\u00e5elsen f\u00f6r v\u00e5rdtagarens situation vid oh\u00e4lsa och f\u00f6r dess n\u00e4rst\u00e5ende f\u00f6r att som sjuksk\u00f6terska kunna ge personcentrerad omv\u00e5rdnad.",
-      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser Grundl\u00e4ggande omv\u00e5rdnad, 7,5 hp, Verksamhetsf\u00f6rlagd utbildning (VFU) M\u00e4nniskan och omv\u00e5rdnaden, 7,5 hp, Medicin II, 7,5 hp, Medicin III, 7,5 hp och minst 12 hp avklarade fr\u00e5n kursen Omv\u00e5rdnad vid oh\u00e4lsa, 15 hp samt genomg\u00e5ngen kurs i verksamhetsf\u00f6rlagd utbildning (VFU), 10,5 hp.",
-      "start": "2020 vecka 11",
-      "end": "2020 vecka 17"
-    },
-    {
       "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20192&KtAnmKod=BKQFP&lang=sv&parentPtKod=OMGSP18h",
       "name": "Verksamhetsf\u00f6rlagd utbildning (VFU) inriktad mot psykiatrisk omv\u00e5rdnad och demensv\u00e5rd (Termin 3)",
       "city": "Karlskrona",
       "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=OM1489&revision=2&lang=sv",
-      "form": "Campus",
       "speed": 100,
       "location": "Campus",
       "code": "OM1489",
@@ -569,8 +417,8 @@
         "Svenska"
       ],
       "teachers": [
-        "Sandra Falksk\u00e4r",
-        "Boel Sandstr\u00f6m"
+        "Boel Sandstr\u00f6m",
+        "Sandra Falksk\u00e4r"
       ],
       "description": "Syftet med kursen \u00e4r att den studerande skall till\u00e4gna sig f\u00f6rdjupade kunskaper inom psykiatrisk omv\u00e5rdnad och demensv\u00e5rd och integrera teoretisk och verksamhetsf\u00f6rlagd utbildning. Kursen syftar till att utifr\u00e5n evidensbaserad omv\u00e5rdnad, f\u00f6rena b\u00e4sta tillg\u00e4ngliga vetenskapliga kunskap med bepr\u00f6vad erfarenhet och kunskap om enskilda v\u00e5rdtagares enskilda situation och upplevelse, f\u00f6r att ge en s\u00e5 god och effektiv v\u00e5rd som m\u00f6jligt. Kursen syftar vidare till att kunna reflektera \u00f6ver och f\u00f6rdjupa f\u00f6rst\u00e5elsen f\u00f6r v\u00e5rdtagaren situation vid oh\u00e4lsa och f\u00f6r dess n\u00e4rst\u00e5ende f\u00f6r att som sjuksk\u00f6terska kunna ge personcentrerad omv\u00e5rdnad.",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser Profession och omv\u00e5rdnad 9 hp, Sjuksk\u00f6terskeprofessionen och samh\u00e4llet, 7,5 hp,  Verksamhetsf\u00f6rlagd utbildning (VFU) M\u00f6tet med m\u00e4nniskor, 6 hp, Medicin I, 7,5 hp, Grundl\u00e4ggande omv\u00e5rdnad, 7,5 hp och Verksamhetsf\u00f6rlagd utbildning (VFU) M\u00e4nniskan och omv\u00e5rdnaden, 7,5 hp.",
@@ -581,8 +429,7 @@
       "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20202&KtAnmKod=BKT7E&lang=sv&parentPtKod=OMGSP18h",
       "name": "Interkulturella perspektiv inom h\u00e4lso- och sjukv\u00e5rd",
       "city": "Karlskrona",
-      "study_plan": "https://edu.bth.seutb_kursplan.asp?kurskod=OM1483&revisionsnr=6&format=pdf",
-      "form": "Campus",
+      "study_plan": "https://edu.bth.se/utbildning/utb_kursplan.asp?kurskod=OM1483&revisionsnr=6&format=pdf",
       "speed": 100,
       "location": "Campus",
       "code": "OM1483",
@@ -599,33 +446,10 @@
       "end": "2020 vecka 44"
     },
     {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20202&KtAnmKod=BKD4D&lang=sv&parentPtKod=OMGSP18h",
-      "name": "Omv\u00e5rdnad vid palliativ v\u00e5rd",
-      "city": "Karlskrona",
-      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=OM1501&revision=4&lang=sv",
-      "form": "Campus",
-      "speed": 100,
-      "location": "Campus",
-      "code": "OM1501",
-      "points": 7.5,
-      "languages": [
-        "Svenska"
-      ],
-      "teachers": [
-        "Ewa Andersson",
-        "Johanna Nor\u00e9n Jonasson"
-      ],
-      "description": "Syftet med kursen \u00e4r att den studerande ska inh\u00e4mta f\u00f6rdjupade kunskaper i palliativ v\u00e5rd och",
-      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att f\u00f6ljande kurser \u00e4r avklarade: Omv\u00e5rdnad vid oh\u00e4lsa,(kursens omfattning ska vara minst 12 hp), e-h\u00e4lsa inom omv\u00e5rdnad I, 4,5 hp samt tv\u00e5 av de tre VFU-kurserna; VFU inriktad mot somatisk v\u00e5rd 10,5 hp, VFU inriktad mot psykiatrisk v\u00e5rd/demensv\u00e5rd 10,5 hp och VFU inriktad mot prim\u00e4r v\u00e5rd 10,5 hp.",
-      "start": "2020 vecka 40",
-      "end": "2020 vecka 44"
-    },
-    {
       "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20192&KtAnmKod=BYGAJ&lang=sv&parentPtKod=OMGSP18h",
       "name": "Verksamhetsf\u00f6rlagd utbildning (VFU) inriktad mot prim\u00e4r v\u00e5rd (Termin 3)",
       "city": "Karlskrona",
       "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=OM1528&revision=1&lang=sv",
-      "form": "Campus",
       "speed": 100,
       "location": "Campus",
       "code": "OM1528",
@@ -643,25 +467,129 @@
       "end": "2020 vecka 03"
     },
     {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20201&KtAnmKod=BCYFK&lang=sv&parentPtKod=OMGSP18h",
-      "name": "Verksamhetsf\u00f6rlagd utbildning (VFU) inriktad mot prim\u00e4r v\u00e5rd (Termin 4)",
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20201&KtAnmKod=BMCGE&lang=sv&parentPtKod=OMGSP18h",
+      "name": "Verksamhetsf\u00f6rlagd utbildning (VFU) inriktad mot somatisk v\u00e5rd, f\u00f6rdjupning",
       "city": "Karlskrona",
-      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=OM1529&revision=2&lang=sv",
-      "form": "Campus",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=OM1495&revision=3&lang=sv",
       "speed": 100,
       "location": "Campus",
-      "code": "OM1529",
+      "code": "OM1495",
       "points": 10.5,
       "languages": [
         "Svenska"
       ],
       "teachers": [
-        "Anna Ax\u00e9n",
+        "Boel Sandstr\u00f6m",
+        "Jenny Svensson"
+      ],
+      "description": "Syftet med kursen \u00e4r att den studerande skall till\u00e4gna sig f\u00f6rdjupade kunskaper inom somatisk v\u00e5rd och integrera teoretisk och verksamhetsf\u00f6rlagd utbildning. Kursen syftar till att utifr\u00e5n evidensbaserad v\u00e5rd, f\u00f6rena b\u00e4sta tillg\u00e4ngliga vetenskapliga kunskap med bepr\u00f6vad erfarenhet och kunskap om v\u00e5rdtagarens enskilda situation och upplevelse, f\u00f6r att ge en s\u00e5 god och effektiv v\u00e5rd som m\u00f6jligt. Kursen syftar vidare till att den studerande skall kunna reflektera \u00f6ver och f\u00f6rdjupa f\u00f6rst\u00e5elsen f\u00f6r v\u00e5rdtagarens situation vid oh\u00e4lsa och f\u00f6r dess n\u00e4rst\u00e5ende f\u00f6r att som sjuksk\u00f6terska kunna ge personcentrerad omv\u00e5rdnad.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser Grundl\u00e4ggande omv\u00e5rdnad, 7,5 hp, Verksamhetsf\u00f6rlagd utbildning (VFU) M\u00e4nniskan och omv\u00e5rdnaden, 7,5 hp, Medicin II, 7,5 hp, Medicin III, 7,5 hp och minst 12 hp avklarade fr\u00e5n kursen Omv\u00e5rdnad vid oh\u00e4lsa, 15 hp samt genomg\u00e5ngen kurs i verksamhetsf\u00f6rlagd utbildning (VFU), 10,5 hp.",
+      "start": "2020 vecka 11",
+      "end": "2020 vecka 17"
+    },
+    {
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20202&KtAnmKod=BKD4D&lang=sv&parentPtKod=OMGSP18h",
+      "name": "Omv\u00e5rdnad vid palliativ v\u00e5rd",
+      "city": "Karlskrona",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=OM1501&revision=4&lang=sv",
+      "speed": 100,
+      "location": "Campus",
+      "code": "OM1501",
+      "points": 7.5,
+      "languages": [
+        "Svenska"
+      ],
+      "teachers": [
+        "Johanna Nor\u00e9n Jonasson",
+        "Ewa Andersson"
+      ],
+      "description": "Syftet med kursen \u00e4r att den studerande ska inh\u00e4mta f\u00f6rdjupade kunskaper i palliativ v\u00e5rd och",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att f\u00f6ljande kurser \u00e4r avklarade: Omv\u00e5rdnad vid oh\u00e4lsa,(kursens omfattning ska vara minst 12 hp), e-h\u00e4lsa inom omv\u00e5rdnad I, 4,5 hp samt tv\u00e5 av de tre VFU-kurserna; VFU inriktad mot somatisk v\u00e5rd 10,5 hp, VFU inriktad mot psykiatrisk v\u00e5rd/demensv\u00e5rd 10,5 hp och VFU inriktad mot prim\u00e4r v\u00e5rd 10,5 hp.",
+      "start": "2020 vecka 40",
+      "end": "2020 vecka 44"
+    },
+    {
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20202&KtAnmKod=BHR6D&lang=sv&parentPtKod=OMGSP18h",
+      "name": "eH\u00e4lsa inom omv\u00e5rdnad II",
+      "city": "Karlskrona",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=OM1487&revision=4&lang=sv",
+      "speed": 100,
+      "location": "Campus",
+      "code": "OM1487",
+      "points": 7.5,
+      "languages": [
+        "Svenska"
+      ],
+      "teachers": [
+        "Lina Nilsson",
+        "Peter Anderberg"
+      ],
+      "description": "Syftet med kursen \u00e4r att den studerande skall till\u00e4gna sig kunskaper om teknikens betydelse f\u00f6r individens h\u00e4lsa, v\u00e4lbefinnande och lidande. Vidare skall den studerande kunna analysera de omv\u00e5rdnadsvetenskapliga begreppens inneb\u00f6rd i ett teoretiskt och praktiskt v\u00e5rdsammanhang. Kursen syftar dessutom till att den studerande skall kunna analysera teknikens betydelse i v\u00e5rden ur ett etiskt, estetiskt och existentiellt perspektiv.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser Omv\u00e5rdnad vid oh\u00e4lsa, (kursens omfattning ska vara minst 12 hp), e-h\u00e4lsa inom omv\u00e5rdnad I, 4,5 hp samt tv\u00e5 av de tre VFU-kurserna; VFU inriktad mot somatisk v\u00e5rd 10,5 hp, VFU inriktad mot psykiatrisk v\u00e5rd/demensv\u00e5rd 10,5 hp och VFU inriktad mot prim\u00e4r v\u00e5rd 10,5 hp.",
+      "start": "2020 vecka 40",
+      "end": "2020 vecka 44"
+    },
+    {
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20202&KtAnmKod=BY6XT&lang=sv&parentPtKod=OMGSP18h",
+      "name": "Omv\u00e5rdnad vid neurologisk oh\u00e4lsa",
+      "city": "Karlskrona",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=OM1502&revision=4,1&lang=sv",
+      "speed": 100,
+      "location": "Campus",
+      "code": "OM1502",
+      "points": 7.5,
+      "languages": [
+        "Svenska"
+      ],
+      "teachers": [
+        "Catrin Berglund-Johansson",
+        "Johanna Tell"
+      ],
+      "description": "Syftet med kursen \u00e4r att den studerande ska inh\u00e4mta f\u00f6rdjupade kunskaper i stroke genom att \u00f6ka f\u00f6rst\u00e5elsen f\u00f6r de specifika behov som patienter och n\u00e4rst\u00e5ende har. Kursen syftar ocks\u00e5 till att f\u00f6rbereda student f\u00f6r att arbeta med patienter, som insjuknat i stroke, genom hela v\u00e5rdprocessen utifr\u00e5n evidensbaserad v\u00e5rd f\u00f6r att ge en s\u00e5 god och effektiv v\u00e5rd som m\u00f6jligt.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att f\u00f6ljande kurser \u00e4r avklarade: Omv\u00e5rdnad vid oh\u00e4lsa, (kursens omfattning ska vara minst 12 hp), e-h\u00e4lsa inom omv\u00e5rdnad I, 4,5 hp samt tv\u00e5 av de tre VFU-kurserna; VFU inriktad mot somatisk v\u00e5rd 10,5 hp, VFU inriktad mot psykiatrisk v\u00e5rd/demensv\u00e5rd 10,5 hp och VFU inriktad mot prim\u00e4r v\u00e5rd 10,5 hp.",
+      "start": "2020 vecka 40",
+      "end": "2020 vecka 44"
+    },
+    {
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20201&KtAnmKod=BDJCN&lang=sv&parentPtKod=OMGSP18h",
+      "name": "Verksamhetsf\u00f6rlagd utbildning (VFU) inriktad mot prim\u00e4r v\u00e5rd (Termin 4 F\u00f6rdjupning)",
+      "city": "Karlskrona",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=OM1530&revision=2&lang=sv",
+      "speed": 100,
+      "location": "Campus",
+      "code": "OM1530",
+      "points": 10.5,
+      "languages": [
+        "Svenska"
+      ],
+      "teachers": [
         "Christel Borg",
-        "Terese Lindberg"
+        "Terese Lindberg",
+        "Anna Ax\u00e9n"
       ],
       "description": "Syftet med kursen \u00e4r att den studerande skall till\u00e4gna sig f\u00f6rdjupade kunskaper inom prim\u00e4r v\u00e5rd och integrera teoretisk och verksamhetsf\u00f6rlagd utbildning. Kursen syftar till att utifr\u00e5n evidensbaserad v\u00e5rd, f\u00f6rena b\u00e4sta tillg\u00e4ngliga vetenskapliga kunskap med bepr\u00f6vad erfarenhet och kunskap om enskilda v\u00e5rdtagares enskilda situation och upplevelse, f\u00f6r att ge en s\u00e5 god och effektiv v\u00e5rd som m\u00f6jligt. Kursen syftar vidare till att kunna reflektera \u00f6ver och f\u00f6rdjupa f\u00f6rst\u00e5elsen f\u00f6r v\u00e5rdtagarens situation vid oh\u00e4lsa och f\u00f6r dess n\u00e4rst\u00e5ende f\u00f6r att som sjuksk\u00f6terska kunna ge personcentrerad omv\u00e5rdnad.",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att f\u00f6ljande kurser \u00e4r avklarade: Grundl\u00e4ggande omv\u00e5rdnad 7,5 hp, Verksamhetsf\u00f6rlagd utbildning (VFU) M\u00e4nniskan och omv\u00e5rdnaden, 7,5 hp, Medicin II, 7,5 hp, Medicin III, 7,5 hp samt minst 12 hp avklarade fr\u00e5n kursen Omv\u00e5rdnad vid oh\u00e4lsa (15 hp).",
+      "start": "2020 vecka 11",
+      "end": "2020 vecka 17"
+    },
+    {
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20201&KtAnmKod=BUNDA&lang=sv&parentPtKod=OMGSP18h",
+      "name": "Verksamhetsf\u00f6rlagd utbildning (VFU) inriktad mot psykiatrisk omv\u00e5rdnad och demensv\u00e5rd (Termin 4)",
+      "city": "Karlskrona",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=OM1493&revision=3&lang=sv",
+      "speed": 100,
+      "location": "Campus",
+      "code": "OM1493",
+      "points": 10.5,
+      "languages": [
+        "Svenska"
+      ],
+      "teachers": [
+        "Boel Sandstr\u00f6m",
+        "Sandra Falksk\u00e4r"
+      ],
+      "description": "Syftet med kursen \u00e4r att den studerande skall till\u00e4gna sig f\u00f6rdjupade kunskaper inom psykiatrisk omv\u00e5rdnad och demensv\u00e5rd och integrera teoretisk och verksamhetsf\u00f6rlagd utbildning. Kursen syftar till att utifr\u00e5n evidensbaserad omv\u00e5rdnad, f\u00f6rena b\u00e4sta tillg\u00e4ngliga vetenskapliga kunskap med bepr\u00f6vad erfarenhet och kunskap om enskilda v\u00e5rdtagares enskilda situation och upplevelse, f\u00f6r att ge en s\u00e5 god och effektiv v\u00e5rd som m\u00f6jligt. Kursen syftar vidare till att kunna reflektera \u00f6ver och f\u00f6rdjupa f\u00f6rst\u00e5elsen f\u00f6r v\u00e5rdtagaren situation vid oh\u00e4lsa och f\u00f6r dess n\u00e4rst\u00e5ende f\u00f6r att som sjuksk\u00f6terska kunna ge personcentrerad omv\u00e5rdnad.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser Grundl\u00e4ggande omv\u00e5rdnad 7,5 hp, Verksamhetsf\u00f6rlagd utbildning (VFU) M\u00e4nniskan och omv\u00e5rdnaden, 7,5 hp, Medicin II, 7,5 hp, Medicin III, 7,5 hp samt minst 12 hp avklarade fr\u00e5n kursen Omv\u00e5rdnad vid oh\u00e4lsa, 15 hp.",
       "start": "2020 vecka 04",
       "end": "2020 vecka 10"
     },
@@ -670,7 +598,6 @@
       "name": "Verksamhetsf\u00f6rlagd utbildning (VFU) inriktad mot psykiatrisk omv\u00e5rdnad och demensv\u00e5rd, f\u00f6rdjupning",
       "city": "Karlskrona",
       "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=OM1496&revision=3&lang=sv",
-      "form": "Campus",
       "speed": 100,
       "location": "Campus",
       "code": "OM1496",
@@ -679,17 +606,60 @@
         "Svenska"
       ],
       "teachers": [
-        "Sandra Falksk\u00e4r",
+        "Boel Sandstr\u00f6m",
         "Terese Lindberg",
-        "Boel Sandstr\u00f6m"
+        "Sandra Falksk\u00e4r"
       ],
       "description": "Syftet med kursen \u00e4r att den studerande skall till\u00e4gna sig f\u00f6rdjupade kunskaper inom psykiatrisk omv\u00e5rdnad och demensv\u00e5rd och integrera teoretisk och verksamhetsf\u00f6rlagd utbildning. Kursen syftar till att utifr\u00e5n evidensbaserad omv\u00e5rdnad, f\u00f6rena b\u00e4sta tillg\u00e4ngliga vetenskapliga kunskap med bepr\u00f6vad erfarenhet och kunskap om enskilda v\u00e5rdtagares enskilda situation och upplevelse, f\u00f6r att ge en s\u00e5 god och effektiv v\u00e5rd som m\u00f6jligt. Kursen syftar vidare till att kunna reflektera \u00f6ver och f\u00f6rdjupa f\u00f6rst\u00e5elsen f\u00f6r v\u00e5rdtagarens situation vid oh\u00e4lsa och f\u00f6r dess n\u00e4rst\u00e5ende f\u00f6r att som sjuksk\u00f6terska kunna ge personcentrerad omv\u00e5rdnad.",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser Grundl\u00e4ggande omv\u00e5rdnad, 7,5 hp, Verksamhetsf\u00f6rlagd utbildning (VFU) M\u00e4nniskan och omv\u00e5rdnaden, 7,5 hp, Medicin II, 7,5 hp, Medicin III, 7,5 hp och minst 12 hp avklarade fr\u00e5n kursen Omv\u00e5rdnad vid oh\u00e4lsa, 15 hp samt genomg\u00e5ngen kurs i verksamhetsf\u00f6rlagd utbildning (VFU), 10,5 hp.",
       "start": "2020 vecka 11",
       "end": "2020 vecka 17"
+    },
+    {
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20201&KtAnmKod=BCYFK&lang=sv&parentPtKod=OMGSP18h",
+      "name": "Verksamhetsf\u00f6rlagd utbildning (VFU) inriktad mot prim\u00e4r v\u00e5rd (Termin 4)",
+      "city": "Karlskrona",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=OM1529&revision=2&lang=sv",
+      "speed": 100,
+      "location": "Campus",
+      "code": "OM1529",
+      "points": 10.5,
+      "languages": [
+        "Svenska"
+      ],
+      "teachers": [
+        "Christel Borg",
+        "Terese Lindberg",
+        "Anna Ax\u00e9n"
+      ],
+      "description": "Syftet med kursen \u00e4r att den studerande skall till\u00e4gna sig f\u00f6rdjupade kunskaper inom prim\u00e4r v\u00e5rd och integrera teoretisk och verksamhetsf\u00f6rlagd utbildning. Kursen syftar till att utifr\u00e5n evidensbaserad v\u00e5rd, f\u00f6rena b\u00e4sta tillg\u00e4ngliga vetenskapliga kunskap med bepr\u00f6vad erfarenhet och kunskap om enskilda v\u00e5rdtagares enskilda situation och upplevelse, f\u00f6r att ge en s\u00e5 god och effektiv v\u00e5rd som m\u00f6jligt. Kursen syftar vidare till att kunna reflektera \u00f6ver och f\u00f6rdjupa f\u00f6rst\u00e5elsen f\u00f6r v\u00e5rdtagarens situation vid oh\u00e4lsa och f\u00f6r dess n\u00e4rst\u00e5ende f\u00f6r att som sjuksk\u00f6terska kunna ge personcentrerad omv\u00e5rdnad.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att f\u00f6ljande kurser \u00e4r avklarade: Grundl\u00e4ggande omv\u00e5rdnad 7,5 hp, Verksamhetsf\u00f6rlagd utbildning (VFU) M\u00e4nniskan och omv\u00e5rdnaden, 7,5 hp, Medicin II, 7,5 hp, Medicin III, 7,5 hp samt minst 12 hp avklarade fr\u00e5n kursen Omv\u00e5rdnad vid oh\u00e4lsa (15 hp).",
+      "start": "2020 vecka 04",
+      "end": "2020 vecka 10"
+    },
+    {
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20192&KtAnmKod=BCQ7D&lang=sv&parentPtKod=OMGSP18h",
+      "name": "Verksamhetsf\u00f6rlagd utbildning (VFU) inriktad mot somatisk v\u00e5rd (Termin 3)",
+      "city": "Karlskrona",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=OM1490&revision=2&lang=sv",
+      "speed": 100,
+      "location": "Campus",
+      "code": "OM1490",
+      "points": 10.5,
+      "languages": [
+        "Svenska"
+      ],
+      "teachers": [
+        "Boel Sandstr\u00f6m",
+        "Agneta Lindvall"
+      ],
+      "description": "Syftet med kursen \u00e4r att den studerande skall till\u00e4gna sig f\u00f6rdjupade kunskaper inom somatisk v\u00e5rd och integrera teoretisk och verksamhetsf\u00f6rlagd utbildning. Kursen syftar till att utifr\u00e5n evidensbaserad v\u00e5rd, f\u00f6rena b\u00e4sta tillg\u00e4ngliga vetenskapliga kunskap med bepr\u00f6vad erfarenhet och kunskap om v\u00e5rdtagarens enskilda situation och upplevelse, f\u00f6r att ge en s\u00e5 god och effektiv v\u00e5rd som m\u00f6jligt. Kursen syftar vidare till att den studerande skall kunna reflektera \u00f6ver och f\u00f6rdjupa f\u00f6rst\u00e5elsen f\u00f6r v\u00e5rdtagarens situation vid oh\u00e4lsa och f\u00f6r dess n\u00e4rst\u00e5ende f\u00f6r att som sjuksk\u00f6terska kunna ge personcentrerad omv\u00e5rdnad.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att f\u00f6ljande kurser \u00e4r avklarade: Profession och omv\u00e5rdnad, 9 hp, Sjuksk\u00f6terskeprofessionen och samh\u00e4llet, 7,5 hp,  Verksamhetsf\u00f6rlagd utbildning (VFU) M\u00f6tet med m\u00e4nniskor, 6 hp, Medicin I, 7,5 hp, Grundl\u00e4ggande omv\u00e5rdnad, 7,5 hp och Verksamhetsf\u00f6rlagd utbildning (VFU) M\u00e4nniskan och omv\u00e5rdnaden, 7,5 hp.",
+      "start": "2019 vecka 48",
+      "end": "2020 vecka 03"
     }
   ],
   "start": "2018 vecka 35",
   "end": "2021 vecka 22",
-  "generated": "2023-01-21 11:58:33.805768"
+  "generated": "2023-01-21 17:29:43.508555"
 }

@@ -1,8 +1,7 @@
 {
   "name": "Technical artist i spel",
   "city": "Karlskrona",
-  "study_plan": "https://edu.bth.se/utbildningsplaner/UDGTA_ht-19.pdf",
-  "form": "Campus",
+  "study_plan": "https://edu.bth.se/utbildning//utbildningsplaner/UDGTA_ht-19.pdf",
   "speed": 100,
   "location": "Campus",
   "code": "UDGTA19h",
@@ -15,32 +14,10 @@
   "url": "https://www.bth.se/utbildning/program/digitala-medier-och-spelteknik/technical-artist-i-spel/",
   "required_courses": [
     {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20212&KtAnmKod=BFHAP&lang=sv&parentPtKod=UDGTA19h",
-      "name": "Konstruktion av spelteknikverktyg",
-      "city": "Karlskrona",
-      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=UD1447&revision=4&lang=sv",
-      "form": "Campus",
-      "speed": 50,
-      "location": "Campus",
-      "code": "UD1447",
-      "points": 7.5,
-      "languages": [
-        "Svenska"
-      ],
-      "teachers": [
-        "Diego Navarro"
-      ],
-      "description": "Syftet med kursen \u00e4r att studenten ska f\u00f6rv\u00e4rva kunskaper och f\u00e4rdigheter inom verktygskonstruktion f\u00f6r spelapplikationer. Arbetsprocessen mellan redigeringsprogram och spelapplikation kan underl\u00e4ttas med hj\u00e4lp av egendefinierade datakopplingar. Ett centralt moment inom spelutveckling \u00e4r d\u00e4rf\u00f6r att hantera och transformera inneh\u00e5llsdata, exempelvis 3D-modeller. Att g\u00f6ra det i realtid kr\u00e4ver f\u00f6rst\u00e5else f\u00f6r hur datakopplingar mellan applikationer kan l\u00f6sas.",
-      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att den studerande har avklarat Grunder i spelutveckling, 7,5 hp, Grunder i spelgrafik, 7,5 hp, Spelgrafik - anatomi, skissteknik och spelmilj\u00f6er, 15 hp, 3D-programmering, 15 hp, C++-programmering, 7,5 hp, Plug-in-konstruktion och skriptspr\u00e5k, 7,5 hp samt genomg\u00e5tt kursen Litet spelprojekt f\u00f6r Technical Artist, 15 hp.",
-      "start": "2021 vecka 35",
-      "end": "2021 vecka 43"
-    },
-    {
       "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20221&KtAnmKod=BPJKC&lang=sv&parentPtKod=UDGTA19h",
       "name": "Forskningsmetodik i spel- och programvaruteknik",
       "city": "Karlskrona",
-      "study_plan": "https://edu.bth.seutb_kursplan.asp?kurskod=DV2556&revisionsnr=6&format=pdf",
-      "form": "Campus",
+      "study_plan": "https://edu.bth.se/utbildning/utb_kursplan.asp?kurskod=DV2556&revisionsnr=6&format=pdf",
       "speed": 50,
       "location": "Campus",
       "code": "DV2556",
@@ -57,140 +34,33 @@
       "end": "2022 vecka 12"
     },
     {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20202&KtAnmKod=BMAGP&lang=sv&parentPtKod=UDGTA19h",
-      "name": "Matematik f\u00f6r Technical Artist",
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20201&KtAnmKod=BW4EA&lang=sv&parentPtKod=UDGTA19h",
+      "name": "Objektorienterad spelprogrammering i C++",
       "city": "Karlskrona",
-      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=MA1433&revision=8,1&lang=sv",
-      "form": "Campus",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=DV1595&revision=4&lang=sv",
       "speed": 50,
       "location": "Campus",
-      "code": "MA1433",
+      "code": "DV1595",
       "points": 7.5,
       "languages": [
         "Svenska"
       ],
       "teachers": [
-        "Thomas Sievert",
-        "Vanja Lindberg",
-        "Malin Bernelf"
+        "Stefan Petersson",
+        "Hans Tap",
+        "Betty Bergqvist",
+        "Mats-Ola Landbris"
       ],
-      "description": "Kursens syfte \u00e4r att introducera grundl\u00e4ggande matematiska begrepp och metoder inom analys, algebra och linj\u00e4r algebra f\u00f6r att ge en grund f\u00f6r fortsatta studier inom programmet.",
-      "requirements": "Kursens f\u00f6rkunskapskrav \u00e4r grundl\u00e4ggande beh\u00f6righet samt omr\u00e5desbeh\u00f6righet 7: Fysik A och Matematik B.",
-      "start": "2020 vecka 36",
-      "end": "2020 vecka 44"
-    },
-    {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20202&KtAnmKod=BKEYE&lang=sv&parentPtKod=UDGTA19h",
-      "name": "Digital skulptering och optimering",
-      "city": "Karlskrona",
-      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=UD1451&revision=2&lang=sv",
-      "form": "Campus",
-      "speed": 50,
-      "location": "Campus",
-      "code": "UD1451",
-      "points": 7.5,
-      "languages": [
-        "Svenska"
-      ],
-      "teachers": [
-        "Erik Wadstein"
-      ],
-      "description": "Kursen syftar till att studenten ska f\u00e5 en djupare f\u00f6rst\u00e5else inom digital skulptering, samt olika tillv\u00e4gag\u00e5ngss\u00e4tt att optimera spelgrafik f\u00f6r en industristandardiserad spelmotor. Studenten f\u00f6rv\u00e4ntas efter kursens slut ha b\u00e5de teoretisk och praktisk kunskap inom digital skulptering, samt kunna analysera och argumentera f\u00f6r olika tillv\u00e4gag\u00e5ngss\u00e4tt inom optimering f\u00f6r spelgrafik.",
-      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarad kurs Till\u00e4mpad spelgrafik, 15 hp.",
-      "start": "2020 vecka 36",
-      "end": "2020 vecka 44"
-    },
-    {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20201&KtAnmKod=BNK36&lang=sv&parentPtKod=UDGTA19h",
-      "name": "Plugin-konstruktion och skriptspr\u00e5k",
-      "city": "Karlskrona",
-      "study_plan": "https://edu.bth.seutb_kursplan.asp?kurskod=UD1444&revisionsnr=3&format=pdf",
-      "form": "Campus",
-      "speed": 50,
-      "location": "Campus",
-      "code": "UD1444",
-      "points": 7.5,
-      "languages": [
-        "Svenska"
-      ],
-      "teachers": [
-        "Martin Lillqvist",
-        "Christoffer Karlsson"
-      ],
-      "description": "Spelutveckling inneb\u00e4r skapande av m\u00e5nga objekt och parallella arbetsfl\u00f6den d\u00e4r speldata skickas mellan flera utvecklarroller. F\u00f6r att underl\u00e4tta processen b\u00f6r egenutvecklade skript, importerings- och exporteringsinsticksprogram, s\u00e5 kallade plugins, nyttjas. Kursens syfte \u00e4r att introducera studenten till att skapa egna skript och plugin, f\u00f6r grafikprogramvara.",
-      "requirements": "F\u00f6r tilltr\u00e4de kr\u00e4vs avklarad kurs Grunder i spelgrafik",
-      "start": "2020 vecka 14",
-      "end": "2020 vecka 23"
-    },
-    {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20211&KtAnmKod=BT7KP&lang=sv&parentPtKod=UDGTA19h",
-      "name": "Litet spelprojekt f\u00f6r Technical Artist",
-      "city": "Karlskrona",
-      "study_plan": "https://edu.bth.seutb_kursplan.asp?kurskod=UD1446&revisionsnr=4&format=pdf",
-      "form": "Campus",
-      "speed": 100,
-      "location": "Campus",
-      "code": "UD1446",
-      "points": 15.0,
-      "languages": [
-        "Svenska"
-      ],
-      "teachers": [
-        "Erik Wadstein"
-      ],
-      "description": "Kursen syftar till att, i mindre grupp, designa, implementera och dokumentera en sm\u00e5skalig spelid\u00e9. F\u00f6r att uppn\u00e5 detta beh\u00f6ver studenterna f\u00f6rst\u00e5 betydelsen av motiverad design samt kunna analysera konsekvenserna av olika designbeslut. Studenten ska, i rollen som Technical Artist, f\u00f6rv\u00e4rva kunskaper om hur inneh\u00e5llsdata kan hanteras samt hur arbetsprocessen mellan redigeringsprogram och spelmotor kan underl\u00e4ttas med hj\u00e4lp av egendefinierade dataformat. Ett centralt moment inom spelutveckling \u00e4r att hantera och transformera inneh\u00e5llsdata, exempelvis 3D-modeller och bildfiler.",
-      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att den studerande har avklarat Grunder i spelutveckling, 7,5 hp, Grunder i spelgrafik, 7,5 hp, laborationsuppgifterna i 3D-programmering, C++-programmering, 7,5 hp, Plug-in-konstruktion och skriptspr\u00e5k, 7,5 hp, Spelgrafik - anatomi, skissteknik och spelmilj\u00f6er, 15 hp, Spelprototyptillverkning, 7,5 hp, Digital skulptering och optimering, 7,5 hp.",
-      "start": "2021 vecka 13",
-      "end": "2021 vecka 22"
-    },
-    {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20192&KtAnmKod=BXKMD&lang=sv&parentPtKod=UDGTA19h",
-      "name": "Grunder i spelutveckling",
-      "city": "Karlskrona",
-      "study_plan": "https://edu.bth.seutb_kursplan.asp?kurskod=UD1445&revisionsnr=5&format=pdf",
-      "form": "Campus",
-      "speed": 50,
-      "location": "Campus",
-      "code": "UD1445",
-      "points": 7.5,
-      "languages": [
-        "Svenska"
-      ],
-      "teachers": [
-        "Christoffer Karlsson"
-      ],
-      "description": "Syftet med kursen \u00e4r att teoretiskt och praktiskt f\u00f6rv\u00e4rva kunskap om hur en spelid\u00e9 konceptualiseras och kan realiseras i ett spelutvecklingsprojekt.",
-      "requirements": "Grundl\u00e4ggande beh\u00f6righet",
-      "start": "2019 vecka 35",
-      "end": "2019 vecka 44"
-    },
-    {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20192&KtAnmKod=BGN4E&lang=sv&parentPtKod=UDGTA19h",
-      "name": "Grunder i spelgrafik",
-      "city": "Karlskrona",
-      "study_plan": "https://edu.bth.seutb_kursplan.asp?kurskod=UD1441&revisionsnr=3&format=pdf",
-      "form": "Campus",
-      "speed": 50,
-      "location": "Campus",
-      "code": "UD1441",
-      "points": 7.5,
-      "languages": [
-        "Svenska"
-      ],
-      "teachers": [
-        "Martin Lillqvist"
-      ],
-      "description": "Kursen syftar till att ge grundl\u00e4ggande kunskaper och erfarenheter, b\u00e5de teoretiska och praktiska, i skapandet av spelgrafik. Detta sker med hj\u00e4lp av 2D och 3D verktyg. Kursen ger \u00e4ven en inblick i spelmotorer som anv\u00e4nds i spelbranschen.",
-      "requirements": "Grundl\u00e4ggande beh\u00f6righet.",
-      "start": "2019 vecka 35",
-      "end": "2019 vecka 44"
+      "description": "F\u00f6rdjupa och bredda studentens kunskaper i programmeringsspr\u00e5ket C++.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngen spelprogrammeringskurs i C++ omfattande minst 6 hp.",
+      "start": "2020 vecka 04",
+      "end": "2020 vecka 13"
     },
     {
       "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20202&KtAnmKod=BNPXA&lang=sv&parentPtKod=UDGTA19h",
       "name": "3D-Programmering",
       "city": "Karlskrona",
-      "study_plan": "https://edu.bth.seutb_kursplan.asp?kurskod=DV1568&revisionsnr=4&format=pdf",
-      "form": "Campus",
+      "study_plan": "https://edu.bth.se/utbildning/utb_kursplan.asp?kurskod=DV1568&revisionsnr=4&format=pdf",
       "speed": 50,
       "location": "Campus",
       "code": "DV1568",
@@ -199,8 +69,8 @@
         "Svenska"
       ],
       "teachers": [
-        "Mattias  Liljeson",
         "mog",
+        "Mattias  Liljeson",
         "Joakim St\u00e5hle Nilsson"
       ],
       "description": "3D-programmering \u00e4r en av huvudbyggstenarna inom spelproduktion och utg\u00f6r en brygga mellan 3D-modellering och spelber\u00e4ttelse. Syftet med kursen \u00e4r att studenterna ska skaffa sig en \u00f6kad f\u00f6rst\u00e5else f\u00f6r 3D-grafik och 3D-programmering samt kunskap om de viktigaste begreppen i \u00e4mnet. Aktuella tekniker som bland annat anv\u00e4nds inom spelbranschen, introduceras och anv\u00e4nds i kursen. Teknikerna utg\u00f6r en bas f\u00f6r studenternas vidare kunskapsutveckling.",
@@ -212,8 +82,7 @@
       "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20212&KtAnmKod=B4N36&lang=sv&parentPtKod=UDGTA19h",
       "name": "Stort spelutvecklingsprojekt f\u00f6r Technical Artist",
       "city": "Karlskrona",
-      "study_plan": "https://edu.bth.seutb_kursplan.asp?kurskod=UD1448&revisionsnr=4&format=pdf",
-      "form": "Campus",
+      "study_plan": "https://edu.bth.se/utbildning/utb_kursplan.asp?kurskod=UD1448&revisionsnr=4&format=pdf",
       "speed": 75,
       "location": "Campus",
       "code": "UD1448",
@@ -233,8 +102,7 @@
       "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20201&KtAnmKod=BH9C6&lang=sv&parentPtKod=UDGTA19h",
       "name": "Spelprototyptillverkning",
       "city": "Karlskrona",
-      "study_plan": "https://edu.bth.seutb_kursplan.asp?kurskod=UD1443&revisionsnr=3&format=pdf",
-      "form": "Campus",
+      "study_plan": "https://edu.bth.se/utbildning/utb_kursplan.asp?kurskod=UD1443&revisionsnr=3&format=pdf",
       "speed": 50,
       "location": "Campus",
       "code": "UD1443",
@@ -252,35 +120,97 @@
       "end": "2020 vecka 23"
     },
     {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20201&KtAnmKod=BW4EA&lang=sv&parentPtKod=UDGTA19h",
-      "name": "Objektorienterad spelprogrammering i C++",
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20192&KtAnmKod=B7UYC&lang=sv&parentPtKod=UDGTA19h",
+      "name": "Spelprogrammering i C++",
       "city": "Karlskrona",
-      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=DV1595&revision=4&lang=sv",
-      "form": "Campus",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=DV1594&revision=2&lang=sv",
       "speed": 50,
       "location": "Campus",
-      "code": "DV1595",
+      "code": "DV1594",
+      "points": 7.5,
+      "languages": [
+        "Engelska"
+      ],
+      "teachers": [
+        "Carl S\u00f6yseth",
+        "Mats-Ola Landbris",
+        "Betty Bergqvist",
+        "Stefan Petersson",
+        "Christoffer Karlsson",
+        "Hans Tap"
+      ],
+      "description": "G\u00f6ra studenten v\u00e4l f\u00f6rtrogen med spr\u00e5kkonstruktioner i programmeringsspr\u00e5ket C++.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs grundl\u00e4ggande beh\u00f6righet samt Matematik 2.",
+      "start": "2019 vecka 45",
+      "end": "2020 vecka 03"
+    },
+    {
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20212&KtAnmKod=BFHAP&lang=sv&parentPtKod=UDGTA19h",
+      "name": "Konstruktion av spelteknikverktyg",
+      "city": "Karlskrona",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=UD1447&revision=4&lang=sv",
+      "speed": 50,
+      "location": "Campus",
+      "code": "UD1447",
       "points": 7.5,
       "languages": [
         "Svenska"
       ],
       "teachers": [
-        "Mats-Ola Landbris",
-        "Hans Tap",
-        "Betty Bergqvist",
-        "Stefan Petersson"
+        "Diego Navarro"
       ],
-      "description": "F\u00f6rdjupa och bredda studentens kunskaper i programmeringsspr\u00e5ket C++.",
-      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngen spelprogrammeringskurs i C++ omfattande minst 6 hp.",
-      "start": "2020 vecka 04",
-      "end": "2020 vecka 13"
+      "description": "Syftet med kursen \u00e4r att studenten ska f\u00f6rv\u00e4rva kunskaper och f\u00e4rdigheter inom verktygskonstruktion f\u00f6r spelapplikationer. Arbetsprocessen mellan redigeringsprogram och spelapplikation kan underl\u00e4ttas med hj\u00e4lp av egendefinierade datakopplingar. Ett centralt moment inom spelutveckling \u00e4r d\u00e4rf\u00f6r att hantera och transformera inneh\u00e5llsdata, exempelvis 3D-modeller. Att g\u00f6ra det i realtid kr\u00e4ver f\u00f6rst\u00e5else f\u00f6r hur datakopplingar mellan applikationer kan l\u00f6sas.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att den studerande har avklarat Grunder i spelutveckling, 7,5 hp, Grunder i spelgrafik, 7,5 hp, Spelgrafik - anatomi, skissteknik och spelmilj\u00f6er, 15 hp, 3D-programmering, 15 hp, C++-programmering, 7,5 hp, Plug-in-konstruktion och skriptspr\u00e5k, 7,5 hp samt genomg\u00e5tt kursen Litet spelprojekt f\u00f6r Technical Artist, 15 hp.",
+      "start": "2021 vecka 35",
+      "end": "2021 vecka 43"
+    },
+    {
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20221&KtAnmKod=B4KRP&lang=sv&parentPtKod=UDGTA19h",
+      "name": "Kandidatarbete i Utveckling av digitala spel",
+      "city": "Karlskrona",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=UD1449&revision=5&lang=sv",
+      "speed": 100,
+      "location": "Campus",
+      "code": "UD1449",
+      "points": 15.0,
+      "languages": [
+        "Svenska"
+      ],
+      "teachers": [
+        "Prashant Goswami",
+        "Valeria Garro",
+        "Veronica Sundstedt"
+      ],
+      "description": "Syftet med kandidatarbetet \u00e4r att studenten integrerar, f\u00f6rdjupar och vidareutvecklar sina kunskaper och f\u00e4rdigheter inom ett begr\u00e4nsat omr\u00e5de av det som behandlats inom tidigare genomf\u00f6rda kurser inom programmet. Detta inkluderar att sj\u00e4lvst\u00e4ndigt identifiera ett problem och formulera relevanta forskningsfr\u00e5gor inom utveckling av digitala spel. Syftet \u00e4r vidare att planera, genomf\u00f6ra och presentera ett vetenskapligt arbete p\u00e5 kandidatniv\u00e5 inom omr\u00e5det utveckling av digitala spel. Arbetet kan vara av utredande eller konstruktiv karakt\u00e4r och ska innefatta litteraturstudier och rapportskrivning. M\u00e5let f\u00f6r studenten \u00e4r att muntligen och skriftligen redovisa resultatet av arbetet samt kritiskt granska och opponera p\u00e5 ett annat kandidatarbete. Redovisningen ska uppfylla de krav och kriterier som g\u00e4ller f\u00f6r vetenskaplig text.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att den studerande har avklarat minst 110 hp inom n\u00e5got eller b\u00e5da huvudomr\u00e5dena Utveckling av digitala spel eller Datavetenskap. Av dessa ska minst 60hp vara inom huvudomr\u00e5det Utveckling av digitala spel. Dessutom m\u00e5ste studenten ha genomg\u00e5tt en kurs i forskningsmetodik om minst 7,5 hp.",
+      "start": "2022 vecka 13",
+      "end": "2022 vecka 22"
+    },
+    {
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20192&KtAnmKod=BXKMD&lang=sv&parentPtKod=UDGTA19h",
+      "name": "Grunder i spelutveckling",
+      "city": "Karlskrona",
+      "study_plan": "https://edu.bth.se/utbildning/utb_kursplan.asp?kurskod=UD1445&revisionsnr=5&format=pdf",
+      "speed": 50,
+      "location": "Campus",
+      "code": "UD1445",
+      "points": 7.5,
+      "languages": [
+        "Svenska"
+      ],
+      "teachers": [
+        "Christoffer Karlsson"
+      ],
+      "description": "Syftet med kursen \u00e4r att teoretiskt och praktiskt f\u00f6rv\u00e4rva kunskap om hur en spelid\u00e9 konceptualiseras och kan realiseras i ett spelutvecklingsprojekt.",
+      "requirements": "Grundl\u00e4ggande beh\u00f6righet",
+      "start": "2019 vecka 35",
+      "end": "2019 vecka 44"
     },
     {
       "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20192&KtAnmKod=BQEG6&lang=sv&parentPtKod=UDGTA19h",
       "name": "Till\u00e4mpad spelgrafik",
       "city": "Karlskrona",
       "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=UD1450&revision=2&lang=sv",
-      "form": "Campus",
       "speed": 50,
       "location": "Campus",
       "code": "UD1450",
@@ -298,34 +228,72 @@
       "end": "2020 vecka 03"
     },
     {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20221&KtAnmKod=B4KRP&lang=sv&parentPtKod=UDGTA19h",
-      "name": "Kandidatarbete i Utveckling av digitala spel",
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20211&KtAnmKod=BT7KP&lang=sv&parentPtKod=UDGTA19h",
+      "name": "Litet spelprojekt f\u00f6r Technical Artist",
       "city": "Karlskrona",
-      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=UD1449&revision=5&lang=sv",
-      "form": "Campus",
+      "study_plan": "https://edu.bth.se/utbildning/utb_kursplan.asp?kurskod=UD1446&revisionsnr=4&format=pdf",
       "speed": 100,
       "location": "Campus",
-      "code": "UD1449",
+      "code": "UD1446",
       "points": 15.0,
       "languages": [
         "Svenska"
       ],
       "teachers": [
-        "Veronica Sundstedt",
-        "Valeria Garro",
-        "Prashant Goswami"
+        "Erik Wadstein"
       ],
-      "description": "Syftet med kandidatarbetet \u00e4r att studenten integrerar, f\u00f6rdjupar och vidareutvecklar sina kunskaper och f\u00e4rdigheter inom ett begr\u00e4nsat omr\u00e5de av det som behandlats inom tidigare genomf\u00f6rda kurser inom programmet. Detta inkluderar att sj\u00e4lvst\u00e4ndigt identifiera ett problem och formulera relevanta forskningsfr\u00e5gor inom utveckling av digitala spel. Syftet \u00e4r vidare att planera, genomf\u00f6ra och presentera ett vetenskapligt arbete p\u00e5 kandidatniv\u00e5 inom omr\u00e5det utveckling av digitala spel. Arbetet kan vara av utredande eller konstruktiv karakt\u00e4r och ska innefatta litteraturstudier och rapportskrivning. M\u00e5let f\u00f6r studenten \u00e4r att muntligen och skriftligen redovisa resultatet av arbetet samt kritiskt granska och opponera p\u00e5 ett annat kandidatarbete. Redovisningen ska uppfylla de krav och kriterier som g\u00e4ller f\u00f6r vetenskaplig text.",
-      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att den studerande har avklarat minst 110 hp inom n\u00e5got eller b\u00e5da huvudomr\u00e5dena Utveckling av digitala spel eller Datavetenskap. Av dessa ska minst 60hp vara inom huvudomr\u00e5det Utveckling av digitala spel. Dessutom m\u00e5ste studenten ha genomg\u00e5tt en kurs i forskningsmetodik om minst 7,5 hp.",
-      "start": "2022 vecka 13",
-      "end": "2022 vecka 22"
+      "description": "Kursen syftar till att, i mindre grupp, designa, implementera och dokumentera en sm\u00e5skalig spelid\u00e9. F\u00f6r att uppn\u00e5 detta beh\u00f6ver studenterna f\u00f6rst\u00e5 betydelsen av motiverad design samt kunna analysera konsekvenserna av olika designbeslut. Studenten ska, i rollen som Technical Artist, f\u00f6rv\u00e4rva kunskaper om hur inneh\u00e5llsdata kan hanteras samt hur arbetsprocessen mellan redigeringsprogram och spelmotor kan underl\u00e4ttas med hj\u00e4lp av egendefinierade dataformat. Ett centralt moment inom spelutveckling \u00e4r att hantera och transformera inneh\u00e5llsdata, exempelvis 3D-modeller och bildfiler.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att den studerande har avklarat Grunder i spelutveckling, 7,5 hp, Grunder i spelgrafik, 7,5 hp, laborationsuppgifterna i 3D-programmering, C++-programmering, 7,5 hp, Plug-in-konstruktion och skriptspr\u00e5k, 7,5 hp, Spelgrafik - anatomi, skissteknik och spelmilj\u00f6er, 15 hp, Spelprototyptillverkning, 7,5 hp, Digital skulptering och optimering, 7,5 hp.",
+      "start": "2021 vecka 13",
+      "end": "2021 vecka 22"
+    },
+    {
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20192&KtAnmKod=BGN4E&lang=sv&parentPtKod=UDGTA19h",
+      "name": "Grunder i spelgrafik",
+      "city": "Karlskrona",
+      "study_plan": "https://edu.bth.se/utbildning/utb_kursplan.asp?kurskod=UD1441&revisionsnr=3&format=pdf",
+      "speed": 50,
+      "location": "Campus",
+      "code": "UD1441",
+      "points": 7.5,
+      "languages": [
+        "Svenska"
+      ],
+      "teachers": [
+        "Martin Lillqvist"
+      ],
+      "description": "Kursen syftar till att ge grundl\u00e4ggande kunskaper och erfarenheter, b\u00e5de teoretiska och praktiska, i skapandet av spelgrafik. Detta sker med hj\u00e4lp av 2D och 3D verktyg. Kursen ger \u00e4ven en inblick i spelmotorer som anv\u00e4nds i spelbranschen.",
+      "requirements": "Grundl\u00e4ggande beh\u00f6righet.",
+      "start": "2019 vecka 35",
+      "end": "2019 vecka 44"
+    },
+    {
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20202&KtAnmKod=BMAGP&lang=sv&parentPtKod=UDGTA19h",
+      "name": "Matematik f\u00f6r Technical Artist",
+      "city": "Karlskrona",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=MA1433&revision=8,1&lang=sv",
+      "speed": 50,
+      "location": "Campus",
+      "code": "MA1433",
+      "points": 7.5,
+      "languages": [
+        "Svenska"
+      ],
+      "teachers": [
+        "Malin Bernelf",
+        "Vanja Lindberg",
+        "Thomas Sievert"
+      ],
+      "description": "Kursens syfte \u00e4r att introducera grundl\u00e4ggande matematiska begrepp och metoder inom analys, algebra och linj\u00e4r algebra f\u00f6r att ge en grund f\u00f6r fortsatta studier inom programmet.",
+      "requirements": "Kursens f\u00f6rkunskapskrav \u00e4r grundl\u00e4ggande beh\u00f6righet samt omr\u00e5desbeh\u00f6righet 7: Fysik A och Matematik B.",
+      "start": "2020 vecka 36",
+      "end": "2020 vecka 44"
     },
     {
       "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20202&KtAnmKod=BY7GP&lang=sv&parentPtKod=UDGTA19h",
       "name": "Till\u00e4mpade animationstekniker",
       "city": "Karlskrona",
-      "study_plan": "https://edu.bth.seutb_kursplan.asp?kurskod=UD1439&revisionsnr=4&format=pdf",
-      "form": "Campus",
+      "study_plan": "https://edu.bth.se/utbildning/utb_kursplan.asp?kurskod=UD1439&revisionsnr=4&format=pdf",
       "speed": 50,
       "location": "Campus",
       "code": "UD1439",
@@ -342,34 +310,49 @@
       "end": "2021 vecka 02"
     },
     {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20192&KtAnmKod=B7UYC&lang=sv&parentPtKod=UDGTA19h",
-      "name": "Spelprogrammering i C++",
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20202&KtAnmKod=BKEYE&lang=sv&parentPtKod=UDGTA19h",
+      "name": "Digital skulptering och optimering",
       "city": "Karlskrona",
-      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=DV1594&revision=2&lang=sv",
-      "form": "Campus",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=UD1451&revision=2&lang=sv",
       "speed": 50,
       "location": "Campus",
-      "code": "DV1594",
+      "code": "UD1451",
       "points": 7.5,
       "languages": [
-        "Engelska"
+        "Svenska"
       ],
       "teachers": [
-        "Carl S\u00f6yseth",
-        "Christoffer Karlsson",
-        "Hans Tap",
-        "Mats-Ola Landbris",
-        "Stefan Petersson",
-        "Betty Bergqvist"
+        "Erik Wadstein"
       ],
-      "description": "G\u00f6ra studenten v\u00e4l f\u00f6rtrogen med spr\u00e5kkonstruktioner i programmeringsspr\u00e5ket C++.",
-      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs grundl\u00e4ggande beh\u00f6righet samt Matematik 2.",
-      "start": "2019 vecka 45",
-      "end": "2020 vecka 03"
+      "description": "Kursen syftar till att studenten ska f\u00e5 en djupare f\u00f6rst\u00e5else inom digital skulptering, samt olika tillv\u00e4gag\u00e5ngss\u00e4tt att optimera spelgrafik f\u00f6r en industristandardiserad spelmotor. Studenten f\u00f6rv\u00e4ntas efter kursens slut ha b\u00e5de teoretisk och praktisk kunskap inom digital skulptering, samt kunna analysera och argumentera f\u00f6r olika tillv\u00e4gag\u00e5ngss\u00e4tt inom optimering f\u00f6r spelgrafik.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarad kurs Till\u00e4mpad spelgrafik, 15 hp.",
+      "start": "2020 vecka 36",
+      "end": "2020 vecka 44"
+    },
+    {
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20201&KtAnmKod=BNK36&lang=sv&parentPtKod=UDGTA19h",
+      "name": "Plugin-konstruktion och skriptspr\u00e5k",
+      "city": "Karlskrona",
+      "study_plan": "https://edu.bth.se/utbildning/utb_kursplan.asp?kurskod=UD1444&revisionsnr=3&format=pdf",
+      "speed": 50,
+      "location": "Campus",
+      "code": "UD1444",
+      "points": 7.5,
+      "languages": [
+        "Svenska"
+      ],
+      "teachers": [
+        "Christoffer Karlsson",
+        "Martin Lillqvist"
+      ],
+      "description": "Spelutveckling inneb\u00e4r skapande av m\u00e5nga objekt och parallella arbetsfl\u00f6den d\u00e4r speldata skickas mellan flera utvecklarroller. F\u00f6r att underl\u00e4tta processen b\u00f6r egenutvecklade skript, importerings- och exporteringsinsticksprogram, s\u00e5 kallade plugins, nyttjas. Kursens syfte \u00e4r att introducera studenten till att skapa egna skript och plugin, f\u00f6r grafikprogramvara.",
+      "requirements": "F\u00f6r tilltr\u00e4de kr\u00e4vs avklarad kurs Grunder i spelgrafik",
+      "start": "2020 vecka 14",
+      "end": "2020 vecka 23"
     }
   ],
   "optional_courses": [],
   "start": "2019 vecka 35",
   "end": "2020 vecka 03",
-  "generated": "2023-01-21 12:00:13.919356"
+  "generated": "2023-01-21 17:31:30.395496"
 }

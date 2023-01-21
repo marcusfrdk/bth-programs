@@ -84,7 +84,7 @@ def get_study_plan(soup: BeautifulSoup, is_course: bool) -> str:
       raise ValueError()
     result = result.nextSibling.nextSibling.find("a")["href"]
     if "http" not in result:
-      result = EDU_ROOT_URL + "/" + result
+      result = EDU_BASE_URL + "/" + result
     return result
   except TypeError:
     log(f"Kunde inte spara kursplanen för {(get_course_code if is_course else get_program_code)(soup)}...")

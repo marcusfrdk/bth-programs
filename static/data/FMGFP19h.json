@@ -1,8 +1,7 @@
 {
   "name": "Fysisk planering",
   "city": "Karlskrona",
-  "study_plan": "https://edu.bth.se/utbildningsplaner/FMGFP_ht-19.pdf",
-  "form": "Campus",
+  "study_plan": "https://edu.bth.se/utbildning//utbildningsplaner/FMGFP_ht-19.pdf",
   "speed": 100,
   "location": "Campus",
   "code": "FMGFP19h",
@@ -15,137 +14,10 @@
   "url": "https://www.bth.se/utbildning/program/fysiskplanering/fysisk-planering/",
   "required_courses": [
     {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20201&KtAnmKod=B4CT6&lang=sv&parentPtKod=FMGFP19h",
-      "name": "Geografiska informationssystem",
-      "city": "Karlskrona",
-      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=FM1483&revision=1,1&lang=sv",
-      "form": "Campus",
-      "speed": 100,
-      "location": "Campus",
-      "code": "FM1483",
-      "points": 7.5,
-      "languages": [
-        "Svenska"
-      ],
-      "teachers": [
-        "Jimmie Anders\u00e9n"
-      ],
-      "description": "Kursens syfte \u00e4r att ge en \u00f6versikt n\u00e4r det g\u00e4ller grundl\u00e4ggande kartografiska begrepp och principer samt statistisk metod. Kursen ger kunskap om teknik f\u00f6r insamling, lagring, bearbetning, analys och presentation av geografisk information samt dess till\u00e4mpning inom fysisk planering.",
-      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs grundl\u00e4ggande beh\u00f6righet samt Matematik 3b alt 3c och Samh\u00e4llskunskap 1b alt 1a1 och 1a2 eller Matematik C och Samh\u00e4llskunskap A.",
-      "start": "2020 vecka 04",
-      "end": "2020 vecka 08"
-    },
-    {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20202&KtAnmKod=BU6E3&lang=sv&parentPtKod=FMGFP19h",
-      "name": "Naturresurser och landskap",
-      "city": "Karlskrona",
-      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=FM1485&revision=1&lang=sv",
-      "form": "Campus",
-      "speed": 100,
-      "location": "Campus",
-      "code": "FM1485",
-      "points": 15.0,
-      "languages": [
-        "Svenska"
-      ],
-      "teachers": [
-        "Christer Persson"
-      ],
-      "description": "Kursen syfte \u00e4r att introducera grundl\u00e4ggande kunskaper om naturresurser, samt ge en f\u00f6rst\u00e5else f\u00f6r hur m\u00e4nniskan anv\u00e4nt landskapet \u00f6ver tiden och hur planering av landskapet p\u00e5verkar denna utveckling. Vidare \u00e4r syftet att introducera och till\u00e4mpa metoder f\u00f6r kunskapsinsamling i en planeringsprocess, samt reflektera kring konsekvenser av f\u00f6r\u00e4ndringsf\u00f6rslag utifr\u00e5n olika landskapssyner.",
-      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser Introduktion till Fysisk planering, 15 hp, Rum 1, 7,5 hp samt Vetenskapsteorins grunder, 7,5 hp.",
-      "start": "2020 vecka 36",
-      "end": "2020 vecka 44"
-    },
-    {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20201&KtAnmKod=BF9G3&lang=sv&parentPtKod=FMGFP19h",
-      "name": "\u00d6versiktlig planering och detaljplanering",
-      "city": "Karlskrona",
-      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=FM1482&revision=1&lang=sv",
-      "form": "Campus",
-      "speed": 100,
-      "location": "Campus",
-      "code": "FM1482",
-      "points": 15.0,
-      "languages": [
-        "Svenska"
-      ],
-      "teachers": [
-        "Patric Karlsson"
-      ],
-      "description": "Kursens syfte \u00e4r att ge en helhetsbild av den kommunala planeringen, kopplad till PBL, inklusive genomf\u00f6randeprocesser och kommunal organisation. I kursen tr\u00e4nas att analysera och gestalta ett stadsomr\u00e5de med bost\u00e4der och andra funktioner. I den kursdel som fokuserar p\u00e5 detaljplanering framst\u00e4lls formella handlingar, b\u00e5de de skrivna delarna och en digital plankarta.",
-      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs grundl\u00e4ggande beh\u00f6righet samt Matematik 3b alt 3c och Samh\u00e4llskunskap 1b alt 1a1 och 1a2 eller Matematik C och Samh\u00e4llskunskap A.",
-      "start": "2020 vecka 14",
-      "end": "2020 vecka 23"
-    },
-    {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20192&KtAnmKod=BLH7T&lang=sv&parentPtKod=FMGFP19h",
-      "name": "Rum 1",
-      "city": "Karlskrona",
-      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=FM1481&revision=1&lang=sv",
-      "form": "Campus",
-      "speed": 100,
-      "location": "Campus",
-      "code": "FM1481",
-      "points": 7.5,
-      "languages": [
-        "Svenska"
-      ],
-      "teachers": [
-        "Per Haupt"
-      ],
-      "description": "Kursens syfte \u00e4r att introducera grundl\u00e4ggande begrepp och teorier n\u00e4r man arbetar med stads- och landskapsrum samt ge tr\u00e4ning i att anv\u00e4nda analys- och skissmetoder inom omr\u00e5det.",
-      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs grundl\u00e4ggande beh\u00f6righet samt Matematik 3b alt 3c och Samh\u00e4llskunskap 1b alt 1a1 och 1a2 eller Matematik C och Samh\u00e4llskunskap A.",
-      "start": "2019 vecka 45",
-      "end": "2019 vecka 49"
-    },
-    {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20202&KtAnmKod=B4DUA&lang=sv&parentPtKod=FMGFP19h",
-      "name": "Planeringsteori",
-      "city": "Karlskrona",
-      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=FM1486&revision=1&lang=sv",
-      "form": "Campus",
-      "speed": 100,
-      "location": "Campus",
-      "code": "FM1486",
-      "points": 7.5,
-      "languages": [
-        "Svenska"
-      ],
-      "teachers": [
-        "Jimmie Anders\u00e9n"
-      ],
-      "description": "Kursens syfte \u00e4r att introducera teoribildningar inom omr\u00e5dena urbana utvecklingsprocesser och planering. S\u00e4rskild uppm\u00e4rksamhet riktas mot att f\u00f6rst\u00e5 de bakomliggande drivkrafter som omvandlar samh\u00e4llet och i sin tur p\u00e5verkar hur samh\u00e4llet f\u00f6rs\u00f6ker styra med hj\u00e4lp av planering.",
-      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser Introduktion till Fysisk planering, 15 hp och Vetenskapsteorins grunder, 7,5 hp.",
-      "start": "2020 vecka 45",
-      "end": "2020 vecka 49"
-    },
-    {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20211&KtAnmKod=BAPEC&lang=sv&parentPtKod=FMGFP19h",
-      "name": "Rum 2",
-      "city": "Karlskrona",
-      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=FM1489&revision=1&lang=sv",
-      "form": "Campus",
-      "speed": 100,
-      "location": "Campus",
-      "code": "FM1489",
-      "points": 7.5,
-      "languages": [
-        "Svenska"
-      ],
-      "teachers": [
-        "Bertil Malmstr\u00f6m"
-      ],
-      "description": "Kursens syfte \u00e4r att ge f\u00f6rdjupad tr\u00e4ning i gestaltning av stads- och landskapsrum samt kunskap om de begrepp och teorier som anv\u00e4nds i dessa sammanhang. Vidare \u00e4r syftet att kunna genomf\u00f6ra avancerade analyser av stads- och landskapsrum samt kunna v\u00e4rdera och reflektera \u00f6ver effekterna av olika f\u00f6r\u00e4ndringar.",
-      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser Introduktion till Fysisk planering, 15 hp, Rum 1, 7,5 hp samt Vetenskapsteorins grunder, 7,5 hp.",
-      "start": "2021 vecka 08",
-      "end": "2021 vecka 12"
-    },
-    {
       "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20221&KtAnmKod=B974P&lang=sv&parentPtKod=FMGFP19h",
       "name": "Tematisk litteraturkurs",
       "city": "Karlskrona",
       "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=FM1493&revision=1&lang=sv",
-      "form": "Campus",
       "speed": 100,
       "location": "Campus",
       "code": "FM1493",
@@ -162,32 +34,30 @@
       "end": "2022 vecka 07"
     },
     {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20201&KtAnmKod=BJYYT&lang=sv&parentPtKod=FMGFP19h",
-      "name": "Vetenskapsteorins grunder",
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20212&KtAnmKod=BJDLD&lang=sv&parentPtKod=FMGFP19h",
+      "name": "Komplexa stadsbyggnadsprojekt",
       "city": "Karlskrona",
-      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=FM1484&revision=1&lang=sv",
-      "form": "Campus",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=FM1492&revision=1&lang=sv",
       "speed": 100,
       "location": "Campus",
-      "code": "FM1484",
-      "points": 7.5,
+      "code": "FM1492",
+      "points": 15.0,
       "languages": [
         "Svenska"
       ],
       "teachers": [
-        "Sabrina Fredin"
+        "mum"
       ],
-      "description": "Kursen syfte \u00e4r att ge en introduktion till vetenskapligt arbete och hur kunskap konstrueras och pr\u00f6vas s\u00e5v\u00e4l i vetenskapliga sammanhang som i praktiken. \u00d6vning ges i att  kritiskt granska olika anspr\u00e5k p\u00e5 vad som utg\u00f6r fakta och sanning. Vidare introduceras n\u00e5gra vetenskapliga metoder.",
-      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs grundl\u00e4ggande beh\u00f6righet samt Matematik 3b alt 3c och Samh\u00e4llskunskap 1b alt 1a1 och 1a2 eller Matematik C och Samh\u00e4llskunskap A.",
-      "start": "2020 vecka 09",
-      "end": "2020 vecka 13"
+      "description": "Kursens syfte \u00e4r att f\u00f6rdjupa kunskaperna inom omr\u00e5det stadsbyggnad. Fokus \u00e4r p\u00e5 f\u00f6rst\u00e5else av st\u00f6rre st\u00e4ders stadsbyggnadsproblem och f\u00f6r\u00e4ndringsprocesser. I kursen till\u00e4mpas f\u00f6rdjupade kunskaper n\u00e4r det g\u00e4ller platsanalys och gestaltning vid ett f\u00f6r\u00e4ndringsf\u00f6rslag i en komplex stadsmilj\u00f6.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser Introduktion till Fysisk planering, 15 hp samt Rum 1, 7,5 hp.",
+      "start": "2021 vecka 44",
+      "end": "2022 vecka 02"
     },
     {
       "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20202&KtAnmKod=B6GJE&lang=sv&parentPtKod=FMGFP19h",
       "name": "Planeringsekonomi och genomf\u00f6rande",
       "city": "Karlskrona",
       "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=FM1487&revision=1&lang=sv",
-      "form": "Campus",
       "speed": 100,
       "location": "Campus",
       "code": "FM1487",
@@ -204,53 +74,50 @@
       "end": "2021 vecka 02"
     },
     {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20192&KtAnmKod=BNMQC&lang=sv&parentPtKod=FMGFP19h",
-      "name": "Stadsbyggnadshistoria",
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20192&KtAnmKod=BLH7T&lang=sv&parentPtKod=FMGFP19h",
+      "name": "Rum 1",
       "city": "Karlskrona",
-      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=FM1480&revision=1&lang=sv",
-      "form": "Campus",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=FM1481&revision=1&lang=sv",
       "speed": 100,
       "location": "Campus",
-      "code": "FM1480",
+      "code": "FM1481",
       "points": 7.5,
       "languages": [
         "Svenska"
       ],
       "teachers": [
-        "Bertil Malmstr\u00f6m"
+        "Per Haupt"
       ],
-      "description": "Kursens syfte \u00e4r att ge en \u00f6versikt n\u00e4r det g\u00e4ller den historiska stadsutvecklingen samt att diskutera hur viktiga begrepp har anv\u00e4nts och hur olika syns\u00e4tt har pr\u00e4glat stadsplaneringen. Fokus ligger bland annat p\u00e5 att ge f\u00f6rst\u00e5else f\u00f6r hur naturf\u00f6rh\u00e5llanden och samh\u00e4llsutveckling har p\u00e5verkat st\u00e4derna och planeringen.",
+      "description": "Kursens syfte \u00e4r att introducera grundl\u00e4ggande begrepp och teorier n\u00e4r man arbetar med stads- och landskapsrum samt ge tr\u00e4ning i att anv\u00e4nda analys- och skissmetoder inom omr\u00e5det.",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs grundl\u00e4ggande beh\u00f6righet samt Matematik 3b alt 3c och Samh\u00e4llskunskap 1b alt 1a1 och 1a2 eller Matematik C och Samh\u00e4llskunskap A.",
-      "start": "2019 vecka 49",
-      "end": "2020 vecka 03"
+      "start": "2019 vecka 45",
+      "end": "2019 vecka 49"
     },
     {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20211&KtAnmKod=BL3XP&lang=sv&parentPtKod=FMGFP19h",
-      "name": "Plan- och milj\u00f6r\u00e4tt",
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20201&KtAnmKod=BF9G3&lang=sv&parentPtKod=FMGFP19h",
+      "name": "\u00d6versiktlig planering och detaljplanering",
       "city": "Karlskrona",
-      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=FM1488&revision=1&lang=sv",
-      "form": "Campus",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=FM1482&revision=1&lang=sv",
       "speed": 100,
       "location": "Campus",
-      "code": "FM1488",
-      "points": 7.5,
+      "code": "FM1482",
+      "points": 15.0,
       "languages": [
         "Svenska"
       ],
       "teachers": [
         "Patric Karlsson"
       ],
-      "description": "Kursens syfte \u00e4r att l\u00e4ra ut grunderna i plan- och bygglagstiftningen, med fokus p\u00e5 PBL, samt angr\u00e4nsande milj\u00f6lagstiftning, med fokus p\u00e5 Milj\u00f6balken. Grundl\u00e4ggande r\u00e4ttsprinciper och begrepp introduceras i kursen. En \u00f6versikt ges med avseende p\u00e5 hur de olika lagarna har utvecklats samt hur de till\u00e4mpas idag.",
-      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser Introduktion till Fysisk planering, 15 hp och \u00d6versiktlig planering och detaljplanering, 15 hp.",
-      "start": "2021 vecka 03",
-      "end": "2021 vecka 07"
+      "description": "Kursens syfte \u00e4r att ge en helhetsbild av den kommunala planeringen, kopplad till PBL, inklusive genomf\u00f6randeprocesser och kommunal organisation. I kursen tr\u00e4nas att analysera och gestalta ett stadsomr\u00e5de med bost\u00e4der och andra funktioner. I den kursdel som fokuserar p\u00e5 detaljplanering framst\u00e4lls formella handlingar, b\u00e5de de skrivna delarna och en digital plankarta.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs grundl\u00e4ggande beh\u00f6righet samt Matematik 3b alt 3c och Samh\u00e4llskunskap 1b alt 1a1 och 1a2 eller Matematik C och Samh\u00e4llskunskap A.",
+      "start": "2020 vecka 14",
+      "end": "2020 vecka 23"
     },
     {
       "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20192&KtAnmKod=BFYPC&lang=sv&parentPtKod=FMGFP19h",
       "name": "Introduktion till fysisk planering",
       "city": "Karlskrona",
       "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=FM1479&revision=1&lang=sv",
-      "form": "Campus",
       "speed": 100,
       "location": "Campus",
       "code": "FM1479",
@@ -271,7 +138,6 @@
       "name": "Infrastruktur och mobilitet",
       "city": "Karlskrona",
       "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=FM1490&revision=1&lang=sv",
-      "form": "Campus",
       "speed": 100,
       "location": "Campus",
       "code": "FM1490",
@@ -288,32 +154,150 @@
       "end": "2021 vecka 22"
     },
     {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20212&KtAnmKod=BJDLD&lang=sv&parentPtKod=FMGFP19h",
-      "name": "Komplexa stadsbyggnadsprojekt",
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20201&KtAnmKod=BJYYT&lang=sv&parentPtKod=FMGFP19h",
+      "name": "Vetenskapsteorins grunder",
       "city": "Karlskrona",
-      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=FM1492&revision=1&lang=sv",
-      "form": "Campus",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=FM1484&revision=1&lang=sv",
       "speed": 100,
       "location": "Campus",
-      "code": "FM1492",
+      "code": "FM1484",
+      "points": 7.5,
+      "languages": [
+        "Svenska"
+      ],
+      "teachers": [
+        "Sabrina Fredin"
+      ],
+      "description": "Kursen syfte \u00e4r att ge en introduktion till vetenskapligt arbete och hur kunskap konstrueras och pr\u00f6vas s\u00e5v\u00e4l i vetenskapliga sammanhang som i praktiken. \u00d6vning ges i att  kritiskt granska olika anspr\u00e5k p\u00e5 vad som utg\u00f6r fakta och sanning. Vidare introduceras n\u00e5gra vetenskapliga metoder.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs grundl\u00e4ggande beh\u00f6righet samt Matematik 3b alt 3c och Samh\u00e4llskunskap 1b alt 1a1 och 1a2 eller Matematik C och Samh\u00e4llskunskap A.",
+      "start": "2020 vecka 09",
+      "end": "2020 vecka 13"
+    },
+    {
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20201&KtAnmKod=B4CT6&lang=sv&parentPtKod=FMGFP19h",
+      "name": "Geografiska informationssystem",
+      "city": "Karlskrona",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=FM1483&revision=1,1&lang=sv",
+      "speed": 100,
+      "location": "Campus",
+      "code": "FM1483",
+      "points": 7.5,
+      "languages": [
+        "Svenska"
+      ],
+      "teachers": [
+        "Jimmie Anders\u00e9n"
+      ],
+      "description": "Kursens syfte \u00e4r att ge en \u00f6versikt n\u00e4r det g\u00e4ller grundl\u00e4ggande kartografiska begrepp och principer samt statistisk metod. Kursen ger kunskap om teknik f\u00f6r insamling, lagring, bearbetning, analys och presentation av geografisk information samt dess till\u00e4mpning inom fysisk planering.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs grundl\u00e4ggande beh\u00f6righet samt Matematik 3b alt 3c och Samh\u00e4llskunskap 1b alt 1a1 och 1a2 eller Matematik C och Samh\u00e4llskunskap A.",
+      "start": "2020 vecka 04",
+      "end": "2020 vecka 08"
+    },
+    {
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20192&KtAnmKod=BNMQC&lang=sv&parentPtKod=FMGFP19h",
+      "name": "Stadsbyggnadshistoria",
+      "city": "Karlskrona",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=FM1480&revision=1&lang=sv",
+      "speed": 100,
+      "location": "Campus",
+      "code": "FM1480",
+      "points": 7.5,
+      "languages": [
+        "Svenska"
+      ],
+      "teachers": [
+        "Bertil Malmstr\u00f6m"
+      ],
+      "description": "Kursens syfte \u00e4r att ge en \u00f6versikt n\u00e4r det g\u00e4ller den historiska stadsutvecklingen samt att diskutera hur viktiga begrepp har anv\u00e4nts och hur olika syns\u00e4tt har pr\u00e4glat stadsplaneringen. Fokus ligger bland annat p\u00e5 att ge f\u00f6rst\u00e5else f\u00f6r hur naturf\u00f6rh\u00e5llanden och samh\u00e4llsutveckling har p\u00e5verkat st\u00e4derna och planeringen.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs grundl\u00e4ggande beh\u00f6righet samt Matematik 3b alt 3c och Samh\u00e4llskunskap 1b alt 1a1 och 1a2 eller Matematik C och Samh\u00e4llskunskap A.",
+      "start": "2019 vecka 49",
+      "end": "2020 vecka 03"
+    },
+    {
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20211&KtAnmKod=BAPEC&lang=sv&parentPtKod=FMGFP19h",
+      "name": "Rum 2",
+      "city": "Karlskrona",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=FM1489&revision=1&lang=sv",
+      "speed": 100,
+      "location": "Campus",
+      "code": "FM1489",
+      "points": 7.5,
+      "languages": [
+        "Svenska"
+      ],
+      "teachers": [
+        "Bertil Malmstr\u00f6m"
+      ],
+      "description": "Kursens syfte \u00e4r att ge f\u00f6rdjupad tr\u00e4ning i gestaltning av stads- och landskapsrum samt kunskap om de begrepp och teorier som anv\u00e4nds i dessa sammanhang. Vidare \u00e4r syftet att kunna genomf\u00f6ra avancerade analyser av stads- och landskapsrum samt kunna v\u00e4rdera och reflektera \u00f6ver effekterna av olika f\u00f6r\u00e4ndringar.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser Introduktion till Fysisk planering, 15 hp, Rum 1, 7,5 hp samt Vetenskapsteorins grunder, 7,5 hp.",
+      "start": "2021 vecka 08",
+      "end": "2021 vecka 12"
+    },
+    {
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20211&KtAnmKod=BL3XP&lang=sv&parentPtKod=FMGFP19h",
+      "name": "Plan- och milj\u00f6r\u00e4tt",
+      "city": "Karlskrona",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=FM1488&revision=1&lang=sv",
+      "speed": 100,
+      "location": "Campus",
+      "code": "FM1488",
+      "points": 7.5,
+      "languages": [
+        "Svenska"
+      ],
+      "teachers": [
+        "Patric Karlsson"
+      ],
+      "description": "Kursens syfte \u00e4r att l\u00e4ra ut grunderna i plan- och bygglagstiftningen, med fokus p\u00e5 PBL, samt angr\u00e4nsande milj\u00f6lagstiftning, med fokus p\u00e5 Milj\u00f6balken. Grundl\u00e4ggande r\u00e4ttsprinciper och begrepp introduceras i kursen. En \u00f6versikt ges med avseende p\u00e5 hur de olika lagarna har utvecklats samt hur de till\u00e4mpas idag.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser Introduktion till Fysisk planering, 15 hp och \u00d6versiktlig planering och detaljplanering, 15 hp.",
+      "start": "2021 vecka 03",
+      "end": "2021 vecka 07"
+    },
+    {
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20202&KtAnmKod=B4DUA&lang=sv&parentPtKod=FMGFP19h",
+      "name": "Planeringsteori",
+      "city": "Karlskrona",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=FM1486&revision=1&lang=sv",
+      "speed": 100,
+      "location": "Campus",
+      "code": "FM1486",
+      "points": 7.5,
+      "languages": [
+        "Svenska"
+      ],
+      "teachers": [
+        "Jimmie Anders\u00e9n"
+      ],
+      "description": "Kursens syfte \u00e4r att introducera teoribildningar inom omr\u00e5dena urbana utvecklingsprocesser och planering. S\u00e4rskild uppm\u00e4rksamhet riktas mot att f\u00f6rst\u00e5 de bakomliggande drivkrafter som omvandlar samh\u00e4llet och i sin tur p\u00e5verkar hur samh\u00e4llet f\u00f6rs\u00f6ker styra med hj\u00e4lp av planering.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser Introduktion till Fysisk planering, 15 hp och Vetenskapsteorins grunder, 7,5 hp.",
+      "start": "2020 vecka 45",
+      "end": "2020 vecka 49"
+    },
+    {
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20202&KtAnmKod=BU6E3&lang=sv&parentPtKod=FMGFP19h",
+      "name": "Naturresurser och landskap",
+      "city": "Karlskrona",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=FM1485&revision=1&lang=sv",
+      "speed": 100,
+      "location": "Campus",
+      "code": "FM1485",
       "points": 15.0,
       "languages": [
         "Svenska"
       ],
       "teachers": [
-        "mum"
+        "Christer Persson"
       ],
-      "description": "Kursens syfte \u00e4r att f\u00f6rdjupa kunskaperna inom omr\u00e5det stadsbyggnad. Fokus \u00e4r p\u00e5 f\u00f6rst\u00e5else av st\u00f6rre st\u00e4ders stadsbyggnadsproblem och f\u00f6r\u00e4ndringsprocesser. I kursen till\u00e4mpas f\u00f6rdjupade kunskaper n\u00e4r det g\u00e4ller platsanalys och gestaltning vid ett f\u00f6r\u00e4ndringsf\u00f6rslag i en komplex stadsmilj\u00f6.",
-      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser Introduktion till Fysisk planering, 15 hp samt Rum 1, 7,5 hp.",
-      "start": "2021 vecka 44",
-      "end": "2022 vecka 02"
+      "description": "Kursen syfte \u00e4r att introducera grundl\u00e4ggande kunskaper om naturresurser, samt ge en f\u00f6rst\u00e5else f\u00f6r hur m\u00e4nniskan anv\u00e4nt landskapet \u00f6ver tiden och hur planering av landskapet p\u00e5verkar denna utveckling. Vidare \u00e4r syftet att introducera och till\u00e4mpa metoder f\u00f6r kunskapsinsamling i en planeringsprocess, samt reflektera kring konsekvenser av f\u00f6r\u00e4ndringsf\u00f6rslag utifr\u00e5n olika landskapssyner.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser Introduktion till Fysisk planering, 15 hp, Rum 1, 7,5 hp samt Vetenskapsteorins grunder, 7,5 hp.",
+      "start": "2020 vecka 36",
+      "end": "2020 vecka 44"
     },
     {
       "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20212&KtAnmKod=BNDP3&lang=sv&parentPtKod=FMGFP19h",
       "name": "Strategisk planering",
       "city": "Karlskrona",
       "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=FM1491&revision=1&lang=sv",
-      "form": "Campus",
       "speed": 100,
       "location": "Campus",
       "code": "FM1491",
@@ -336,7 +320,6 @@
       "name": "Kandidatarbete, planeringsprojekt",
       "city": "Karlskrona",
       "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=FM1497&revision=1&lang=sv",
-      "form": "Campus",
       "speed": 100,
       "location": "Campus",
       "code": "FM1497",
@@ -345,10 +328,31 @@
         "Svenska"
       ],
       "teachers": [
-        "mum",
-        "Bertil Malmstr\u00f6m"
+        "Bertil Malmstr\u00f6m",
+        "mum"
       ],
       "description": "Kursens syfte \u00e4r att studenten sj\u00e4lvst\u00e4ndigt ska kunna redovisa ett arbete som behandlar relevanta kunskaper och f\u00e4rdigheter inom \u00e4mnet fysisk planering. Planeringsprojektet skall vara en f\u00f6rdjupning inom \u00e4mnet och vila p\u00e5 vetenskaplig grund och bepr\u00f6vad praktik samt bidra till kunskapsutveckling inom \u00e4mnet fysisk planering.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser om minst 130 hp inom huvudomr\u00e5det Fysisk planering.",
+      "start": "2022 vecka 13",
+      "end": "2022 vecka 22"
+    },
+    {
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20221&KtAnmKod=BGDPC&lang=sv&parentPtKod=FMGFP19h",
+      "name": "Kandidatarbete, vetenskaplig uppsats",
+      "city": "Karlskrona",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=FM1496&revision=1&lang=sv",
+      "speed": 100,
+      "location": "Campus",
+      "code": "FM1496",
+      "points": 15.0,
+      "languages": [
+        "Svenska"
+      ],
+      "teachers": [
+        "Jimmie Anders\u00e9n",
+        "mum"
+      ],
+      "description": "Kursens syfte \u00e4r att studenten sj\u00e4lvst\u00e4ndigt ska kunna redovisa ett arbete som behandlar relevanta kunskaper och f\u00e4rdigheter inom \u00e4mnet fysisk planering. Uppsatsen ska vara en f\u00f6rdjupning inom \u00e4mnet och vila p\u00e5 vetenskaplig grund och bepr\u00f6vad praktik samt bidra till kunskapsutvecklingen inom \u00e4mnet fysisk planering.",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser om minst 130 hp inom huvudomr\u00e5det Fysisk planering.",
       "start": "2022 vecka 13",
       "end": "2022 vecka 22"
@@ -358,7 +362,6 @@
       "name": "Planeringens metoder",
       "city": "Karlskrona",
       "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=FM1495&revision=1&lang=sv",
-      "form": "Campus",
       "speed": 100,
       "location": "Campus",
       "code": "FM1495",
@@ -379,7 +382,6 @@
       "name": "Vetenskapliga metoder",
       "city": "Karlskrona",
       "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=FM1494&revision=1&lang=sv",
-      "form": "Campus",
       "speed": 100,
       "location": "Campus",
       "code": "FM1494",
@@ -394,31 +396,9 @@
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser Introduktion till Fysisk planering, 15 hp, Rum 1, 7,5 hp, Vetenskapsteorins grunder, 7,5 hp samt \u00d6versiktlig planering och detaljplanering, 15 hp.",
       "start": "2022 vecka 08",
       "end": "2022 vecka 12"
-    },
-    {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20221&KtAnmKod=BGDPC&lang=sv&parentPtKod=FMGFP19h",
-      "name": "Kandidatarbete, vetenskaplig uppsats",
-      "city": "Karlskrona",
-      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=FM1496&revision=1&lang=sv",
-      "form": "Campus",
-      "speed": 100,
-      "location": "Campus",
-      "code": "FM1496",
-      "points": 15.0,
-      "languages": [
-        "Svenska"
-      ],
-      "teachers": [
-        "Jimmie Anders\u00e9n",
-        "mum"
-      ],
-      "description": "Kursens syfte \u00e4r att studenten sj\u00e4lvst\u00e4ndigt ska kunna redovisa ett arbete som behandlar relevanta kunskaper och f\u00e4rdigheter inom \u00e4mnet fysisk planering. Uppsatsen ska vara en f\u00f6rdjupning inom \u00e4mnet och vila p\u00e5 vetenskaplig grund och bepr\u00f6vad praktik samt bidra till kunskapsutvecklingen inom \u00e4mnet fysisk planering.",
-      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser om minst 130 hp inom huvudomr\u00e5det Fysisk planering.",
-      "start": "2022 vecka 13",
-      "end": "2022 vecka 22"
     }
   ],
   "start": "2019 vecka 35",
   "end": "2020 vecka 03",
-  "generated": "2023-01-21 11:54:35.917257"
+  "generated": "2023-01-21 17:25:35.231926"
 }

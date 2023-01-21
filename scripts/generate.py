@@ -115,7 +115,7 @@ def init() -> None:
   if os.path.isdir(utils.data_path):
     if not utils.confirm("Data already exists, delete?"):
       utils.crash("Exiting...")
-  shutil.rmtree(utils.data_path)
+    shutil.rmtree(utils.data_path)
   os.makedirs(utils.data_path)
 
 def generate_index():

@@ -1,8 +1,7 @@
 {
   "name": "Civilingenj\u00f6r i industriell ekonomi",
   "city": "Karlskrona",
-  "study_plan": "https://edu.bth.se/utbildningsplaner/IEACI_ht-22.pdf",
-  "form": "Campus",
+  "study_plan": "https://edu.bth.se/utbildning//utbildningsplaner/IEACI_ht-22.pdf",
   "speed": 100,
   "location": "Campus",
   "code": "IEACI22h",
@@ -15,146 +14,28 @@
   "url": "https://www.bth.se/utbildning/program/ieaci20h/",
   "required_courses": [
     {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20242&KtAnmKod=BFPEU&lang=sv&parentPtKod=IEACI22h",
-      "name": "H\u00e5llfasthetsl\u00e4ra grundkurs",
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20252&KtAnmKod=BEDWG&lang=sv&parentPtKod=IEACI22h",
+      "name": "Produktionsekonomi",
       "city": "Karlskrona",
-      "study_plan": "https://edu.bth.seutb_kursplan.asp?kurskod=MT1506&revisionsnr=5&format=pdf",
-      "form": "Campus",
+      "study_plan": "https://edu.bth.se/utbildning/utb_kursplan.asp?kurskod=IY2595&revisionsnr=6&format=pdf",
       "speed": 50,
       "location": "Campus",
-      "code": "MT1506",
-      "points": 6.0,
-      "languages": [
-        "Svenska"
-      ],
-      "teachers": [],
-      "description": "Kursen ska ge en grundl\u00e4ggande kunskap och f\u00f6rst\u00e5else h\u00e5llfasthetsl\u00e4ra. Studenten ska kunna best\u00e4mma hur konstruktionen reagerar vid enklare belastningar, dvs. hur stora sp\u00e4nningar och deformationer konstruktionen f\u00e5r. Dessa kunskaper bidrar till att produktutvecklingsprocessen blir effektivare d\u00e5 ingenj\u00f6ren i ett tidigt skede kan svara p\u00e5 \u0094H\u00e5ller det?\u0094 och \u0094Hur stora blir deformationerna?\u0094",
-      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att 1,5 hp fr\u00e5n kursen Fysik grundkurs samt 1,5 hp fr\u00e5n kursen Analys 1 \u00e4r avklarade.",
-      "start": "2024 vecka 36",
-      "end": "2024 vecka 44"
-    },
-    {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20252&KtAnmKod=BMKRW&lang=sv&parentPtKod=IEACI22h",
-      "name": "F\u00f6retagsanalys",
-      "city": "Karlskrona",
-      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=IY2583&revision=3,1&lang=sv",
-      "form": "Campus",
-      "speed": 50,
-      "location": "Campus",
-      "code": "IY2583",
+      "code": "IY2595",
       "points": 7.5,
       "languages": [
         "Svenska"
       ],
       "teachers": [],
-      "description": "Kursens syfte \u00e4r f\u00f6rdjupa f\u00f6rst\u00e5elsen f\u00f6r olika metoder f\u00f6r f\u00f6retagsv\u00e4rdering samt hur olika v\u00e4rdeskapande variabler bidrar till ett f\u00f6retags tillv\u00e4xt och v\u00e4rde.",
-      "requirements": "Avklarade kurser i Grunderna i industriell ekonomi 6 hp, Mikroekonomi och strategi 6 hp och Finansiell ekonomi 6 hp.",
-      "start": "2025 vecka 45",
-      "end": "2026 vecka 03"
-    },
-    {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20241&KtAnmKod=BQ9XM&lang=sv&parentPtKod=IEACI22h",
-      "name": "Fysik f\u00f6r ingenj\u00f6rer 3",
-      "city": "Karlskrona",
-      "study_plan": "https://edu.bth.seutb_kursplan.asp?kurskod=FY1424&revisionsnr=6&format=pdf",
-      "form": "Campus",
-      "speed": 50,
-      "location": "Campus",
-      "code": "FY1424",
-      "points": 6.0,
-      "languages": [
-        "Svenska"
-      ],
-      "teachers": [],
-      "description": "Efter kursen ska studenten ha \u00f6kat sin f\u00f6rst\u00e5else f\u00f6r hur magnetiska och elektriska f\u00e4lt p\u00e5verkar laddningar samt \u00e4ven uppn\u00e5tt grundl\u00e4ggande f\u00f6rst\u00e5else f\u00f6r hur dessa f\u00e4lt p\u00e5verkar magnetiska och elektriska dipoler.",
-      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser Analys 2, 6 hp och Fysik f\u00f6r ingenj\u00f6rer 1, 4 hp, samt genomg\u00e5ngen kurs Fysik f\u00f6r ingenj\u00f6rer 2, 6 hp.",
-      "start": "2024 vecka 03",
-      "end": "2024 vecka 12"
-    },
-    {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20232&KtAnmKod=BHA4M&lang=sv&parentPtKod=IEACI22h",
-      "name": "Fysik f\u00f6r ingenj\u00f6rer 2",
-      "city": "Karlskrona",
-      "study_plan": "https://edu.bth.seutb_kursplan.asp?kurskod=FY1423&revisionsnr=5,1&format=pdf",
-      "form": "Campus",
-      "speed": 50,
-      "location": "Campus",
-      "code": "FY1423",
-      "points": 6.0,
-      "languages": [
-        "Svenska"
-      ],
-      "teachers": [],
-      "description": "Efter kursen ska studenterna ha f\u00f6rst\u00e5else f\u00f6r d\u00e4mpad och tvungen sv\u00e4ngning samt v\u00e5gnaturen hos ljud och ljus. Studenterna ska ocks\u00e5 kunna r\u00e4kna p\u00e5 effekter av ljudets och ljusets v\u00e5gnatur som interferens och dopplerskift. Vidare ska studenterna ha bekantat sig med k\u00e4rnfysikaliska effekter som spelar roll f\u00f6r samh\u00e4llet som fission, fusion och str\u00e5lning.",
-      "requirements": "Avklarade kurser: Analys 1, Fysik Grundkurs. Genomg\u00e5ngen kurs: Analys 2.",
-      "start": "2023 vecka 44",
-      "end": "2024 vecka 02"
-    },
-    {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20241&KtAnmKod=BW9NM&lang=sv&parentPtKod=IEACI22h",
-      "name": "Introduktion till databaser",
-      "city": "Karlskrona",
-      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=DV1664&revision=1&lang=sv",
-      "form": "Campus",
-      "speed": 50,
-      "location": "Campus",
-      "code": "DV1664",
-      "points": 6.0,
-      "languages": [
-        "Svenska"
-      ],
-      "teachers": [],
-      "description": "Syftet med kursen \u00e4r att studenten ska f\u00f6rst\u00e5 och l\u00e4ra sig modellera och implementera en databas.",
-      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att studenten har avklarat 6 hp i programmering.",
-      "start": "2024 vecka 13",
-      "end": "2024 vecka 22"
-    },
-    {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20222&KtAnmKod=BJYAL&lang=sv&parentPtKod=IEACI22h",
-      "name": "Till\u00e4mpad mikroekonomi och strategi",
-      "city": "Karlskrona",
-      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=IY1417&revision=6&lang=sv",
-      "form": "Campus",
-      "speed": 50,
-      "location": "Campus",
-      "code": "IY1417",
-      "points": 6.0,
-      "languages": [
-        "Svenska"
-      ],
-      "teachers": [
-        "Jonas M\u00e5nsson"
-      ],
-      "description": "Kursen syftar till att studenten ska f\u00e5 m\u00f6jlighet att till\u00e4gna sig f\u00f6rst\u00e5else f\u00f6r hur individer, beslutsfattare och f\u00f6retag kan anv\u00e4nda mikroekonomisk teori och metoder f\u00f6r att analysera och l\u00f6sa verklighetens marknadsfr\u00e5gor. Vidare analyseras hur dessa f\u00f6r\u00e4ndras beroende p\u00e5 hur antaganden och parametrar f\u00f6r\u00e4ndras.",
-      "requirements": "Grundl\u00e4ggande beh\u00f6righet.",
-      "start": "2022 vecka 44",
-      "end": "2023 vecka 02"
-    },
-    {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20251&KtAnmKod=BN6UX&lang=sv&parentPtKod=IEACI22h",
-      "name": "Tillverkningsteknik",
-      "city": "Karlskrona",
-      "study_plan": "https://edu.bth.seutb_kursplan.asp?kurskod=MT1462&revisionsnr=9&format=pdf",
-      "form": "Campus",
-      "speed": 50,
-      "location": "Campus",
-      "code": "MT1462",
-      "points": 6.0,
-      "languages": [
-        "Svenska"
-      ],
-      "teachers": [],
-      "description": "Tillverkningsteknik \u00e4r ett mycket brett begrepp och kursen koncentreras till att omfatta den mekaniska verkstadsindustrins metoder. Syftet \u00e4r att studenterna ska skaffa sig en tillverkningsteknisk allm\u00e4nbildning som en maskiningenj\u00f6r beh\u00f6ver f\u00f6r delta i produktutveckling.",
-      "requirements": "Grundl\u00e4ggande beh\u00f6righet",
-      "start": "2025 vecka 14",
-      "end": "2025 vecka 23"
+      "description": "Kursen syftar till att vidareutveckla f\u00f6rst\u00e5elsen mellan varufl\u00f6den inom och utom f\u00f6retaget och de resulterande ekonomiska fl\u00f6dena. Kursen behandlar \u00e4ven metoder och modeller f\u00f6r prognostisering och planering av varu- och penningfl\u00f6den.",
+      "requirements": "Avklarade kurser Introduktion till industriell ekonomi 6 hp, Mikroekonomi och strategi 6 hp eller motsvarande",
+      "start": "2025 vecka 36",
+      "end": "2025 vecka 44"
     },
     {
       "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20242&KtAnmKod=BJPPG&lang=sv&parentPtKod=IEACI22h",
       "name": "Ekonometri",
       "city": "Karlskrona",
-      "study_plan": "https://edu.bth.seutb_kursplan.asp?kurskod=IY1420&revisionsnr=6&format=pdf",
-      "form": "Campus",
+      "study_plan": "https://edu.bth.se/utbildning/utb_kursplan.asp?kurskod=IY1420&revisionsnr=6&format=pdf",
       "speed": 50,
       "location": "Campus",
       "code": "IY1420",
@@ -169,70 +50,10 @@
       "end": "2025 vecka 03"
     },
     {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20262&KtAnmKod=B44A4&lang=sv&parentPtKod=IEACI22h",
-      "name": "Ekonomisk analys av teknikskiften",
-      "city": "Karlskrona",
-      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=IY2586&revision=2&lang=sv",
-      "form": "Campus",
-      "speed": 50,
-      "location": "Campus",
-      "code": "IY2586",
-      "points": 7.5,
-      "languages": [
-        "Svenska"
-      ],
-      "teachers": [],
-      "description": "Kursen fokuserar dels p\u00e5 drivkrafterna f\u00f6r innovation och teknologisk utveckling i n\u00e4ringslivet, dels p\u00e5 hur nya teknologier och teknologisk f\u00f6r\u00e4ndring p\u00e5verkar konkurrensvillkor och strategi.",
-      "requirements": "Avklarade kurser i Mikroekonomi och strategi 6 hp, F\u00f6retag och organisation 6 hp och Industriell",
-      "start": "2026 vecka 36",
-      "end": "2026 vecka 44"
-    },
-    {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20232&KtAnmKod=BTEQR&lang=sv&parentPtKod=IEACI22h",
-      "name": "Flervariabelanalys",
-      "city": "Karlskrona",
-      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=MA1447&revision=11,1&lang=sv",
-      "form": "Campus",
-      "speed": 50,
-      "location": "Campus",
-      "code": "MA1447",
-      "points": 6.0,
-      "languages": [
-        "Svenska"
-      ],
-      "teachers": [],
-      "description": "Kursen syftar till att studenten skall skaffa sig grundl\u00e4ggande f\u00f6rst\u00e5else f\u00f6r matematisk analys i flera variabler med till\u00e4mpningar inom framf\u00f6r allt tekniska \u00e4mnesomr\u00e5den.",
-      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngna kurser Linj\u00e4r algebra 6 hp, Analys 6 hp och Analys 2 6 hp.",
-      "start": "2023 vecka 44",
-      "end": "2024 vecka 02"
-    },
-    {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20231&KtAnmKod=BWFX7&lang=sv&parentPtKod=IEACI22h",
-      "name": "Fysik grundkurs",
-      "city": "Karlskrona",
-      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=FY1431&revision=5&lang=sv",
-      "form": "Campus",
-      "speed": 50,
-      "location": "Campus",
-      "code": "FY1431",
-      "points": 6.0,
-      "languages": [
-        "Svenska"
-      ],
-      "teachers": [
-        "Per Gralvik"
-      ],
-      "description": "Kursens syfte \u00e4r att studenten ska skaffa sig grundl\u00e4ggande kunskaper i mekanik som en bas f\u00f6r fortsatta studier inom ingenj\u00f6rsvetenskap. Studenten tr\u00e4nar ingenj\u00f6rsm\u00e4ssigt modellt\u00e4nkande",
-      "requirements": "Grundl\u00e4ggande beh\u00f6righet samt Matematik 3c och Fysik 2.",
-      "start": "2023 vecka 03",
-      "end": "2023 vecka 12"
-    },
-    {
       "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20251&KtAnmKod=B3N9M&lang=sv&parentPtKod=IEACI22h",
       "name": "H\u00e5llbara energisystem - grundkurs",
       "city": "Karlskrona",
       "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=SL2542&revision=4,1&lang=sv",
-      "form": "Campus",
       "speed": 50,
       "location": "Campus",
       "code": "SL2542",
@@ -251,7 +72,6 @@
       "name": "Termodynamik",
       "city": "Karlskrona",
       "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=MT1540&revision=5&lang=sv",
-      "form": "Campus",
       "speed": 50,
       "location": "Campus",
       "code": "MT1540",
@@ -266,87 +86,156 @@
       "end": "2025 vecka 13"
     },
     {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20242&KtAnmKod=BRKHY&lang=sv&parentPtKod=IEACI22h",
-      "name": "Innovativ och h\u00e5llbar produktutveckling 1",
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20231&KtAnmKod=BWFX7&lang=sv&parentPtKod=IEACI22h",
+      "name": "Fysik grundkurs",
       "city": "Karlskrona",
-      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=MT1556&revision=1&lang=sv",
-      "form": "Campus",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=FY1431&revision=5&lang=sv",
       "speed": 50,
       "location": "Campus",
-      "code": "MT1556",
+      "code": "FY1431",
       "points": 6.0,
       "languages": [
         "Svenska"
       ],
-      "teachers": [],
-      "description": "Studenten l\u00e4r sig strategier och metoder f\u00f6r innovativ produktutveckling, projektledning och h\u00e5llbarhet i produktutveckling. Syftet med kursen \u00e4r ocks\u00e5 att st\u00f6dja studenten i att l\u00e4ra sig grundl\u00e4ggande verktyg f\u00f6r att analysera olika produktalternativ utifr\u00e5n anv\u00e4ndarens/kundens krav samt milj\u00f6krav.",
-      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs 75 avklarade h\u00f6gskolepo\u00e4ng fr\u00e5n ett ingenj\u00f6rsprogram inom maskinteknik eller industriell ekonomi inkluderande avklarad kurs H\u00e5llbarhetsgrunder, 6 hp.",
-      "start": "2024 vecka 36",
-      "end": "2024 vecka 44"
+      "teachers": [
+        "Per Gralvik"
+      ],
+      "description": "Kursens syfte \u00e4r att studenten ska skaffa sig grundl\u00e4ggande kunskaper i mekanik som en bas f\u00f6r fortsatta studier inom ingenj\u00f6rsvetenskap. Studenten tr\u00e4nar ingenj\u00f6rsm\u00e4ssigt modellt\u00e4nkande",
+      "requirements": "Grundl\u00e4ggande beh\u00f6righet samt Matematik 3c och Fysik 2.",
+      "start": "2023 vecka 03",
+      "end": "2023 vecka 12"
     },
     {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20241&KtAnmKod=BLDJ4&lang=sv&parentPtKod=IEACI22h",
-      "name": "Datorst\u00f6d f\u00f6r ingenj\u00f6rsarbete",
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20251&KtAnmKod=BN6UX&lang=sv&parentPtKod=IEACI22h",
+      "name": "Tillverkningsteknik",
       "city": "Karlskrona",
-      "study_plan": "https://edu.bth.seutb_kursplan.asp?kurskod=MT1463&revisionsnr=7&format=pdf",
-      "form": "Campus",
+      "study_plan": "https://edu.bth.se/utbildning/utb_kursplan.asp?kurskod=MT1462&revisionsnr=9&format=pdf",
       "speed": 50,
       "location": "Campus",
-      "code": "MT1463",
+      "code": "MT1462",
       "points": 6.0,
       "languages": [
         "Svenska"
       ],
       "teachers": [],
-      "description": "I kursen skaffar sig studenten kunskaper om hur datorbaserade system f\u00f6r konstruktionsarbete och produktutveckling anv\u00e4nds.",
+      "description": "Tillverkningsteknik \u00e4r ett mycket brett begrepp och kursen koncentreras till att omfatta den mekaniska verkstadsindustrins metoder. Syftet \u00e4r att studenterna ska skaffa sig en tillverkningsteknisk allm\u00e4nbildning som en maskiningenj\u00f6r beh\u00f6ver f\u00f6r delta i produktutveckling.",
       "requirements": "Grundl\u00e4ggande beh\u00f6righet",
-      "start": "2024 vecka 13",
-      "end": "2024 vecka 22"
+      "start": "2025 vecka 14",
+      "end": "2025 vecka 23"
     },
     {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20261&KtAnmKod=B7QWK&lang=sv&parentPtKod=IEACI22h",
-      "name": "Programvaruprojekt i team",
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20252&KtAnmKod=BMKRW&lang=sv&parentPtKod=IEACI22h",
+      "name": "F\u00f6retagsanalys",
       "city": "Karlskrona",
-      "study_plan": "https://edu.bth.seutb_kursplan.asp?kurskod=PA2539&revisionsnr=8&format=pdf",
-      "form": "Campus",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=IY2583&revision=3,1&lang=sv",
       "speed": 50,
       "location": "Campus",
-      "code": "PA2539",
-      "points": 15.0,
-      "languages": [
-        "Svenska"
-      ],
-      "teachers": [],
-      "description": "Kursen syftar till att ge kunskaper och erfarenhet av att utveckla programvara i team. Programvaruutvecklingen bedrivs i projektform d\u00e4r aktiviteter som till\u00e4mpas inom programvaruutvecklingen s\u00e5 som f\u00f6rstudiearbete, design och analys, arkitektur, konstruktion, test, leverans och m\u00e4tning av programvara kommer vara en del. Dessutom ing\u00e5r planering, organisation och uppf\u00f6ljning av programvaruprojekt i team omfattande \u00e5tagandekultur, projektorganisation, olika roller i projekt, projektplanering och uppf\u00f6ljning, testplanering och rapportering, leveransplanering, konfigurationshantering och dokumentation.",
-      "requirements": "Genomg\u00e5tt kursen Programvaruintensiv produktutveckling.",
-      "start": "2026 vecka 04",
-      "end": "2026 vecka 23"
-    },
-    {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20262&KtAnmKod=BCTAU&lang=sv&parentPtKod=IEACI22h",
-      "name": "Forskningsmetod och design",
-      "city": "Karlskrona",
-      "study_plan": "https://edu.bth.seutb_kursplan.asp?kurskod=IY2587&revisionsnr=6&format=pdf",
-      "form": "Campus",
-      "speed": 50,
-      "location": "Campus",
-      "code": "IY2587",
+      "code": "IY2583",
       "points": 7.5,
       "languages": [
         "Svenska"
       ],
       "teachers": [],
-      "description": "Syftet med kursen \u00e4r att ge studenter grundl\u00e4ggande kunskaper om vetenskapsteorier och forskningsmetodik f\u00f6r b\u00e5de kvalitativa och kvantitativa studier inom industriell ekonomi. I detta ing\u00e5r att formulera forskningsproblem, behandla urval och utformning av forskningsansats och design s\u00e5v\u00e4l som kritiskt kunna utv\u00e4rdera olika forskningsdesigner. Studenten ska, efter genomg\u00e5ngen kurs, ha f\u00f6rv\u00e4rvat kunskap om hur man genomf\u00f6r och rapporterar ett forskningsprojekt.",
-      "requirements": "Genomg\u00e5ngna kurser om 59 hp i industriell ekonomi och management.",
-      "start": "2026 vecka 45",
-      "end": "2027 vecka 02"
+      "description": "Kursens syfte \u00e4r f\u00f6rdjupa f\u00f6rst\u00e5elsen f\u00f6r olika metoder f\u00f6r f\u00f6retagsv\u00e4rdering samt hur olika v\u00e4rdeskapande variabler bidrar till ett f\u00f6retags tillv\u00e4xt och v\u00e4rde.",
+      "requirements": "Avklarade kurser i Grunderna i industriell ekonomi 6 hp, Mikroekonomi och strategi 6 hp och Finansiell ekonomi 6 hp.",
+      "start": "2025 vecka 45",
+      "end": "2026 vecka 03"
+    },
+    {
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20242&KtAnmKod=BHAEN&lang=sv&parentPtKod=IEACI22h",
+      "name": "Ledarskap och organisation i kunskapsintensiva milj\u00f6er",
+      "city": "Karlskrona",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=IY1428&revision=4&lang=sv",
+      "speed": 50,
+      "location": "Campus",
+      "code": "IY1428",
+      "points": 6.0,
+      "languages": [
+        "Svenska"
+      ],
+      "teachers": [],
+      "description": "Kursen syftar till att studenten ska utveckla bred kunskap om och f\u00f6rst\u00e5else av teoretiska grunder f\u00f6r olika typer av ledarskap/grupper i kunskapsintensiva milj\u00f6er p\u00e5 ett s\u00e4tt som m\u00f6jligg\u00f6r systematisk analys av eget ledarskap. Studenten skall speciellt utveckla f\u00f6rst\u00e5else och f\u00f6rm\u00e5ga att balansera en ledarskaps och entrepren\u00f6riell roll i relation till en operativ roll d\u00e4r teknik \u00e4r ett centralt element f\u00f6r organisationen. Efter avslutad kurs, \u00e4r studenten v\u00e4l rustad f\u00f6r att analysera och f\u00f6rst\u00e5 ledarskap i olika typer av situationer.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarad kurs Teknisk introduktionskurs med ingenj\u00f6rsmetodik, 8 hp eller Grunder i spelutveckling, 8 hp.",
+      "start": "2024 vecka 45",
+      "end": "2025 vecka 03"
+    },
+    {
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20232&KtAnmKod=BJCLH&lang=sv&parentPtKod=IEACI22h",
+      "name": "Grundkurs i h\u00e5llbar utveckling",
+      "city": "Karlskrona",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=SL1417&revision=1&lang=sv",
+      "speed": 25,
+      "location": "Campus",
+      "code": "SL1417",
+      "points": 6.0,
+      "languages": [
+        "Svenska"
+      ],
+      "teachers": [],
+      "description": "",
+      "requirements": "Grundl\u00e4ggande beh\u00f6righet",
+      "start": "2023 vecka 35",
+      "end": "2024 vecka 02"
+    },
+    {
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20241&KtAnmKod=BQ9XM&lang=sv&parentPtKod=IEACI22h",
+      "name": "Fysik f\u00f6r ingenj\u00f6rer 3",
+      "city": "Karlskrona",
+      "study_plan": "https://edu.bth.se/utbildning/utb_kursplan.asp?kurskod=FY1424&revisionsnr=6&format=pdf",
+      "speed": 50,
+      "location": "Campus",
+      "code": "FY1424",
+      "points": 6.0,
+      "languages": [
+        "Svenska"
+      ],
+      "teachers": [],
+      "description": "Efter kursen ska studenten ha \u00f6kat sin f\u00f6rst\u00e5else f\u00f6r hur magnetiska och elektriska f\u00e4lt p\u00e5verkar laddningar samt \u00e4ven uppn\u00e5tt grundl\u00e4ggande f\u00f6rst\u00e5else f\u00f6r hur dessa f\u00e4lt p\u00e5verkar magnetiska och elektriska dipoler.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser Analys 2, 6 hp och Fysik f\u00f6r ingenj\u00f6rer 1, 4 hp, samt genomg\u00e5ngen kurs Fysik f\u00f6r ingenj\u00f6rer 2, 6 hp.",
+      "start": "2024 vecka 03",
+      "end": "2024 vecka 12"
+    },
+    {
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20241&KtAnmKod=BJGLG&lang=sv&parentPtKod=IEACI22h",
+      "name": "Programvaruutveckling",
+      "city": "Karlskrona",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=PA1473&revision=2&lang=sv",
+      "speed": 50,
+      "location": "Campus",
+      "code": "PA1473",
+      "points": 6.0,
+      "languages": [
+        "Engelska"
+      ],
+      "teachers": [],
+      "description": "Kursens syfte \u00e4r att ge studenten grundl\u00e4ggande kunskap om hur utveckling av stora programvarusystem sker. Syftet \u00e4r \u00e4ven att ge studenten s\u00e5dan kunskap om utvecklingsprocessen, kravhantering, testning, projektplanering och projektuppf\u00f6ljning, att han/hon kan delta i planeringen av ett mindre projekt. Kursen syftar till teoretisk kunskapsinh\u00e4mtning och praktisk till\u00e4mpning.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngna 8 hp inom introduktion till ingenj\u00f6rsmetodik och genomg\u00e5ngna 6 hp inom programmering.",
+      "start": "2024 vecka 03",
+      "end": "2024 vecka 22"
+    },
+    {
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20242&KtAnmKod=BFPEU&lang=sv&parentPtKod=IEACI22h",
+      "name": "H\u00e5llfasthetsl\u00e4ra grundkurs",
+      "city": "Karlskrona",
+      "study_plan": "https://edu.bth.se/utbildning/utb_kursplan.asp?kurskod=MT1506&revisionsnr=5&format=pdf",
+      "speed": 50,
+      "location": "Campus",
+      "code": "MT1506",
+      "points": 6.0,
+      "languages": [
+        "Svenska"
+      ],
+      "teachers": [],
+      "description": "Kursen ska ge en grundl\u00e4ggande kunskap och f\u00f6rst\u00e5else h\u00e5llfasthetsl\u00e4ra. Studenten ska kunna best\u00e4mma hur konstruktionen reagerar vid enklare belastningar, dvs. hur stora sp\u00e4nningar och deformationer konstruktionen f\u00e5r. Dessa kunskaper bidrar till att produktutvecklingsprocessen blir effektivare d\u00e5 ingenj\u00f6ren i ett tidigt skede kan svara p\u00e5 \u0094H\u00e5ller det?\u0094 och \u0094Hur stora blir deformationerna?\u0094",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att 1,5 hp fr\u00e5n kursen Fysik grundkurs samt 1,5 hp fr\u00e5n kursen Analys 1 \u00e4r avklarade.",
+      "start": "2024 vecka 36",
+      "end": "2024 vecka 44"
     },
     {
       "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20231&KtAnmKod=BKYDH&lang=sv&parentPtKod=IEACI22h",
       "name": "Analys 2",
       "city": "Karlskrona",
       "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=MA1494&revision=1&lang=sv",
-      "form": "Campus",
       "speed": 50,
       "location": "Campus",
       "code": "MA1494",
@@ -364,125 +253,82 @@
       "end": "2023 vecka 22"
     },
     {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20241&KtAnmKod=B3FFR&lang=sv&parentPtKod=IEACI22h",
-      "name": "Industriell marknadsf\u00f6ring - teori och praktik",
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20242&KtAnmKod=BRKHY&lang=sv&parentPtKod=IEACI22h",
+      "name": "Innovativ och h\u00e5llbar produktutveckling 1",
       "city": "Karlskrona",
-      "study_plan": "https://edu.bth.seutb_kursplan.asp?kurskod=IY1419&revisionsnr=8&format=pdf",
-      "form": "Campus",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=MT1556&revision=1&lang=sv",
       "speed": 50,
       "location": "Campus",
-      "code": "IY1419",
+      "code": "MT1556",
       "points": 6.0,
       "languages": [
         "Svenska"
       ],
       "teachers": [],
-      "description": "Kursens syfte \u00e4r att den studerande skall utveckla kunskaper i teorier och metoder f\u00f6r industriell marknadsf\u00f6ring och dess koppling till strategi f\u00f6r olika typer av produkter och tj\u00e4nster f\u00f6r olika typer av marknader.",
-      "requirements": "Grundl\u00e4ggande beh\u00f6righet samt genomg\u00e5ngen kurs i Mikroekonomi och strategi 6 hp.",
-      "start": "2024 vecka 03",
-      "end": "2024 vecka 12"
-    },
-    {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20242&KtAnmKod=BFMLU&lang=sv&parentPtKod=IEACI22h",
-      "name": "Matematisk statistik",
-      "city": "Karlskrona",
-      "study_plan": "https://edu.bth.seutb_kursplan.asp?kurskod=MS1405&revisionsnr=8&format=pdf",
-      "form": "Campus",
-      "speed": 50,
-      "location": "Campus",
-      "code": "MS1405",
-      "points": 6.0,
-      "languages": [
-        "Svenska"
-      ],
-      "teachers": [],
-      "description": "Kursens syfte \u00e4r att studenterna skall skaffa sig kunskaper i s\u00e5v\u00e4l sannolikhetsteori som statistisk teori och metodik. Tonvikten ligger p\u00e5 sannolikhetsteori med tekniska till\u00e4mpningar som grund f\u00f6r fortsatta studier i tekniska \u00e4mnen, t.ex. tillf\u00f6rlitlighetsteknik, signalbehandling och telekommunikation samt \u00e4ven ekonomi.",
-      "requirements": "Genomg\u00e5ngna kurser i Analys 12 hp samt Linj\u00e4r algebra 6 hp (eller motsvarande).",
+      "description": "Studenten l\u00e4r sig strategier och metoder f\u00f6r innovativ produktutveckling, projektledning och h\u00e5llbarhet i produktutveckling. Syftet med kursen \u00e4r ocks\u00e5 att st\u00f6dja studenten i att l\u00e4ra sig grundl\u00e4ggande verktyg f\u00f6r att analysera olika produktalternativ utifr\u00e5n anv\u00e4ndarens/kundens krav samt milj\u00f6krav.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs 75 avklarade h\u00f6gskolepo\u00e4ng fr\u00e5n ett ingenj\u00f6rsprogram inom maskinteknik eller industriell ekonomi inkluderande avklarad kurs H\u00e5llbarhetsgrunder, 6 hp.",
       "start": "2024 vecka 36",
       "end": "2024 vecka 44"
     },
     {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20232&KtAnmKod=BU37X&lang=sv&parentPtKod=IEACI22h",
-      "name": "Diskret matematik",
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20232&KtAnmKod=BHA4M&lang=sv&parentPtKod=IEACI22h",
+      "name": "Fysik f\u00f6r ingenj\u00f6rer 2",
       "city": "Karlskrona",
-      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=MA1446&revision=13&lang=sv",
-      "form": "Campus",
+      "study_plan": "https://edu.bth.se/utbildning/utb_kursplan.asp?kurskod=FY1423&revisionsnr=5,1&format=pdf",
       "speed": 50,
       "location": "Campus",
-      "code": "MA1446",
+      "code": "FY1423",
       "points": 6.0,
       "languages": [
         "Svenska"
       ],
       "teachers": [],
-      "description": "Kursens syfte \u00e4r att ge en introduktion till matematiska begrepp, metoder och problemst\u00e4llningar inom diskret matematik. Den diskreta matematiken utg\u00f6r en viktig bas f\u00f6r studier inom datavetenskap och m\u00e5nga digitala till\u00e4mpningsomr\u00e5den.",
-      "requirements": "Genomg\u00e5ngna kurser Matematik, grundkurs, 4 hp alternativt Matematisk probleml\u00f6sning, 4 hp och Linj\u00e4r algebra 1, 6 hp eller motsvarande.",
-      "start": "2023 vecka 35",
-      "end": "2023 vecka 43"
-    },
-    {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20232&KtAnmKod=BJCLH&lang=sv&parentPtKod=IEACI22h",
-      "name": "Grundkurs i h\u00e5llbar utveckling",
-      "city": "Karlskrona",
-      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=SL1417&revision=1&lang=sv",
-      "form": "Campus",
-      "speed": 25,
-      "location": "Campus",
-      "code": "SL1417",
-      "points": 6.0,
-      "languages": [
-        "Svenska"
-      ],
-      "teachers": [],
-      "description": "",
-      "requirements": "Grundl\u00e4ggande beh\u00f6righet",
-      "start": "2023 vecka 35",
+      "description": "Efter kursen ska studenterna ha f\u00f6rst\u00e5else f\u00f6r d\u00e4mpad och tvungen sv\u00e4ngning samt v\u00e5gnaturen hos ljud och ljus. Studenterna ska ocks\u00e5 kunna r\u00e4kna p\u00e5 effekter av ljudets och ljusets v\u00e5gnatur som interferens och dopplerskift. Vidare ska studenterna ha bekantat sig med k\u00e4rnfysikaliska effekter som spelar roll f\u00f6r samh\u00e4llet som fission, fusion och str\u00e5lning.",
+      "requirements": "Avklarade kurser: Analys 1, Fysik Grundkurs. Genomg\u00e5ngen kurs: Analys 2.",
+      "start": "2023 vecka 44",
       "end": "2024 vecka 02"
     },
     {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20261&KtAnmKod=BQMTN&lang=sv&parentPtKod=IEACI22h",
-      "name": "Finansiell modellering",
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20232&KtAnmKod=BTEQR&lang=sv&parentPtKod=IEACI22h",
+      "name": "Flervariabelanalys",
       "city": "Karlskrona",
-      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=IY2606&revision=5&lang=sv",
-      "form": "Campus",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=MA1447&revision=11,1&lang=sv",
       "speed": 50,
       "location": "Campus",
-      "code": "IY2606",
-      "points": 7.5,
+      "code": "MA1447",
+      "points": 6.0,
       "languages": [
-        "Engelska"
+        "Svenska"
       ],
       "teachers": [],
-      "description": "Denna kurs f\u00f6rdjupar analysen om hur ekonomisk risk kan hanteras med hj\u00e4lp av finansiella derivat och reala optioner samt med hj\u00e4lp av portf\u00f6ljvalsteori. Kursen vidareutvecklar f\u00f6rst\u00e5elsen f\u00f6r hur kapitalmarknader fungerar och relationen mellan kapitalmarknader och f\u00f6retag i ekonomiskt v\u00e4rdeskapande.",
-      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarad kurs Finansiell ekonomi, 6 hp.",
-      "start": "2026 vecka 04",
-      "end": "2026 vecka 13"
+      "description": "Kursen syftar till att studenten skall skaffa sig grundl\u00e4ggande f\u00f6rst\u00e5else f\u00f6r matematisk analys i flera variabler med till\u00e4mpningar inom framf\u00f6r allt tekniska \u00e4mnesomr\u00e5den.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngna kurser Linj\u00e4r algebra 6 hp, Analys 6 hp och Analys 2 6 hp.",
+      "start": "2023 vecka 44",
+      "end": "2024 vecka 02"
     },
     {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20252&KtAnmKod=BEDWG&lang=sv&parentPtKod=IEACI22h",
-      "name": "Produktionsekonomi",
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20262&KtAnmKod=BCTAU&lang=sv&parentPtKod=IEACI22h",
+      "name": "Forskningsmetod och design",
       "city": "Karlskrona",
-      "study_plan": "https://edu.bth.seutb_kursplan.asp?kurskod=IY2595&revisionsnr=6&format=pdf",
-      "form": "Campus",
+      "study_plan": "https://edu.bth.se/utbildning/utb_kursplan.asp?kurskod=IY2587&revisionsnr=6&format=pdf",
       "speed": 50,
       "location": "Campus",
-      "code": "IY2595",
+      "code": "IY2587",
       "points": 7.5,
       "languages": [
         "Svenska"
       ],
       "teachers": [],
-      "description": "Kursen syftar till att vidareutveckla f\u00f6rst\u00e5elsen mellan varufl\u00f6den inom och utom f\u00f6retaget och de resulterande ekonomiska fl\u00f6dena. Kursen behandlar \u00e4ven metoder och modeller f\u00f6r prognostisering och planering av varu- och penningfl\u00f6den.",
-      "requirements": "Avklarade kurser Introduktion till industriell ekonomi 6 hp, Mikroekonomi och strategi 6 hp eller motsvarande",
-      "start": "2025 vecka 36",
-      "end": "2025 vecka 44"
+      "description": "Syftet med kursen \u00e4r att ge studenter grundl\u00e4ggande kunskaper om vetenskapsteorier och forskningsmetodik f\u00f6r b\u00e5de kvalitativa och kvantitativa studier inom industriell ekonomi. I detta ing\u00e5r att formulera forskningsproblem, behandla urval och utformning av forskningsansats och design s\u00e5v\u00e4l som kritiskt kunna utv\u00e4rdera olika forskningsdesigner. Studenten ska, efter genomg\u00e5ngen kurs, ha f\u00f6rv\u00e4rvat kunskap om hur man genomf\u00f6r och rapporterar ett forskningsprojekt.",
+      "requirements": "Genomg\u00e5ngna kurser om 59 hp i industriell ekonomi och management.",
+      "start": "2026 vecka 45",
+      "end": "2027 vecka 02"
     },
     {
       "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20251&KtAnmKod=BJ377&lang=sv&parentPtKod=IEACI22h",
       "name": "Materiall\u00e4ra",
       "city": "Karlskrona",
       "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=MT1544&revision=4&lang=sv",
-      "form": "Campus",
       "speed": 50,
       "location": "Campus",
       "code": "MT1544",
@@ -497,22 +343,93 @@
       "end": "2025 vecka 13"
     },
     {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20241&KtAnmKod=BJGLG&lang=sv&parentPtKod=IEACI22h",
-      "name": "Programvaruutveckling",
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20262&KtAnmKod=B44A4&lang=sv&parentPtKod=IEACI22h",
+      "name": "Ekonomisk analys av teknikskiften",
       "city": "Karlskrona",
-      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=PA1473&revision=2&lang=sv",
-      "form": "Campus",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=IY2586&revision=2&lang=sv",
       "speed": 50,
       "location": "Campus",
-      "code": "PA1473",
-      "points": 6.0,
+      "code": "IY2586",
+      "points": 7.5,
       "languages": [
-        "Engelska"
+        "Svenska"
       ],
       "teachers": [],
-      "description": "Kursens syfte \u00e4r att ge studenten grundl\u00e4ggande kunskap om hur utveckling av stora programvarusystem sker. Syftet \u00e4r \u00e4ven att ge studenten s\u00e5dan kunskap om utvecklingsprocessen, kravhantering, testning, projektplanering och projektuppf\u00f6ljning, att han/hon kan delta i planeringen av ett mindre projekt. Kursen syftar till teoretisk kunskapsinh\u00e4mtning och praktisk till\u00e4mpning.",
-      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngna 8 hp inom introduktion till ingenj\u00f6rsmetodik och genomg\u00e5ngna 6 hp inom programmering.",
+      "description": "Kursen fokuserar dels p\u00e5 drivkrafterna f\u00f6r innovation och teknologisk utveckling i n\u00e4ringslivet, dels p\u00e5 hur nya teknologier och teknologisk f\u00f6r\u00e4ndring p\u00e5verkar konkurrensvillkor och strategi.",
+      "requirements": "Avklarade kurser i Mikroekonomi och strategi 6 hp, F\u00f6retag och organisation 6 hp och Industriell",
+      "start": "2026 vecka 36",
+      "end": "2026 vecka 44"
+    },
+    {
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20241&KtAnmKod=BW9NM&lang=sv&parentPtKod=IEACI22h",
+      "name": "Introduktion till databaser",
+      "city": "Karlskrona",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=DV1664&revision=1&lang=sv",
+      "speed": 50,
+      "location": "Campus",
+      "code": "DV1664",
+      "points": 6.0,
+      "languages": [
+        "Svenska"
+      ],
+      "teachers": [],
+      "description": "Syftet med kursen \u00e4r att studenten ska f\u00f6rst\u00e5 och l\u00e4ra sig modellera och implementera en databas.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att studenten har avklarat 6 hp i programmering.",
+      "start": "2024 vecka 13",
+      "end": "2024 vecka 22"
+    },
+    {
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20261&KtAnmKod=B7QWK&lang=sv&parentPtKod=IEACI22h",
+      "name": "Programvaruprojekt i team",
+      "city": "Karlskrona",
+      "study_plan": "https://edu.bth.se/utbildning/utb_kursplan.asp?kurskod=PA2539&revisionsnr=8&format=pdf",
+      "speed": 50,
+      "location": "Campus",
+      "code": "PA2539",
+      "points": 15.0,
+      "languages": [
+        "Svenska"
+      ],
+      "teachers": [],
+      "description": "Kursen syftar till att ge kunskaper och erfarenhet av att utveckla programvara i team. Programvaruutvecklingen bedrivs i projektform d\u00e4r aktiviteter som till\u00e4mpas inom programvaruutvecklingen s\u00e5 som f\u00f6rstudiearbete, design och analys, arkitektur, konstruktion, test, leverans och m\u00e4tning av programvara kommer vara en del. Dessutom ing\u00e5r planering, organisation och uppf\u00f6ljning av programvaruprojekt i team omfattande \u00e5tagandekultur, projektorganisation, olika roller i projekt, projektplanering och uppf\u00f6ljning, testplanering och rapportering, leveransplanering, konfigurationshantering och dokumentation.",
+      "requirements": "Genomg\u00e5tt kursen Programvaruintensiv produktutveckling.",
+      "start": "2026 vecka 04",
+      "end": "2026 vecka 23"
+    },
+    {
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20241&KtAnmKod=B3FFR&lang=sv&parentPtKod=IEACI22h",
+      "name": "Industriell marknadsf\u00f6ring - teori och praktik",
+      "city": "Karlskrona",
+      "study_plan": "https://edu.bth.se/utbildning/utb_kursplan.asp?kurskod=IY1419&revisionsnr=8&format=pdf",
+      "speed": 50,
+      "location": "Campus",
+      "code": "IY1419",
+      "points": 6.0,
+      "languages": [
+        "Svenska"
+      ],
+      "teachers": [],
+      "description": "Kursens syfte \u00e4r att den studerande skall utveckla kunskaper i teorier och metoder f\u00f6r industriell marknadsf\u00f6ring och dess koppling till strategi f\u00f6r olika typer av produkter och tj\u00e4nster f\u00f6r olika typer av marknader.",
+      "requirements": "Grundl\u00e4ggande beh\u00f6righet samt genomg\u00e5ngen kurs i Mikroekonomi och strategi 6 hp.",
       "start": "2024 vecka 03",
+      "end": "2024 vecka 12"
+    },
+    {
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20241&KtAnmKod=BLDJ4&lang=sv&parentPtKod=IEACI22h",
+      "name": "Datorst\u00f6d f\u00f6r ingenj\u00f6rsarbete",
+      "city": "Karlskrona",
+      "study_plan": "https://edu.bth.se/utbildning/utb_kursplan.asp?kurskod=MT1463&revisionsnr=7&format=pdf",
+      "speed": 50,
+      "location": "Campus",
+      "code": "MT1463",
+      "points": 6.0,
+      "languages": [
+        "Svenska"
+      ],
+      "teachers": [],
+      "description": "I kursen skaffar sig studenten kunskaper om hur datorbaserade system f\u00f6r konstruktionsarbete och produktutveckling anv\u00e4nds.",
+      "requirements": "Grundl\u00e4ggande beh\u00f6righet",
+      "start": "2024 vecka 13",
       "end": "2024 vecka 22"
     },
     {
@@ -520,7 +437,6 @@
       "name": "Finansiell ekonomi",
       "city": "Karlskrona",
       "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=IY1422&revision=6&lang=sv",
-      "form": "Campus",
       "speed": 50,
       "location": "Campus",
       "code": "IY1422",
@@ -535,11 +451,50 @@
       "end": "2025 vecka 23"
     },
     {
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20222&KtAnmKod=BFMQG&lang=sv&parentPtKod=IEACI22h",
+      "name": "Teknisk introduktionskurs med ingenj\u00f6rsmetodik",
+      "city": "Karlskrona",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=TE1421&revision=4&lang=sv",
+      "speed": 25,
+      "location": "Campus",
+      "code": "TE1421",
+      "points": 8.0,
+      "languages": [
+        "Svenska"
+      ],
+      "teachers": [
+        "Gunilla \u00c5kesson Nilsson"
+      ],
+      "description": "Syftet \u00e4r att studenten ska utveckla\u00a0sina kunskaper om ingenj\u00f6rsrollen, dess krav, tankes\u00e4tt och arbetsmetoder.",
+      "requirements": "Kursens f\u00f6rkunskapskrav \u00e4r grundl\u00e4ggande beh\u00f6righet samt omr\u00e5desbeh\u00f6righet 9: Fysik B, Kemi A och Matematik E.",
+      "start": "2022 vecka 35",
+      "end": "2023 vecka 02"
+    },
+    {
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20222&KtAnmKod=BJYAL&lang=sv&parentPtKod=IEACI22h",
+      "name": "Till\u00e4mpad mikroekonomi och strategi",
+      "city": "Karlskrona",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=IY1417&revision=6&lang=sv",
+      "speed": 50,
+      "location": "Campus",
+      "code": "IY1417",
+      "points": 6.0,
+      "languages": [
+        "Svenska"
+      ],
+      "teachers": [
+        "Jonas M\u00e5nsson"
+      ],
+      "description": "Kursen syftar till att studenten ska f\u00e5 m\u00f6jlighet att till\u00e4gna sig f\u00f6rst\u00e5else f\u00f6r hur individer, beslutsfattare och f\u00f6retag kan anv\u00e4nda mikroekonomisk teori och metoder f\u00f6r att analysera och l\u00f6sa verklighetens marknadsfr\u00e5gor. Vidare analyseras hur dessa f\u00f6r\u00e4ndras beroende p\u00e5 hur antaganden och parametrar f\u00f6r\u00e4ndras.",
+      "requirements": "Grundl\u00e4ggande beh\u00f6righet.",
+      "start": "2022 vecka 44",
+      "end": "2023 vecka 02"
+    },
+    {
       "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20232&KtAnmKod=BRUKJ&lang=sv&parentPtKod=IEACI22h",
       "name": "F\u00f6retaget i en global ekonomi",
       "city": "Karlskrona",
       "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=IY1421&revision=5,1&lang=sv",
-      "form": "Campus",
       "speed": 50,
       "location": "Campus",
       "code": "IY1421",
@@ -554,11 +509,28 @@
       "end": "2023 vecka 43"
     },
     {
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20261&KtAnmKod=BQMTN&lang=sv&parentPtKod=IEACI22h",
+      "name": "Finansiell modellering",
+      "city": "Karlskrona",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=IY2606&revision=5&lang=sv",
+      "speed": 50,
+      "location": "Campus",
+      "code": "IY2606",
+      "points": 7.5,
+      "languages": [
+        "Engelska"
+      ],
+      "teachers": [],
+      "description": "Denna kurs f\u00f6rdjupar analysen om hur ekonomisk risk kan hanteras med hj\u00e4lp av finansiella derivat och reala optioner samt med hj\u00e4lp av portf\u00f6ljvalsteori. Kursen vidareutvecklar f\u00f6rst\u00e5elsen f\u00f6r hur kapitalmarknader fungerar och relationen mellan kapitalmarknader och f\u00f6retag i ekonomiskt v\u00e4rdeskapande.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarad kurs Finansiell ekonomi, 6 hp.",
+      "start": "2026 vecka 04",
+      "end": "2026 vecka 13"
+    },
+    {
       "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20222&KtAnmKod=BXHYQ&lang=sv&parentPtKod=IEACI22h",
       "name": "Matematisk probleml\u00f6sning",
       "city": "Karlskrona",
       "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=MA1486&revision=4,1&lang=sv",
-      "form": "Campus",
       "speed": 25,
       "location": "Campus",
       "code": "MA1486",
@@ -576,51 +548,105 @@
       "end": "2022 vecka 43"
     },
     {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20242&KtAnmKod=BHAEN&lang=sv&parentPtKod=IEACI22h",
-      "name": "Ledarskap och organisation i kunskapsintensiva milj\u00f6er",
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20232&KtAnmKod=BU37X&lang=sv&parentPtKod=IEACI22h",
+      "name": "Diskret matematik",
       "city": "Karlskrona",
-      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=IY1428&revision=4&lang=sv",
-      "form": "Campus",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=MA1446&revision=13&lang=sv",
       "speed": 50,
       "location": "Campus",
-      "code": "IY1428",
+      "code": "MA1446",
       "points": 6.0,
       "languages": [
         "Svenska"
       ],
       "teachers": [],
-      "description": "Kursen syftar till att studenten ska utveckla bred kunskap om och f\u00f6rst\u00e5else av teoretiska grunder f\u00f6r olika typer av ledarskap/grupper i kunskapsintensiva milj\u00f6er p\u00e5 ett s\u00e4tt som m\u00f6jligg\u00f6r systematisk analys av eget ledarskap. Studenten skall speciellt utveckla f\u00f6rst\u00e5else och f\u00f6rm\u00e5ga att balansera en ledarskaps och entrepren\u00f6riell roll i relation till en operativ roll d\u00e4r teknik \u00e4r ett centralt element f\u00f6r organisationen. Efter avslutad kurs, \u00e4r studenten v\u00e4l rustad f\u00f6r att analysera och f\u00f6rst\u00e5 ledarskap i olika typer av situationer.",
-      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarad kurs Teknisk introduktionskurs med ingenj\u00f6rsmetodik, 8 hp eller Grunder i spelutveckling, 8 hp.",
-      "start": "2024 vecka 45",
-      "end": "2025 vecka 03"
+      "description": "Kursens syfte \u00e4r att ge en introduktion till matematiska begrepp, metoder och problemst\u00e4llningar inom diskret matematik. Den diskreta matematiken utg\u00f6r en viktig bas f\u00f6r studier inom datavetenskap och m\u00e5nga digitala till\u00e4mpningsomr\u00e5den.",
+      "requirements": "Genomg\u00e5ngna kurser Matematik, grundkurs, 4 hp alternativt Matematisk probleml\u00f6sning, 4 hp och Linj\u00e4r algebra 1, 6 hp eller motsvarande.",
+      "start": "2023 vecka 35",
+      "end": "2023 vecka 43"
     },
     {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20222&KtAnmKod=BFMQG&lang=sv&parentPtKod=IEACI22h",
-      "name": "Teknisk introduktionskurs med ingenj\u00f6rsmetodik",
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20242&KtAnmKod=BFMLU&lang=sv&parentPtKod=IEACI22h",
+      "name": "Matematisk statistik",
       "city": "Karlskrona",
-      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=TE1421&revision=4&lang=sv",
-      "form": "Campus",
-      "speed": 25,
+      "study_plan": "https://edu.bth.se/utbildning/utb_kursplan.asp?kurskod=MS1405&revisionsnr=8&format=pdf",
+      "speed": 50,
       "location": "Campus",
-      "code": "TE1421",
-      "points": 8.0,
+      "code": "MS1405",
+      "points": 6.0,
+      "languages": [
+        "Svenska"
+      ],
+      "teachers": [],
+      "description": "Kursens syfte \u00e4r att studenterna skall skaffa sig kunskaper i s\u00e5v\u00e4l sannolikhetsteori som statistisk teori och metodik. Tonvikten ligger p\u00e5 sannolikhetsteori med tekniska till\u00e4mpningar som grund f\u00f6r fortsatta studier i tekniska \u00e4mnen, t.ex. tillf\u00f6rlitlighetsteknik, signalbehandling och telekommunikation samt \u00e4ven ekonomi.",
+      "requirements": "Genomg\u00e5ngna kurser i Analys 12 hp samt Linj\u00e4r algebra 6 hp (eller motsvarande).",
+      "start": "2024 vecka 36",
+      "end": "2024 vecka 44"
+    },
+    {
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20231&KtAnmKod=BNWPY&lang=sv&parentPtKod=IEACI22h",
+      "name": "Programmering och probleml\u00f6sning med Python",
+      "city": "Karlskrona",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=DV1574&revision=7&lang=sv",
+      "speed": 50,
+      "location": "Campus",
+      "code": "DV1574",
+      "points": 6.0,
       "languages": [
         "Svenska"
       ],
       "teachers": [
-        "Gunilla \u00c5kesson Nilsson"
+        "Carina Nilsson"
       ],
-      "description": "Syftet \u00e4r att studenten ska utveckla\u00a0sina kunskaper om ingenj\u00f6rsrollen, dess krav, tankes\u00e4tt och arbetsmetoder.",
-      "requirements": "Kursens f\u00f6rkunskapskrav \u00e4r grundl\u00e4ggande beh\u00f6righet samt omr\u00e5desbeh\u00f6righet 9: Fysik B, Kemi A och Matematik E.",
-      "start": "2022 vecka 35",
-      "end": "2023 vecka 02"
+      "description": "Kursen l\u00e4r ut strukturerad programmering och probleml\u00f6sning med programsspr\u00e5ket Python.",
+      "requirements": "Grundl\u00e4ggande beh\u00f6righet",
+      "start": "2023 vecka 03",
+      "end": "2023 vecka 12"
+    },
+    {
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20271&KtAnmKod=BH4X7&lang=sv&parentPtKod=IEACI22h",
+      "name": "Examensarbete f\u00f6r civilingenj\u00f6rer",
+      "city": "Karlskrona",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=TE2502&revision=4,1&lang=sv",
+      "speed": 100,
+      "location": "Campus",
+      "code": "TE2502",
+      "points": 30.0,
+      "languages": [
+        "Svenska"
+      ],
+      "teachers": [],
+      "description": "Syftet med kursen \u00e4r att studenten tr\u00e4nar sin f\u00f6rm\u00e5ga att definiera, planera, genomf\u00f6ra och redovisa ett sj\u00e4lvst\u00e4ndigt forsknings- och utvecklingsarbete inom huvud\u00e4mnet f\u00f6r civilingenj\u00f6rsprogrammet. Examensarbetet inneb\u00e4r en till\u00e4mpning och syntes av de under utbildningen f\u00f6rv\u00e4rvade kunskaper och ska visa studentens f\u00f6rm\u00e5ga att arbeta sj\u00e4lvst\u00e4ndigt som civilingenj\u00f6r.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att studenten har avklarat minst 240 hp som f\u00e5r ing\u00e5 i en civilingenj\u00f6rsexamen. Av dessa ska minst 30 hp vara avklarade kurser p\u00e5 avancerad niv\u00e5.",
+      "start": "2027 vecka 03",
+      "end": "2027 vecka 22"
+    },
+    {
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20231&KtAnmKod=BAUJX&lang=sv&parentPtKod=IEACI22h",
+      "name": "F\u00f6retag och organisation",
+      "city": "Karlskrona",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=IY1439&revision=3&lang=sv",
+      "speed": 50,
+      "location": "Campus",
+      "code": "IY1439",
+      "points": 6.0,
+      "languages": [
+        "Engelska"
+      ],
+      "teachers": [
+        "Viroj Jienwatcharamongkhol",
+        "mbh"
+      ],
+      "description": "Syftet med kursen \u00e4r att g\u00f6ra det m\u00f6jligt f\u00f6r studenter att f\u00f6rst\u00e5 economies of scale och scope, samt transaktionskostnadsteori f\u00f6r att analysera f\u00f6retagen och deras gr\u00e4nser, marknads- och konkurrensanalys, strategisk position och organisation inom f\u00f6retagen.",
+      "requirements": "Grundl\u00e4ggande beh\u00f6righet.",
+      "start": "2023 vecka 13",
+      "end": "2023 vecka 22"
     },
     {
       "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20231&KtAnmKod=BP7QF&lang=sv&parentPtKod=IEACI22h",
       "name": "Analys 1",
       "city": "Karlskrona",
       "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=MA1444&revision=18,1&lang=sv",
-      "form": "Campus",
       "speed": 50,
       "location": "Campus",
       "code": "MA1444",
@@ -638,73 +664,10 @@
       "end": "2023 vecka 12"
     },
     {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20271&KtAnmKod=BH4X7&lang=sv&parentPtKod=IEACI22h",
-      "name": "Examensarbete f\u00f6r civilingenj\u00f6rer",
-      "city": "Karlskrona",
-      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=TE2502&revision=4,1&lang=sv",
-      "form": "Campus",
-      "speed": 100,
-      "location": "Campus",
-      "code": "TE2502",
-      "points": 30.0,
-      "languages": [
-        "Svenska"
-      ],
-      "teachers": [],
-      "description": "Syftet med kursen \u00e4r att studenten tr\u00e4nar sin f\u00f6rm\u00e5ga att definiera, planera, genomf\u00f6ra och redovisa ett sj\u00e4lvst\u00e4ndigt forsknings- och utvecklingsarbete inom huvud\u00e4mnet f\u00f6r civilingenj\u00f6rsprogrammet. Examensarbetet inneb\u00e4r en till\u00e4mpning och syntes av de under utbildningen f\u00f6rv\u00e4rvade kunskaper och ska visa studentens f\u00f6rm\u00e5ga att arbeta sj\u00e4lvst\u00e4ndigt som civilingenj\u00f6r.",
-      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att studenten har avklarat minst 240 hp som f\u00e5r ing\u00e5 i en civilingenj\u00f6rsexamen. Av dessa ska minst 30 hp vara avklarade kurser p\u00e5 avancerad niv\u00e5.",
-      "start": "2027 vecka 03",
-      "end": "2027 vecka 22"
-    },
-    {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20231&KtAnmKod=BNWPY&lang=sv&parentPtKod=IEACI22h",
-      "name": "Programmering och probleml\u00f6sning med Python",
-      "city": "Karlskrona",
-      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=DV1574&revision=7&lang=sv",
-      "form": "Campus",
-      "speed": 50,
-      "location": "Campus",
-      "code": "DV1574",
-      "points": 6.0,
-      "languages": [
-        "Svenska"
-      ],
-      "teachers": [
-        "Carina Nilsson"
-      ],
-      "description": "Kursen l\u00e4r ut strukturerad programmering och probleml\u00f6sning med programsspr\u00e5ket Python.",
-      "requirements": "Grundl\u00e4ggande beh\u00f6righet",
-      "start": "2023 vecka 03",
-      "end": "2023 vecka 12"
-    },
-    {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20231&KtAnmKod=BAUJX&lang=sv&parentPtKod=IEACI22h",
-      "name": "F\u00f6retag och organisation",
-      "city": "Karlskrona",
-      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=IY1439&revision=3&lang=sv",
-      "form": "Campus",
-      "speed": 50,
-      "location": "Campus",
-      "code": "IY1439",
-      "points": 6.0,
-      "languages": [
-        "Engelska"
-      ],
-      "teachers": [
-        "mbh",
-        "Viroj Jienwatcharamongkhol"
-      ],
-      "description": "Syftet med kursen \u00e4r att g\u00f6ra det m\u00f6jligt f\u00f6r studenter att f\u00f6rst\u00e5 economies of scale och scope, samt transaktionskostnadsteori f\u00f6r att analysera f\u00f6retagen och deras gr\u00e4nser, marknads- och konkurrensanalys, strategisk position och organisation inom f\u00f6retagen.",
-      "requirements": "Grundl\u00e4ggande beh\u00f6righet.",
-      "start": "2023 vecka 13",
-      "end": "2023 vecka 22"
-    },
-    {
       "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20222&KtAnmKod=BEPPH&lang=sv&parentPtKod=IEACI22h",
       "name": "Linj\u00e4r algebra 1",
       "city": "Karlskrona",
       "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=MA1448&revision=13,2&lang=sv",
-      "form": "Campus",
       "speed": 50,
       "location": "Campus",
       "code": "MA1448",
@@ -726,7 +689,6 @@
       "name": "Grunderna i industriell ekonomi",
       "city": "Karlskrona",
       "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=IY1418&revision=6&lang=sv",
-      "form": "Campus",
       "speed": 50,
       "location": "Campus",
       "code": "IY1418",
@@ -735,8 +697,8 @@
         "Svenska"
       ],
       "teachers": [
-        "Anders Wrenne",
-        "Eva L\u00f6vst\u00e5l"
+        "Eva L\u00f6vst\u00e5l",
+        "Anders Wrenne"
       ],
       "description": "Kursens syfte \u00e4r att de studerande ska f\u00e5 en introduktion till industriell ekonomi samt en \u00f6versiktlig bild \u00f6ver hur dess delomr\u00e5den h\u00e4nger samman.",
       "requirements": "Grundl\u00e4ggande beh\u00f6righet.",
@@ -746,201 +708,10 @@
   ],
   "optional_courses": [
     {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20262&KtAnmKod=BQLMM&lang=sv&parentPtKod=IEACI22h",
-      "name": "Maskininl\u00e4rning",
-      "city": "Karlskrona",
-      "study_plan": "",
-      "form": "Campus",
-      "speed": 50,
-      "location": "Campus",
-      "code": "DV2626",
-      "points": 7.5,
-      "languages": [
-        "Svenska"
-      ],
-      "teachers": [],
-      "description": "Det huvudsakliga syftet med kursen \u00e4r att introducera teori och metod fr\u00e5n maskininl\u00e4rning (machine learning) samt praktiska till\u00e4mpningar inom informationsutvinning (data mining). Den teknologiska utvecklingen har bidragit till att vi blivit mer beroende av databaser f\u00f6r lagring och databehandling. Antalet databaser och m\u00e4ngden inneh\u00e5ll i dessa v\u00e4xer snabbt. I takt med denna tillv\u00e4xt blir det sv\u00e5rare att manuellt finna anv\u00e4ndbar information fr\u00e5n den stora m\u00e4ngden data. Vi beh\u00f6ver d\u00e4rf\u00f6r semiautomatiska och automatiska metoder f\u00f6r att anv\u00e4nda, aggregera, analysera och extrahera s\u00e5dan information. Metoder och tekniker fr\u00e5n maskininl\u00e4rning, informationsutvinning, och artificiell intelligens har visat sig anv\u00e4ndbara f\u00f6r detta syfte.",
-      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs en avklarad kurs i algoritmer och datastrukturer omfattande minst 6 hp och genomg\u00e5ngen kurs i till\u00e4mpad artificiell intelligens omfattande minst 6 hp.",
-      "start": "2026 vecka 45",
-      "end": "2027 vecka 02"
-    },
-    {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20242&KtAnmKod=BRKHY&lang=sv&parentPtKod=IEACI22h",
-      "name": "Innovativ och h\u00e5llbar produktutveckling 1",
-      "city": "Karlskrona",
-      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=MT1556&revision=1&lang=sv",
-      "form": "Campus",
-      "speed": 50,
-      "location": "Campus",
-      "code": "MT1556",
-      "points": 6.0,
-      "languages": [
-        "Svenska"
-      ],
-      "teachers": [],
-      "description": "Studenten l\u00e4r sig strategier och metoder f\u00f6r innovativ produktutveckling, projektledning och h\u00e5llbarhet i produktutveckling. Syftet med kursen \u00e4r ocks\u00e5 att st\u00f6dja studenten i att l\u00e4ra sig grundl\u00e4ggande verktyg f\u00f6r att analysera olika produktalternativ utifr\u00e5n anv\u00e4ndarens/kundens krav samt milj\u00f6krav.",
-      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs 75 avklarade h\u00f6gskolepo\u00e4ng fr\u00e5n ett ingenj\u00f6rsprogram inom maskinteknik eller industriell ekonomi inkluderande avklarad kurs H\u00e5llbarhetsgrunder, 6 hp.",
-      "start": "2024 vecka 36",
-      "end": "2024 vecka 44"
-    },
-    {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20261&KtAnmKod=BYKNX&lang=sv&parentPtKod=IEACI22h",
-      "name": "Empirisk finansiell analys",
-      "city": "Karlskrona",
-      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=IY2607&revision=5&lang=sv",
-      "form": "Campus",
-      "speed": 50,
-      "location": "Campus",
-      "code": "IY2607",
-      "points": 7.5,
-      "languages": [
-        "Engelska"
-      ],
-      "teachers": [],
-      "description": "Kursens syfte \u00e4r att studenterna skall l\u00e4ra sig hur man genomf\u00f6r finansiella studier empiriskt. Kursen behandlar hur man g\u00e5r ifr\u00e5n teoretiska problem till hur dessa kan unders\u00f6kas empiriskt. Stort fokus i kursen ligger p\u00e5 finansiell ekonometri och tidsserieanalys samt p\u00e5 syntes ifr\u00e5n empirisk analys. Kursen behandlar \u00e4ven vad som h\u00e4nder n\u00e4r vi sl\u00e4pper antagandet om full rationalitet hos individen och d\u00e4rmed marknaden och metoder f\u00f6r att unders\u00f6ka detta.",
-      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarad kurs Finansiell ekonomi, 6 hp.",
-      "start": "2026 vecka 14",
-      "end": "2026 vecka 23"
-    },
-    {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20252&KtAnmKod=BMKRW&lang=sv&parentPtKod=IEACI22h",
-      "name": "F\u00f6retagsanalys",
-      "city": "Karlskrona",
-      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=IY2583&revision=3,1&lang=sv",
-      "form": "Campus",
-      "speed": 50,
-      "location": "Campus",
-      "code": "IY2583",
-      "points": 7.5,
-      "languages": [
-        "Svenska"
-      ],
-      "teachers": [],
-      "description": "Kursens syfte \u00e4r f\u00f6rdjupa f\u00f6rst\u00e5elsen f\u00f6r olika metoder f\u00f6r f\u00f6retagsv\u00e4rdering samt hur olika v\u00e4rdeskapande variabler bidrar till ett f\u00f6retags tillv\u00e4xt och v\u00e4rde.",
-      "requirements": "Avklarade kurser i Grunderna i industriell ekonomi 6 hp, Mikroekonomi och strategi 6 hp och Finansiell ekonomi 6 hp.",
-      "start": "2025 vecka 45",
-      "end": "2026 vecka 03"
-    },
-    {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20252&KtAnmKod=BCX4M&lang=sv&parentPtKod=IEACI22h",
-      "name": "V\u00e4rdeinnovation",
-      "city": "Karlskrona",
-      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=MT2568&revision=2&lang=sv",
-      "form": "Campus",
-      "speed": 50,
-      "location": "Campus",
-      "code": "MT2568",
-      "points": 7.5,
-      "languages": [
-        "Engelska"
-      ],
-      "teachers": [],
-      "description": "V\u00e4rdeinnovation \u00e4r att samtidigt bedriva ett differentieringsfokus och s\u00f6ka l\u00e5g kostnad. V\u00e4rdeinnovation fokuserar p\u00e5 att g\u00f6ra konkurrensen irrelevant genom att skapa ett nytt och unikt v\u00e4rde f\u00f6r k\u00f6pare och f\u00f6retag, och d\u00e4rigenom \u00f6ppna upp nya och obestridda marknadsutrymme. Eftersom v\u00e4rdet f\u00f6r k\u00f6pare kommer fr\u00e5n erbjudandets m\u00f6jligheter minus dess pris, samt att v\u00e4rdet f\u00f6r f\u00f6retaget genereras fr\u00e5n erbjudandets pris minus dess kostnader uppn\u00e5s v\u00e4rdeinnovation f\u00f6rst n\u00e4r hela systemet av nytta/m\u00f6jlighet, pris och kostnad \u00e4r i samf\u00f6rst\u00e5nd. Syftet med kursen \u00e4r att ge studenterna en f\u00f6rst\u00e5else f\u00f6r hur metoder och verktyg f\u00f6r att utveckla produkter, baserade p\u00e5 en v\u00e4rdevy, kan anv\u00e4ndas. Studenterna kommer att f\u00e5 kunskap i projektledning, och -hantering, kundbehov, v\u00e4rdeanalys, konceptgenerering, verifiering och framst\u00e4llande. Kursen fokuserar p\u00e5 att genomf\u00f6ra ett produktutvecklingsprojekt med v\u00e4rdefokus. Genom att utf\u00f6ra riktiga teambaserade projekt ges studenten chansen att reflektera \u00f6ver teoretisk bas samt att till\u00e4mpa detta i en riktig milj\u00f6. Dessa erfarenheter som kommer att g\u00f6ra att den studerande f\u00e5r goda f\u00f6ruts\u00e4ttningar att vara attraktiv f\u00f6r arbetslivet.",
-      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs 150 avklarade hp varav 60 hp fr\u00e5n ett civilingenj\u00f6rsprogram i maskinteknik eller industriell ekonomi. I de 60 hp ska kurserna Analys 1, 6 hp, kurs om minst 6hp i Produktutvecklingsmetodik (Innovativ och H\u00e5llbar produktutveckling 1) och grundkurs om minst 6 hp i Industriell ekonomi (Grunderna i industriell ekonomi, 6 hp / Industriell ekonomi, \u00f6versiktskurs, 6 hp) ing\u00e5. Dessutom kr\u00e4vs genomg\u00e5ngen kurs i H\u00e5llbarhetsgrunder, 6 hp och Matematisk statistik, 6 hp.",
-      "start": "2025 vecka 45",
-      "end": "2026 vecka 03"
-    },
-    {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20251&KtAnmKod=BX6FJ&lang=sv&parentPtKod=IEACI22h",
-      "name": "Programvaruintensiv produktutveckling",
-      "city": "Karlskrona",
-      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=PA2576&revision=3&lang=sv",
-      "form": "Campus",
-      "speed": 50,
-      "location": "Campus",
-      "code": "PA2576",
-      "points": 12.0,
-      "languages": [
-        "Engelska"
-      ],
-      "teachers": [],
-      "description": "",
-      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser i programmering i en omfattning av 12 h\u00f6gskolepo\u00e4ng.",
-      "start": "2025 vecka 04",
-      "end": "2025 vecka 23"
-    },
-    {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20262&KtAnmKod=BQPRL&lang=sv&parentPtKod=IEACI22h",
-      "name": "Industriell organisation",
-      "city": "Karlskrona",
-      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=IY2603&revision=4&lang=sv",
-      "form": "Campus",
-      "speed": 50,
-      "location": "Campus",
-      "code": "IY2603",
-      "points": 7.5,
-      "languages": [
-        "Engelska"
-      ],
-      "teachers": [],
-      "description": "I denna kurs f\u00f6rdjupas analysen av sambanden mellan konkurrens, marknadsformer och f\u00f6retagsstrategi. Studenten introduceras till nya analytiska verktyg, t.ex. spelteori, som anv\u00e4nds f\u00f6r att analysera strategi och strategisk interaktion mellan f\u00f6retag under olika konkurrensvillkor. Ett s\u00e4rskilt fokus \u00e4r p\u00e5 hur produktionsteknologier ger utrymme f\u00f6r produktdifferentiering, och dess konsekvenser f\u00f6r strategi hos f\u00f6retag.",
-      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser i Till\u00e4mpad mikroekonomi, 6 hp och Matematisk statistik, 6 hp, d\u00e4rut\u00f6ver genomg\u00e5ngna kurser om 12 hp i industriell ekonomi och management.",
-      "start": "2026 vecka 36",
-      "end": "2026 vecka 44"
-    },
-    {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20252&KtAnmKod=B39YK&lang=sv&parentPtKod=IEACI22h",
-      "name": "UNIX och Linux, en \u00f6versikt och introduktion",
-      "city": "Karlskrona",
-      "study_plan": "https://edu.bth.seutb_kursplan.asp?kurskod=DV1466&revisionsnr=9&format=pdf",
-      "form": "Campus",
-      "speed": 50,
-      "location": "Campus",
-      "code": "DV1466",
-      "points": 7.5,
-      "languages": [
-        "Engelska"
-      ],
-      "teachers": [],
-      "description": "Ett operativsystem implementerar n\u00e5gon form av interaktionsfilosofi mellan anv\u00e4ndare och maskin. UNIX-liknande system betonar programm\u00e4ssiga gr\u00e4nssnitt f\u00f6r enkel automatisering av repetitiva uppgifter. Denna design g\u00f6r UNIX till det dominerande operativsystemet f\u00f6r storskaliga servrar och sm\u00e5skaliga mobila enheter.",
-      "requirements": "Grundl\u00e4ggande beh\u00f6righet.",
-      "start": "2025 vecka 36",
-      "end": "2025 vecka 44"
-    },
-    {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20262&KtAnmKod=BJMPK&lang=sv&parentPtKod=IEACI22h",
-      "name": "Till\u00e4mpad konkurrens- och marknadsanalys",
-      "city": "Karlskrona",
-      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=IY2608&revision=4,1&lang=sv",
-      "form": "Campus",
-      "speed": 50,
-      "location": "Campus",
-      "code": "IY2608",
-      "points": 7.5,
-      "languages": [
-        "Engelska"
-      ],
-      "teachers": [],
-      "description": "I kursen kommer studenterna att arbeta med empiriska modeller f\u00f6r att unders\u00f6ka v\u00e4rdet av data utifr\u00e5n olika fr\u00e5gest\u00e4llningar. Studenterna kommer att genomf\u00f6ra olika empiriska analyser utifr\u00e5n tidigare genomg\u00e5ngen teori f\u00f6r att besvara typiska strategiska fr\u00e5gest\u00e4llningar ett f\u00f6retag m\u00f6ter. I kursen ing\u00e5r konkurrens- och marknadsanalyser.",
-      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser i Till\u00e4mpad mikroekonomi, 6 hp och Matematisk statistik, 6 hp, d\u00e4rut\u00f6ver genomg\u00e5ngna kurser om 12 hp i industriell ekonomi och management.",
-      "start": "2026 vecka 45",
-      "end": "2027 vecka 02"
-    },
-    {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20262&KtAnmKod=BJMPK&lang=sv&parentPtKod=IEACI22h",
-      "name": "Till\u00e4mpad konkurrens- och marknadsanalys",
-      "city": "Karlskrona",
-      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=IY2608&revision=4,1&lang=sv",
-      "form": "Campus",
-      "speed": 50,
-      "location": "Campus",
-      "code": "IY2608",
-      "points": 7.5,
-      "languages": [
-        "Engelska"
-      ],
-      "teachers": [],
-      "description": "I kursen kommer studenterna att arbeta med empiriska modeller f\u00f6r att unders\u00f6ka v\u00e4rdet av data utifr\u00e5n olika fr\u00e5gest\u00e4llningar. Studenterna kommer att genomf\u00f6ra olika empiriska analyser utifr\u00e5n tidigare genomg\u00e5ngen teori f\u00f6r att besvara typiska strategiska fr\u00e5gest\u00e4llningar ett f\u00f6retag m\u00f6ter. I kursen ing\u00e5r konkurrens- och marknadsanalyser.",
-      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser i Till\u00e4mpad mikroekonomi, 6 hp och Matematisk statistik, 6 hp, d\u00e4rut\u00f6ver genomg\u00e5ngna kurser om 12 hp i industriell ekonomi och management.",
-      "start": "2026 vecka 45",
-      "end": "2027 vecka 02"
-    },
-    {
       "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20262&KtAnmKod=B44A4&lang=sv&parentPtKod=IEACI22h",
       "name": "Ekonomisk analys av teknikskiften",
       "city": "Karlskrona",
       "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=IY2586&revision=2&lang=sv",
-      "form": "Campus",
       "speed": 50,
       "location": "Campus",
       "code": "IY2586",
@@ -955,106 +726,10 @@
       "end": "2026 vecka 44"
     },
     {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20252&KtAnmKod=BTU4K&lang=sv&parentPtKod=IEACI22h",
-      "name": "Strategisk planering f\u00f6r organisatoriska h\u00e5llbarhetsomst\u00e4llningar",
-      "city": "Karlskrona",
-      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=SL2559&revision=2&lang=sv",
-      "form": "Campus",
-      "speed": 50,
-      "location": "Campus",
-      "code": "SL2559",
-      "points": 7.5,
-      "languages": [
-        "Engelska"
-      ],
-      "teachers": [],
-      "description": "Syftet med kursen \u00e4r att den studerande skall utveckla f\u00f6rdjupad kunskap om och f\u00f6rst\u00e5else f\u00f6r en metodik f\u00f6r strategiskt arbete som leder en organisation mot h\u00e5llbarhet.",
-      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs minst 120 avklarade hp inklusive minst 1,5 hp i strategisk h\u00e5llbar utveckling. Engelska 6.",
-      "start": "2025 vecka 45",
-      "end": "2026 vecka 03"
-    },
-    {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20252&KtAnmKod=BEC9M&lang=sv&parentPtKod=IEACI22h",
-      "name": "Knowledge Enabled Engineering",
-      "city": "Karlskrona",
-      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=MT2570&revision=2&lang=sv",
-      "form": "Campus",
-      "speed": 50,
-      "location": "Campus",
-      "code": "MT2570",
-      "points": 7.5,
-      "languages": [
-        "Engelska"
-      ],
-      "teachers": [],
-      "description": "Syftet med kursen \u00e4r att ge deltagarna insikt och f\u00f6rst\u00e5else f\u00f6r metoder och tekniker f\u00f6r kunskapsintensiva system som anv\u00e4nds f\u00f6r att utveckla komplexa produkt/tj\u00e4nstekombinationer. Knowledge Enabled Engineering (KEE) \u00e4r en samlingsterm f\u00f6r metoder och tekniker f\u00f6r kunskapsintensiva system (Knowledge Enabled Engineering-KEE) som specifikt tillgodoser behoven hos de som arbetar med produktinnovation och design. KEE omfamnar det bredare perspektivet av hur kunskapsbaserade system ska integreras och anv\u00e4nds i moderna innovationsprocesser f\u00f6r att st\u00f6dja (dvs ''enable'') ingenj\u00f6rens beslutsfattande.",
-      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs 150 avklarade h\u00f6gskolepo\u00e4ng varav 60 hp ska vara fr\u00e5n ett civilingenj\u00f6rsprogram i maskinteknik eller industriell ekonomi. I de 60 hp ska kurs om minst 6 hp Datorst\u00f6dd konstruktion, CAD ( Datorst\u00f6d f\u00f6r Ingenj\u00f6rsarbete) ing\u00e5. Dessutom kr\u00e4vs genomg\u00e5ngen kurs om minst 6 hp i Produktutvecklingsmetodik (Innovativ och H\u00e5llbar produktutveckling 1) och Matematisk statistik 6 hp.",
-      "start": "2025 vecka 36",
-      "end": "2025 vecka 44"
-    },
-    {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20261&KtAnmKod=BH69F&lang=sv&parentPtKod=IEACI22h",
-      "name": "Virtuell prototypframst\u00e4llning",
-      "city": "Karlskrona",
-      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=MT2578&revision=1&lang=sv",
-      "form": "Campus",
-      "speed": 50,
-      "location": "Campus",
-      "code": "MT2578",
-      "points": 7.5,
-      "languages": [
-        "Engelska"
-      ],
-      "teachers": [],
-      "description": "",
-      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs 150 avklarade hp varav 60 hp fr\u00e5n ett civilingenj\u00f6rsprogram i maskinteknik (eller motsvarande). I de 60 hp ska kurserna i produktutvecklingsmetodik (Innovativ och H\u00e5llbar produktutveckling 1/Design Thinking), minst 6 hp och Datorst\u00f6d f\u00f6r ingenj\u00f6rer (eller motsvarande), minst 5 hp ing\u00e5.",
-      "start": "2026 vecka 14",
-      "end": "2026 vecka 23"
-    },
-    {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20261&KtAnmKod=B9FAR&lang=sv&parentPtKod=IEACI22h",
-      "name": "Avancerad h\u00e5llbar produktutveckling",
-      "city": "Karlskrona",
-      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=SL2548&revision=2&lang=sv",
-      "form": "Campus",
-      "speed": 50,
-      "location": "Campus",
-      "code": "SL2548",
-      "points": 7.5,
-      "languages": [
-        "Engelska"
-      ],
-      "teachers": [],
-      "description": "",
-      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarat 4 hp i produktutveckling, exempelvis fr\u00e5n n\u00e5gon av kurserna Innovativ och h\u00e5llbar produktutveckling, 7,5 hp eller V\u00e4rdeinnovation, 7,5 hp samt genomg\u00e5ngen kurs i H\u00e5llbar Produktutveckling, 7,5 hp.",
-      "start": "2026 vecka 04",
-      "end": "2026 vecka 13"
-    },
-    {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20251&KtAnmKod=BF4JY&lang=sv&parentPtKod=IEACI22h",
-      "name": "Finansiell ekonomi",
-      "city": "Karlskrona",
-      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=IY1422&revision=6&lang=sv",
-      "form": "Campus",
-      "speed": 50,
-      "location": "Campus",
-      "code": "IY1422",
-      "points": 6.0,
-      "languages": [
-        "Svenska"
-      ],
-      "teachers": [],
-      "description": "Kursens syfte \u00e4r att den studerande skall utveckla kunskaper i teorier och modeller f\u00f6r att v\u00e4rdera reala och finansiella investeringar utifr\u00e5n olika ansatser samt hur detta p\u00e5verkar ett f\u00f6retags v\u00e4rde. Vidare syftar kursen till att ge den studerande kunskap kring vilken roll ett f\u00f6retags kapitalstruktur spelar utifr\u00e5n ett",
-      "requirements": "Grundl\u00e4ggande beh\u00f6righet samt genomg\u00e5ngna kurser i Grunderna i industriell ekonomi 6 hp, Mikroekonomi och strategi 6 hp och Ekonometri 6 hp.",
-      "start": "2025 vecka 14",
-      "end": "2025 vecka 23"
-    },
-    {
       "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20261&KtAnmKod=BYKNX&lang=sv&parentPtKod=IEACI22h",
       "name": "Empirisk finansiell analys",
       "city": "Karlskrona",
       "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=IY2607&revision=5&lang=sv",
-      "form": "Campus",
       "speed": 50,
       "location": "Campus",
       "code": "IY2607",
@@ -1069,11 +744,442 @@
       "end": "2026 vecka 23"
     },
     {
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20262&KtAnmKod=BQLMM&lang=sv&parentPtKod=IEACI22h",
+      "name": "Maskininl\u00e4rning",
+      "city": "Karlskrona",
+      "study_plan": "",
+      "speed": 50,
+      "location": "Campus",
+      "code": "DV2626",
+      "points": 7.5,
+      "languages": [
+        "Svenska"
+      ],
+      "teachers": [],
+      "description": "Det huvudsakliga syftet med kursen \u00e4r att introducera teori och metod fr\u00e5n maskininl\u00e4rning (machine learning) samt praktiska till\u00e4mpningar inom informationsutvinning (data mining). Den teknologiska utvecklingen har bidragit till att vi blivit mer beroende av databaser f\u00f6r lagring och databehandling. Antalet databaser och m\u00e4ngden inneh\u00e5ll i dessa v\u00e4xer snabbt. I takt med denna tillv\u00e4xt blir det sv\u00e5rare att manuellt finna anv\u00e4ndbar information fr\u00e5n den stora m\u00e4ngden data. Vi beh\u00f6ver d\u00e4rf\u00f6r semiautomatiska och automatiska metoder f\u00f6r att anv\u00e4nda, aggregera, analysera och extrahera s\u00e5dan information. Metoder och tekniker fr\u00e5n maskininl\u00e4rning, informationsutvinning, och artificiell intelligens har visat sig anv\u00e4ndbara f\u00f6r detta syfte.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs en avklarad kurs i algoritmer och datastrukturer omfattande minst 6 hp och genomg\u00e5ngen kurs i till\u00e4mpad artificiell intelligens omfattande minst 6 hp.",
+      "start": "2026 vecka 45",
+      "end": "2027 vecka 02"
+    },
+    {
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20261&KtAnmKod=BYKNX&lang=sv&parentPtKod=IEACI22h",
+      "name": "Empirisk finansiell analys",
+      "city": "Karlskrona",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=IY2607&revision=5&lang=sv",
+      "speed": 50,
+      "location": "Campus",
+      "code": "IY2607",
+      "points": 7.5,
+      "languages": [
+        "Engelska"
+      ],
+      "teachers": [],
+      "description": "Kursens syfte \u00e4r att studenterna skall l\u00e4ra sig hur man genomf\u00f6r finansiella studier empiriskt. Kursen behandlar hur man g\u00e5r ifr\u00e5n teoretiska problem till hur dessa kan unders\u00f6kas empiriskt. Stort fokus i kursen ligger p\u00e5 finansiell ekonometri och tidsserieanalys samt p\u00e5 syntes ifr\u00e5n empirisk analys. Kursen behandlar \u00e4ven vad som h\u00e4nder n\u00e4r vi sl\u00e4pper antagandet om full rationalitet hos individen och d\u00e4rmed marknaden och metoder f\u00f6r att unders\u00f6ka detta.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarad kurs Finansiell ekonomi, 6 hp.",
+      "start": "2026 vecka 14",
+      "end": "2026 vecka 23"
+    },
+    {
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20262&KtAnmKod=BJMPK&lang=sv&parentPtKod=IEACI22h",
+      "name": "Till\u00e4mpad konkurrens- och marknadsanalys",
+      "city": "Karlskrona",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=IY2608&revision=4,1&lang=sv",
+      "speed": 50,
+      "location": "Campus",
+      "code": "IY2608",
+      "points": 7.5,
+      "languages": [
+        "Engelska"
+      ],
+      "teachers": [],
+      "description": "I kursen kommer studenterna att arbeta med empiriska modeller f\u00f6r att unders\u00f6ka v\u00e4rdet av data utifr\u00e5n olika fr\u00e5gest\u00e4llningar. Studenterna kommer att genomf\u00f6ra olika empiriska analyser utifr\u00e5n tidigare genomg\u00e5ngen teori f\u00f6r att besvara typiska strategiska fr\u00e5gest\u00e4llningar ett f\u00f6retag m\u00f6ter. I kursen ing\u00e5r konkurrens- och marknadsanalyser.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser i Till\u00e4mpad mikroekonomi, 6 hp och Matematisk statistik, 6 hp, d\u00e4rut\u00f6ver genomg\u00e5ngna kurser om 12 hp i industriell ekonomi och management.",
+      "start": "2026 vecka 45",
+      "end": "2027 vecka 02"
+    },
+    {
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20262&KtAnmKod=B7X4R&lang=sv&parentPtKod=IEACI22h",
+      "name": "Introduktion till Cloud Computing",
+      "city": "Karlskrona",
+      "study_plan": "https://edu.bth.se/utbildning/utb_kursplan.asp?kurskod=DV1566&revisionsnr=5&format=pdf",
+      "speed": 50,
+      "location": "Campus",
+      "code": "DV1566",
+      "points": 7.5,
+      "languages": [
+        "Engelska"
+      ],
+      "teachers": [],
+      "description": "Kursen fokuserar p\u00e5 de grundl\u00e4ggande koncepten f\u00f6r distribuerade system och cloud computing. Kursen omfattar teoretiska och praktiska aspekter med fokus p\u00e5 verkliga exempel. Efter genomf\u00f6rd  kurs ska studenten vara kapabel att v\u00e4lja, installera och anv\u00e4nda grundl\u00e4ggande molnresurser (till exempel datorer och lagring som en tj\u00e4nst) och att utforma och implementera skalbara arkitekturer och applikationer.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att den studerande har avklarat: programmering 15 hp, algoritmer och datastrukturer 6 hp  och  operativsystem 6 hp.",
+      "start": "2026 vecka 45",
+      "end": "2027 vecka 02"
+    },
+    {
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20252&KtAnmKod=B3Q3Q&lang=sv&parentPtKod=IEACI22h",
+      "name": "Till\u00e4mpad optimering",
+      "city": "Karlskrona",
+      "study_plan": "https://edu.bth.se/utbildning/utb_kursplan.asp?kurskod=MA2512&revisionsnr=8&format=pdf",
+      "speed": 50,
+      "location": "Campus",
+      "code": "MA2512",
+      "points": 7.5,
+      "languages": [
+        "Svenska"
+      ],
+      "teachers": [],
+      "description": "Kursen avser att ge kunskaper i olika linj\u00e4ra programmeringsproblem, att finna l\u00f6sningar till linj\u00e4ra program, samt att visa till\u00e4mpningar av linj\u00e4r optimeringsl\u00e4ra p\u00e5 olika teoretiska och praktiska \u00e4mnen.",
+      "requirements": "Genomg\u00e5ngna kurser i Analys 12 hp, Flervariabelanalys 6 hp samt Linj\u00e4r algebra 6 hp.",
+      "start": "2025 vecka 45",
+      "end": "2026 vecka 03"
+    },
+    {
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20252&KtAnmKod=BCX4M&lang=sv&parentPtKod=IEACI22h",
+      "name": "V\u00e4rdeinnovation",
+      "city": "Karlskrona",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=MT2568&revision=2&lang=sv",
+      "speed": 50,
+      "location": "Campus",
+      "code": "MT2568",
+      "points": 7.5,
+      "languages": [
+        "Engelska"
+      ],
+      "teachers": [],
+      "description": "V\u00e4rdeinnovation \u00e4r att samtidigt bedriva ett differentieringsfokus och s\u00f6ka l\u00e5g kostnad. V\u00e4rdeinnovation fokuserar p\u00e5 att g\u00f6ra konkurrensen irrelevant genom att skapa ett nytt och unikt v\u00e4rde f\u00f6r k\u00f6pare och f\u00f6retag, och d\u00e4rigenom \u00f6ppna upp nya och obestridda marknadsutrymme. Eftersom v\u00e4rdet f\u00f6r k\u00f6pare kommer fr\u00e5n erbjudandets m\u00f6jligheter minus dess pris, samt att v\u00e4rdet f\u00f6r f\u00f6retaget genereras fr\u00e5n erbjudandets pris minus dess kostnader uppn\u00e5s v\u00e4rdeinnovation f\u00f6rst n\u00e4r hela systemet av nytta/m\u00f6jlighet, pris och kostnad \u00e4r i samf\u00f6rst\u00e5nd. Syftet med kursen \u00e4r att ge studenterna en f\u00f6rst\u00e5else f\u00f6r hur metoder och verktyg f\u00f6r att utveckla produkter, baserade p\u00e5 en v\u00e4rdevy, kan anv\u00e4ndas. Studenterna kommer att f\u00e5 kunskap i projektledning, och -hantering, kundbehov, v\u00e4rdeanalys, konceptgenerering, verifiering och framst\u00e4llande. Kursen fokuserar p\u00e5 att genomf\u00f6ra ett produktutvecklingsprojekt med v\u00e4rdefokus. Genom att utf\u00f6ra riktiga teambaserade projekt ges studenten chansen att reflektera \u00f6ver teoretisk bas samt att till\u00e4mpa detta i en riktig milj\u00f6. Dessa erfarenheter som kommer att g\u00f6ra att den studerande f\u00e5r goda f\u00f6ruts\u00e4ttningar att vara attraktiv f\u00f6r arbetslivet.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs 150 avklarade hp varav 60 hp fr\u00e5n ett civilingenj\u00f6rsprogram i maskinteknik eller industriell ekonomi. I de 60 hp ska kurserna Analys 1, 6 hp, kurs om minst 6hp i Produktutvecklingsmetodik (Innovativ och H\u00e5llbar produktutveckling 1) och grundkurs om minst 6 hp i Industriell ekonomi (Grunderna i industriell ekonomi, 6 hp / Industriell ekonomi, \u00f6versiktskurs, 6 hp) ing\u00e5. Dessutom kr\u00e4vs genomg\u00e5ngen kurs i H\u00e5llbarhetsgrunder, 6 hp och Matematisk statistik, 6 hp.",
+      "start": "2025 vecka 45",
+      "end": "2026 vecka 03"
+    },
+    {
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20252&KtAnmKod=BMKRW&lang=sv&parentPtKod=IEACI22h",
+      "name": "F\u00f6retagsanalys",
+      "city": "Karlskrona",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=IY2583&revision=3,1&lang=sv",
+      "speed": 50,
+      "location": "Campus",
+      "code": "IY2583",
+      "points": 7.5,
+      "languages": [
+        "Svenska"
+      ],
+      "teachers": [],
+      "description": "Kursens syfte \u00e4r f\u00f6rdjupa f\u00f6rst\u00e5elsen f\u00f6r olika metoder f\u00f6r f\u00f6retagsv\u00e4rdering samt hur olika v\u00e4rdeskapande variabler bidrar till ett f\u00f6retags tillv\u00e4xt och v\u00e4rde.",
+      "requirements": "Avklarade kurser i Grunderna i industriell ekonomi 6 hp, Mikroekonomi och strategi 6 hp och Finansiell ekonomi 6 hp.",
+      "start": "2025 vecka 45",
+      "end": "2026 vecka 03"
+    },
+    {
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20262&KtAnmKod=BCYMW&lang=sv&parentPtKod=IEACI22h",
+      "name": "Till\u00e4mpad optimering",
+      "city": "Karlskrona",
+      "study_plan": "https://edu.bth.se/utbildning/utb_kursplan.asp?kurskod=MA2512&revisionsnr=8&format=pdf",
+      "speed": 50,
+      "location": "Campus",
+      "code": "MA2512",
+      "points": 7.5,
+      "languages": [
+        "Svenska"
+      ],
+      "teachers": [],
+      "description": "Kursen avser att ge kunskaper i olika linj\u00e4ra programmeringsproblem, att finna l\u00f6sningar till linj\u00e4ra program, samt att visa till\u00e4mpningar av linj\u00e4r optimeringsl\u00e4ra p\u00e5 olika teoretiska och praktiska \u00e4mnen.",
+      "requirements": "Genomg\u00e5ngna kurser i Analys 12 hp, Flervariabelanalys 6 hp samt Linj\u00e4r algebra 6 hp.",
+      "start": "2026 vecka 45",
+      "end": "2027 vecka 02"
+    },
+    {
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20262&KtAnmKod=BRENF&lang=sv&parentPtKod=IEACI22h",
+      "name": "Kvalitetsstyrning",
+      "city": "Karlskrona",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=PA2557&revision=4,1&lang=sv",
+      "speed": 50,
+      "location": "Campus",
+      "code": "PA2557",
+      "points": 7.5,
+      "languages": [
+        "Engelska"
+      ],
+      "teachers": [],
+      "description": "Kursen syftar till detaljerad f\u00f6rst\u00e5else av programvarukvalitet och utmaningar f\u00f6r att uppn\u00e5 h\u00f6g kvalitet. Dessutom diskuteras \u00e4mnen s\u00e5som kvalitetsstyrning av programvara och dess roll inom ramen f\u00f6r programvaruutveckling och de aktiviteter, tekniker och modeller som \u00e4r centrala f\u00f6r att s\u00e4kra programvarukvalitet.",
+      "requirements": "Avklarade kurser omfattande minst 120 hp varav minst 90 hp inom f\u00f6ljande omr\u00e5den: Programvaruteknik, Datavetenskap eller Datalogi. Dessutom kr\u00e4vs en avklarad kurs p\u00e5 minst 7.5 hp inom Grundl\u00e4ggande Programvaruteknik (Software Engineering) eller Programvaruutvecklingsprojekt i grupp.",
+      "start": "2026 vecka 45",
+      "end": "2027 vecka 02"
+    },
+    {
       "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20262&KtAnmKod=BQPRL&lang=sv&parentPtKod=IEACI22h",
       "name": "Industriell organisation",
       "city": "Karlskrona",
       "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=IY2603&revision=4&lang=sv",
-      "form": "Campus",
+      "speed": 50,
+      "location": "Campus",
+      "code": "IY2603",
+      "points": 7.5,
+      "languages": [
+        "Engelska"
+      ],
+      "teachers": [],
+      "description": "I denna kurs f\u00f6rdjupas analysen av sambanden mellan konkurrens, marknadsformer och f\u00f6retagsstrategi. Studenten introduceras till nya analytiska verktyg, t.ex. spelteori, som anv\u00e4nds f\u00f6r att analysera strategi och strategisk interaktion mellan f\u00f6retag under olika konkurrensvillkor. Ett s\u00e4rskilt fokus \u00e4r p\u00e5 hur produktionsteknologier ger utrymme f\u00f6r produktdifferentiering, och dess konsekvenser f\u00f6r strategi hos f\u00f6retag.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser i Till\u00e4mpad mikroekonomi, 6 hp och Matematisk statistik, 6 hp, d\u00e4rut\u00f6ver genomg\u00e5ngna kurser om 12 hp i industriell ekonomi och management.",
+      "start": "2026 vecka 36",
+      "end": "2026 vecka 44"
+    },
+    {
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20262&KtAnmKod=BNMLM&lang=sv&parentPtKod=IEACI22h",
+      "name": "Till\u00e4mpad artificiell intelligens",
+      "city": "Karlskrona",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=DV2618&revision=1&lang=sv",
+      "speed": 50,
+      "location": "Campus",
+      "code": "DV2618",
+      "points": 7.5,
+      "languages": [
+        "Engelska"
+      ],
+      "teachers": [],
+      "description": "Artificiell intelligens (AI) i olika former finns i en allt st\u00f6rre del av de datoriserade systemen vi anv\u00e4nder, t.ex. i form av optimeringstekniker, beslutsst\u00f6dsystem, bildbehandlingsanalys och robotar. Kursen syftar till att introducera omr\u00e5det artificiell intelligens och n\u00e5gra av dess till\u00e4mpningar.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs 12 avklarade hp fr\u00e5n moment i programmeringskurser (Python eller dylikt) samt 6 avklarade hp i datastrukturer och algoritmer.",
+      "start": "2026 vecka 36",
+      "end": "2026 vecka 44"
+    },
+    {
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20261&KtAnmKod=BQMTN&lang=sv&parentPtKod=IEACI22h",
+      "name": "Finansiell modellering",
+      "city": "Karlskrona",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=IY2606&revision=5&lang=sv",
+      "speed": 50,
+      "location": "Campus",
+      "code": "IY2606",
+      "points": 7.5,
+      "languages": [
+        "Engelska"
+      ],
+      "teachers": [],
+      "description": "Denna kurs f\u00f6rdjupar analysen om hur ekonomisk risk kan hanteras med hj\u00e4lp av finansiella derivat och reala optioner samt med hj\u00e4lp av portf\u00f6ljvalsteori. Kursen vidareutvecklar f\u00f6rst\u00e5elsen f\u00f6r hur kapitalmarknader fungerar och relationen mellan kapitalmarknader och f\u00f6retag i ekonomiskt v\u00e4rdeskapande.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarad kurs Finansiell ekonomi, 6 hp.",
+      "start": "2026 vecka 04",
+      "end": "2026 vecka 13"
+    },
+    {
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20242&KtAnmKod=BRKHY&lang=sv&parentPtKod=IEACI22h",
+      "name": "Innovativ och h\u00e5llbar produktutveckling 1",
+      "city": "Karlskrona",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=MT1556&revision=1&lang=sv",
+      "speed": 50,
+      "location": "Campus",
+      "code": "MT1556",
+      "points": 6.0,
+      "languages": [
+        "Svenska"
+      ],
+      "teachers": [],
+      "description": "Studenten l\u00e4r sig strategier och metoder f\u00f6r innovativ produktutveckling, projektledning och h\u00e5llbarhet i produktutveckling. Syftet med kursen \u00e4r ocks\u00e5 att st\u00f6dja studenten i att l\u00e4ra sig grundl\u00e4ggande verktyg f\u00f6r att analysera olika produktalternativ utifr\u00e5n anv\u00e4ndarens/kundens krav samt milj\u00f6krav.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs 75 avklarade h\u00f6gskolepo\u00e4ng fr\u00e5n ett ingenj\u00f6rsprogram inom maskinteknik eller industriell ekonomi inkluderande avklarad kurs H\u00e5llbarhetsgrunder, 6 hp.",
+      "start": "2024 vecka 36",
+      "end": "2024 vecka 44"
+    },
+    {
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20261&KtAnmKod=B7XGN&lang=sv&parentPtKod=IEACI22h",
+      "name": "Projektkurs i industriell ekonomi och projektledning",
+      "city": "Karlskrona",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=IY2585&revision=3,1&lang=sv",
+      "speed": 50,
+      "location": "Campus",
+      "code": "IY2585",
+      "points": 7.5,
+      "languages": [
+        "Svenska"
+      ],
+      "teachers": [],
+      "description": "Kursen syftar till att utveckla studenternas kunskap och f\u00f6rst\u00e5else f\u00f6r olika typer av ledarskap. Speciellt fokus ligger p\u00e5 hur ingenj\u00f6rskunskap samspelar med ledarskap inom ramen f\u00f6r aff\u00e4rsutvecklingsprojekt. Vidare syftar kursen till att l\u00e5ta studenterna identifiera och praktiskt genomf\u00f6ra ett utvecklingsprojekt.",
+      "requirements": "Genomg\u00e5ngna 48 hp i industriell ekonomi och management.",
+      "start": "2026 vecka 04",
+      "end": "2026 vecka 23"
+    },
+    {
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20262&KtAnmKod=BCYMW&lang=sv&parentPtKod=IEACI22h",
+      "name": "Till\u00e4mpad optimering",
+      "city": "Karlskrona",
+      "study_plan": "https://edu.bth.se/utbildning/utb_kursplan.asp?kurskod=MA2512&revisionsnr=8&format=pdf",
+      "speed": 50,
+      "location": "Campus",
+      "code": "MA2512",
+      "points": 7.5,
+      "languages": [
+        "Svenska"
+      ],
+      "teachers": [],
+      "description": "Kursen avser att ge kunskaper i olika linj\u00e4ra programmeringsproblem, att finna l\u00f6sningar till linj\u00e4ra program, samt att visa till\u00e4mpningar av linj\u00e4r optimeringsl\u00e4ra p\u00e5 olika teoretiska och praktiska \u00e4mnen.",
+      "requirements": "Genomg\u00e5ngna kurser i Analys 12 hp, Flervariabelanalys 6 hp samt Linj\u00e4r algebra 6 hp.",
+      "start": "2026 vecka 45",
+      "end": "2027 vecka 02"
+    },
+    {
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20242&KtAnmKod=BW3MG&lang=sv&parentPtKod=IEACI22h",
+      "name": "Programmering i Python, forts\u00e4ttningskurs",
+      "city": "Karlskrona",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=DV1582&revision=4&lang=sv",
+      "speed": 50,
+      "location": "Campus",
+      "code": "DV1582",
+      "points": 6.0,
+      "languages": [
+        "Svenska"
+      ],
+      "teachers": [],
+      "description": "Syftet med kursen \u00e4r kunskap i objektorienterad programmering, dels f\u00f6r fortsatta studier inom datavetenskap och dels f\u00f6r att kunna l\u00f6sa generella programmeringsuppgifter i arbetslivet.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngen kurs, Programmering och probleml\u00f6sning med Python, 6 hp, varav minst 2 hp ska vara avklarade.",
+      "start": "2024 vecka 36",
+      "end": "2024 vecka 44"
+    },
+    {
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20252&KtAnmKod=BTU4K&lang=sv&parentPtKod=IEACI22h",
+      "name": "Strategisk planering f\u00f6r organisatoriska h\u00e5llbarhetsomst\u00e4llningar",
+      "city": "Karlskrona",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=SL2559&revision=2&lang=sv",
+      "speed": 50,
+      "location": "Campus",
+      "code": "SL2559",
+      "points": 7.5,
+      "languages": [
+        "Engelska"
+      ],
+      "teachers": [],
+      "description": "Syftet med kursen \u00e4r att den studerande skall utveckla f\u00f6rdjupad kunskap om och f\u00f6rst\u00e5else f\u00f6r en metodik f\u00f6r strategiskt arbete som leder en organisation mot h\u00e5llbarhet.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs minst 120 avklarade hp inklusive minst 1,5 hp i strategisk h\u00e5llbar utveckling. Engelska 6.",
+      "start": "2025 vecka 45",
+      "end": "2026 vecka 03"
+    },
+    {
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20251&KtAnmKod=BX6FJ&lang=sv&parentPtKod=IEACI22h",
+      "name": "Programvaruintensiv produktutveckling",
+      "city": "Karlskrona",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=PA2576&revision=3&lang=sv",
+      "speed": 50,
+      "location": "Campus",
+      "code": "PA2576",
+      "points": 12.0,
+      "languages": [
+        "Engelska"
+      ],
+      "teachers": [],
+      "description": "",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser i programmering i en omfattning av 12 h\u00f6gskolepo\u00e4ng.",
+      "start": "2025 vecka 04",
+      "end": "2025 vecka 23"
+    },
+    {
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20252&KtAnmKod=BEC9M&lang=sv&parentPtKod=IEACI22h",
+      "name": "Knowledge Enabled Engineering",
+      "city": "Karlskrona",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=MT2570&revision=2&lang=sv",
+      "speed": 50,
+      "location": "Campus",
+      "code": "MT2570",
+      "points": 7.5,
+      "languages": [
+        "Engelska"
+      ],
+      "teachers": [],
+      "description": "Syftet med kursen \u00e4r att ge deltagarna insikt och f\u00f6rst\u00e5else f\u00f6r metoder och tekniker f\u00f6r kunskapsintensiva system som anv\u00e4nds f\u00f6r att utveckla komplexa produkt/tj\u00e4nstekombinationer. Knowledge Enabled Engineering (KEE) \u00e4r en samlingsterm f\u00f6r metoder och tekniker f\u00f6r kunskapsintensiva system (Knowledge Enabled Engineering-KEE) som specifikt tillgodoser behoven hos de som arbetar med produktinnovation och design. KEE omfamnar det bredare perspektivet av hur kunskapsbaserade system ska integreras och anv\u00e4nds i moderna innovationsprocesser f\u00f6r att st\u00f6dja (dvs ''enable'') ingenj\u00f6rens beslutsfattande.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs 150 avklarade h\u00f6gskolepo\u00e4ng varav 60 hp ska vara fr\u00e5n ett civilingenj\u00f6rsprogram i maskinteknik eller industriell ekonomi. I de 60 hp ska kurs om minst 6 hp Datorst\u00f6dd konstruktion, CAD ( Datorst\u00f6d f\u00f6r Ingenj\u00f6rsarbete) ing\u00e5. Dessutom kr\u00e4vs genomg\u00e5ngen kurs om minst 6 hp i Produktutvecklingsmetodik (Innovativ och H\u00e5llbar produktutveckling 1) och Matematisk statistik 6 hp.",
+      "start": "2025 vecka 36",
+      "end": "2025 vecka 44"
+    },
+    {
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20242&KtAnmKod=BHAEN&lang=sv&parentPtKod=IEACI22h",
+      "name": "Ledarskap och organisation i kunskapsintensiva milj\u00f6er",
+      "city": "Karlskrona",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=IY1428&revision=4&lang=sv",
+      "speed": 50,
+      "location": "Campus",
+      "code": "IY1428",
+      "points": 6.0,
+      "languages": [
+        "Svenska"
+      ],
+      "teachers": [],
+      "description": "Kursen syftar till att studenten ska utveckla bred kunskap om och f\u00f6rst\u00e5else av teoretiska grunder f\u00f6r olika typer av ledarskap/grupper i kunskapsintensiva milj\u00f6er p\u00e5 ett s\u00e4tt som m\u00f6jligg\u00f6r systematisk analys av eget ledarskap. Studenten skall speciellt utveckla f\u00f6rst\u00e5else och f\u00f6rm\u00e5ga att balansera en ledarskaps och entrepren\u00f6riell roll i relation till en operativ roll d\u00e4r teknik \u00e4r ett centralt element f\u00f6r organisationen. Efter avslutad kurs, \u00e4r studenten v\u00e4l rustad f\u00f6r att analysera och f\u00f6rst\u00e5 ledarskap i olika typer av situationer.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarad kurs Teknisk introduktionskurs med ingenj\u00f6rsmetodik, 8 hp eller Grunder i spelutveckling, 8 hp.",
+      "start": "2024 vecka 45",
+      "end": "2025 vecka 03"
+    },
+    {
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20261&KtAnmKod=BCA9N&lang=sv&parentPtKod=IEACI22h",
+      "name": "Strategi och aff\u00e4rsutveckling",
+      "city": "Karlskrona",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=IY2628&revision=1&lang=sv",
+      "speed": 25,
+      "location": "Campus",
+      "code": "IY2628",
+      "points": 7.5,
+      "languages": [
+        "Svenska"
+      ],
+      "teachers": [],
+      "description": "Kursen syftar till att ge f\u00f6rst\u00e5else f\u00f6r olika teoretiska ansatser av ett f\u00f6retags val av strategi och vad som p\u00e5verkar detta. Kursen behandlar olika modeller och teorier f\u00f6r att analysera ett f\u00f6retags brister i aff\u00e4rsmodeller samt n\u00f6dv\u00e4ndigt f\u00f6r\u00e4ndringsarbete f\u00f6r att skapa h\u00e5llbara aff\u00e4rsmodeller.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser Till\u00e4mpad mikroekonomi och strategi, 6 hp, F\u00f6retag och organisation, 6 hp, Industriell marknadsf\u00f6ring- Teori och praktik, 6 hp och Finansiell ekonomi, 6 hp.",
+      "start": "2026 vecka 04",
+      "end": "2026 vecka 23"
+    },
+    {
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20261&KtAnmKod=B9FAR&lang=sv&parentPtKod=IEACI22h",
+      "name": "Avancerad h\u00e5llbar produktutveckling",
+      "city": "Karlskrona",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=SL2548&revision=2&lang=sv",
+      "speed": 50,
+      "location": "Campus",
+      "code": "SL2548",
+      "points": 7.5,
+      "languages": [
+        "Engelska"
+      ],
+      "teachers": [],
+      "description": "",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarat 4 hp i produktutveckling, exempelvis fr\u00e5n n\u00e5gon av kurserna Innovativ och h\u00e5llbar produktutveckling, 7,5 hp eller V\u00e4rdeinnovation, 7,5 hp samt genomg\u00e5ngen kurs i H\u00e5llbar Produktutveckling, 7,5 hp.",
+      "start": "2026 vecka 04",
+      "end": "2026 vecka 13"
+    },
+    {
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20262&KtAnmKod=BJMPK&lang=sv&parentPtKod=IEACI22h",
+      "name": "Till\u00e4mpad konkurrens- och marknadsanalys",
+      "city": "Karlskrona",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=IY2608&revision=4,1&lang=sv",
+      "speed": 50,
+      "location": "Campus",
+      "code": "IY2608",
+      "points": 7.5,
+      "languages": [
+        "Engelska"
+      ],
+      "teachers": [],
+      "description": "I kursen kommer studenterna att arbeta med empiriska modeller f\u00f6r att unders\u00f6ka v\u00e4rdet av data utifr\u00e5n olika fr\u00e5gest\u00e4llningar. Studenterna kommer att genomf\u00f6ra olika empiriska analyser utifr\u00e5n tidigare genomg\u00e5ngen teori f\u00f6r att besvara typiska strategiska fr\u00e5gest\u00e4llningar ett f\u00f6retag m\u00f6ter. I kursen ing\u00e5r konkurrens- och marknadsanalyser.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser i Till\u00e4mpad mikroekonomi, 6 hp och Matematisk statistik, 6 hp, d\u00e4rut\u00f6ver genomg\u00e5ngna kurser om 12 hp i industriell ekonomi och management.",
+      "start": "2026 vecka 45",
+      "end": "2027 vecka 02"
+    },
+    {
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20262&KtAnmKod=BLEJ4&lang=sv&parentPtKod=IEACI22h",
+      "name": "Transformativ produkt- och tj\u00e4nstesystemsinnovation",
+      "city": "Karlskrona",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=MT2573&revision=1,1&lang=sv",
+      "speed": 50,
+      "location": "Campus",
+      "code": "MT2573",
+      "points": 15.0,
+      "languages": [
+        "Engelska"
+      ],
+      "teachers": [],
+      "description": "Syftet med kursen \u00e4r att studenterna ska f\u00e5 f\u00f6rst\u00e5else f\u00f6r hur olika l\u00f6sningar utvecklas i industrin idag genom att till\u00e4mpa och integrera kunskap som beh\u00f6vs f\u00f6r framtida produkt- och tj\u00e4nstesystemsinnovationer (PSS-innovation). Studenterna f\u00f6rv\u00e4rvar kunskaper inom projektledning, kreativ konceptutveckling, systemt\u00e4nkande f\u00f6r h\u00e5llbarhet och tekniska l\u00f6sningar.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs minst 180 avklarade hp varav 80 hp fr\u00e5n ett ingenj\u00f6rsprogram i Maskinteknik, Industriell Ekonomi eller motsvarande, inkluderande avklarad kurs i produktutvecklingsmetodik (Design Thinking 7,5 hp Systems Engineering 7,5 hp V\u00e4rdeinnovation 7,5 hp eller motsvarande).",
+      "start": "2026 vecka 36",
+      "end": "2027 vecka 02"
+    },
+    {
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20262&KtAnmKod=BQPRL&lang=sv&parentPtKod=IEACI22h",
+      "name": "Industriell organisation",
+      "city": "Karlskrona",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=IY2603&revision=4&lang=sv",
       "speed": 50,
       "location": "Campus",
       "code": "IY2603",
@@ -1091,8 +1197,7 @@
       "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20262&KtAnmKod=BCTAU&lang=sv&parentPtKod=IEACI22h",
       "name": "Forskningsmetod och design",
       "city": "Karlskrona",
-      "study_plan": "https://edu.bth.seutb_kursplan.asp?kurskod=IY2587&revisionsnr=6&format=pdf",
-      "form": "Campus",
+      "study_plan": "https://edu.bth.se/utbildning/utb_kursplan.asp?kurskod=IY2587&revisionsnr=6&format=pdf",
       "speed": 50,
       "location": "Campus",
       "code": "IY2587",
@@ -1107,277 +1212,64 @@
       "end": "2027 vecka 02"
     },
     {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20242&KtAnmKod=BHAEN&lang=sv&parentPtKod=IEACI22h",
-      "name": "Ledarskap och organisation i kunskapsintensiva milj\u00f6er",
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20261&KtAnmKod=BH69F&lang=sv&parentPtKod=IEACI22h",
+      "name": "Virtuell prototypframst\u00e4llning",
       "city": "Karlskrona",
-      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=IY1428&revision=4&lang=sv",
-      "form": "Campus",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=MT2578&revision=1&lang=sv",
       "speed": 50,
       "location": "Campus",
-      "code": "IY1428",
-      "points": 6.0,
-      "languages": [
-        "Svenska"
-      ],
-      "teachers": [],
-      "description": "Kursen syftar till att studenten ska utveckla bred kunskap om och f\u00f6rst\u00e5else av teoretiska grunder f\u00f6r olika typer av ledarskap/grupper i kunskapsintensiva milj\u00f6er p\u00e5 ett s\u00e4tt som m\u00f6jligg\u00f6r systematisk analys av eget ledarskap. Studenten skall speciellt utveckla f\u00f6rst\u00e5else och f\u00f6rm\u00e5ga att balansera en ledarskaps och entrepren\u00f6riell roll i relation till en operativ roll d\u00e4r teknik \u00e4r ett centralt element f\u00f6r organisationen. Efter avslutad kurs, \u00e4r studenten v\u00e4l rustad f\u00f6r att analysera och f\u00f6rst\u00e5 ledarskap i olika typer av situationer.",
-      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarad kurs Teknisk introduktionskurs med ingenj\u00f6rsmetodik, 8 hp eller Grunder i spelutveckling, 8 hp.",
-      "start": "2024 vecka 45",
-      "end": "2025 vecka 03"
-    },
-    {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20262&KtAnmKod=BLEJ4&lang=sv&parentPtKod=IEACI22h",
-      "name": "Transformativ produkt- och tj\u00e4nstesystemsinnovation",
-      "city": "Karlskrona",
-      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=MT2573&revision=1,1&lang=sv",
-      "form": "Campus",
-      "speed": 50,
-      "location": "Campus",
-      "code": "MT2573",
-      "points": 15.0,
+      "code": "MT2578",
+      "points": 7.5,
       "languages": [
         "Engelska"
       ],
       "teachers": [],
-      "description": "Syftet med kursen \u00e4r att studenterna ska f\u00e5 f\u00f6rst\u00e5else f\u00f6r hur olika l\u00f6sningar utvecklas i industrin idag genom att till\u00e4mpa och integrera kunskap som beh\u00f6vs f\u00f6r framtida produkt- och tj\u00e4nstesystemsinnovationer (PSS-innovation). Studenterna f\u00f6rv\u00e4rvar kunskaper inom projektledning, kreativ konceptutveckling, systemt\u00e4nkande f\u00f6r h\u00e5llbarhet och tekniska l\u00f6sningar.",
-      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs minst 180 avklarade hp varav 80 hp fr\u00e5n ett ingenj\u00f6rsprogram i Maskinteknik, Industriell Ekonomi eller motsvarande, inkluderande avklarad kurs i produktutvecklingsmetodik (Design Thinking 7,5 hp Systems Engineering 7,5 hp V\u00e4rdeinnovation 7,5 hp eller motsvarande).",
-      "start": "2026 vecka 36",
-      "end": "2027 vecka 02"
-    },
-    {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20261&KtAnmKod=B7XGN&lang=sv&parentPtKod=IEACI22h",
-      "name": "Projektkurs i industriell ekonomi och projektledning",
-      "city": "Karlskrona",
-      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=IY2585&revision=3,1&lang=sv",
-      "form": "Campus",
-      "speed": 50,
-      "location": "Campus",
-      "code": "IY2585",
-      "points": 7.5,
-      "languages": [
-        "Svenska"
-      ],
-      "teachers": [],
-      "description": "Kursen syftar till att utveckla studenternas kunskap och f\u00f6rst\u00e5else f\u00f6r olika typer av ledarskap. Speciellt fokus ligger p\u00e5 hur ingenj\u00f6rskunskap samspelar med ledarskap inom ramen f\u00f6r aff\u00e4rsutvecklingsprojekt. Vidare syftar kursen till att l\u00e5ta studenterna identifiera och praktiskt genomf\u00f6ra ett utvecklingsprojekt.",
-      "requirements": "Genomg\u00e5ngna 48 hp i industriell ekonomi och management.",
-      "start": "2026 vecka 04",
+      "description": "",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs 150 avklarade hp varav 60 hp fr\u00e5n ett civilingenj\u00f6rsprogram i maskinteknik (eller motsvarande). I de 60 hp ska kurserna i produktutvecklingsmetodik (Innovativ och H\u00e5llbar produktutveckling 1/Design Thinking), minst 6 hp och Datorst\u00f6d f\u00f6r ingenj\u00f6rer (eller motsvarande), minst 5 hp ing\u00e5.",
+      "start": "2026 vecka 14",
       "end": "2026 vecka 23"
     },
     {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20252&KtAnmKod=B3Q3Q&lang=sv&parentPtKod=IEACI22h",
-      "name": "Till\u00e4mpad optimering",
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20251&KtAnmKod=BF4JY&lang=sv&parentPtKod=IEACI22h",
+      "name": "Finansiell ekonomi",
       "city": "Karlskrona",
-      "study_plan": "https://edu.bth.seutb_kursplan.asp?kurskod=MA2512&revisionsnr=8&format=pdf",
-      "form": "Campus",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=IY1422&revision=6&lang=sv",
       "speed": 50,
       "location": "Campus",
-      "code": "MA2512",
-      "points": 7.5,
-      "languages": [
-        "Svenska"
-      ],
-      "teachers": [],
-      "description": "Kursen avser att ge kunskaper i olika linj\u00e4ra programmeringsproblem, att finna l\u00f6sningar till linj\u00e4ra program, samt att visa till\u00e4mpningar av linj\u00e4r optimeringsl\u00e4ra p\u00e5 olika teoretiska och praktiska \u00e4mnen.",
-      "requirements": "Genomg\u00e5ngna kurser i Analys 12 hp, Flervariabelanalys 6 hp samt Linj\u00e4r algebra 6 hp.",
-      "start": "2025 vecka 45",
-      "end": "2026 vecka 03"
-    },
-    {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20261&KtAnmKod=BCA9N&lang=sv&parentPtKod=IEACI22h",
-      "name": "Strategi och aff\u00e4rsutveckling",
-      "city": "Karlskrona",
-      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=IY2628&revision=1&lang=sv",
-      "form": "Campus",
-      "speed": 25,
-      "location": "Campus",
-      "code": "IY2628",
-      "points": 7.5,
-      "languages": [
-        "Svenska"
-      ],
-      "teachers": [],
-      "description": "Kursen syftar till att ge f\u00f6rst\u00e5else f\u00f6r olika teoretiska ansatser av ett f\u00f6retags val av strategi och vad som p\u00e5verkar detta. Kursen behandlar olika modeller och teorier f\u00f6r att analysera ett f\u00f6retags brister i aff\u00e4rsmodeller samt n\u00f6dv\u00e4ndigt f\u00f6r\u00e4ndringsarbete f\u00f6r att skapa h\u00e5llbara aff\u00e4rsmodeller.",
-      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser Till\u00e4mpad mikroekonomi och strategi, 6 hp, F\u00f6retag och organisation, 6 hp, Industriell marknadsf\u00f6ring- Teori och praktik, 6 hp och Finansiell ekonomi, 6 hp.",
-      "start": "2026 vecka 04",
-      "end": "2026 vecka 23"
-    },
-    {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20262&KtAnmKod=BCYMW&lang=sv&parentPtKod=IEACI22h",
-      "name": "Till\u00e4mpad optimering",
-      "city": "Karlskrona",
-      "study_plan": "https://edu.bth.seutb_kursplan.asp?kurskod=MA2512&revisionsnr=8&format=pdf",
-      "form": "Campus",
-      "speed": 50,
-      "location": "Campus",
-      "code": "MA2512",
-      "points": 7.5,
-      "languages": [
-        "Svenska"
-      ],
-      "teachers": [],
-      "description": "Kursen avser att ge kunskaper i olika linj\u00e4ra programmeringsproblem, att finna l\u00f6sningar till linj\u00e4ra program, samt att visa till\u00e4mpningar av linj\u00e4r optimeringsl\u00e4ra p\u00e5 olika teoretiska och praktiska \u00e4mnen.",
-      "requirements": "Genomg\u00e5ngna kurser i Analys 12 hp, Flervariabelanalys 6 hp samt Linj\u00e4r algebra 6 hp.",
-      "start": "2026 vecka 45",
-      "end": "2027 vecka 02"
-    },
-    {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20262&KtAnmKod=BCYMW&lang=sv&parentPtKod=IEACI22h",
-      "name": "Till\u00e4mpad optimering",
-      "city": "Karlskrona",
-      "study_plan": "https://edu.bth.seutb_kursplan.asp?kurskod=MA2512&revisionsnr=8&format=pdf",
-      "form": "Campus",
-      "speed": 50,
-      "location": "Campus",
-      "code": "MA2512",
-      "points": 7.5,
-      "languages": [
-        "Svenska"
-      ],
-      "teachers": [],
-      "description": "Kursen avser att ge kunskaper i olika linj\u00e4ra programmeringsproblem, att finna l\u00f6sningar till linj\u00e4ra program, samt att visa till\u00e4mpningar av linj\u00e4r optimeringsl\u00e4ra p\u00e5 olika teoretiska och praktiska \u00e4mnen.",
-      "requirements": "Genomg\u00e5ngna kurser i Analys 12 hp, Flervariabelanalys 6 hp samt Linj\u00e4r algebra 6 hp.",
-      "start": "2026 vecka 45",
-      "end": "2027 vecka 02"
-    },
-    {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20262&KtAnmKod=B7X4R&lang=sv&parentPtKod=IEACI22h",
-      "name": "Introduktion till Cloud Computing",
-      "city": "Karlskrona",
-      "study_plan": "https://edu.bth.seutb_kursplan.asp?kurskod=DV1566&revisionsnr=5&format=pdf",
-      "form": "Campus",
-      "speed": 50,
-      "location": "Campus",
-      "code": "DV1566",
-      "points": 7.5,
-      "languages": [
-        "Engelska"
-      ],
-      "teachers": [],
-      "description": "Kursen fokuserar p\u00e5 de grundl\u00e4ggande koncepten f\u00f6r distribuerade system och cloud computing. Kursen omfattar teoretiska och praktiska aspekter med fokus p\u00e5 verkliga exempel. Efter genomf\u00f6rd  kurs ska studenten vara kapabel att v\u00e4lja, installera och anv\u00e4nda grundl\u00e4ggande molnresurser (till exempel datorer och lagring som en tj\u00e4nst) och att utforma och implementera skalbara arkitekturer och applikationer.",
-      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att den studerande har avklarat: programmering 15 hp, algoritmer och datastrukturer 6 hp  och  operativsystem 6 hp.",
-      "start": "2026 vecka 45",
-      "end": "2027 vecka 02"
-    },
-    {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20262&KtAnmKod=BNMLM&lang=sv&parentPtKod=IEACI22h",
-      "name": "Till\u00e4mpad artificiell intelligens",
-      "city": "Karlskrona",
-      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=DV2618&revision=1&lang=sv",
-      "form": "Campus",
-      "speed": 50,
-      "location": "Campus",
-      "code": "DV2618",
-      "points": 7.5,
-      "languages": [
-        "Engelska"
-      ],
-      "teachers": [],
-      "description": "Artificiell intelligens (AI) i olika former finns i en allt st\u00f6rre del av de datoriserade systemen vi anv\u00e4nder, t.ex. i form av optimeringstekniker, beslutsst\u00f6dsystem, bildbehandlingsanalys och robotar. Kursen syftar till att introducera omr\u00e5det artificiell intelligens och n\u00e5gra av dess till\u00e4mpningar.",
-      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs 12 avklarade hp fr\u00e5n moment i programmeringskurser (Python eller dylikt) samt 6 avklarade hp i datastrukturer och algoritmer.",
-      "start": "2026 vecka 36",
-      "end": "2026 vecka 44"
-    },
-    {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20242&KtAnmKod=BW3MG&lang=sv&parentPtKod=IEACI22h",
-      "name": "Programmering i Python, forts\u00e4ttningskurs",
-      "city": "Karlskrona",
-      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=DV1582&revision=4&lang=sv",
-      "form": "Campus",
-      "speed": 50,
-      "location": "Campus",
-      "code": "DV1582",
+      "code": "IY1422",
       "points": 6.0,
       "languages": [
         "Svenska"
       ],
       "teachers": [],
-      "description": "Syftet med kursen \u00e4r kunskap i objektorienterad programmering, dels f\u00f6r fortsatta studier inom datavetenskap och dels f\u00f6r att kunna l\u00f6sa generella programmeringsuppgifter i arbetslivet.",
-      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngen kurs, Programmering och probleml\u00f6sning med Python, 6 hp, varav minst 2 hp ska vara avklarade.",
-      "start": "2024 vecka 36",
-      "end": "2024 vecka 44"
+      "description": "Kursens syfte \u00e4r att den studerande skall utveckla kunskaper i teorier och modeller f\u00f6r att v\u00e4rdera reala och finansiella investeringar utifr\u00e5n olika ansatser samt hur detta p\u00e5verkar ett f\u00f6retags v\u00e4rde. Vidare syftar kursen till att ge den studerande kunskap kring vilken roll ett f\u00f6retags kapitalstruktur spelar utifr\u00e5n ett",
+      "requirements": "Grundl\u00e4ggande beh\u00f6righet samt genomg\u00e5ngna kurser i Grunderna i industriell ekonomi 6 hp, Mikroekonomi och strategi 6 hp och Ekonometri 6 hp.",
+      "start": "2025 vecka 14",
+      "end": "2025 vecka 23"
     },
     {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20261&KtAnmKod=BQMTN&lang=sv&parentPtKod=IEACI22h",
-      "name": "Finansiell modellering",
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20252&KtAnmKod=B39YK&lang=sv&parentPtKod=IEACI22h",
+      "name": "UNIX och Linux, en \u00f6versikt och introduktion",
       "city": "Karlskrona",
-      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=IY2606&revision=5&lang=sv",
-      "form": "Campus",
+      "study_plan": "https://edu.bth.se/utbildning/utb_kursplan.asp?kurskod=DV1466&revisionsnr=9&format=pdf",
       "speed": 50,
       "location": "Campus",
-      "code": "IY2606",
+      "code": "DV1466",
       "points": 7.5,
       "languages": [
         "Engelska"
       ],
       "teachers": [],
-      "description": "Denna kurs f\u00f6rdjupar analysen om hur ekonomisk risk kan hanteras med hj\u00e4lp av finansiella derivat och reala optioner samt med hj\u00e4lp av portf\u00f6ljvalsteori. Kursen vidareutvecklar f\u00f6rst\u00e5elsen f\u00f6r hur kapitalmarknader fungerar och relationen mellan kapitalmarknader och f\u00f6retag i ekonomiskt v\u00e4rdeskapande.",
-      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarad kurs Finansiell ekonomi, 6 hp.",
-      "start": "2026 vecka 04",
-      "end": "2026 vecka 13"
-    },
-    {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20262&KtAnmKod=BRENF&lang=sv&parentPtKod=IEACI22h",
-      "name": "Kvalitetsstyrning",
-      "city": "Karlskrona",
-      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=PA2557&revision=4,1&lang=sv",
-      "form": "Campus",
-      "speed": 50,
-      "location": "Campus",
-      "code": "PA2557",
-      "points": 7.5,
-      "languages": [
-        "Engelska"
-      ],
-      "teachers": [],
-      "description": "Kursen syftar till detaljerad f\u00f6rst\u00e5else av programvarukvalitet och utmaningar f\u00f6r att uppn\u00e5 h\u00f6g kvalitet. Dessutom diskuteras \u00e4mnen s\u00e5som kvalitetsstyrning av programvara och dess roll inom ramen f\u00f6r programvaruutveckling och de aktiviteter, tekniker och modeller som \u00e4r centrala f\u00f6r att s\u00e4kra programvarukvalitet.",
-      "requirements": "Avklarade kurser omfattande minst 120 hp varav minst 90 hp inom f\u00f6ljande omr\u00e5den: Programvaruteknik, Datavetenskap eller Datalogi. Dessutom kr\u00e4vs en avklarad kurs p\u00e5 minst 7.5 hp inom Grundl\u00e4ggande Programvaruteknik (Software Engineering) eller Programvaruutvecklingsprojekt i grupp.",
-      "start": "2026 vecka 45",
-      "end": "2027 vecka 02"
-    },
-    {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20242&KtAnmKod=BFMLU&lang=sv&parentPtKod=IEACI22h",
-      "name": "Matematisk statistik",
-      "city": "Karlskrona",
-      "study_plan": "https://edu.bth.seutb_kursplan.asp?kurskod=MS1405&revisionsnr=8&format=pdf",
-      "form": "Campus",
-      "speed": 50,
-      "location": "Campus",
-      "code": "MS1405",
-      "points": 6.0,
-      "languages": [
-        "Svenska"
-      ],
-      "teachers": [],
-      "description": "Kursens syfte \u00e4r att studenterna skall skaffa sig kunskaper i s\u00e5v\u00e4l sannolikhetsteori som statistisk teori och metodik. Tonvikten ligger p\u00e5 sannolikhetsteori med tekniska till\u00e4mpningar som grund f\u00f6r fortsatta studier i tekniska \u00e4mnen, t.ex. tillf\u00f6rlitlighetsteknik, signalbehandling och telekommunikation samt \u00e4ven ekonomi.",
-      "requirements": "Genomg\u00e5ngna kurser i Analys 12 hp samt Linj\u00e4r algebra 6 hp (eller motsvarande).",
-      "start": "2024 vecka 36",
-      "end": "2024 vecka 44"
-    },
-    {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20261&KtAnmKod=BRW6L&lang=sv&parentPtKod=IEACI22h",
-      "name": "Anv\u00e4ndbarhet och interaktionsdesign",
-      "city": "Karlskrona",
-      "study_plan": "https://edu.bth.seutb_kursplan.asp?kurskod=DV1557&revisionsnr=7&format=pdf",
-      "form": "Campus",
-      "speed": 50,
-      "location": "Campus",
-      "code": "DV1557",
-      "points": 7.5,
-      "languages": [
-        "Svenska"
-      ],
-      "teachers": [],
-      "description": "Kursen syftar till att ge kunskap om design av interaktionssystem f\u00f6r \u00f6kad anv\u00e4ndbarhet och st\u00f6d f\u00f6r anv\u00e4ndarens behov. Kursen lyfter fram tillv\u00e4gag\u00e5ngss\u00e4tt och begrepp inom bed\u00f6mning av anv\u00e4ndbarhet och interaktionsdesign. Vidare introducerar kursen till omr\u00e5det m\u00e4nniska-datorinteraktion (HCI) och olika utvecklingsmetoder.",
-      "requirements": "7.5hp avklarad kurs inom huvudomr\u00e5det datavetenskap",
-      "start": "2026 vecka 04",
-      "end": "2026 vecka 13"
+      "description": "Ett operativsystem implementerar n\u00e5gon form av interaktionsfilosofi mellan anv\u00e4ndare och maskin. UNIX-liknande system betonar programm\u00e4ssiga gr\u00e4nssnitt f\u00f6r enkel automatisering av repetitiva uppgifter. Denna design g\u00f6r UNIX till det dominerande operativsystemet f\u00f6r storskaliga servrar och sm\u00e5skaliga mobila enheter.",
+      "requirements": "Grundl\u00e4ggande beh\u00f6righet.",
+      "start": "2025 vecka 36",
+      "end": "2025 vecka 44"
     },
     {
       "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20252&KtAnmKod=BLGFJ&lang=sv&parentPtKod=IEACI22h",
       "name": "Design Thinking",
       "city": "Karlskrona",
       "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=MT2569&revision=2,1&lang=sv",
-      "form": "Campus",
       "speed": 50,
       "location": "Campus",
       "code": "MT2569",
@@ -1392,11 +1284,118 @@
       "end": "2025 vecka 44"
     },
     {
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20271&KtAnmKod=BH4X7&lang=sv&parentPtKod=IEACI22h",
+      "name": "Examensarbete f\u00f6r civilingenj\u00f6rer",
+      "city": "Karlskrona",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=TE2502&revision=4,1&lang=sv",
+      "speed": 100,
+      "location": "Campus",
+      "code": "TE2502",
+      "points": 30.0,
+      "languages": [
+        "Svenska"
+      ],
+      "teachers": [],
+      "description": "Syftet med kursen \u00e4r att studenten tr\u00e4nar sin f\u00f6rm\u00e5ga att definiera, planera, genomf\u00f6ra och redovisa ett sj\u00e4lvst\u00e4ndigt forsknings- och utvecklingsarbete inom huvud\u00e4mnet f\u00f6r civilingenj\u00f6rsprogrammet. Examensarbetet inneb\u00e4r en till\u00e4mpning och syntes av de under utbildningen f\u00f6rv\u00e4rvade kunskaper och ska visa studentens f\u00f6rm\u00e5ga att arbeta sj\u00e4lvst\u00e4ndigt som civilingenj\u00f6r.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att studenten har avklarat minst 240 hp som f\u00e5r ing\u00e5 i en civilingenj\u00f6rsexamen. Av dessa ska minst 30 hp vara avklarade kurser p\u00e5 avancerad niv\u00e5.",
+      "start": "2027 vecka 03",
+      "end": "2027 vecka 22"
+    },
+    {
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20252&KtAnmKod=BEDWG&lang=sv&parentPtKod=IEACI22h",
+      "name": "Produktionsekonomi",
+      "city": "Karlskrona",
+      "study_plan": "https://edu.bth.se/utbildning/utb_kursplan.asp?kurskod=IY2595&revisionsnr=6&format=pdf",
+      "speed": 50,
+      "location": "Campus",
+      "code": "IY2595",
+      "points": 7.5,
+      "languages": [
+        "Svenska"
+      ],
+      "teachers": [],
+      "description": "Kursen syftar till att vidareutveckla f\u00f6rst\u00e5elsen mellan varufl\u00f6den inom och utom f\u00f6retaget och de resulterande ekonomiska fl\u00f6dena. Kursen behandlar \u00e4ven metoder och modeller f\u00f6r prognostisering och planering av varu- och penningfl\u00f6den.",
+      "requirements": "Avklarade kurser Introduktion till industriell ekonomi 6 hp, Mikroekonomi och strategi 6 hp eller motsvarande",
+      "start": "2025 vecka 36",
+      "end": "2025 vecka 44"
+    },
+    {
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20261&KtAnmKod=BRW6L&lang=sv&parentPtKod=IEACI22h",
+      "name": "Anv\u00e4ndbarhet och interaktionsdesign",
+      "city": "Karlskrona",
+      "study_plan": "https://edu.bth.se/utbildning/utb_kursplan.asp?kurskod=DV1557&revisionsnr=7&format=pdf",
+      "speed": 50,
+      "location": "Campus",
+      "code": "DV1557",
+      "points": 7.5,
+      "languages": [
+        "Svenska"
+      ],
+      "teachers": [],
+      "description": "Kursen syftar till att ge kunskap om design av interaktionssystem f\u00f6r \u00f6kad anv\u00e4ndbarhet och st\u00f6d f\u00f6r anv\u00e4ndarens behov. Kursen lyfter fram tillv\u00e4gag\u00e5ngss\u00e4tt och begrepp inom bed\u00f6mning av anv\u00e4ndbarhet och interaktionsdesign. Vidare introducerar kursen till omr\u00e5det m\u00e4nniska-datorinteraktion (HCI) och olika utvecklingsmetoder.",
+      "requirements": "7.5hp avklarad kurs inom huvudomr\u00e5det datavetenskap",
+      "start": "2026 vecka 04",
+      "end": "2026 vecka 13"
+    },
+    {
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20252&KtAnmKod=BQLUF&lang=sv&parentPtKod=IEACI22h",
+      "name": "Till\u00e4mpad artificiell intelligens",
+      "city": "Karlskrona",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=DV2618&revision=1&lang=sv",
+      "speed": 50,
+      "location": "Campus",
+      "code": "DV2618",
+      "points": 7.5,
+      "languages": [
+        "Engelska"
+      ],
+      "teachers": [],
+      "description": "Artificiell intelligens (AI) i olika former finns i en allt st\u00f6rre del av de datoriserade systemen vi anv\u00e4nder, t.ex. i form av optimeringstekniker, beslutsst\u00f6dsystem, bildbehandlingsanalys och robotar. Kursen syftar till att introducera omr\u00e5det artificiell intelligens och n\u00e5gra av dess till\u00e4mpningar.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs 12 avklarade hp fr\u00e5n moment i programmeringskurser (Python eller dylikt) samt 6 avklarade hp i datastrukturer och algoritmer.",
+      "start": "2025 vecka 36",
+      "end": "2025 vecka 44"
+    },
+    {
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20242&KtAnmKod=BJPPG&lang=sv&parentPtKod=IEACI22h",
+      "name": "Ekonometri",
+      "city": "Karlskrona",
+      "study_plan": "https://edu.bth.se/utbildning/utb_kursplan.asp?kurskod=IY1420&revisionsnr=6&format=pdf",
+      "speed": 50,
+      "location": "Campus",
+      "code": "IY1420",
+      "points": 6.0,
+      "languages": [
+        "Svenska"
+      ],
+      "teachers": [],
+      "description": "Kursens syfte \u00e4r att den studerande skall f\u00e5 kunskaper och \u00f6vning i att formulera ekonometriska modeller i syfte att analysera samband mellan ekonomiska variabler, samt f\u00f6rst\u00e5 hur ekonometriska modeller kan anv\u00e4ndas",
+      "requirements": "Grundl\u00e4ggande beh\u00f6righet samt genomg\u00e5ngna kurser i Mikroekonomi och strategi 6 hp samt F\u00f6retag och organisation 6 hp.",
+      "start": "2024 vecka 45",
+      "end": "2025 vecka 03"
+    },
+    {
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20251&KtAnmKod=BDQPQ&lang=sv&parentPtKod=IEACI22h",
+      "name": "Objektorienterad design",
+      "city": "Karlskrona",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=PA1472&revision=1&lang=sv",
+      "speed": 50,
+      "location": "Campus",
+      "code": "PA1472",
+      "points": 6.0,
+      "languages": [
+        "Svenska"
+      ],
+      "teachers": [],
+      "description": "Arkitekturen och designen av ett mjukvarusystem p\u00e5verkar i h\u00f6g grad kvaliteten p\u00e5 systemet och kostnaden f\u00f6r utvecklingen. Utg\u00e5ende fr\u00e5n grundl\u00e4ggande objektorienterade begrepp och designprinciper analyseras och modelleras ett systems struktur och beteende med hj\u00e4lp av modelleringsspr\u00e5ket UML (Unified Modelling Language) i en strukturerad arbetsmetodik, Unified Process. Arbetsmetodiken utg\u00e5r fr\u00e5n en beksrivning av kundkrav och bygger en sp\u00e5rbar kedja via olika UML-modeller hela v\u00e4gen fram till implementation och testning. Den strukturerade arbetsmetodiken och modelleringsspr\u00e5ket UML ger ett st\u00f6d till designarbetet, men f\u00f6r att skapa en h\u00e5llbar programvarudesign kr\u00e4vs ocks\u00e5 en f\u00f6rst\u00e5else f\u00f6r grundl\u00e4ggande designprinciper och designm\u00f6nster. Designm\u00f6nster \u00e4r generella l\u00f6sningsf\u00f6rslag p\u00e5 vanligt f\u00f6rekommande problem, och som mjukvaruutvecklare f\u00f6rv\u00e4ntas man k\u00e4nna till och kunna anpassa dessa generella l\u00f6sningar till de konkreta utmaningar man f\u00f6rs\u00f6ker l\u00f6sa. Grundl\u00e4ggande designprinciper beskriver hur man f\u00f6rdelar olika typer av ansvar mellan klasser f\u00f6r att f\u00e5 l\u00f6st kopplad och l\u00e4ttunderh\u00e5llen programvarukod.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att den studerande har avklarat programmering motsvarande 6 h\u00f6gskolepo\u00e4ng.",
+      "start": "2025 vecka 04",
+      "end": "2025 vecka 13"
+    },
+    {
       "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20252&KtAnmKod=B93C7&lang=sv&parentPtKod=IEACI22h",
       "name": "Maskininl\u00e4rning",
       "city": "Karlskrona",
       "study_plan": "",
-      "form": "Campus",
       "speed": 50,
       "location": "Campus",
       "code": "DV2626",
@@ -1415,7 +1414,6 @@
       "name": "Datastrukturer och algoritmer",
       "city": "Karlskrona",
       "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=DV1625&revision=3,1&lang=sv",
-      "form": "Campus",
       "speed": 50,
       "location": "Campus",
       "code": "DV1625",
@@ -1430,106 +1428,28 @@
       "end": "2025 vecka 23"
     },
     {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20271&KtAnmKod=BH4X7&lang=sv&parentPtKod=IEACI22h",
-      "name": "Examensarbete f\u00f6r civilingenj\u00f6rer",
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20252&KtAnmKod=B3Q3Q&lang=sv&parentPtKod=IEACI22h",
+      "name": "Till\u00e4mpad optimering",
       "city": "Karlskrona",
-      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=TE2502&revision=4,1&lang=sv",
-      "form": "Campus",
-      "speed": 100,
-      "location": "Campus",
-      "code": "TE2502",
-      "points": 30.0,
-      "languages": [
-        "Svenska"
-      ],
-      "teachers": [],
-      "description": "Syftet med kursen \u00e4r att studenten tr\u00e4nar sin f\u00f6rm\u00e5ga att definiera, planera, genomf\u00f6ra och redovisa ett sj\u00e4lvst\u00e4ndigt forsknings- och utvecklingsarbete inom huvud\u00e4mnet f\u00f6r civilingenj\u00f6rsprogrammet. Examensarbetet inneb\u00e4r en till\u00e4mpning och syntes av de under utbildningen f\u00f6rv\u00e4rvade kunskaper och ska visa studentens f\u00f6rm\u00e5ga att arbeta sj\u00e4lvst\u00e4ndigt som civilingenj\u00f6r.",
-      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att studenten har avklarat minst 240 hp som f\u00e5r ing\u00e5 i en civilingenj\u00f6rsexamen. Av dessa ska minst 30 hp vara avklarade kurser p\u00e5 avancerad niv\u00e5.",
-      "start": "2027 vecka 03",
-      "end": "2027 vecka 22"
-    },
-    {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20252&KtAnmKod=BEDWG&lang=sv&parentPtKod=IEACI22h",
-      "name": "Produktionsekonomi",
-      "city": "Karlskrona",
-      "study_plan": "https://edu.bth.seutb_kursplan.asp?kurskod=IY2595&revisionsnr=6&format=pdf",
-      "form": "Campus",
+      "study_plan": "https://edu.bth.se/utbildning/utb_kursplan.asp?kurskod=MA2512&revisionsnr=8&format=pdf",
       "speed": 50,
       "location": "Campus",
-      "code": "IY2595",
+      "code": "MA2512",
       "points": 7.5,
       "languages": [
         "Svenska"
       ],
       "teachers": [],
-      "description": "Kursen syftar till att vidareutveckla f\u00f6rst\u00e5elsen mellan varufl\u00f6den inom och utom f\u00f6retaget och de resulterande ekonomiska fl\u00f6dena. Kursen behandlar \u00e4ven metoder och modeller f\u00f6r prognostisering och planering av varu- och penningfl\u00f6den.",
-      "requirements": "Avklarade kurser Introduktion till industriell ekonomi 6 hp, Mikroekonomi och strategi 6 hp eller motsvarande",
-      "start": "2025 vecka 36",
-      "end": "2025 vecka 44"
-    },
-    {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20251&KtAnmKod=BDQPQ&lang=sv&parentPtKod=IEACI22h",
-      "name": "Objektorienterad design",
-      "city": "Karlskrona",
-      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=PA1472&revision=1&lang=sv",
-      "form": "Campus",
-      "speed": 50,
-      "location": "Campus",
-      "code": "PA1472",
-      "points": 6.0,
-      "languages": [
-        "Svenska"
-      ],
-      "teachers": [],
-      "description": "Arkitekturen och designen av ett mjukvarusystem p\u00e5verkar i h\u00f6g grad kvaliteten p\u00e5 systemet och kostnaden f\u00f6r utvecklingen. Utg\u00e5ende fr\u00e5n grundl\u00e4ggande objektorienterade begrepp och designprinciper analyseras och modelleras ett systems struktur och beteende med hj\u00e4lp av modelleringsspr\u00e5ket UML (Unified Modelling Language) i en strukturerad arbetsmetodik, Unified Process. Arbetsmetodiken utg\u00e5r fr\u00e5n en beksrivning av kundkrav och bygger en sp\u00e5rbar kedja via olika UML-modeller hela v\u00e4gen fram till implementation och testning. Den strukturerade arbetsmetodiken och modelleringsspr\u00e5ket UML ger ett st\u00f6d till designarbetet, men f\u00f6r att skapa en h\u00e5llbar programvarudesign kr\u00e4vs ocks\u00e5 en f\u00f6rst\u00e5else f\u00f6r grundl\u00e4ggande designprinciper och designm\u00f6nster. Designm\u00f6nster \u00e4r generella l\u00f6sningsf\u00f6rslag p\u00e5 vanligt f\u00f6rekommande problem, och som mjukvaruutvecklare f\u00f6rv\u00e4ntas man k\u00e4nna till och kunna anpassa dessa generella l\u00f6sningar till de konkreta utmaningar man f\u00f6rs\u00f6ker l\u00f6sa. Grundl\u00e4ggande designprinciper beskriver hur man f\u00f6rdelar olika typer av ansvar mellan klasser f\u00f6r att f\u00e5 l\u00f6st kopplad och l\u00e4ttunderh\u00e5llen programvarukod.",
-      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att den studerande har avklarat programmering motsvarande 6 h\u00f6gskolepo\u00e4ng.",
-      "start": "2025 vecka 04",
-      "end": "2025 vecka 13"
-    },
-    {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20242&KtAnmKod=BJPPG&lang=sv&parentPtKod=IEACI22h",
-      "name": "Ekonometri",
-      "city": "Karlskrona",
-      "study_plan": "https://edu.bth.seutb_kursplan.asp?kurskod=IY1420&revisionsnr=6&format=pdf",
-      "form": "Campus",
-      "speed": 50,
-      "location": "Campus",
-      "code": "IY1420",
-      "points": 6.0,
-      "languages": [
-        "Svenska"
-      ],
-      "teachers": [],
-      "description": "Kursens syfte \u00e4r att den studerande skall f\u00e5 kunskaper och \u00f6vning i att formulera ekonometriska modeller i syfte att analysera samband mellan ekonomiska variabler, samt f\u00f6rst\u00e5 hur ekonometriska modeller kan anv\u00e4ndas",
-      "requirements": "Grundl\u00e4ggande beh\u00f6righet samt genomg\u00e5ngna kurser i Mikroekonomi och strategi 6 hp samt F\u00f6retag och organisation 6 hp.",
-      "start": "2024 vecka 45",
-      "end": "2025 vecka 03"
-    },
-    {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20252&KtAnmKod=BQLUF&lang=sv&parentPtKod=IEACI22h",
-      "name": "Till\u00e4mpad artificiell intelligens",
-      "city": "Karlskrona",
-      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=DV2618&revision=1&lang=sv",
-      "form": "Campus",
-      "speed": 50,
-      "location": "Campus",
-      "code": "DV2618",
-      "points": 7.5,
-      "languages": [
-        "Engelska"
-      ],
-      "teachers": [],
-      "description": "Artificiell intelligens (AI) i olika former finns i en allt st\u00f6rre del av de datoriserade systemen vi anv\u00e4nder, t.ex. i form av optimeringstekniker, beslutsst\u00f6dsystem, bildbehandlingsanalys och robotar. Kursen syftar till att introducera omr\u00e5det artificiell intelligens och n\u00e5gra av dess till\u00e4mpningar.",
-      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs 12 avklarade hp fr\u00e5n moment i programmeringskurser (Python eller dylikt) samt 6 avklarade hp i datastrukturer och algoritmer.",
-      "start": "2025 vecka 36",
-      "end": "2025 vecka 44"
+      "description": "Kursen avser att ge kunskaper i olika linj\u00e4ra programmeringsproblem, att finna l\u00f6sningar till linj\u00e4ra program, samt att visa till\u00e4mpningar av linj\u00e4r optimeringsl\u00e4ra p\u00e5 olika teoretiska och praktiska \u00e4mnen.",
+      "requirements": "Genomg\u00e5ngna kurser i Analys 12 hp, Flervariabelanalys 6 hp samt Linj\u00e4r algebra 6 hp.",
+      "start": "2025 vecka 45",
+      "end": "2026 vecka 03"
     },
     {
       "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20252&KtAnmKod=B6Q3U&lang=sv&parentPtKod=IEACI22h",
       "name": "H\u00e5llbar produktutveckling",
       "city": "Karlskrona",
       "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=SL2543&revision=3&lang=sv",
-      "form": "Campus",
       "speed": 50,
       "location": "Campus",
       "code": "SL2543",
@@ -1544,26 +1464,25 @@
       "end": "2026 vecka 03"
     },
     {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20252&KtAnmKod=B3Q3Q&lang=sv&parentPtKod=IEACI22h",
-      "name": "Till\u00e4mpad optimering",
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20242&KtAnmKod=BFMLU&lang=sv&parentPtKod=IEACI22h",
+      "name": "Matematisk statistik",
       "city": "Karlskrona",
-      "study_plan": "https://edu.bth.seutb_kursplan.asp?kurskod=MA2512&revisionsnr=8&format=pdf",
-      "form": "Campus",
+      "study_plan": "https://edu.bth.se/utbildning/utb_kursplan.asp?kurskod=MS1405&revisionsnr=8&format=pdf",
       "speed": 50,
       "location": "Campus",
-      "code": "MA2512",
-      "points": 7.5,
+      "code": "MS1405",
+      "points": 6.0,
       "languages": [
         "Svenska"
       ],
       "teachers": [],
-      "description": "Kursen avser att ge kunskaper i olika linj\u00e4ra programmeringsproblem, att finna l\u00f6sningar till linj\u00e4ra program, samt att visa till\u00e4mpningar av linj\u00e4r optimeringsl\u00e4ra p\u00e5 olika teoretiska och praktiska \u00e4mnen.",
-      "requirements": "Genomg\u00e5ngna kurser i Analys 12 hp, Flervariabelanalys 6 hp samt Linj\u00e4r algebra 6 hp.",
-      "start": "2025 vecka 45",
-      "end": "2026 vecka 03"
+      "description": "Kursens syfte \u00e4r att studenterna skall skaffa sig kunskaper i s\u00e5v\u00e4l sannolikhetsteori som statistisk teori och metodik. Tonvikten ligger p\u00e5 sannolikhetsteori med tekniska till\u00e4mpningar som grund f\u00f6r fortsatta studier i tekniska \u00e4mnen, t.ex. tillf\u00f6rlitlighetsteknik, signalbehandling och telekommunikation samt \u00e4ven ekonomi.",
+      "requirements": "Genomg\u00e5ngna kurser i Analys 12 hp samt Linj\u00e4r algebra 6 hp (eller motsvarande).",
+      "start": "2024 vecka 36",
+      "end": "2024 vecka 44"
     }
   ],
   "start": "2022 vecka 34",
   "end": "2023 vecka 02",
-  "generated": "2023-01-21 11:49:15.590628"
+  "generated": "2023-01-21 17:19:49.546581"
 }

@@ -1,8 +1,7 @@
 {
   "name": "Masterprogram i strategisk fysisk planering",
   "city": "Karlskrona",
-  "study_plan": "https://edu.bth.se/utbildningsplaner/FMASN_ht-22.pdf",
-  "form": "Campus",
+  "study_plan": "https://edu.bth.se/utbildning//utbildningsplaner/FMASN_ht-22.pdf",
   "speed": 100,
   "location": "Campus",
   "code": "FMASN22h",
@@ -15,93 +14,10 @@
   "url": "https://www.bth.se/utbildning/program/fmasn22h/",
   "required_courses": [
     {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20231&KtAnmKod=BRHFM&lang=sv&parentPtKod=FMASN22h",
-      "name": "Vetenskapligt arbete: teoretiska utg\u00e5ngspunkter och unders\u00f6kningsmetoder",
-      "city": "Karlskrona",
-      "study_plan": "https://edu.bth.seutb_kursplan.asp?kurskod=FM2597&revisionsnr=5&format=pdf",
-      "form": "Campus",
-      "speed": 100,
-      "location": "Campus",
-      "code": "FM2597",
-      "points": 7.5,
-      "languages": [
-        "Svenska"
-      ],
-      "teachers": [
-        "Sabrina Fredin"
-      ],
-      "description": "Syftet med kursen \u00e4r att ge de studerande f\u00f6rdjupade kunskaper om olika vetenskapsteoretiska utg\u00e5ngspunkter och deras ontologiska och epistemologiska premisser. Vidare \u00e4r syftet att pr\u00f6va och reflektera \u00f6ver olika metodval i samband med valda vetenskapsteoretiska utg\u00e5ngspunkter.",
-      "requirements": "Genomg\u00e5ngna kurser motsvarande 30hp p\u00e5 avancerad niv\u00e5 inom huvudomr\u00e5det Fysisk planering",
-      "start": "2023 vecka 03",
-      "end": "2023 vecka 07"
-    },
-    {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20231&KtAnmKod=BMFCX&lang=sv&parentPtKod=FMASN22h",
-      "name": "Samh\u00e4llsorganisation och styrformer",
-      "city": "Karlskrona",
-      "study_plan": "https://edu.bth.seutb_kursplan.asp?kurskod=FM2598&revisionsnr=5&format=pdf",
-      "form": "Campus",
-      "speed": 100,
-      "location": "Campus",
-      "code": "FM2598",
-      "points": 7.5,
-      "languages": [
-        "Svenska"
-      ],
-      "teachers": [
-        "Jimmie Anders\u00e9n"
-      ],
-      "description": "Syftet med kursen \u00e4r att f\u00f6rdjupa kunskaperna hos den studerande om hur samh\u00e4llet organiseras och styrs, och hur olika styrformer relaterar till lagar och regleringar samt till planeringens praktik. Vidare f\u00f6rdjupas den studerandes kunskaper om projekt som arbetsform och f\u00e4rdigheter i att arbeta i projekt.",
-      "requirements": "Genomg\u00e5ngna kurser motsvarande 30hp p\u00e5 avancerad niv\u00e5 inom huvudomr\u00e5det Fysisk planering",
-      "start": "2023 vecka 08",
-      "end": "2023 vecka 12"
-    },
-    {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20232&KtAnmKod=BY33K&lang=sv&parentPtKod=FMASN22h",
-      "name": "Projektarbete i strategisk fysisk planering",
-      "city": "Karlskrona",
-      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=FM2609&revision=3&lang=sv",
-      "form": "Campus",
-      "speed": 100,
-      "location": "Campus",
-      "code": "FM2609",
-      "points": 15.0,
-      "languages": [
-        "Svenska"
-      ],
-      "teachers": [],
-      "description": "Kursens syfte \u00e4r att ge de studerande en m\u00f6jlighet att i praktiken till\u00e4mpa de kunskaper om strategisk planering som f\u00f6rv\u00e4rvats under programmet. H\u00e4r visar de studerande sin f\u00f6rm\u00e5ga att praktisera strategisk planering och att till\u00e4mpa s\u00e5dana f\u00e4rdigheter som \u00e4r relevanta f\u00f6r det projekt som valts. Vidare \u00e4r syftet att det valda planeringsprojektet skall utf\u00f6ras i samarbete med tillt\u00e4nkta avn\u00e4mare till utbildningen.",
-      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngna kurser motsvarande 60 hp p\u00e5 avancerad niv\u00e5 inom huvudomr\u00e5det fysisk planering varav minst 45 hp ska vara avklarade. Bland de avklarade kurserna ska kursen Introduktion till strategisk fysisk planering 15 hp ing\u00e5.",
-      "start": "2023 vecka 44",
-      "end": "2024 vecka 02"
-    },
-    {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20222&KtAnmKod=BR9DW&lang=sv&parentPtKod=FMASN22h",
-      "name": "Framtidsbilder",
-      "city": "Karlskrona",
-      "study_plan": "https://edu.bth.seutb_kursplan.asp?kurskod=FM2606&revisionsnr=5&format=pdf",
-      "form": "Campus",
-      "speed": 100,
-      "location": "Campus",
-      "code": "FM2606",
-      "points": 15.0,
-      "languages": [
-        "Svenska"
-      ],
-      "teachers": [
-        "Bertil Malmstr\u00f6m"
-      ],
-      "description": "Kursen syftar till att f\u00f6rdjupa kunskaper om de tekniker, metoder och vetenskapliga f\u00f6rh\u00e5llningss\u00e4tt som till\u00e4mpas i arbetet med att formulera m\u00e5l och visioner inom planeringen. Vidare syftar kursen till att utveckla en kunskap och en f\u00e4rdighet som m\u00f6jligg\u00f6r att kunna kritiskt granska detta arbete utifr\u00e5n hur olika akt\u00f6rer som experter, politiker, medborgare och kommersiella akt\u00f6rer p\u00e5verkar processen.",
-      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs kandidatexamen 180 hp d\u00e4r minst 30 hp planering ing\u00e5r, alternativt kandidatexamen 180hp och d\u00e4rut\u00f6ver 30 hp planering eller motsvarande.",
-      "start": "2022 vecka 44",
-      "end": "2023 vecka 02"
-    },
-    {
       "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20231&KtAnmKod=BMFDN&lang=sv&parentPtKod=FMASN22h",
       "name": "Planeringsteori",
       "city": "Karlskrona",
-      "study_plan": "https://edu.bth.seutb_kursplan.asp?kurskod=FM2607&revisionsnr=5&format=pdf",
-      "form": "Campus",
+      "study_plan": "https://edu.bth.se/utbildning/utb_kursplan.asp?kurskod=FM2607&revisionsnr=5&format=pdf",
       "speed": 100,
       "location": "Campus",
       "code": "FM2607",
@@ -118,11 +34,28 @@
       "end": "2023 vecka 17"
     },
     {
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20232&KtAnmKod=BY33K&lang=sv&parentPtKod=FMASN22h",
+      "name": "Projektarbete i strategisk fysisk planering",
+      "city": "Karlskrona",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=FM2609&revision=3&lang=sv",
+      "speed": 100,
+      "location": "Campus",
+      "code": "FM2609",
+      "points": 15.0,
+      "languages": [
+        "Svenska"
+      ],
+      "teachers": [],
+      "description": "Kursens syfte \u00e4r att ge de studerande en m\u00f6jlighet att i praktiken till\u00e4mpa de kunskaper om strategisk planering som f\u00f6rv\u00e4rvats under programmet. H\u00e4r visar de studerande sin f\u00f6rm\u00e5ga att praktisera strategisk planering och att till\u00e4mpa s\u00e5dana f\u00e4rdigheter som \u00e4r relevanta f\u00f6r det projekt som valts. Vidare \u00e4r syftet att det valda planeringsprojektet skall utf\u00f6ras i samarbete med tillt\u00e4nkta avn\u00e4mare till utbildningen.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngna kurser motsvarande 60 hp p\u00e5 avancerad niv\u00e5 inom huvudomr\u00e5det fysisk planering varav minst 45 hp ska vara avklarade. Bland de avklarade kurserna ska kursen Introduktion till strategisk fysisk planering 15 hp ing\u00e5.",
+      "start": "2023 vecka 44",
+      "end": "2024 vecka 02"
+    },
+    {
       "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20222&KtAnmKod=BYWH7&lang=sv&parentPtKod=FMASN22h",
       "name": "Introduktion till strategisk fysisk planering",
       "city": "Karlskrona",
-      "study_plan": "https://edu.bth.seutb_kursplan.asp?kurskod=FM2550&revisionsnr=9&format=pdf",
-      "form": "Campus",
+      "study_plan": "https://edu.bth.se/utbildning/utb_kursplan.asp?kurskod=FM2550&revisionsnr=9&format=pdf",
       "speed": 100,
       "location": "Campus",
       "code": "FM2550",
@@ -139,11 +72,30 @@
       "end": "2022 vecka 43"
     },
     {
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20231&KtAnmKod=BMFCX&lang=sv&parentPtKod=FMASN22h",
+      "name": "Samh\u00e4llsorganisation och styrformer",
+      "city": "Karlskrona",
+      "study_plan": "https://edu.bth.se/utbildning/utb_kursplan.asp?kurskod=FM2598&revisionsnr=5&format=pdf",
+      "speed": 100,
+      "location": "Campus",
+      "code": "FM2598",
+      "points": 7.5,
+      "languages": [
+        "Svenska"
+      ],
+      "teachers": [
+        "Jimmie Anders\u00e9n"
+      ],
+      "description": "Syftet med kursen \u00e4r att f\u00f6rdjupa kunskaperna hos den studerande om hur samh\u00e4llet organiseras och styrs, och hur olika styrformer relaterar till lagar och regleringar samt till planeringens praktik. Vidare f\u00f6rdjupas den studerandes kunskaper om projekt som arbetsform och f\u00e4rdigheter i att arbeta i projekt.",
+      "requirements": "Genomg\u00e5ngna kurser motsvarande 30hp p\u00e5 avancerad niv\u00e5 inom huvudomr\u00e5det Fysisk planering",
+      "start": "2023 vecka 08",
+      "end": "2023 vecka 12"
+    },
+    {
       "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20231&KtAnmKod=BMPL7&lang=sv&parentPtKod=FMASN22h",
       "name": "Tematiska studier",
       "city": "Karlskrona",
-      "study_plan": "https://edu.bth.seutb_kursplan.asp?kurskod=FM2599&revisionsnr=5&format=pdf",
-      "form": "Campus",
+      "study_plan": "https://edu.bth.se/utbildning/utb_kursplan.asp?kurskod=FM2599&revisionsnr=5&format=pdf",
       "speed": 100,
       "location": "Campus",
       "code": "FM2599",
@@ -160,11 +112,30 @@
       "end": "2023 vecka 22"
     },
     {
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20231&KtAnmKod=BRHFM&lang=sv&parentPtKod=FMASN22h",
+      "name": "Vetenskapligt arbete: teoretiska utg\u00e5ngspunkter och unders\u00f6kningsmetoder",
+      "city": "Karlskrona",
+      "study_plan": "https://edu.bth.se/utbildning/utb_kursplan.asp?kurskod=FM2597&revisionsnr=5&format=pdf",
+      "speed": 100,
+      "location": "Campus",
+      "code": "FM2597",
+      "points": 7.5,
+      "languages": [
+        "Svenska"
+      ],
+      "teachers": [
+        "Sabrina Fredin"
+      ],
+      "description": "Syftet med kursen \u00e4r att ge de studerande f\u00f6rdjupade kunskaper om olika vetenskapsteoretiska utg\u00e5ngspunkter och deras ontologiska och epistemologiska premisser. Vidare \u00e4r syftet att pr\u00f6va och reflektera \u00f6ver olika metodval i samband med valda vetenskapsteoretiska utg\u00e5ngspunkter.",
+      "requirements": "Genomg\u00e5ngna kurser motsvarande 30hp p\u00e5 avancerad niv\u00e5 inom huvudomr\u00e5det Fysisk planering",
+      "start": "2023 vecka 03",
+      "end": "2023 vecka 07"
+    },
+    {
       "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20232&KtAnmKod=BNLC4&lang=sv&parentPtKod=FMASN22h",
       "name": "Regional planering med internationella perspektiv",
       "city": "Karlskrona",
       "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=FM2608&revision=3&lang=sv",
-      "form": "Campus",
       "speed": 100,
       "location": "Campus",
       "code": "FM2608",
@@ -179,11 +150,30 @@
       "end": "2023 vecka 43"
     },
     {
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20222&KtAnmKod=BR9DW&lang=sv&parentPtKod=FMASN22h",
+      "name": "Framtidsbilder",
+      "city": "Karlskrona",
+      "study_plan": "https://edu.bth.se/utbildning/utb_kursplan.asp?kurskod=FM2606&revisionsnr=5&format=pdf",
+      "speed": 100,
+      "location": "Campus",
+      "code": "FM2606",
+      "points": 15.0,
+      "languages": [
+        "Svenska"
+      ],
+      "teachers": [
+        "Bertil Malmstr\u00f6m"
+      ],
+      "description": "Kursen syftar till att f\u00f6rdjupa kunskaper om de tekniker, metoder och vetenskapliga f\u00f6rh\u00e5llningss\u00e4tt som till\u00e4mpas i arbetet med att formulera m\u00e5l och visioner inom planeringen. Vidare syftar kursen till att utveckla en kunskap och en f\u00e4rdighet som m\u00f6jligg\u00f6r att kunna kritiskt granska detta arbete utifr\u00e5n hur olika akt\u00f6rer som experter, politiker, medborgare och kommersiella akt\u00f6rer p\u00e5verkar processen.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs kandidatexamen 180 hp d\u00e4r minst 30 hp planering ing\u00e5r, alternativt kandidatexamen 180hp och d\u00e4rut\u00f6ver 30 hp planering eller motsvarande.",
+      "start": "2022 vecka 44",
+      "end": "2023 vecka 02"
+    },
+    {
       "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20241&KtAnmKod=BRFKN&lang=sv&parentPtKod=FMASN22h",
       "name": "Masterarbete i fysisk planering",
       "city": "Karlskrona",
       "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=FM2612&revision=3&lang=sv",
-      "form": "Campus",
       "speed": 100,
       "location": "Campus",
       "code": "FM2612",
@@ -201,5 +191,5 @@
   "optional_courses": [],
   "start": "2022 vecka 35",
   "end": "2023 vecka 02",
-  "generated": "2023-01-21 11:57:25.448693"
+  "generated": "2023-01-21 17:28:29.225717"
 }
