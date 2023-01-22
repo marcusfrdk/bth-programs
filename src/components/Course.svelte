@@ -156,6 +156,7 @@
           color: var(--weak);
           user-select: none;
           white-space: nowrap;
+          margin-left: 1rem;
         }
       }
     }
