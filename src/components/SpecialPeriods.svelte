@@ -96,7 +96,6 @@
       }
 
       & > p.time {
-        color: var(--weak);
         font-size: 0.875rem;
       }
     }
