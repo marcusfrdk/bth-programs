@@ -45,6 +45,11 @@
               course.requirements?.includes("avklar") ? "Kräver avklarade kurser" : undefined
             ].filter(f => f).join(" | ")}</p>
             <p class="requirements">{course?.requirements || "Inga inträdeskrav"}</p>
+            
+            {#if course.url}
+              <a class="read-more" href={course.url} rel="noreferrer" target="_blank" aria-label="Gå till kurssidan">Gå till kurssidan</a>
+            {/if}
+
             <ul class="other">
               {#each [
                 ...(course?.teachers || []),
@@ -122,6 +127,7 @@
           & > a {
             font-size: 0.875rem;
             color: var(--muted);
+            text-decoration: underline;
           }
         }
 
@@ -131,7 +137,12 @@
         }
 
         & > p.requirements {
-          margin-top: 0.5rem;
+          margin: 0.5rem 0;
+        }
+        
+        & > a.read-more {
+          text-decoration: underline;
+          color: var(--muted);
         }
 
         & > ul.other {
