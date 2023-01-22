@@ -32,8 +32,8 @@
         {/each}
       {/each}  
     {:else}
-      {#each Array(9) as _}
-        <li class="loading pulse" />
+      {#each Array(12) as _, i}
+        <li class={`loading pulse ${i % 4 === 0 ? "title" : ""}`} />
       {/each}
     {/if}
   </ul>
@@ -65,10 +65,17 @@
       max-width: calc(100vw - 2rem);
 
       & > li.loading {
-        height: 10rem;
+        height: 4rem;
         width: 100%;
         background-color: var(--bottom);
         border-radius: 0.5rem;
+
+        &.title {
+          height: 1.25rem;
+          margin-bottom: 0.5rem !important;
+          width: clamp(4rem, 9rem, 90vw);
+        }
+
         &:not(:last-of-type) {
           margin-bottom: 1rem;
         }
