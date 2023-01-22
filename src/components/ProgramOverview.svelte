@@ -23,6 +23,7 @@
     width: 100vw;
     display: flex;
     justify-content: center;
+    padding-top: 1rem;
 
     & > div {
       width: 64rem;

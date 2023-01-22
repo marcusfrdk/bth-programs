@@ -83,8 +83,8 @@
 
 <main>
   <Header program={selectedCode} programs={Object.keys(data.programs)} onSelect={updateProgram} />
-  <YearSelector selected={selectedYear} years={years} onSelect={updateYear} />
   <ProgramOverview {program} />
+  <YearSelector selected={selectedYear} years={years} onSelect={updateYear} />
   <Courses {program} />
   <Footer {program} />
 </main>

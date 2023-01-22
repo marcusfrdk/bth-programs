@@ -29,13 +29,13 @@
     justify-content: center;
 
     & > ul {
-      
       display: flex;
       list-style: none;
       align-items: center;
       width: 64rem;
       max-width: calc(100vw - 2rem);
-      padding: 1rem;
+      margin-top: 0.5rem;
+      margin-bottom: 1rem;
       padding-left: 0;
       overflow-x: auto;
       scroll-snap-type: x mandatory;
