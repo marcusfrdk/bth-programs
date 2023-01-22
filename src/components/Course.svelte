@@ -25,7 +25,7 @@
           {/if}
         </div>
         {#if collapsed}
-          <p class="details">{course.code} | {course.points} hp</p>
+          <p class="details">{course.code} | {course.points} hp{course.requirements?.includes("avklar") ? " | Har krav" : ""}</p>
         {/if}
       </div>
       <p class="toggle">
