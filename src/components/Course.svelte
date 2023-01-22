@@ -105,6 +105,13 @@
         }
         & > p.title {
           font-weight: var(--font-medium);
+          line-height: 1.5rem;
+          max-height: 3rem;
+          overflow: hidden;
+          word-wrap: break-word;
+          hyphens: auto;
+          -moz-hyphens: auto;
+          -webkit-hyphens: auto;
         }
         & > p.optional {
           background-color: var(--middle);
@@ -123,6 +130,7 @@
         border-radius: 0.25rem;
         color: var(--weak);
         user-select: none;
+        white-space: nowrap;
       }
     }
 
