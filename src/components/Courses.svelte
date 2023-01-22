@@ -3,6 +3,7 @@
 	import { getSemester } from "$utils/format";
 	import { groupSemesters } from "$utils/object";
 	import type { ICourse, IProgram } from "../types/Program";
+	import SpecialPeriods from "./SpecialPeriods.svelte";
 
   export let program: IProgram;
   let courses: Record<string, ICourse[]> = {};
@@ -21,7 +22,8 @@
 <div class="container">
   <ul>
     {#if Object.keys(courses).length > 0}
-      {#each Object.entries(courses) as semester}
+      {#each Object.entries(courses) as semester, i}
+        <SpecialPeriods semester={getSemester(semester[0])} index={i} />
         <h2 class="semester">{semester[0].split(" ")[0]}<small>{getSemester(semester[0])}</small></h2>
         {#each semester[1] as course}
           <li>
