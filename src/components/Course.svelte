@@ -15,17 +15,23 @@
 
 <li class={`container ${collapsed ? "collapsed" : ""}`}>
   <div class="header" on:click={collapse} on:keydown={collapse}>
-    <div>
-      <div style={`background-color: ${generateColor(course.code?.slice(0, 2) || "")};`} />
-      <p class="title">{course.name}</p>
-      {#if isOptional}
-        <p class="optional">Valfri</p>
-      {/if}
+    <div class="icon" style={`background-color: ${generateColor(course.code?.slice(0, 2) || "")};`} />
+    <div class="content">
+      <div class="left">
+        <div class="title">
+          <p class="title">{course.name}</p>
+          {#if isOptional}
+            <p class="optional">Valfri</p>
+          {/if}
+        </div>
+        {#if collapsed}
+          <p class="details">{course.code} | {course.points} hp</p>
+        {/if}
+      </div>
+      <p class="toggle">
+        {collapsed ? "Visa mer" : "Dölj detaljer"}
+      </p>
     </div>
-
-    <p class="toggle">
-      {collapsed ? "Visa mer" : "Dölj detaljer"}
-    </p>
   </div>
 
   <p class="details">{[
@@ -89,48 +95,68 @@
     & > div.header {
       display: flex;
       align-items: center;
-      justify-content: space-between;
       padding: 1rem;
       cursor: pointer;
 
-      & > div {
+      & > div.icon {
+        height: 1rem;
+        width: 1rem;
+        min-height: 1rem;
+        min-width: 1rem;
+        background-color: var(--middle);
+        border-radius: 50%;
+        margin-right: 0.5rem;
+      }
+
+      & > div.content {
         display: flex;
         align-items: center;
-        & > div {
-          min-height: 1rem;
-          min-width: 1rem;
-          background-color: var(--middle);
-          border-radius: 50%;
-          margin-right: 0.5rem;
+        justify-content: space-between;
+        width: 100%;
+
+        & > div.left {
+          & > div.title {
+            display: flex;
+            align-items: center;
+
+            & > p.title {
+              font-weight: var(--font-medium);
+              font-size: var(--font-m);
+              line-height: var(--font-m);
+              max-height: calc(var(--font-m) * 2);
+              overflow: hidden;
+              word-wrap: break-word;
+              hyphens: auto;
+              -moz-hyphens: auto;
+              -webkit-hyphens: auto;
+            }
+            & > p.optional {
+              background-color: var(--middle);
+              margin: 0 0.5rem;
+              font-size: 0.875rem;
+              padding: 0.125rem 0.25rem;
+              border-radius: 0.25rem;
+              color: var(--weak);
+            }
+          }
+          & > p.details {
+            color: var(--weak);
+            font-size: 0.875rem;
+            margin-top: 0.125rem;
+          }
         }
-        & > p.title {
-          font-weight: var(--font-medium);
-          line-height: 1.5rem;
-          max-height: 3rem;
-          overflow: hidden;
-          word-wrap: break-word;
-          hyphens: auto;
-          -moz-hyphens: auto;
-          -webkit-hyphens: auto;
-        }
-        & > p.optional {
+
+        & > p.toggle {
           background-color: var(--middle);
-          margin: 0 0.5rem;
+          padding: 0.25rem 0.5rem;
+          cursor: pointer;
+          height: fit-content;
           font-size: 0.875rem;
-          padding: 0.125rem 0.25rem;
           border-radius: 0.25rem;
           color: var(--weak);
+          user-select: none;
+          white-space: nowrap;
         }
-      }
-      & > p.toggle {
-        background-color: var(--middle);
-        padding: 0.25rem 0.5rem;
-        cursor: pointer;
-        font-size: 0.875rem;
-        border-radius: 0.25rem;
-        color: var(--weak);
-        user-select: none;
-        white-space: nowrap;
       }
     }
 
