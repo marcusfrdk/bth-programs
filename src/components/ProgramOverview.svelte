@@ -1,6 +1,5 @@
 <script lang="ts">
 	import type { IProgram } from "../types/Program";
-
   export let program: Partial<IProgram>;
 </script>
 
@@ -8,7 +7,6 @@
   <div>
     <h1>{program?.name || "Program title"}</h1>
     <p class="points">{program?.points} hp</p>
-    <!-- <p class="languages">{program?.languages?.join(" | ")}</p> -->
     <ul class="details">
       {#if !program}
         {#each Array(5) as _}
@@ -57,12 +55,6 @@
       p.points {
         color: var(--weak);
         font-size: 1.125rem;
-        margin-top: 0.5rem;
-      }
-      
-      p.languages {
-        color: var(--muted);
-        font-size: 0.875rem;
         margin-top: 0.5rem;
       }
 

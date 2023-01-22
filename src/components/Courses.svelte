@@ -9,7 +9,11 @@
   export let program: IProgram;
   let courses: Record<string, ICourse[]> = {};
   let optional: string[] = [];
-  let collapsed: boolean = true;
+  let currentYear = new Date().getFullYear();
+  let currentSemester = [
+    currentYear,
+    getSemester(currentYear)
+  ];
 
   $: if(program) {
     courses = groupSemesters([...program.required_courses, ...program.optional_courses]
@@ -26,7 +30,7 @@
     {#if Object.keys(courses).length > 0}
       {#each Object.entries(courses) as semester, i}
         <SpecialPeriods semester={getSemester(semester[0])} index={i} />
-        <h2 class="semester">{semester[0].split(" ")[0]}<small>{getSemester(semester[0])}</small></h2>
+        <li class={`semester ${Number(semester[0].split(" ")[0]) === currentSemester[0] && getSemester(semester[0]) === currentSemester[1] ? "current" : ""}`}>{semester[0].split(" ")[0]}<small>{getSemester(semester[0])}</small></li>
         {#each semester[1] as course}
           <Course isOptional={optional.includes(course?.code || "")} {course} />
         {/each}
@@ -44,25 +48,37 @@
     display: flex;
     width: 100vw;
     justify-content: center;
-
-    h2 {
-      font-size: 1.125rem;
-      margin-bottom: 0.5rem;
-      
-      & > small {
-        margin-left: 0.5rem;
-        color: var(--weak);
-      }
-      
-      &:not(:first-of-type){
-        margin-top: 2rem;
-      }
-    }
-
+    
     & > ul {
       list-style: none;
       width: 64rem;
       max-width: calc(100vw - 2rem);
+      
+      & > li.semester {
+        font-weight: var(--font-medium);
+        font-size: var(--font-l);
+        margin-bottom: 0.5rem;
+
+        &.current {
+          background-color: var(--primary);
+          padding: 1rem;
+          border-radius: 0.5rem;
+          margin-bottom: 1rem;
+          * {
+            color: var(--primary-text);
+          }
+        }
+        
+        & > small {
+          margin-left: 0.5rem;
+          color: var(--weak);
+          font-size: 0.75em;
+        }
+        
+        &:not(:first-of-type){
+          margin-top: 2rem;
+        }
+      }
 
       & > li.loading {
         height: 4rem;
