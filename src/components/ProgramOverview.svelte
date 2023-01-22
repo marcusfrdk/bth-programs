@@ -8,12 +8,23 @@
   <div>
     <h1>{program?.name || "Program title"}</h1>
     <p class="points">{program?.points} hp</p>
-    <p class="languages">{program?.languages?.join(" | ")}</p>
+    <!-- <p class="languages">{program?.languages?.join(" | ")}</p> -->
     <ul class="details">
-      <li>{program?.teacher}</li>
-      <li>{program?.city?.includes("Distans") ? "Distans" : program?.city}</li>
-      <li>{program?.location}</li>
-      <li>{program?.speed}%</li>
+      {#if !program}
+        {#each Array(5) as _}
+          <li>Loading...</li>
+        {/each}
+      {:else}
+        {#each [
+          program?.teacher || "",
+          program?.city?.includes("Distans") ? "Distans" : program?.city || "",
+          program?.location,
+          program?.speed ? program.speed + "%" : "",
+          ...(program?.languages || [])
+        ].filter(f => f) as text}
+          <li>{text}</li>
+        {/each}
+      {/if}
     </ul>
   </div>
 </section>
