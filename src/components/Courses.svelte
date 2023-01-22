@@ -30,7 +30,7 @@
             <div class="header">
               <div>
                 <div style={`background-color: ${generateColor(course.code?.slice(0, 2) || "")};`} />
-                <a href={course.url} rel="noreferrer" target="_blank" class="title">{course.name}</a>
+                <p class="title">{course.name}</p>
                 {#if optional.includes(course?.code || "")}
                   <p class="optional">Valfri</p>
                 {/if}
@@ -39,6 +39,7 @@
                 <a href={course.study_plan} rel="noreferrer" target="_blank">Studieplan</a>
               {/if}
             </div>
+
             <p class="details">{[
               course.code, 
               course.points ? `${course.points} hp` : undefined,
@@ -80,10 +81,15 @@
 
     h2 {
       font-size: 1.125rem;
+      margin-bottom: 0.5rem;
       
       & > small {
         margin-left: 0.5rem;
         color: var(--weak);
+      }
+      
+      &:not(:first-of-type){
+        margin-top: 2rem;
       }
     }
 
@@ -112,7 +118,7 @@
               border-radius: 50%;
               margin-right: 0.5rem;
             }
-            & > a.title {
+            & > p.title {
               font-weight: var(--font-medium);
             }
             & > p.optional {
