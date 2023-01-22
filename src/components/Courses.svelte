@@ -3,11 +3,13 @@
 	import { getSemester } from "$utils/format";
 	import { groupSemesters } from "$utils/object";
 	import type { ICourse, IProgram } from "../types/Program";
+	import Course from "./Course.svelte";
 	import SpecialPeriods from "./SpecialPeriods.svelte";
 
   export let program: IProgram;
   let courses: Record<string, ICourse[]> = {};
   let optional: string[] = [];
+  let collapsed: boolean = true;
 
   $: if(program) {
     courses = groupSemesters([...program.required_courses, ...program.optional_courses]
@@ -26,43 +28,7 @@
         <SpecialPeriods semester={getSemester(semester[0])} index={i} />
         <h2 class="semester">{semester[0].split(" ")[0]}<small>{getSemester(semester[0])}</small></h2>
         {#each semester[1] as course}
-          <li>
-            <div class="header">
-              <div>
-                <div style={`background-color: ${generateColor(course.code?.slice(0, 2) || "")};`} />
-                <p class="title">{course.name}</p>
-                {#if optional.includes(course?.code || "")}
-                  <p class="optional">Valfri</p>
-                {/if}
-              </div>
-              {#if course.study_plan}
-                <a href={course.study_plan} rel="noreferrer" target="_blank">Studieplan</a>
-              {/if}
-            </div>
-
-            <p class="details">{[
-              course.code, 
-              course.points ? `${course.points} hp` : undefined,
-              course.requirements?.includes("avklar") ? "Kräver avklarade kurser" : undefined
-            ].filter(f => f).join(" | ")}</p>
-            <p class="requirements">{course?.requirements || "Inga inträdeskrav"}</p>
-            
-            {#if course.url}
-              <a class="read-more" href={course.url} rel="noreferrer" target="_blank" aria-label="Gå till kurssidan">Gå till kurssidan</a>
-            {/if}
-
-            <ul class="other">
-              {#each [
-                ...(course?.teachers || []),
-                course.city,
-                course.location,
-                course.speed ? `${course.speed}%` : undefined,
-                ...(course?.languages || []),
-              ].filter(f => f) as other}
-                <li>{other}</li>
-              {/each}
-            </ul>
-          </li>
+          <Course isOptional={optional.includes(course?.code || "")} {course} />
         {/each}
       {/each}  
     {:else}
@@ -98,97 +64,12 @@
       width: 64rem;
       max-width: calc(100vw - 2rem);
 
-      & > li {
+      & > li.loading {
+        height: 10rem;
+        width: 100%;
         background-color: var(--bottom);
-        padding: 1rem;
-        padding-bottom: 0.5rem;
         border-radius: 0.5rem;
-
-        & > div.header {
-          display: flex;
-          align-items: center;
-          justify-content: space-between;
-          & > div {
-            display: flex;
-            align-items: center;
-            & > div {
-              min-height: 1rem;
-              min-width: 1rem;
-              background-color: var(--middle);
-              border-radius: 50%;
-              margin-right: 0.5rem;
-            }
-            & > p.title {
-              font-weight: var(--font-medium);
-            }
-            & > p.optional {
-              background-color: var(--middle);
-              margin: 0 0.5rem;
-              font-size: 0.875rem;
-              padding: 0.125rem 0.25rem;
-              border-radius: 0.25rem;
-              color: var(--weak);
-            }
-          }
-          & > a {
-            font-size: 0.875rem;
-            color: var(--muted);
-            text-decoration: underline;
-          }
-        }
-
-        & > p.details {
-          margin-top: 0.5rem;
-          color: var(--weak);
-        }
-
-        & > p.requirements {
-          margin: 0.5rem 0;
-        }
-        
-        & > a.read-more {
-          text-decoration: underline;
-          color: var(--muted);
-        }
-
-        & > ul.other {
-          list-style: none;
-          margin-top: 1rem;
-          padding-right: 1rem;
-          display: flex;
-          list-style: none;
-          align-items: center;
-          width: 100%;
-          overflow-x: auto;
-          scroll-snap-type: x mandatory;
-          padding-bottom: 0.5rem;
-
-          & > li {
-            background-color: var(--middle);
-            padding: 0.5rem 1rem;
-            border-radius: 2rem;
-            color: var(--weak);
-            white-space: nowrap;
-            scroll-snap-align: start;
-            font-size: 0.875rem;
-
-            &:not(:last-of-type){
-              margin-right: 1rem;
-            }
-          }
-        }
-
-        &.loading {
-          height: 10rem;
-          width: 100%;
-          background-color: var(--bottom);
-          border-radius: 0.5rem;
-          &:not(:last-of-type) {
-            margin-bottom: 1rem;
-          }
-        }
-
-        &:not(:last-of-type){
+        &:not(:last-of-type) {
           margin-bottom: 1rem;
         }
       }

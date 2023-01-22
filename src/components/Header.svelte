@@ -41,6 +41,7 @@
       justify-content: space-between;
       height: var(--header-height);
       & > a {
+        width: fit-content;
         color: var(--weak);
         display: flex;
         align-items: center;
