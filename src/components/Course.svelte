@@ -1,13 +1,16 @@
 <script lang="ts">
 	import { generateColor } from "$utils/colors";
+	import { getNumberOfWeeks } from "$utils/time";
 	import type { ICourse } from "../types/Program";
 
 
   export let course: ICourse;
   export let isOptional: boolean;
   let collapsed: boolean = true;
+  const numberOfWeeks = getNumberOfWeeks(course.start, course.end);
+  const isDoubleCourse = numberOfWeeks > 10;
 
-  function collapse(){
+  function collapse() {
     collapsed = !collapsed;
   }
 
@@ -21,7 +24,10 @@
         <div class="title">
           <p class="title">{course.name}</p>
           {#if isOptional}
-            <p class="optional">Valfri</p>
+            <p class="chip">Valfri</p>
+          {/if}
+          {#if isDoubleCourse}
+            <p class="chip">Dubbel</p>
           {/if}
         </div>
         {#if collapsed}
@@ -79,10 +85,6 @@
     
     &:not(.collapsed) {
       padding-bottom: 1rem;
-      /* & > *:not(div.header){
-        padding: 0 1rem;
-      } */
-
       & > p.requirements, & > p.details, & > a.read-more {
         padding-left: 1rem;
       }
@@ -118,42 +120,50 @@
           & > div.title {
             display: flex;
             align-items: center;
+            width: 100%;
+            flex-wrap: wrap;
+
+            & > * {
+              margin-bottom: 0.25rem;
+            }
 
             & > p.title {
               font-weight: var(--font-medium);
               font-size: var(--font-m);
               line-height: var(--font-m);
               max-height: calc(var(--font-m) * 2);
+              margin-right: 0.5rem;
               overflow: hidden;
               word-wrap: break-word;
               hyphens: auto;
               -moz-hyphens: auto;
               -webkit-hyphens: auto;
             }
-            & > p.optional {
+            & > p.chip {
               background-color: var(--middle);
-              margin: 0 0.5rem;
               font-size: 0.875rem;
               padding: 0.125rem 0.25rem;
               border-radius: 0.25rem;
               color: var(--weak);
+
+              &:not(:last-of-type){
+                margin-right: 0.5rem;
+              }
             }
           }
           & > p.details {
             color: var(--weak);
             font-size: 0.875rem;
-            margin-top: 0.125rem;
+            /* margin-top: 0.125rem; */
           }
         }
 
         & > p.toggle {
-          background-color: var(--middle);
-          padding: 0.25rem 0.5rem;
           cursor: pointer;
           height: fit-content;
           font-size: 0.875rem;
           border-radius: 0.25rem;
-          color: var(--weak);
+          color: var(--muted);
           user-select: none;
           white-space: nowrap;
           margin-left: 1rem;
