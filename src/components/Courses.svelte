@@ -1,5 +1,4 @@
 <script lang="ts">
-	import { generateColor } from "$utils/colors";
 	import { getSemester } from "$utils/format";
 	import { groupSemesters } from "$utils/object";
 	import type { ICourse, IProgram } from "../types/Program";

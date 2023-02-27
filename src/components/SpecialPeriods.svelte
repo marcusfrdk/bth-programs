@@ -76,6 +76,8 @@
     height: 5rem;
     position: relative;
     margin: 1rem 0 0.5rem 0;
+    border-radius: 0.5rem;
+    overflow: hidden;
 
     & > div {
       position: absolute;
@@ -93,9 +95,11 @@
       & > p.title {
         font-size: 1.25rem;
         font-weight: var(--font-medium);
+        color: #ffffff;
       }
-
+      
       & > p.time {
+        color: #ffffff;
         font-size: 0.875rem;
       }
     }
