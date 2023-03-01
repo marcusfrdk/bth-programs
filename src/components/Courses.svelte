@@ -22,6 +22,10 @@
 
     optional = program.optional_courses.filter(f => f).map(course => course.code as string);
   }
+
+  function isCurrentSemester(semester: [string, ICourse[]]){
+    return Number(semester[0].split(" ")[0]) === currentSemester[0] && getSemester(semester[0]) === currentSemester[1]
+  }
 </script>
 
 <div class="container">
@@ -29,14 +33,14 @@
     {#if Object.keys(courses).length > 0}
       {#each Object.entries(courses) as semester, i}
         <SpecialPeriods semester={getSemester(semester[0])} index={i} />
-        <li class={`semester ${Number(semester[0].split(" ")[0]) === currentSemester[0] && getSemester(semester[0]) === currentSemester[1] ? "current" : ""}`}>{semester[0].split(" ")[0]}<small>{getSemester(semester[0])}</small></li>
+        <li class:current={isCurrentSemester(semester)} class="semester">{semester[0].split(" ")[0]}<small>{getSemester(semester[0])}</small></li>
         {#each semester[1] as course}
           <Course isOptional={optional.includes(course?.code || "")} {course} />
         {/each}
       {/each}  
     {:else}
       {#each Array(12) as _, i}
-        <li class={`loading pulse ${i % 4 === 0 ? "title" : ""}`} />
+        <li class:title={i % 4 === 0} class="loading pulse" />
       {/each}
     {/if}
   </ul>

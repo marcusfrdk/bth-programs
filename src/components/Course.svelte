@@ -1,14 +1,20 @@
 <script lang="ts">
 	import { generateColor } from "$utils/colors";
 	import { getNumberOfWeeks } from "$utils/time";
+	import { onMount } from "svelte";
 	import type { ICourse } from "../types/Program";
 
 
   export let course: ICourse;
   export let isOptional: boolean;
-  let collapsed: boolean = true;
-  const numberOfWeeks = getNumberOfWeeks(course.start, course.end);
-  const isDoubleCourse = numberOfWeeks > 10;
+
+  let isDoubleCourse = false;
+  let collapsed = true;
+
+  onMount(() => {
+    const numberOfWeeks = getNumberOfWeeks(course.start, course.end);
+    isDoubleCourse = numberOfWeeks > 10;
+  });
 
   function collapse() {
     collapsed = !collapsed;
@@ -16,7 +22,7 @@
 
 </script>
 
-<li class={`container ${collapsed ? "collapsed" : ""}`}>
+<li class:collapsed={collapsed} class="container">
   <div class="header" on:click={collapse} on:keydown={collapse}>
     <div class="icon" style={`background-color: ${generateColor(course.code?.slice(0, 2) || "")};`} />
     <div class="content">

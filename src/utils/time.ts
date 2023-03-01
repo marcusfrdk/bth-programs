@@ -16,10 +16,7 @@ export function getCurrentWeek() {
 export function getNumberOfWeeks(start?: string, end?: string): number {
 	const startWeek = Number(start?.split(" ")[2] || "0");
 	let endWeek = Number(end?.split(" ")[2] || "0");
-
-	if(startWeek > endWeek){
-		endWeek += 52;
-	}
-
+	if(startWeek > endWeek) endWeek += 52;
 	return Math.max(startWeek, endWeek) - Math.min(startWeek, endWeek);
 }
+
