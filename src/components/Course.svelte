@@ -117,8 +117,7 @@
 		&:not(.collapsed) {
 			padding-bottom: 1rem;
 			& > p.requirements,
-			& > p.details,
-			& > a.read-more {
+			& > p.details {
 				padding-left: 1rem;
 			}
 

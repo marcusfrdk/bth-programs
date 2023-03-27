@@ -7,41 +7,40 @@
 }
 
 :root {
-	--secondary-dark: #10a17f;
-	--secondary: #21d3a9;
-	--secondary-light: #94f8e0;
-	--secondary-text: #ffffff;
-	--primary-dark: #007ce8;
-	--primary: #1995ff;
-	--primary-light: #46a8ff;
-	--primary-text: #ffffff;
+	--secondary-dark: #16bb94;
+	--secondary: #36e8bd;
+	--secondary-light: #7bf0d3;
+	--secondary-text: #eff8ff;
+	--primary-dark: #0091fa;
+	--primary: #45b1ff;
+	--primary-light: #94d2ff;
+	--primary-text: #eff8ff;
 
-	--background: #ffffff;
-	--bottom: #f3f3f3;
-	--middle: #eaeaea;
-	--top: #dfdfdf;
-	--strong: #1c1c1c;
-	--weak: #555555;
-	--muted: #777777;
+	--background: #eff8ff;
+	--bottom: #d5e6f2;
+	--middle: #bed1de;
+	--top: #b0c5d5;
+	--strong: #272b2e;
+	--weak: #5c6a72;
+	--muted: #91a6b6;
 
 	--viewport-height: 100vh; /* Dynamic */
 	--header-height: 7rem;
-
 	--max-width: calc(100vw - 2rem);
 
-	background-color: var(--background);
 	scroll-behavior: smooth;
+	background-color: var(--background);
 }
 
 @media screen and (prefers-color-scheme: dark) {
 	:root {
-		--background: #1c1c1c;
-		--bottom: #2c2c2c;
-		--middle: #3c3c3c;
-		--top: #4c4c4c;
-		--strong: #ffffff;
-		--weak: #bfbfbf;
-		--muted: #999999;
+		--background: #272b2e;
+		--bottom: #32383b;
+		--middle: #3b4246;
+		--top: #444f55;
+		--strong: #eff8ff;
+		--weak: #c0ccd3;
+		--muted: #8596a1;
 	}
 }
 
