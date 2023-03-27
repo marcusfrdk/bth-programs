@@ -1,18 +1,18 @@
 <script lang="ts">
 	import { getSemester } from "$utils/format";
 	import { groupSemesters } from "$utils/object";
+	import { getCurrentWeek } from "$utils/time";
 	import type { ICourse, IProgram } from "../types/Program";
 	import Course from "./Course.svelte";
 	import SpecialPeriods from "./SpecialPeriods.svelte";
 
   export let program: IProgram;
+
   let courses: Record<string, ICourse[]> = {};
   let optional: string[] = [];
   let currentYear = new Date().getFullYear();
-  let currentSemester = [
-    currentYear,
-    getSemester(currentYear)
-  ];
+  let currentWeek = getCurrentWeek();
+  let currentSemester = [currentYear, getSemester(currentWeek)];
 
   $: if(program) {
     courses = groupSemesters([...program.required_courses, ...program.optional_courses]
@@ -24,7 +24,9 @@
   }
 
   function isCurrentSemester(semester: [string, ICourse[]]){
-    return Number(semester[0].split(" ")[0]) === currentSemester[0] && getSemester(semester[0]) === currentSemester[1]
+    const semesterYear = Number(semester[0].split(" ")[0]);
+    const semesterValue = getSemester(semester[0]);
+    return semesterYear === currentSemester[0] && semesterValue === currentSemester[1]
   }
 </script>
 
