@@ -11,15 +11,14 @@
   let isDoubleCourse = false;
   let collapsed = true;
 
-  onMount(() => {
-    const numberOfWeeks = getNumberOfWeeks(course.start, course.end);
-    isDoubleCourse = numberOfWeeks > 10;
-  });
-
   function collapse() {
     collapsed = !collapsed;
   }
 
+  $: {
+    const numberOfWeeks = getNumberOfWeeks(course.start, course.end);
+    isDoubleCourse = numberOfWeeks > 10;
+  }
 </script>
 
 <li class:collapsed={collapsed} class="container">

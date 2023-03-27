@@ -11,8 +11,8 @@ export interface ICourse {
   teachers?: string[],
   description?: string,
   requirements?: string,
-  start?: string,
-  end?: string
+  start: string,
+  end: string
 }
 
 export interface IProgram {
