@@ -17,7 +17,7 @@
 				{#if program.teacher}
 					<li>
 						<a 
-							href={`https://www.bth.se/?s=mas&searchtype=employee&employee-filter=&s=${encodeName(program.teacher)}`} aria-label="Find teacher"
+							href={`https://www.bth.se/?searchtype=employee&s=${encodeName(program.teacher)}`} aria-label="Find teacher"
 							rel="noreferrer"
 							target="_blank"
 						>

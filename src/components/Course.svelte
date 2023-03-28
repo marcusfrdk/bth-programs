@@ -98,7 +98,7 @@
 			{#each course.teachers as teacher}
 				<li>
 					<a 
-						href={`https://www.bth.se/?s=mas&searchtype=employee&employee-filter=&s=${encodeName(teacher)}`} aria-label="Find teacher"
+						href={`https://www.bth.se/?searchtype=employee&s=${encodeName(teacher)}`} aria-label="Find teacher"
 						rel="noreferrer"
 						target="_blank"
 					>
