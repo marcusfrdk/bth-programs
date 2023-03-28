@@ -1,4 +1,5 @@
 <script lang="ts">
+	import { encodeName } from '$utils/format';
 	import type { IProgram } from '../types/Program';
 	export let program: Partial<IProgram>;
 </script>
@@ -13,7 +14,18 @@
 					<li>Loading...</li>
 				{/each}
 			{:else}
-				{#each [program?.teacher || '', program?.city?.includes('Distans') ? 'Distans' : program?.city || '', program?.location, program?.speed ? program.speed + '%' : '', ...(program?.languages || [])].filter((f) => f) as text}
+				{#if program.teacher}
+					<li>
+						<a 
+							href={`https://www.bth.se/?s=mas&searchtype=employee&employee-filter=&s=${encodeName(program.teacher)}`} aria-label="Find teacher"
+							rel="noreferrer"
+							target="_blank"
+						>
+							{program.teacher || ''}
+						</a>
+					</li>
+				{/if}
+				{#each [program?.city?.includes('Distans') ? 'Distans' : program?.city || '', program?.location, program?.speed ? program.speed + '%' : '', ...(program?.languages || [])].filter((f) => f) as text}
 					<li>{text}</li>
 				{/each}
 			{/if}
@@ -64,14 +76,18 @@
 				padding-bottom: 1rem;
 				& > li {
 					background-color: var(--bottom);
-					padding: 0.5rem 1rem;
 					border-radius: 2rem;
 					color: var(--weak);
 					white-space: nowrap;
 					scroll-snap-align: start;
+					padding: 0.5rem 1rem;
 
 					&:not(:last-of-type) {
 						margin-right: 1rem;
+					}
+
+					& > a {
+						color: var(--weak);
 					}
 				}
 			}

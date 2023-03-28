@@ -7,3 +7,7 @@ export function getSemester(value: string | number): string {
   if (week < 53) return 'Läsperiod 2';
   return "Läsperiod 3";
 }
+
+export function encodeName(name: string): string{
+  return encodeURIComponent(name).replace(' ', '+');
+}

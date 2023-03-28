@@ -1,5 +1,6 @@
 <script lang="ts">
 	import { generateColor } from '$utils/colors';
+	import { encodeName } from '$utils/format';
 	import { getNumberOfWeeks } from '$utils/time';
 	import { onMount } from 'svelte';
 	import type { ICourse } from '../types/Program';
@@ -93,7 +94,20 @@
 	</ul>
 
 	<ul class="other">
-		{#each [...(course?.teachers || []), course.city, course.location, course.speed ? `${course.speed}%` : undefined, ...(course?.languages || [])].filter((f) => f) as other}
+		{#if course?.teachers}
+			{#each course.teachers as teacher}
+				<li>
+					<a 
+						href={`https://www.bth.se/?s=mas&searchtype=employee&employee-filter=&s=${encodeName(teacher)}`} aria-label="Find teacher"
+						rel="noreferrer"
+						target="_blank"
+					>
+						{teacher}
+					</a>
+				</li>
+			{/each}
+		{/if}
+		{#each [course.city, course.location, course.speed ? `${course.speed}%` : undefined, ...(course?.languages || [])].filter((f) => f) as other}
 			<li>{other}</li>
 		{/each}
 	</ul>
@@ -273,6 +287,10 @@
 
 				&:not(:last-of-type) {
 					margin-right: 1rem;
+				}
+
+				& > a {
+					color: var(--weak);
 				}
 			}
 		}
