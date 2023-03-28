@@ -63,6 +63,7 @@
         font-weight: var(--font-medium);
         font-size: var(--font-l);
         margin-bottom: 0.5rem;
+        color: var(--primary-text);
 
         &.current {
           background-color: var(--primary);
