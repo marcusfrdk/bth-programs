@@ -56,8 +56,7 @@ export const groupSemesters = (arr: ICourse[]): Record<string, ICourse[]> => {
 		// Add double courses to next semester
 		if (nextWeek - currentWeek < 5)
 			nextSemester = index[index.indexOf(course.start) + 2] || course.start;
-		if (weeks > 10 && typeof nextSemester !== 'undefined')
-			grouped[nextSemester].push(structuredClone(course));
+		if (weeks > 10 && typeof nextSemester !== 'undefined') grouped[nextSemester].push(course);
 		grouped[course.start].push(course);
 	}
 
