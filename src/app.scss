@@ -16,13 +16,13 @@
 	--primary-light: #94d2ff;
 	--primary-text: #eff8ff;
 
-	--background: #eff8ff;
-	--bottom: #d5e6f2;
-	--middle: #bed1de;
-	--top: #b0c5d5;
-	--strong: #272b2e;
-	--weak: #5c6a72;
-	--muted: #91a6b6;
+	--background: #ffffff;
+	--bottom: #f3f3f3;
+	--middle: #eaeaea;
+	--top: #dfdfdf;
+	--strong: #1c1c1c;
+	--weak: #555555;
+	--muted: #777777;
 
 	--viewport-height: 100vh; /* Dynamic */
 	--header-height: 7rem;
@@ -34,13 +34,13 @@
 
 @media screen and (prefers-color-scheme: dark) {
 	:root {
-		--background: #272b2e;
-		--bottom: #32383b;
-		--middle: #3b4246;
-		--top: #444f55;
-		--strong: #eff8ff;
-		--weak: #c0ccd3;
-		--muted: #8596a1;
+		--background: #1c1c1c;
+		--bottom: #2c2c2c;
+		--middle: #3c3c3c;
+		--top: #4c4c4c;
+		--strong: #ffffff;
+		--weak: #bfbfbf;
+		--muted: #999999;
 	}
 }
 
