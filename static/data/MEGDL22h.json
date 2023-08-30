@@ -11,8 +11,26 @@
     "Engelska"
   ],
   "teacher": "Daniel Nilsson",
-  "url": "https://www.bth.se/utbildning/program/megdl20h/",
+  "url": "https://www.bth.se/utbildning/program-och-kurser/megdl/",
   "required_courses": [
+    {
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20251&KtAnmKod=BQ44Q&lang=sv&parentPtKod=MEGDL22h",
+      "name": "Kandidatarbete i medieteknik",
+      "city": "Karlshamn",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=ME1659&revision=1&lang=sv",
+      "speed": 100,
+      "location": "Campus",
+      "code": "ME1659",
+      "points": 30.0,
+      "languages": [
+        "Svenska"
+      ],
+      "teachers": [],
+      "description": "Kursen syftar till att studenten ska f\u00f6rdjupa sig inom ett s\u00e4rskilt medietekniskt omr\u00e5de i form av en gestaltande produktion och vetenskaplig text. Kursen syftar vidare till att studenten ska utveckla f\u00f6rst\u00e5else f\u00f6r de aktuella forsknings- och professionsomr\u00e5dena. Studenten ska formulera och problematisera relevanta forsknings- och professionsfr\u00e5gor samt behandla dem med hj\u00e4lp av vetenskapliga teorier och metoder som \u00e4r relevanta f\u00f6r huvudomr\u00e5det. Slutligen avser kursen att studenten ska visa sin f\u00f6rm\u00e5ga att v\u00e4rdera sina resultat och diskutera dem i tal och skrift.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs minst 90 hp genomg\u00e5nget inom huvudomr\u00e5det medieteknik samt genomg\u00e5ngen kurs Forskningsintroduktion medieteknik.",
+      "start": "2025 vecka 04",
+      "end": "2025 vecka 23"
+    },
     {
       "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20241&KtAnmKod=BPDJJ&lang=sv&parentPtKod=MEGDL22h",
       "name": "Utst\u00e4llningsteknik",
@@ -25,106 +43,56 @@
       "languages": [
         "Svenska"
       ],
-      "teachers": [],
+      "teachers": [
+        "Linus de Petris",
+        "Jonas Svegland"
+      ],
       "description": "Kursens syfte \u00e4r att studenten ska skaffa sig kunskaper om material, metodik, design och teknik f\u00f6r interaktiva platsspecifika utst\u00e4llningar och installationer.",
       "requirements": "Grundl\u00e4ggande beh\u00f6righet",
       "start": "2024 vecka 03",
       "end": "2024 vecka 12"
     },
     {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20241&KtAnmKod=BRPEF&lang=sv&parentPtKod=MEGDL22h",
-      "name": "Ljudsyntes",
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20232&KtAnmKod=BWJAW&lang=sv&parentPtKod=MEGDL22h",
+      "name": "Gr\u00e4nssnitt med immersiva tekniker",
       "city": "Karlshamn",
-      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=ME1614&revision=3,1&lang=sv",
-      "speed": 100,
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=ME1638&revision=1,1&lang=sv",
+      "speed": 75,
       "location": "Campus",
-      "code": "ME1614",
+      "code": "ME1638",
       "points": 7.5,
       "languages": [
         "Svenska"
       ],
-      "teachers": [],
-      "description": "Kursens syfte \u00e4r att introducera ljudsyntes ur b\u00e5de ett historiskt och nutida perspektiv. Kursen syftar vidare till att kursdeltagaren pr\u00f6var och till\u00e4mpar specifika ljudsyntesmetoder f\u00f6r ljuddesign i olika linj\u00e4ra och ickelinj\u00e4ra medieformer.",
-      "requirements": "Grundl\u00e4ggande beh\u00f6righet.",
-      "start": "2024 vecka 03",
-      "end": "2024 vecka 12"
+      "teachers": [
+        "Linus de Petris",
+        "nrj"
+      ],
+      "description": "Syftet med kursen \u00e4r att studenten ska f\u00f6rdjupa sina kunskaper kring medietekniska prototyper samt genom ett \u00e4ndam\u00e5lsbyggt digifysiskt gr\u00e4nssnitt utforska sambandet mellan ett digitalt och ett fysiskt material.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngen kurs Digifysisk gestaltning, 7,5 hp.",
+      "start": "2023 vecka 49",
+      "end": "2024 vecka 02"
     },
     {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20242&KtAnmKod=BPYLF&lang=sv&parentPtKod=MEGDL22h",
-      "name": "Responsiva h\u00e5llbara milj\u00f6er",
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20241&KtAnmKod=BEUJL&lang=sv&parentPtKod=MEGDL22h",
+      "name": "Design i samverkan",
       "city": "Karlshamn",
       "study_plan": "",
       "speed": 100,
       "location": "Campus",
-      "code": "ME1656",
+      "code": "ME1657",
       "points": 15.0,
       "languages": [
         "Svenska"
       ],
-      "teachers": [],
-      "description": "Kursens syftar till att studenten med st\u00f6d av valda h\u00e5llbarhetsprinciper ska integrera kritiskt id\u00e9- och konceptarbete med skapandet av avancerade medietekniska prototyper.",
-      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs 90 hp avklarade i huvudomr\u00e5det medieteknik.",
-      "start": "2024 vecka 36",
-      "end": "2024 vecka 44"
-    },
-    {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20241&KtAnmKod=BN3AX&lang=sv&parentPtKod=MEGDL22h",
-      "name": "Design i samverkan",
-      "city": "Karlshamn",
-      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=ME1616&revision=3&lang=sv",
-      "speed": 100,
-      "location": "Campus",
-      "code": "ME1616",
-      "points": 15.0,
-      "languages": [
-        "Svenska"
+      "teachers": [
+        "Paul Carlsson",
+        "Jonas Svegland"
       ],
-      "teachers": [],
       "description": "Kursen syftar till att studenten skaffar sig f\u00f6rdjupade kunskaper kring designsituationer och designmetoder. Kursen syftar ocks\u00e5 till att studenterna integrerar dessa kunskaper med sina programspecifika profilkunskaper i samverkan med externa parter.",
-      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngen kurs Interaktivt ber\u00e4ttande, 7,5 hp.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngen kurs Utst\u00e4llningsteknik, 7,5 hp.",
       "start": "2024 vecka 13",
       "end": "2024 vecka 22"
-    },
-    {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20231&KtAnmKod=BDXQJ&lang=sv&parentPtKod=MEGDL22h",
-      "name": "Spatialiserat ljud",
-      "city": "Karlshamn",
-      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=ME1610&revision=3,1&lang=sv",
-      "speed": 100,
-      "location": "Campus",
-      "code": "ME1610",
-      "points": 15.0,
-      "languages": [
-        "Svenska"
-      ],
-      "teachers": [
-        "Daniel Nilsson",
-        "Sebastian Hastrup"
-      ],
-      "description": "Kursen syftar till att introducera begrepp och till\u00e4mpningar f\u00f6r ljudspatialisering i linj\u00e4ra och ickelinj\u00e4ra medier. Kursen syftar vidare till att f\u00f6rdjupa tidigare kunskaper inom audiovisuellt ber\u00e4ttande med fokus p\u00e5 spatialiserat ljud. Kursen syftar ocks\u00e5 till att introducera metoder f\u00f6r analys av audiovisuella narrativ som reproduceras i fler \u00e4n tv\u00e5 diskreta ljudkanaler.",
-      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngen kurs Akustik f\u00f6r ljud- och musikproduktion, 7,5 hp.",
-      "start": "2023 vecka 13",
-      "end": "2023 vecka 22"
-    },
-    {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20231&KtAnmKod=B6DG9&lang=sv&parentPtKod=MEGDL22h",
-      "name": "Akustik f\u00f6r ljud- och musikproduktion",
-      "city": "Karlshamn",
-      "study_plan": "https://edu.bth.se/utbildning/utb_kursplan.asp?kurskod=ET1492&revisionsnr=7&format=pdf",
-      "speed": 50,
-      "location": "Campus",
-      "code": "ET1492",
-      "points": 7.5,
-      "languages": [
-        "Svenska"
-      ],
-      "teachers": [
-        "Sven Johansson"
-      ],
-      "description": "Den studerande ska erh\u00e5lla en introduktion till grundl\u00e4ggande akustik. Studenten erh\u00e5ller \u00e4ven kunskaper om ljudets egenskaper och en \u00f6verblick av praktisk rumsakustik.",
-      "requirements": "Grundl\u00e4ggande beh\u00f6righet.",
-      "start": "2023 vecka 03",
-      "end": "2023 vecka 12"
     },
     {
       "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20231&KtAnmKod=BWDJQ&lang=sv&parentPtKod=MEGDL22h",
@@ -148,22 +116,105 @@
       "end": "2023 vecka 12"
     },
     {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20251&KtAnmKod=B433R&lang=sv&parentPtKod=MEGDL22h",
-      "name": "Kandidatarbete i medieteknik",
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20232&KtAnmKod=B6QTJ&lang=sv&parentPtKod=MEGDL22h",
+      "name": "Digifysisk gestaltning",
       "city": "Karlshamn",
-      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=ME1603&revision=3&lang=sv",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=ME1652&revision=1,1&lang=sv",
       "speed": 100,
       "location": "Campus",
-      "code": "ME1603",
-      "points": 30.0,
+      "code": "ME1652",
+      "points": 7.5,
+      "languages": [
+        "Svenska"
+      ],
+      "teachers": [
+        "Linus de Petris",
+        "Jonas Svegland"
+      ],
+      "description": "Kursens syfte \u00e4r att introducera studenten till till\u00e4mpad mikroelektronik och metodik f\u00f6r fysisk prototyputveckling. Kursen syftar ocks\u00e5 till att studenten ska introduceras till att gestalta data och digital information i fysisk form.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngen kurs Gestaltande programmering, 7,5 hp alternativt genomg\u00e5ngen kurs Modul\u00e4r ljuddesign, 7,5 hp.",
+      "start": "2023 vecka 44",
+      "end": "2023 vecka 48"
+    },
+    {
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20231&KtAnmKod=B6DG9&lang=sv&parentPtKod=MEGDL22h",
+      "name": "Akustik f\u00f6r ljud- och musikproduktion",
+      "city": "Karlshamn",
+      "study_plan": "https://edu.bth.se/utbildning/utb_kursplan.asp?kurskod=ET1492&revisionsnr=7&format=pdf",
+      "speed": 50,
+      "location": "Campus",
+      "code": "ET1492",
+      "points": 7.5,
+      "languages": [
+        "Svenska"
+      ],
+      "teachers": [
+        "Sven Johansson"
+      ],
+      "description": "Den studerande ska erh\u00e5lla en introduktion till grundl\u00e4ggande akustik. Studenten erh\u00e5ller \u00e4ven kunskaper om ljudets egenskaper och en \u00f6verblick av praktisk rumsakustik.",
+      "requirements": "Grundl\u00e4ggande beh\u00f6righet.",
+      "start": "2023 vecka 03",
+      "end": "2023 vecka 12"
+    },
+    {
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20242&KtAnmKod=BPYLF&lang=sv&parentPtKod=MEGDL22h",
+      "name": "Responsiva h\u00e5llbara milj\u00f6er",
+      "city": "Karlshamn",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=ME1656&revision=1&lang=sv",
+      "speed": 100,
+      "location": "Campus",
+      "code": "ME1656",
+      "points": 15.0,
       "languages": [
         "Svenska"
       ],
       "teachers": [],
-      "description": "Kursen syftar till att studenten ska forts\u00e4tta att utveckla sina teoretiska och praktiska kunskaper inom huvudomr\u00e5det och f\u00f6rdjupa sig inom ett s\u00e4rskilt omr\u00e5de inom ramen f\u00f6r en unders\u00f6kande produktion i digitala medier. Kursen syftar vidare till att studenten ska utveckla f\u00f6rst\u00e5else f\u00f6r de aktuella forsknings- och professionsomr\u00e5dena och i hur relevanta forsknings- och professionsfr\u00e5gor formuleras, problematiseras och behandlas med hj\u00e4lp av teorier och metoder som \u00e4r relevanta f\u00f6r huvudomr\u00e5det. Slutligen avser kursen att studenten ska utveckla sin f\u00f6rm\u00e5ga att v\u00e4rdera sina resultat och diskutera dem i tal och skrift samt att presentera dem f\u00f6r olika m\u00e5lgrupper.",
-      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs minst 90 hp genomg\u00e5nget inom huvudomr\u00e5det medieteknik samt genomg\u00e5ngen kurs Forskningsmetodik f\u00f6r medieteknik.",
-      "start": "2025 vecka 04",
-      "end": "2025 vecka 23"
+      "description": "Kursen syftar till att studenten med st\u00f6d av valda h\u00e5llbarhetsprinciper ska integrera kritiskt id\u00e9- och konceptarbete med skapandet av platsspecifika medietekniska gestaltningar.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs 90 hp avklarade i huvudomr\u00e5det medieteknik.",
+      "start": "2024 vecka 36",
+      "end": "2024 vecka 44"
+    },
+    {
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20231&KtAnmKod=BDXQJ&lang=sv&parentPtKod=MEGDL22h",
+      "name": "Spatialiserat ljud",
+      "city": "Karlshamn",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=ME1610&revision=3,1&lang=sv",
+      "speed": 100,
+      "location": "Campus",
+      "code": "ME1610",
+      "points": 15.0,
+      "languages": [
+        "Svenska"
+      ],
+      "teachers": [
+        "Daniel Nilsson",
+        "Sebastian Hastrup"
+      ],
+      "description": "Kursen syftar till att introducera begrepp och till\u00e4mpningar f\u00f6r ljudspatialisering i linj\u00e4ra och ickelinj\u00e4ra medier. Kursen syftar vidare till att f\u00f6rdjupa tidigare kunskaper inom audiovisuellt ber\u00e4ttande med fokus p\u00e5 spatialiserat ljud. Kursen syftar ocks\u00e5 till att introducera metoder f\u00f6r analys av audiovisuella narrativ som reproduceras i fler \u00e4n tv\u00e5 diskreta ljudkanaler.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngen kurs Akustik f\u00f6r ljud- och musikproduktion, 7,5 hp.",
+      "start": "2023 vecka 13",
+      "end": "2023 vecka 22"
+    },
+    {
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20232&KtAnmKod=BGWMU&lang=sv&parentPtKod=MEGDL22h",
+      "name": "Till\u00e4mpad ljuddesign",
+      "city": "Karlshamn",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=ME1642&revision=1&lang=sv",
+      "speed": 100,
+      "location": "Campus",
+      "code": "ME1642",
+      "points": 15.0,
+      "languages": [
+        "Svenska"
+      ],
+      "teachers": [
+        "Sven Johansson",
+        "nrj"
+      ],
+      "description": "Kursen syftar till att ge f\u00f6rdjupning i teorier och metoder inom kunskapsomr\u00e5det till\u00e4mpad ljuddesign. Kursen syftar \u00e4ven till att ge f\u00f6rdjupade erfarenheter av ljuddesign i b\u00e5de studio och f\u00e4ltsammanhang. Vidare syftar kursen till att underbygga unders\u00f6kande metodik f\u00f6r individuell kunskapsutveckling inom profilomr\u00e5det.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarad kurs i Grunder i digital ljudproduktion, 15 hp.",
+      "start": "2023 vecka 35",
+      "end": "2023 vecka 43"
     },
     {
       "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20242&KtAnmKod=BTAEK&lang=sv&parentPtKod=MEGDL22h",
@@ -184,22 +235,42 @@
       "end": "2025 vecka 03"
     },
     {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20232&KtAnmKod=BGWMU&lang=sv&parentPtKod=MEGDL22h",
-      "name": "Till\u00e4mpad ljuddesign",
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20241&KtAnmKod=BRPEF&lang=sv&parentPtKod=MEGDL22h",
+      "name": "Ljudsyntes",
       "city": "Karlshamn",
-      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=ME1642&revision=1&lang=sv",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=ME1614&revision=3,1&lang=sv",
       "speed": 100,
       "location": "Campus",
-      "code": "ME1642",
-      "points": 15.0,
+      "code": "ME1614",
+      "points": 7.5,
+      "languages": [
+        "Svenska"
+      ],
+      "teachers": [
+        "Sebastian Hastrup"
+      ],
+      "description": "Kursens syfte \u00e4r att introducera ljudsyntes ur b\u00e5de ett historiskt och nutida perspektiv. Kursen syftar vidare till att kursdeltagaren pr\u00f6var och till\u00e4mpar specifika ljudsyntesmetoder f\u00f6r ljuddesign i olika linj\u00e4ra och ickelinj\u00e4ra medieformer.",
+      "requirements": "Grundl\u00e4ggande beh\u00f6righet.",
+      "start": "2024 vecka 03",
+      "end": "2024 vecka 12"
+    },
+    {
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20242&KtAnmKod=BEC44&lang=sv&parentPtKod=MEGDL22h",
+      "name": "Virtuell produktion",
+      "city": "Karlshamn",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=ME1654&revision=1&lang=sv",
+      "speed": 75,
+      "location": "Campus",
+      "code": "ME1654",
+      "points": 7.5,
       "languages": [
         "Svenska"
       ],
       "teachers": [],
-      "description": "Kursen syftar till att ge f\u00f6rdjupning i teorier och metoder inom kunskapsomr\u00e5det till\u00e4mpad ljuddesign. Kursen syftar \u00e4ven till att ge f\u00f6rdjupade erfarenheter av ljuddesign i b\u00e5de studio och f\u00e4ltsammanhang. Vidare syftar kursen till att underbygga unders\u00f6kande metodik f\u00f6r individuell kunskapsutveckling inom profilomr\u00e5det.",
-      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarad kurs i Grunder i digital ljudproduktion, 15 hp.",
-      "start": "2023 vecka 35",
-      "end": "2023 vecka 43"
+      "description": "Kursen syftar till att studenten ska skaffa sig praktiska kunskaper i att arbeta med virtuell produktion.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs 90 hp avklarade i huvudomr\u00e5det medieteknik.",
+      "start": "2024 vecka 45",
+      "end": "2025 vecka 03"
     },
     {
       "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20222&KtAnmKod=BK47R&lang=sv&parentPtKod=MEGDL22h",
@@ -214,6 +285,7 @@
         "Svenska"
       ],
       "teachers": [
+        "Sven Johansson",
         "Daniel Nilsson",
         "Sebastian Hastrup"
       ],
@@ -221,42 +293,6 @@
       "requirements": "Grundl\u00e4ggande beh\u00f6righet samt Matematik 2a alt 2b alt 2c.",
       "start": "2022 vecka 34",
       "end": "2022 vecka 43"
-    },
-    {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20232&KtAnmKod=BJ9UJ&lang=sv&parentPtKod=MEGDL22h",
-      "name": "Medieteknisk prototyputveckling",
-      "city": "Karlshamn",
-      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=ME1625&revision=2&lang=sv",
-      "speed": 100,
-      "location": "Campus",
-      "code": "ME1625",
-      "points": 15.0,
-      "languages": [
-        "Svenska"
-      ],
-      "teachers": [],
-      "description": "Kursen syftar till att studenten ska bredda och f\u00f6rdjupa sina medietekniska praktiker och kunskaper genom prototyper, som utforskar, pr\u00f6var och omf\u00f6rhandlar digitala och analoga samspel, motst\u00e5nd och gr\u00e4nsdragningar.",
-      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att n\u00e5gon av f\u00f6ljande kurser \u00e4r genomg\u00e5ngen: Grunder i digitala spel 15 hp, Grunder i digital ljudproduktion 15 hp, Grunder i digital bildproduktion 15 hp.",
-      "start": "2023 vecka 44",
-      "end": "2024 vecka 02"
-    },
-    {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20242&KtAnmKod=BEC44&lang=sv&parentPtKod=MEGDL22h",
-      "name": "Virtuell produktion",
-      "city": "Karlshamn",
-      "study_plan": "",
-      "speed": 75,
-      "location": "Campus",
-      "code": "ME1654",
-      "points": 7.5,
-      "languages": [
-        "Svenska"
-      ],
-      "teachers": [],
-      "description": "Kursen syftar till att studenten ska skaffa sig praktiska kunskaper i att arbeta med realtidsrenderad",
-      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs 90 hp avklarade i huvudomr\u00e5det medieteknik.",
-      "start": "2024 vecka 45",
-      "end": "2025 vecka 03"
     },
     {
       "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20222&KtAnmKod=BAGDU&lang=sv&parentPtKod=MEGDL22h",
@@ -271,11 +307,12 @@
         "Svenska"
       ],
       "teachers": [
+        "Sven Johansson",
         "Daniel Nilsson",
         "Sebastian Hastrup"
       ],
       "description": "Kursen syftar till att studenten utvecklar grundl\u00e4ggande kunskaper inom ljudber\u00e4ttande, ljuddesignteorier och ljudteknik. Kursen syftar vidare till att studenten oms\u00e4tter dessa kunskaper genom till\u00e4mpning i olika medietekniska gestaltningsformer.",
-      "requirements": "Omr\u00e5desbeh\u00f6righet A7: Matematik 2a alt 2b alt 2c (Fysik 1b1 alt 1a kr\u00e4vs ej)",
+      "requirements": "Grundl\u00e4ggande beh\u00f6righet samt Matematik 2a alt 2b alt 2c.",
       "start": "2022 vecka 44",
       "end": "2023 vecka 02"
     }
@@ -283,5 +320,5 @@
   "optional_courses": [],
   "start": "2022 vecka 34",
   "end": "2023 vecka 02",
-  "generated": "2023-01-21 17:25:18.363302"
+  "generated": "2023-08-30 06:25:23.850119"
 }

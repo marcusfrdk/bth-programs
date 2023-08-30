@@ -14,6 +14,131 @@
   "url": "https://www.bth.se/utbildning/program/omgsp20h/",
   "required_courses": [
     {
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20211&KtAnmKod=BWYEQ&lang=sv&parentPtKod=OMGSP20h",
+      "name": "Sjuksk\u00f6terskans professionella grund",
+      "city": "Karlskrona",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=OM1536&revision=2&lang=sv",
+      "speed": 100,
+      "location": "Campus",
+      "code": "OM1536",
+      "points": 7.5,
+      "languages": [
+        "Svenska"
+      ],
+      "teachers": [
+        "Johanna Tell",
+        "Ulrika Bernow Johansson"
+      ],
+      "description": "Kursen syftar till att den studerande ska till\u00e4mpa kunskap om grundl\u00e4ggande omv\u00e5rdnad och det v\u00e5rdande och l\u00e4rande m\u00f6tet i klinisk verksamhet.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att f\u00f6ljande kurser \u00e4r avklarade: Introduktion till yrke och akademi, 7,5 hp; Det v\u00e5rdande och l\u00e4rande m\u00f6tet,7,5 hp.",
+      "start": "2021 vecka 18",
+      "end": "2021 vecka 22"
+    },
+    {
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20212&KtAnmKod=BDW4W&lang=sv&parentPtKod=OMGSP20h",
+      "name": "Patofysiologi I",
+      "city": "Karlskrona",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=KM1424&revision=3,1&lang=sv",
+      "speed": 100,
+      "location": "Campus",
+      "code": "KM1424",
+      "points": 7.5,
+      "languages": [
+        "Svenska"
+      ],
+      "teachers": [
+        "Terese Lindberg"
+      ],
+      "description": "Kursen syftar till att den studerande inh\u00e4mtar kunskap om sjukdomsmekanismer, hur funktionen i olika system p\u00e5verkas av sjukdom och kan p\u00e5verkas av olika behandlingar.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att f\u00f6ljande kurser \u00e4r avklarade: Grundl\u00e4ggande anatomi och fysiologi, 7,5 hp; Anatomi och fysiologi, f\u00f6rdjupning, 7,5 hp.",
+      "start": "2021 vecka 34",
+      "end": "2021 vecka 38"
+    },
+    {
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20211&KtAnmKod=BFNR9&lang=sv&parentPtKod=OMGSP20h",
+      "name": "Mikrobiologi, farmakologi och n\u00e4ringsl\u00e4ra",
+      "city": "Karlskrona",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=KM1423&revision=2,1&lang=sv",
+      "speed": 100,
+      "location": "Campus",
+      "code": "KM1423",
+      "points": 7.5,
+      "languages": [
+        "Svenska"
+      ],
+      "teachers": [
+        "Ann-Kristin Olsson",
+        "Sara Sandin"
+      ],
+      "description": "Kursen syftar till att den studerande inh\u00e4mtar kunskap om mikrobiologi, farmakologi och n\u00e4ringsl\u00e4ra.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att f\u00f6ljande kurser \u00e4r genomg\u00e5ngna: Grundl\u00e4ggande anatomi och fysiologi, 7,5hp; Anatomi och fysiologi, f\u00f6rdjupning, 7,5hp.",
+      "start": "2021 vecka 08",
+      "end": "2021 vecka 12"
+    },
+    {
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20202&KtAnmKod=BPACN&lang=sv&parentPtKod=OMGSP20h",
+      "name": "Omv\u00e5rdnadens grunder",
+      "city": "Karlskrona",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=OM1535&revision=2&lang=sv",
+      "speed": 100,
+      "location": "Campus",
+      "code": "OM1535",
+      "points": 7.5,
+      "languages": [
+        "Svenska"
+      ],
+      "teachers": [
+        "Ewa Andersson",
+        "Hel\u00e9n Dellkvist"
+      ],
+      "description": "Kursen syftar till att den studerande inh\u00e4mtar grundl\u00e4ggande kunskap om omv\u00e5rdnadsprocessen, omv\u00e5rdnadsteori samt k\u00e4rnkompetenser.",
+      "requirements": "Grundl\u00e4ggande beh\u00f6righet + Matematik 2a alt 2b alt 2c, Naturkunskap 2 och Samh\u00e4llskunskap 1b alt 1a1+1a2.",
+      "start": "2020 vecka 50",
+      "end": "2021 vecka 02"
+    },
+    {
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20222&KtAnmKod=B4YNQ&lang=sv&parentPtKod=OMGSP20h",
+      "name": "Sj\u00e4lvst\u00e4ndigt arbete",
+      "city": "Karlskrona",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=OM1542&revision=1,1&lang=sv",
+      "speed": 100,
+      "location": "Campus",
+      "code": "OM1542",
+      "points": 15.0,
+      "languages": [
+        "Svenska"
+      ],
+      "teachers": [
+        "mfq",
+        "Christel Borg"
+      ],
+      "description": "Kursen syftar till att den studerande till\u00e4mpar f\u00f6rdjupade kunskaper om vetenskapliga metoder inom huvudomr\u00e5det omv\u00e5rdad i ett sj\u00e4lvst\u00e4ndigt arbete.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att f\u00f6ljande kurser \u00e4r avklarade: Omv\u00e5rdnad, metoder och till\u00e4mpning I, 7,5 hp; Omv\u00e5rdnad, metoder och till\u00e4mpning II, 7,5 hp.",
+      "start": "2022 vecka 39",
+      "end": "2022 vecka 48"
+    },
+    {
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20212&KtAnmKod=BC7NW&lang=sv&parentPtKod=OMGSP20h",
+      "name": "Patofysiologi II",
+      "city": "Karlskrona",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=KM1425&revision=3,1&lang=sv",
+      "speed": 100,
+      "location": "Campus",
+      "code": "KM1425",
+      "points": 7.5,
+      "languages": [
+        "Svenska"
+      ],
+      "teachers": [
+        "mfq",
+        "Agneta Lindvall"
+      ],
+      "description": "Kursen syftar till att den studerande inh\u00e4mtar kunskap om sjukdomsmekanismer, hur funktionen i olika system p\u00e5verkas av sjukdom och kan p\u00e5verkas av olika behandlingar.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs \u00e4ven att f\u00f6ljande kurser \u00e4r genomg\u00e5ngna: Patofysiologi I, 7,5 hp; Omv\u00e5rdnad, metoder och till\u00e4mpning I, 7,5 hp.",
+      "start": "2021 vecka 44",
+      "end": "2021 vecka 48"
+    },
+    {
       "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20211&KtAnmKod=BR3L4&lang=sv&parentPtKod=OMGSP20h",
       "name": "Anatomi och fysiologi, f\u00f6rdjupning",
       "city": "Karlskrona",
@@ -33,48 +158,6 @@
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att f\u00f6ljande kurs \u00e4r genomg\u00e5ngen: Grundl\u00e4ggande anatomi och fysiologi, 7,5 hp.",
       "start": "2021 vecka 03",
       "end": "2021 vecka 07"
-    },
-    {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20211&KtAnmKod=BFNR9&lang=sv&parentPtKod=OMGSP20h",
-      "name": "Mikrobiologi, farmakologi och n\u00e4ringsl\u00e4ra",
-      "city": "Karlskrona",
-      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=KM1423&revision=2,1&lang=sv",
-      "speed": 100,
-      "location": "Campus",
-      "code": "KM1423",
-      "points": 7.5,
-      "languages": [
-        "Svenska"
-      ],
-      "teachers": [
-        "Sara Sandin",
-        "Ann-Kristin Olsson"
-      ],
-      "description": "Kursen syftar till att den studerande inh\u00e4mtar kunskap om mikrobiologi, farmakologi och n\u00e4ringsl\u00e4ra.",
-      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att f\u00f6ljande kurser \u00e4r genomg\u00e5ngna: Grundl\u00e4ggande anatomi och fysiologi, 7,5hp; Anatomi och fysiologi, f\u00f6rdjupning, 7,5hp.",
-      "start": "2021 vecka 08",
-      "end": "2021 vecka 12"
-    },
-    {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20222&KtAnmKod=B4YNQ&lang=sv&parentPtKod=OMGSP20h",
-      "name": "Sj\u00e4lvst\u00e4ndigt arbete",
-      "city": "Karlskrona",
-      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=OM1542&revision=1,1&lang=sv",
-      "speed": 100,
-      "location": "Campus",
-      "code": "OM1542",
-      "points": 15.0,
-      "languages": [
-        "Svenska"
-      ],
-      "teachers": [
-        "Christel Borg",
-        "mfq"
-      ],
-      "description": "Kursen syftar till att den studerande till\u00e4mpar f\u00f6rdjupade kunskaper om vetenskapliga metoder inom huvudomr\u00e5det omv\u00e5rdad i ett sj\u00e4lvst\u00e4ndigt arbete.",
-      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att f\u00f6ljande kurser \u00e4r avklarade: Omv\u00e5rdnad, metoder och till\u00e4mpning I, 7,5 hp; Omv\u00e5rdnad, metoder och till\u00e4mpning II, 7,5 hp.",
-      "start": "2022 vecka 39",
-      "end": "2022 vecka 48"
     },
     {
       "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20222&KtAnmKod=BGTEH&lang=sv&parentPtKod=OMGSP20h",
@@ -98,46 +181,25 @@
       "end": "2023 vecka 02"
     },
     {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20212&KtAnmKod=BNYNH&lang=sv&parentPtKod=OMGSP20h",
-      "name": "Omv\u00e5rdnad, metoder och till\u00e4mpning I",
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20202&KtAnmKod=BWH9K&lang=sv&parentPtKod=OMGSP20h",
+      "name": "Grundl\u00e4ggande anatomi och fysiologi",
       "city": "Karlskrona",
-      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=OM1538&revision=3,1&lang=sv",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=KM1421&revision=2&lang=sv",
       "speed": 100,
       "location": "Campus",
-      "code": "OM1538",
+      "code": "KM1421",
       "points": 7.5,
       "languages": [
         "Svenska"
       ],
       "teachers": [
-        "Sara Sandin",
-        "Johanna Tell"
+        "Terese Lindberg",
+        "Filippa Stenberg"
       ],
-      "description": "Kursen syftar till att den studerande inh\u00e4mtar kunskap i omv\u00e5rdnadens metoder och till\u00e4mpning i samband med sjukdom och oh\u00e4lsotillst\u00e5nd.",
-      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att f\u00f6ljande kurser \u00e4r avklarade: Mikrobiologi, farmakologi och n\u00e4ringsl\u00e4ra, 7,5 hp; Sjuksk\u00f6terskans professionella grund, 7,5 hp.",
-      "start": "2021 vecka 39",
-      "end": "2021 vecka 43"
-    },
-    {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20212&KtAnmKod=BE6QG&lang=sv&parentPtKod=OMGSP20h",
-      "name": "Omv\u00e5rdnad, metoder och till\u00e4mpning II",
-      "city": "Karlskrona",
-      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=OM1539&revision=3,2&lang=sv",
-      "speed": 100,
-      "location": "Campus",
-      "code": "OM1539",
-      "points": 7.5,
-      "languages": [
-        "Svenska"
-      ],
-      "teachers": [
-        "Boel Sandstr\u00f6m",
-        "Sara Sandin"
-      ],
-      "description": "Kursen syftar till att den studerande inh\u00e4mtar f\u00f6rdjupad kunskap i omv\u00e5rdnadens metoder och till\u00e4mpning i samband med sjukdom och oh\u00e4lsotillst\u00e5nd.",
-      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs \u00e4ven att f\u00f6ljande kurser \u00e4r genomg\u00e5ngna: Omv\u00e5rdnad, f\u00f6rdjupning, 7,5 hp; Patofysiologi I, 7,5 hp; Omv\u00e5rdnad, metoder och till\u00e4mpning I, 7,5 hp; Patofysiologi II, 7,5 hp.",
-      "start": "2021 vecka 49",
-      "end": "2022 vecka 02"
+      "description": "Kursen syftar till att den studerande inh\u00e4mtar kunskap om grundl\u00e4ggande anatomi och fysiologi.",
+      "requirements": "Grundl\u00e4ggande beh\u00f6righet + Matematik 2a alt 2b alt 2c, Naturkunskap 2 och Samh\u00e4llskunskap 1b alt 1a1+1a2.",
+      "start": "2020 vecka 45",
+      "end": "2020 vecka 49"
     },
     {
       "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20222&KtAnmKod=BQKAU&lang=sv&parentPtKod=OMGSP20h",
@@ -152,97 +214,13 @@
         "Svenska"
       ],
       "teachers": [
-        "Johanna Tell",
-        "mfq"
+        "mfq",
+        "Johanna Tell"
       ],
       "description": "Kursen syftar till att den studerande inh\u00e4mtar och till\u00e4mpar f\u00f6rdjupade kunskaper om vetenskapliga teorier och metoder.",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att f\u00f6ljande kurser \u00e4r avklarade: Omv\u00e5rdnad, metoder och till\u00e4mpning I, 7,5 hp; Omv\u00e5rdnad, metoder och till\u00e4mpning II, 7,5 hp. D\u00e4rut\u00f6ver kr\u00e4vs att f\u00f6ljande kurs \u00e4r genomg\u00e5ngen: Sjuksk\u00f6terskans professionella utveckling, 30 hp.",
       "start": "2022 vecka 34",
       "end": "2022 vecka 38"
-    },
-    {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20211&KtAnmKod=BPP9L&lang=sv&parentPtKod=OMGSP20h",
-      "name": "Omv\u00e5rdnad, f\u00f6rdjupning",
-      "city": "Karlskrona",
-      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=OM1537&revision=2&lang=sv",
-      "speed": 100,
-      "location": "Campus",
-      "code": "OM1537",
-      "points": 7.5,
-      "languages": [
-        "Svenska"
-      ],
-      "teachers": [
-        "Terese Lindberg",
-        "Martin Jarl"
-      ],
-      "description": "Kursen syftar till att den studerande inh\u00e4mtar f\u00f6rdjupad kunskap om omv\u00e5rdnadsprocessen, omv\u00e5rdnadsteori samt k\u00e4rnkompetenser.",
-      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att f\u00f6ljande kurser \u00e4r avklarade: Introduktion till yrke och akademi, 7,5 hp; Det v\u00e5rdande och l\u00e4rande m\u00f6tet, 7,5 hp; Grundl\u00e4ggande anatomi och fysiologi, 7,5 hp; Omv\u00e5rdnadens grunder, 7,5 hp. D\u00e4rut\u00f6ver kr\u00e4vs att f\u00f6ljande kurser \u00e4r genomg\u00e5ngna: Anatomi och fysiologi, f\u00f6rdjupning, 7,5 hp; Mikrobiologi, farmakologi och n\u00e4ringsl\u00e4ra, 7,5 hp.",
-      "start": "2021 vecka 13",
-      "end": "2021 vecka 17"
-    },
-    {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20202&KtAnmKod=BWH9K&lang=sv&parentPtKod=OMGSP20h",
-      "name": "Grundl\u00e4ggande anatomi och fysiologi",
-      "city": "Karlskrona",
-      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=KM1421&revision=2&lang=sv",
-      "speed": 100,
-      "location": "Campus",
-      "code": "KM1421",
-      "points": 7.5,
-      "languages": [
-        "Svenska"
-      ],
-      "teachers": [
-        "Filippa Stenberg",
-        "Terese Lindberg"
-      ],
-      "description": "Kursen syftar till att den studerande inh\u00e4mtar kunskap om grundl\u00e4ggande anatomi och fysiologi.",
-      "requirements": "Grundl\u00e4ggande beh\u00f6righet + Matematik 2a alt 2b alt 2c, Naturkunskap 2 och Samh\u00e4llskunskap 1b alt 1a1+1a2.",
-      "start": "2020 vecka 45",
-      "end": "2020 vecka 49"
-    },
-    {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20202&KtAnmKod=B9Y39&lang=sv&parentPtKod=OMGSP20h",
-      "name": "Det v\u00e5rdande och l\u00e4rande m\u00f6tet",
-      "city": "Karlskrona",
-      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=OM1534&revision=2&lang=sv",
-      "speed": 100,
-      "location": "Campus",
-      "code": "OM1534",
-      "points": 7.5,
-      "languages": [
-        "Svenska"
-      ],
-      "teachers": [
-        "Lena Kransberg",
-        "Johanna Tell"
-      ],
-      "description": "Kursen syftar till att den studerande inh\u00e4mtar kunskap om det v\u00e5rdande och l\u00e4rande m\u00f6tet.",
-      "requirements": "Grundl\u00e4ggande beh\u00f6righet + Matematik 2a alt 2b alt 2c, Naturkunskap 2 och Samh\u00e4llskunskap 1b alt 1a1+1a2.",
-      "start": "2020 vecka 40",
-      "end": "2020 vecka 44"
-    },
-    {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20212&KtAnmKod=BC7NW&lang=sv&parentPtKod=OMGSP20h",
-      "name": "Patofysiologi II",
-      "city": "Karlskrona",
-      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=KM1425&revision=3,1&lang=sv",
-      "speed": 100,
-      "location": "Campus",
-      "code": "KM1425",
-      "points": 7.5,
-      "languages": [
-        "Svenska"
-      ],
-      "teachers": [
-        "Agneta Lindvall",
-        "mfq"
-      ],
-      "description": "Kursen syftar till att den studerande inh\u00e4mtar kunskap om sjukdomsmekanismer, hur funktionen i olika system p\u00e5verkas av sjukdom och kan p\u00e5verkas av olika behandlingar.",
-      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs \u00e4ven att f\u00f6ljande kurser \u00e4r genomg\u00e5ngna: Patofysiologi I, 7,5 hp; Omv\u00e5rdnad, metoder och till\u00e4mpning I, 7,5 hp.",
-      "start": "2021 vecka 44",
-      "end": "2021 vecka 48"
     },
     {
       "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20231&KtAnmKod=BPMLK&lang=sv&parentPtKod=OMGSP20h",
@@ -266,25 +244,25 @@
       "end": "2023 vecka 22"
     },
     {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20202&KtAnmKod=BPACN&lang=sv&parentPtKod=OMGSP20h",
-      "name": "Omv\u00e5rdnadens grunder",
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20212&KtAnmKod=BE6QG&lang=sv&parentPtKod=OMGSP20h",
+      "name": "Omv\u00e5rdnad, metoder och till\u00e4mpning II",
       "city": "Karlskrona",
-      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=OM1535&revision=2&lang=sv",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=OM1539&revision=3,2&lang=sv",
       "speed": 100,
       "location": "Campus",
-      "code": "OM1535",
+      "code": "OM1539",
       "points": 7.5,
       "languages": [
         "Svenska"
       ],
       "teachers": [
-        "Hel\u00e9n Dellkvist",
-        "Ewa Andersson"
+        "Boel Sandstr\u00f6m",
+        "Sara Sandin"
       ],
-      "description": "Kursen syftar till att den studerande inh\u00e4mtar grundl\u00e4ggande kunskap om omv\u00e5rdnadsprocessen, omv\u00e5rdnadsteori samt k\u00e4rnkompetenser.",
-      "requirements": "Grundl\u00e4ggande beh\u00f6righet + Matematik 2a alt 2b alt 2c, Naturkunskap 2 och Samh\u00e4llskunskap 1b alt 1a1+1a2.",
-      "start": "2020 vecka 50",
-      "end": "2021 vecka 02"
+      "description": "Kursen syftar till att den studerande inh\u00e4mtar f\u00f6rdjupad kunskap i omv\u00e5rdnadens metoder och till\u00e4mpning i samband med sjukdom och oh\u00e4lsotillst\u00e5nd.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs \u00e4ven att f\u00f6ljande kurser \u00e4r genomg\u00e5ngna: Omv\u00e5rdnad, f\u00f6rdjupning, 7,5 hp; Patofysiologi I, 7,5 hp; Omv\u00e5rdnad, metoder och till\u00e4mpning I, 7,5 hp; Patofysiologi II, 7,5 hp.",
+      "start": "2021 vecka 49",
+      "end": "2022 vecka 02"
     },
     {
       "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20202&KtAnmKod=BHN97&lang=sv&parentPtKod=OMGSP20h",
@@ -299,9 +277,9 @@
         "Svenska"
       ],
       "teachers": [
-        "Hel\u00e9n Dellkvist",
         "Lisa Sk\u00e4r",
-        "Markus Hjelm"
+        "Markus Hjelm",
+        "Hel\u00e9n Dellkvist"
       ],
       "description": "Kursen syftar till att den studerande inh\u00e4mtar grundl\u00e4ggande kunskap om sjuksk\u00f6terskans profession, ansvarsomr\u00e5de och roll i samh\u00e4llet. Dessutom syftar kursen till att introducera den studerande till h\u00f6gskolestudier, akademiskt skrivande samt till aktuell pedagogisk modell.",
       "requirements": "Grundl\u00e4ggande beh\u00f6righet + Matematik 2a alt 2b alt 2c, Naturkunskap 2 och Samh\u00e4llskunskap 1b alt 1a1+1a2.",
@@ -309,45 +287,67 @@
       "end": "2020 vecka 39"
     },
     {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20212&KtAnmKod=BDW4W&lang=sv&parentPtKod=OMGSP20h",
-      "name": "Patofysiologi I",
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20211&KtAnmKod=BPP9L&lang=sv&parentPtKod=OMGSP20h",
+      "name": "Omv\u00e5rdnad, f\u00f6rdjupning",
       "city": "Karlskrona",
-      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=KM1424&revision=3,1&lang=sv",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=OM1537&revision=2&lang=sv",
       "speed": 100,
       "location": "Campus",
-      "code": "KM1424",
+      "code": "OM1537",
       "points": 7.5,
       "languages": [
         "Svenska"
       ],
       "teachers": [
+        "Martin Jarl",
         "Terese Lindberg"
       ],
-      "description": "Kursen syftar till att den studerande inh\u00e4mtar kunskap om sjukdomsmekanismer, hur funktionen i olika system p\u00e5verkas av sjukdom och kan p\u00e5verkas av olika behandlingar.",
-      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att f\u00f6ljande kurser \u00e4r avklarade: Grundl\u00e4ggande anatomi och fysiologi, 7,5 hp; Anatomi och fysiologi, f\u00f6rdjupning, 7,5 hp.",
-      "start": "2021 vecka 34",
-      "end": "2021 vecka 38"
+      "description": "Kursen syftar till att den studerande inh\u00e4mtar f\u00f6rdjupad kunskap om omv\u00e5rdnadsprocessen, omv\u00e5rdnadsteori samt k\u00e4rnkompetenser.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att f\u00f6ljande kurser \u00e4r avklarade: Introduktion till yrke och akademi, 7,5 hp; Det v\u00e5rdande och l\u00e4rande m\u00f6tet, 7,5 hp; Grundl\u00e4ggande anatomi och fysiologi, 7,5 hp; Omv\u00e5rdnadens grunder, 7,5 hp. D\u00e4rut\u00f6ver kr\u00e4vs att f\u00f6ljande kurser \u00e4r genomg\u00e5ngna: Anatomi och fysiologi, f\u00f6rdjupning, 7,5 hp; Mikrobiologi, farmakologi och n\u00e4ringsl\u00e4ra, 7,5 hp.",
+      "start": "2021 vecka 13",
+      "end": "2021 vecka 17"
     },
     {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20211&KtAnmKod=BWYEQ&lang=sv&parentPtKod=OMGSP20h",
-      "name": "Sjuksk\u00f6terskans professionella grund",
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20212&KtAnmKod=BNYNH&lang=sv&parentPtKod=OMGSP20h",
+      "name": "Omv\u00e5rdnad, metoder och till\u00e4mpning I",
       "city": "Karlskrona",
-      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=OM1536&revision=2&lang=sv",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=OM1538&revision=3,1&lang=sv",
       "speed": 100,
       "location": "Campus",
-      "code": "OM1536",
+      "code": "OM1538",
       "points": 7.5,
       "languages": [
         "Svenska"
       ],
       "teachers": [
-        "Ulrika Bernow Johansson",
-        "Johanna Tell"
+        "Johanna Tell",
+        "Sara Sandin"
       ],
-      "description": "Kursen syftar till att den studerande ska till\u00e4mpa kunskap om grundl\u00e4ggande omv\u00e5rdnad och det v\u00e5rdande och l\u00e4rande m\u00f6tet i klinisk verksamhet.",
-      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att f\u00f6ljande kurser \u00e4r avklarade: Introduktion till yrke och akademi, 7,5 hp; Det v\u00e5rdande och l\u00e4rande m\u00f6tet,7,5 hp.",
-      "start": "2021 vecka 18",
-      "end": "2021 vecka 22"
+      "description": "Kursen syftar till att den studerande inh\u00e4mtar kunskap i omv\u00e5rdnadens metoder och till\u00e4mpning i samband med sjukdom och oh\u00e4lsotillst\u00e5nd.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att f\u00f6ljande kurser \u00e4r avklarade: Mikrobiologi, farmakologi och n\u00e4ringsl\u00e4ra, 7,5 hp; Sjuksk\u00f6terskans professionella grund, 7,5 hp.",
+      "start": "2021 vecka 39",
+      "end": "2021 vecka 43"
+    },
+    {
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20202&KtAnmKod=B9Y39&lang=sv&parentPtKod=OMGSP20h",
+      "name": "Det v\u00e5rdande och l\u00e4rande m\u00f6tet",
+      "city": "Karlskrona",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=OM1534&revision=2&lang=sv",
+      "speed": 100,
+      "location": "Campus",
+      "code": "OM1534",
+      "points": 7.5,
+      "languages": [
+        "Svenska"
+      ],
+      "teachers": [
+        "Johanna Tell",
+        "Lena Kransberg"
+      ],
+      "description": "Kursen syftar till att den studerande inh\u00e4mtar kunskap om det v\u00e5rdande och l\u00e4rande m\u00f6tet.",
+      "requirements": "Grundl\u00e4ggande beh\u00f6righet + Matematik 2a alt 2b alt 2c, Naturkunskap 2 och Samh\u00e4llskunskap 1b alt 1a1+1a2.",
+      "start": "2020 vecka 40",
+      "end": "2020 vecka 44"
     },
     {
       "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20221&KtAnmKod=BEUFX&lang=sv&parentPtKod=OMGSP20h",
@@ -374,5 +374,5 @@
   "optional_courses": [],
   "start": "2020 vecka 35",
   "end": "2021 vecka 02",
-  "generated": "2023-01-21 17:29:53.258695"
+  "generated": "2023-08-30 06:29:46.726165"
 }

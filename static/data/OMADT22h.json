@@ -11,7 +11,7 @@
     "Engelska"
   ],
   "teacher": "Christel Borg",
-  "url": "https://www.bth.se/utbildning/program/omadt20h/",
+  "url": "https://www.bth.se/utbildning/program-och-kurser/omadt/",
   "required_courses": [
     {
       "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20232&KtAnmKod=BD9FN&lang=sv&parentPtKod=OMADT22h",
@@ -25,7 +25,9 @@
       "languages": [
         "Svenska"
       ],
-      "teachers": [],
+      "teachers": [
+        "Christel Borg"
+      ],
       "description": "Syftet med kursen \u00e4r att studenten f\u00f6rdjupar kunskapen om forskningsdesign, forskningsmetod, forskningsetik samt sin f\u00f6rm\u00e5ga att till\u00e4mpa forskningsprocessens steg i ett examensarbete i omv\u00e5rdnad med inriktning mot distriktssk\u00f6terskans verksamhetsomr\u00e5de. Syftet \u00e4r ocks\u00e5 att studenten vidareutvecklar f\u00f6rm\u00e5gan att kritiskt granska, bed\u00f6ma och diskutera eget samt andras examensarbete.",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarad kurs Specialistsjuksk\u00f6terskans profession och vetenskapliga f\u00f6rh\u00e5llningss\u00e4tt inom distriktssk\u00f6terskans verksamhetsomr\u00e5de, 30 hp.",
       "start": "2023 vecka 35",
@@ -44,8 +46,8 @@
         "Svenska"
       ],
       "teachers": [
-        "Christel Borg",
-        "Ann-Kristin Olsson"
+        "Ann-Kristin Olsson",
+        "Christel Borg"
       ],
       "description": "Syftet med kursen \u00e4r att studenten ska f\u00f6rdjupa sina kunskaper utifr\u00e5n ett vetenskapligt, reflektivt och kritiskt f\u00f6rh\u00e5llningss\u00e4tt inom farmakologi, vaccination samt h\u00e4lsa, oh\u00e4lsa och sjukdom inom ramen f\u00f6r distriktssk\u00f6terskans f\u00f6rskrivningsr\u00e4tt. Syftet \u00e4r vidare att med st\u00f6d av styrdokument kunna f\u00f6rskriva l\u00e4kemedel, tekniska hj\u00e4lpmedel och f\u00f6rbrukningsartiklar.",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs sjuksk\u00f6terskeexamen och kandidatexamen i omv\u00e5rdnad/v\u00e5rdvetenskap. Svensk legitimation som sjuksk\u00f6terska. Yrkeserfarenhet som sjuksk\u00f6terska motsvarande 6 m\u00e5naders heltidstj\u00e4nstg\u00f6ring.",
@@ -65,8 +67,8 @@
         "Svenska"
       ],
       "teachers": [
-        "Christel Borg",
-        "Johanna Tell"
+        "Johanna Tell",
+        "Christel Borg"
       ],
       "description": "Syftet med kursen \u00e4r att studenten ska f\u00f6rjupa sina kunskaper om h\u00e4lsofr\u00e4mjande omv\u00e5rdnad och medicinska omv\u00e5rdnads\u00e5tg\u00e4rder i ett livsloppsperspektiv utifr\u00e5n omv\u00e5rdnadsprocessen och k\u00e4rnkompetenser och visa f\u00f6rm\u00e5ga att utf\u00f6ra kvalificerad omv\u00e5rdnad utifr\u00e5n komplexa situationer fr\u00e5n det nyf\u00f6dda barnet till livets slut.",
       "requirements": "Sjuksk\u00f6terskeexamen och kandidatexamen i omv\u00e5rdnad/v\u00e5rdvetenskap. Svensk legitimation som sjuksk\u00f6terska. Yrkeserfarenhet som sjuksk\u00f6terska motsvarande 6 m\u00e5naders heltidstj\u00e4nstg\u00f6ring. D\u00e4rut\u00f6ver kr\u00e4vs minst 15 hp p\u00e5 niv\u00e5 A1N inom omv\u00e5rdnad.",
@@ -86,8 +88,8 @@
         "Svenska"
       ],
       "teachers": [
-        "Christel Borg",
-        "Johanna Tell"
+        "Johanna Tell",
+        "Christel Borg"
       ],
       "description": "Syftet med kursen \u00e4r att studenten skall f\u00f6rdjupa sin f\u00f6rst\u00e5else f\u00f6r och f\u00f6rm\u00e5ga till att kritiskt analysera omv\u00e5rdnadsvetenskapens centrala begrepp ur ett teoretiskt och empiriskt perspektiv. Syftet \u00e4r vidare att vidareutveckla f\u00f6rm\u00e5gan att analysera och diskutera relationen specialistsjuksk\u00f6terskans profession i f\u00f6rh\u00e5llande till omv\u00e5rdnadens k\u00e4rnkompetenser med s\u00e4rskilt fokus p\u00e5 att kunna leda och utveckla omv\u00e5rdnaden i en l\u00e4rande och f\u00f6r\u00e4nderlig milj\u00f6. Syftet \u00e4r slutligen att producera en projektplan inf\u00f6r examensarbetet.",
       "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs sjuksk\u00f6terskeexamen och kandidatexamen. Svensk legitimation som sjuksk\u00f6terska. Yrkeserfarenhet som sjuksk\u00f6terska motsvarande 6 m\u00e5naders heltidstj\u00e4nstg\u00f6ring.",
@@ -98,5 +100,5 @@
   "optional_courses": [],
   "start": "2022 vecka 35",
   "end": "2023 vecka 02",
-  "generated": "2023-01-21 17:30:46.217286"
+  "generated": "2023-08-30 06:30:35.956275"
 }

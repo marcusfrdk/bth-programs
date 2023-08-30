@@ -10,29 +10,8 @@
     "Engelska"
   ],
   "teacher": "Merlina Missimer",
-  "url": "https://www.bth.se/utbildning/program/slash20h/",
+  "url": "https://www.bth.se/utbildning/program-och-kurser/slash/",
   "required_courses": [
-    {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20222&KtAnmKod=BKUN9&lang=sv&parentPtKod=SLASH22h",
-      "name": "Innovation f\u00f6r h\u00e5llbarhet",
-      "city": "Karlskrona",
-      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=SL2540&revision=4&lang=sv",
-      "speed": 100,
-      "location": "Campus",
-      "code": "SL2540",
-      "points": 5.0,
-      "languages": [
-        "Engelska"
-      ],
-      "teachers": [
-        "Pierre Johnson",
-        "Merlina Missimer"
-      ],
-      "description": "Syftet med kursen \u00e4r att studenten ska (1) utveckla f\u00f6rdjupad kunskap om och f\u00f6rst\u00e5else f\u00f6r hur innovation kan st\u00f6dja samh\u00e4llets omst\u00e4llning till h\u00e5llbarhet, och (2) utveckla praktisk f\u00e4rdighet inom detta omr\u00e5de, till exempel hur man kritiskt bed\u00f6mer befintliga produkter och processer samt hur man till\u00e4mpar kreativitetsmetoder och kreativitetsverktyg f\u00f6r innovation f\u00f6r h\u00e5llbarhet.",
-      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att 5 hp av kursen Strategisk h\u00e5llbar utveckling (12,5 hp) \u00e4r avklarade.",
-      "start": "2022 vecka 44",
-      "end": "2022 vecka 48"
-    },
     {
       "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20222&KtAnmKod=BQ6LK&lang=sv&parentPtKod=SLASH22h",
       "name": "Ledarskap i komplexitet",
@@ -46,6 +25,7 @@
         "Engelska"
       ],
       "teachers": [
+        "James Ayers",
         "Merlina Missimer"
       ],
       "description": "Syftet med kursen \u00e4r att studenten ska (1) utveckla f\u00f6rdjupad kunskap om och f\u00f6rst\u00e5else f\u00f6r teoretiska grunder f\u00f6r ledarskap i komplexitet, s\u00e4rskilt i relation till transformativ f\u00f6r\u00e4ndring f\u00f6r h\u00e5llbarhet och (2) utveckla f\u00e4rdighet som kr\u00e4vs f\u00f6r att arbeta effektivt med komplexa utmaningar, inklusive f\u00f6rm\u00e5ga att kritiskt reflektera \u00f6ver olika arbetss\u00e4tt inom omr\u00e5det.",
@@ -96,6 +76,27 @@
       "end": "2023 vecka 22"
     },
     {
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20222&KtAnmKod=BKUN9&lang=sv&parentPtKod=SLASH22h",
+      "name": "Innovation f\u00f6r h\u00e5llbarhet",
+      "city": "Karlskrona",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=SL2540&revision=4&lang=sv",
+      "speed": 100,
+      "location": "Campus",
+      "code": "SL2540",
+      "points": 5.0,
+      "languages": [
+        "Engelska"
+      ],
+      "teachers": [
+        "Pierre Johnson",
+        "Merlina Missimer"
+      ],
+      "description": "Syftet med kursen \u00e4r att studenten ska (1) utveckla f\u00f6rdjupad kunskap om och f\u00f6rst\u00e5else f\u00f6r hur innovation kan st\u00f6dja samh\u00e4llets omst\u00e4llning till h\u00e5llbarhet, och (2) utveckla praktisk f\u00e4rdighet inom detta omr\u00e5de, till exempel hur man kritiskt bed\u00f6mer befintliga produkter och processer samt hur man till\u00e4mpar kreativitetsmetoder och kreativitetsverktyg f\u00f6r innovation f\u00f6r h\u00e5llbarhet.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att 5 hp av kursen Strategisk h\u00e5llbar utveckling (12,5 hp) \u00e4r avklarade.",
+      "start": "2022 vecka 44",
+      "end": "2022 vecka 48"
+    },
+    {
       "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20222&KtAnmKod=BCTPF&lang=sv&parentPtKod=SLASH22h",
       "name": "Strategisk planering f\u00f6r h\u00e5llbarhet",
       "city": "Karlskrona",
@@ -140,5 +141,5 @@
   "optional_courses": [],
   "start": "2022 vecka 35",
   "end": "2023 vecka 02",
-  "generated": "2023-01-21 17:27:14.122978"
+  "generated": "2023-08-30 06:27:22.333776"
 }

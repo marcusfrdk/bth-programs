@@ -14,6 +14,86 @@
   "url": "https://www.bth.se/utbildning/program/pagwe20h/",
   "required_courses": [
     {
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20221&KtAnmKod=BC9TJ&lang=sv&parentPtKod=PAGWE20h",
+      "name": "Grundl\u00e4ggande systemverifiering",
+      "city": "Karlskrona",
+      "study_plan": "https://edu.bth.se/utbildning/utb_kursplan.asp?kurskod=PA1417&revisionsnr=9&format=pdf",
+      "speed": 50,
+      "location": "Campus",
+      "code": "PA1417",
+      "points": 7.5,
+      "languages": [
+        "Svenska"
+      ],
+      "teachers": [
+        "Eriks Klotins"
+      ],
+      "description": "Kursens syfte \u00e4r att introducera systemverifiering och testning. Kursen tar upp testmetoder, strategier och testmilj\u00f6. Det tas \u00e4ven upp hur gruppen kring testningen kan organiseras och hur testgruppen fungerar tillsammans med \u00f6vriga delar av systemutvecklingsgruppen. Test av mjukvarusystem \u00e4r en komplex och viktig del i att f\u00e5 ett fungerande system levererat till anv\u00e4ndarna. Kompetens inom systemverifiering och test \u00e4r och kommer vara efterfr\u00e5gat.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att den studerande har klarat programmering, 15 h\u00f6gskolepo\u00e4ng eller motsvarande.",
+      "start": "2022 vecka 13",
+      "end": "2022 vecka 22"
+    },
+    {
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20212&KtAnmKod=B7KX7&lang=sv&parentPtKod=PAGWE20h",
+      "name": "Operativsystemet Linux och virtualiseringstekniker",
+      "city": "DistansSt\u00f6rre delen av undervisningen bedrivs p\u00e5 distans, se vidare under rubriken Anm\u00e4rkning.",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=DV1611&revision=4&lang=sv",
+      "speed": 50,
+      "location": "Distans",
+      "code": "DV1611",
+      "points": 7.5,
+      "languages": [
+        "Svenska"
+      ],
+      "teachers": [
+        "Kenneth Lewenhagen"
+      ],
+      "description": "Syftet med kursen \u00e4r att studenten ska l\u00e4ra sig operativsystemet Linux och dess best\u00e5ndsdelar s\u00e5som processer, filsystemet och terminalen. Kursens fokusomr\u00e5den ligger \u00e4ven i operativsystemets uppbyggnad, programhantering och serverhantering samt att programmera i spr\u00e5ket bash. Studenten ska \u00e4ven l\u00e4ra sig skapa virtualiseringstekniker s\u00e5som VirtualBox och Docker.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser eller moment fr\u00e5n kurser i programmering och webbteknologier omfattande totalt 22,5 hp.",
+      "start": "2021 vecka 35",
+      "end": "2021 vecka 43"
+    },
+    {
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20202&KtAnmKod=BP3G4&lang=sv&parentPtKod=PAGWE20h",
+      "name": "Programmering och Probleml\u00f6sning med Python",
+      "city": "Karlskrona",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=DV1531&revision=11&lang=sv",
+      "speed": 50,
+      "location": "Campus",
+      "code": "DV1531",
+      "points": 7.5,
+      "languages": [
+        "Svenska"
+      ],
+      "teachers": [
+        "Andreas Arnesson"
+      ],
+      "description": "Kursen l\u00e4r ut strukturerad programmering och probleml\u00f6sning med programmeringsspr\u00e5ket Python.",
+      "requirements": "Grundl\u00e4ggande beh\u00f6righet.",
+      "start": "2020 vecka 35",
+      "end": "2020 vecka 44"
+    },
+    {
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20221&KtAnmKod=BUH3H&lang=sv&parentPtKod=PAGWE20h",
+      "name": "Programvaruprojekt i grupp",
+      "city": "Karlskrona",
+      "study_plan": "https://edu.bth.se/utbildning/utb_kursplan.asp?kurskod=PA1416&revisionsnr=10&format=pdf",
+      "speed": 50,
+      "location": "Campus",
+      "code": "PA1416",
+      "points": 15.0,
+      "languages": [
+        "Svenska"
+      ],
+      "teachers": [
+        "Nina Dzamashvili Fogelstr\u00f6m"
+      ],
+      "description": "Kursen syftar till att, s\u00e5 n\u00e4ra det \u00e4r m\u00f6jligt, efterlikna ett projekt som det normalt kan bedrivas ute i industrin.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att den studerande har avklarat kurser motsvarande 40 h\u00f6gskolepo\u00e4ng inom \u00e4mnet programvaruteknik och/eller \u00e4mnet datavetenskap inklusive kurserna",
+      "start": "2022 vecka 03",
+      "end": "2022 vecka 22"
+    },
+    {
       "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20222&KtAnmKod=BEFPR&lang=sv&parentPtKod=PAGWE20h",
       "name": "JavaScript-baserade webbramverk",
       "city": "Karlskrona",
@@ -54,224 +134,25 @@
       "end": "2021 vecka 43"
     },
     {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20222&KtAnmKod=BTJEP&lang=sv&parentPtKod=PAGWE20h",
-      "name": "Forskningsmetodik i datavetenskaper",
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20212&KtAnmKod=BKLDX&lang=sv&parentPtKod=PAGWE20h",
+      "name": "Matematisk\u00a0modellering",
       "city": "Karlskrona",
-      "study_plan": "https://edu.bth.se/utbildning/utb_kursplan.asp?kurskod=PA1433&revisionsnr=8&format=pdf",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=MA1487&revision=4&lang=sv",
       "speed": 50,
       "location": "Campus",
-      "code": "PA1433",
+      "code": "MA1487",
       "points": 7.5,
       "languages": [
         "Svenska"
       ],
       "teachers": [
-        "Binish Tanveer"
+        "Mattias Dahl",
+        "Simon Nilsson"
       ],
-      "description": "Syftet med kursen \u00e4r att introducera, diskutera och tr\u00e4na ett vetenskapligt f\u00f6rh\u00e5llningss\u00e4tt, att bekanta sig med aktuell forskning inom ett valt omr\u00e5de och att tr\u00e4na vetenskapligt skrivande. En nyckelfr\u00e5ga i forskningen inom programvaruteknik och datavetenskap \u00e4r framtagning, utv\u00e4rdering och j\u00e4mf\u00f6relse av metoder, verktyg, spr\u00e5k, design och algoritmer och hur dessa p\u00e5verkar olika system, organisationer och m\u00e4nniskor. I denna kurs f\u00e5r studenten en f\u00f6rst\u00e5else f\u00f6r forskningsmetodik som g\u00f6r en s\u00e5dan utv\u00e4rdering och j\u00e4mf\u00f6relse m\u00f6jlig. Studenten f\u00e5r ocks\u00e5 en introduktion till samh\u00e4lleliga och etiska aspekter av s\u00e5dan forskning och utv\u00e4rdering och f\u00e5r f\u00f6rst erfarenheter av att planera, genomf\u00f6ra och rapportera ett forskningsprojekt.",
-      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att studenten har avklarat 45hp i huvudomr\u00e5det datavetenskap eller programvaruteknik.",
-      "start": "2022 vecka 35",
-      "end": "2022 vecka 43"
-    },
-    {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20221&KtAnmKod=BC9TJ&lang=sv&parentPtKod=PAGWE20h",
-      "name": "Grundl\u00e4ggande systemverifiering",
-      "city": "Karlskrona",
-      "study_plan": "https://edu.bth.se/utbildning/utb_kursplan.asp?kurskod=PA1417&revisionsnr=9&format=pdf",
-      "speed": 50,
-      "location": "Campus",
-      "code": "PA1417",
-      "points": 7.5,
-      "languages": [
-        "Svenska"
-      ],
-      "teachers": [
-        "Eriks Klotins"
-      ],
-      "description": "Kursens syfte \u00e4r att introducera systemverifiering och testning. Kursen tar upp testmetoder, strategier och testmilj\u00f6. Det tas \u00e4ven upp hur gruppen kring testningen kan organiseras och hur testgruppen fungerar tillsammans med \u00f6vriga delar av systemutvecklingsgruppen. Test av mjukvarusystem \u00e4r en komplex och viktig del i att f\u00e5 ett fungerande system levererat till anv\u00e4ndarna. Kompetens inom systemverifiering och test \u00e4r och kommer vara efterfr\u00e5gat.",
-      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att den studerande har klarat programmering, 15 h\u00f6gskolepo\u00e4ng eller motsvarande.",
-      "start": "2022 vecka 13",
-      "end": "2022 vecka 22"
-    },
-    {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20211&KtAnmKod=B3JAQ&lang=sv&parentPtKod=PAGWE20h",
-      "name": "Databasteknologier f\u00f6r webben",
-      "city": "Karlskrona",
-      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=DV1606&revision=3&lang=sv",
-      "speed": 50,
-      "location": "Campus",
-      "code": "DV1606",
-      "points": 7.5,
-      "languages": [
-        "Svenska"
-      ],
-      "teachers": [
-        "Mikael Roos"
-      ],
-      "description": "Kursens syfte \u00e4r att studenten ska f\u00f6rst\u00e5 och l\u00e4ra sig modellera och implementera en databas samt utveckla en webbapplikation som anv\u00e4nder databasen. Som applikationsspr\u00e5k anv\u00e4nds serverbaserad JavaScript i webbmilj\u00f6.",
-      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngna kurser motsvarande 15 hp i programmering och/eller webbteknologier.",
-      "start": "2021 vecka 03",
-      "end": "2021 vecka 12"
-    },
-    {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20221&KtAnmKod=BUH3H&lang=sv&parentPtKod=PAGWE20h",
-      "name": "Programvaruprojekt i grupp",
-      "city": "Karlskrona",
-      "study_plan": "https://edu.bth.se/utbildning/utb_kursplan.asp?kurskod=PA1416&revisionsnr=10&format=pdf",
-      "speed": 50,
-      "location": "Campus",
-      "code": "PA1416",
-      "points": 15.0,
-      "languages": [
-        "Svenska"
-      ],
-      "teachers": [
-        "Nina Dzamashvili Fogelstr\u00f6m"
-      ],
-      "description": "Kursen syftar till att, s\u00e5 n\u00e4ra det \u00e4r m\u00f6jligt, efterlikna ett projekt som det normalt kan bedrivas ute i industrin.",
-      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att den studerande har avklarat kurser motsvarande 40 h\u00f6gskolepo\u00e4ng inom \u00e4mnet programvaruteknik och/eller \u00e4mnet datavetenskap inklusive kurserna",
-      "start": "2022 vecka 03",
-      "end": "2022 vecka 22"
-    },
-    {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20211&KtAnmKod=B6FDF&lang=sv&parentPtKod=PAGWE20h",
-      "name": "Algoritmer och datastrukturer med objektorienterad Python",
-      "city": "Karlskrona",
-      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=DV1618&revision=2,1&lang=sv",
-      "speed": 50,
-      "location": "Campus",
-      "code": "DV1618",
-      "points": 7.5,
-      "languages": [
-        "Svenska"
-      ],
-      "teachers": [
-        "Andreas Arnesson"
-      ],
-      "description": "Kursen syftar till att l\u00e4ra studenterna objektorienterade angreppss\u00e4tt och designprinciper f\u00f6r att utveckla objektorienterade program. Vidare ska studenterna l\u00e4ra sig s\u00e5v\u00e4l teoretiska aspekter som implementationsaspekter av algoritmer och datastrukturer.",
-      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngen kurs Programmering och probleml\u00f6sning med Python 7,5 hp.",
-      "start": "2021 vecka 03",
-      "end": "2021 vecka 12"
-    },
-    {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20231&KtAnmKod=BWA3N&lang=sv&parentPtKod=PAGWE20h",
-      "name": "Avancerat programvaruprojekt i grupp",
-      "city": "Karlskrona",
-      "study_plan": "https://edu.bth.se/utbildning/utb_kursplan.asp?kurskod=PA1449&revisionsnr=6&format=pdf",
-      "speed": 50,
-      "location": "Campus",
-      "code": "PA1449",
-      "points": 15.0,
-      "languages": [
-        "Svenska"
-      ],
-      "teachers": [
-        "Nina Dzamashvili Fogelstr\u00f6m"
-      ],
-      "description": "Kursen syftar till att binda ihop tidigare kunskaper inom ramen f\u00f6r ett stort grupprojekt d\u00e4r en omfattande programvara skall utvecklas. Kursen \u00e4r upplagd f\u00f6r att, s\u00e5 n\u00e4ra det \u00e4r m\u00f6jligt, efterlikna ett projekt som det normalt kan bedrivas ute i industrin.",
-      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att den studerande har avklarat 90 h\u00f6gskolepo\u00e4ng i \u00e4mnet datavetenskap och/eller i \u00e4mnet programvaruteknik inklusive kursen Programvaruprojekt",
-      "start": "2023 vecka 03",
-      "end": "2023 vecka 22"
-    },
-    {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20202&KtAnmKod=BYRJX&lang=sv&parentPtKod=PAGWE20h",
-      "name": "Webbteknologier",
-      "city": "Karlskrona",
-      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=PA1439&revision=5&lang=sv",
-      "speed": 50,
-      "location": "Campus",
-      "code": "PA1439",
-      "points": 7.5,
-      "languages": [
-        "Svenska"
-      ],
-      "teachers": [
-        "Mikael Roos"
-      ],
-      "description": "Kursen l\u00e4r ut webbutveckling d\u00e4r teknikerna HTML, CSS, PHP och SQL anv\u00e4nds f\u00f6r att tillsammans bygga en databasdriven webbplats. Kursen \u00e4r f\u00f6r de som vill l\u00e4ra sig om webbutveckling och webbprogrammering.",
-      "requirements": "Grundl\u00e4ggande beh\u00f6righet.",
-      "start": "2020 vecka 36",
-      "end": "2020 vecka 44"
-    },
-    {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20202&KtAnmKod=BP3G4&lang=sv&parentPtKod=PAGWE20h",
-      "name": "Programmering och Probleml\u00f6sning med Python",
-      "city": "Karlskrona",
-      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=DV1531&revision=11&lang=sv",
-      "speed": 50,
-      "location": "Campus",
-      "code": "DV1531",
-      "points": 7.5,
-      "languages": [
-        "Svenska"
-      ],
-      "teachers": [
-        "Andreas Arnesson"
-      ],
-      "description": "Kursen l\u00e4r ut strukturerad programmering och probleml\u00f6sning med programmeringsspr\u00e5ket Python.",
-      "requirements": "Grundl\u00e4ggande beh\u00f6righet.",
-      "start": "2020 vecka 35",
-      "end": "2020 vecka 44"
-    },
-    {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20212&KtAnmKod=BKXDR&lang=sv&parentPtKod=PAGWE20h",
-      "name": "Webbaserade ramverk och designm\u00f6nster",
-      "city": "Karlskrona",
-      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=DV1610&revision=3&lang=sv",
-      "speed": 50,
-      "location": "Campus",
-      "code": "DV1610",
-      "points": 7.5,
-      "languages": [
-        "Svenska"
-      ],
-      "teachers": [
-        "Mikael Roos"
-      ],
-      "description": "Kursen l\u00e4r ut programmering och objektorienterade kodstrukturer med designm\u00f6nster och modult\u00e4nkande kring \u00e5teranv\u00e4ndbara moduler i webbaserade ramverk samt tekniker f\u00f6r automatiserad testning, byggsystem och fl\u00f6de f\u00f6r kontinuerlig integration av programvaran.",
-      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser eller moment fr\u00e5n kurser i programmering och webbteknologier omfattande totalt 22,5 hp. D\u00e4rut\u00f6ver kr\u00e4vs genomg\u00e5ngen kurs Objektorienterade webbteknologier, 7,5 hp.",
+      "description": "Kursen avser att ge studenten f\u00f6ruts\u00e4ttningar att inh\u00e4mta kunskaper i matematisk modellering. Utg\u00e5ngspunkten \u00e4r att kunna till\u00e4mpa olika typer av matematiska metoder och modeller p\u00e5 problemst\u00e4llningar inom framf\u00f6r allt teknik- och naturvetenskaperna, s\u00e5v\u00e4l som inom mer tv\u00e4rvetenskapliga \u00e4mnen. Kursen skall \u00e4ven bidra till f\u00f6rst\u00e5elsen av diskret matematik, statistik, optimering och den matematiska modelleringens betydelse vad det g\u00e4ller f\u00f6rb\u00e4ttringspotentialer inom de olika till\u00e4mpningsomr\u00e5dena.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarad Matematik 3b alt. 3c eller Matematik C fr\u00e5n gymnasieskolan samt genomg\u00e5ngna kurser i programmering om minst 15 hp.",
       "start": "2021 vecka 44",
       "end": "2022 vecka 02"
-    },
-    {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20222&KtAnmKod=BQAQU&lang=sv&parentPtKod=PAGWE20h",
-      "name": "Kontinuerlig integration och drifts\u00e4ttning i molnet",
-      "city": "Karlskrona",
-      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=DV1658&revision=1&lang=sv",
-      "speed": 50,
-      "location": "Campus",
-      "code": "DV1658",
-      "points": 7.5,
-      "languages": [
-        "Svenska"
-      ],
-      "teachers": [
-        "Andreas Arnesson"
-      ],
-      "description": "Kursen l\u00e4r ut hur man arbetar med utveckling och it-drift av programvara i en gemensam roll ist\u00e4llet f\u00f6r tv\u00e5 separata roller. Kursen uppn\u00e5r sitt syfte genom att l\u00e4ra ut grunderna i hur man s\u00e4tter upp och automatiserar processer f\u00f6r kontinuerlig integration och drifts\u00e4ttning. Drifts\u00e4ttningen av programvaran sker i en molnbaserad milj\u00f6.",
-      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser motsvarande 45 hp inom omr\u00e5det datavetenskap/programvaruteknik/ telekommunikation varav minst 20 hp ska vara inom programmering och databaser.",
-      "start": "2022 vecka 44",
-      "end": "2023 vecka 02"
-    },
-    {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20202&KtAnmKod=BUFAJ&lang=sv&parentPtKod=PAGWE20h",
-      "name": "Programmering med JavaScript",
-      "city": "Karlskrona",
-      "study_plan": "https://edu.bth.se/utbildning/utb_kursplan.asp?kurskod=DV1561&revisionsnr=4&format=pdf",
-      "speed": 50,
-      "location": "Campus",
-      "code": "DV1561",
-      "points": 7.5,
-      "languages": [
-        "Svenska"
-      ],
-      "teachers": [
-        "Kenneth Lewenhagen"
-      ],
-      "description": "Syftet med kursen \u00e4r att ge studenten grundl\u00e4ggande kunskaper i klientbaserad webbprogrammering i webbl\u00e4saren med programmeringsspr\u00e5ket JavaScript och n\u00e4rliggande relevanta tekniker. Syftet \u00e4r \u00e4ven att bygga vidare p\u00e5 studentens befintliga kunskap inom probleml\u00f6sning, utvecklingsverktyg samt metoder f\u00f6r utveckling av programvara och fels\u00f6kning.",
-      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngen kurs i programmering, 7,5 h\u00f6gskolepo\u00e4ng.",
-      "start": "2020 vecka 45",
-      "end": "2021 vecka 02"
     },
     {
       "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20211&KtAnmKod=B7NNH&lang=sv&parentPtKod=PAGWE20h",
@@ -294,25 +175,146 @@
       "end": "2021 vecka 22"
     },
     {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20212&KtAnmKod=BKLDX&lang=sv&parentPtKod=PAGWE20h",
-      "name": "Matematisk\u00a0modellering",
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20202&KtAnmKod=BUFAJ&lang=sv&parentPtKod=PAGWE20h",
+      "name": "Programmering med JavaScript",
       "city": "Karlskrona",
-      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=MA1487&revision=4&lang=sv",
+      "study_plan": "https://edu.bth.se/utbildning/utb_kursplan.asp?kurskod=DV1561&revisionsnr=4&format=pdf",
       "speed": 50,
       "location": "Campus",
-      "code": "MA1487",
+      "code": "DV1561",
       "points": 7.5,
       "languages": [
         "Svenska"
       ],
       "teachers": [
-        "Simon Nilsson",
-        "Mattias Dahl"
+        "Kenneth Lewenhagen"
       ],
-      "description": "Kursen avser att ge studenten f\u00f6ruts\u00e4ttningar att inh\u00e4mta kunskaper i matematisk modellering. Utg\u00e5ngspunkten \u00e4r att kunna till\u00e4mpa olika typer av matematiska metoder och modeller p\u00e5 problemst\u00e4llningar inom framf\u00f6r allt teknik- och naturvetenskaperna, s\u00e5v\u00e4l som inom mer tv\u00e4rvetenskapliga \u00e4mnen. Kursen skall \u00e4ven bidra till f\u00f6rst\u00e5elsen av diskret matematik, statistik, optimering och den matematiska modelleringens betydelse vad det g\u00e4ller f\u00f6rb\u00e4ttringspotentialer inom de olika till\u00e4mpningsomr\u00e5dena.",
-      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarad Matematik 3b alt. 3c eller Matematik C fr\u00e5n gymnasieskolan samt genomg\u00e5ngna kurser i programmering om minst 15 hp.",
-      "start": "2021 vecka 44",
-      "end": "2022 vecka 02"
+      "description": "Syftet med kursen \u00e4r att ge studenten grundl\u00e4ggande kunskaper i klientbaserad webbprogrammering i webbl\u00e4saren med programmeringsspr\u00e5ket JavaScript och n\u00e4rliggande relevanta tekniker. Syftet \u00e4r \u00e4ven att bygga vidare p\u00e5 studentens befintliga kunskap inom probleml\u00f6sning, utvecklingsverktyg samt metoder f\u00f6r utveckling av programvara och fels\u00f6kning.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngen kurs i programmering, 7,5 h\u00f6gskolepo\u00e4ng.",
+      "start": "2020 vecka 45",
+      "end": "2021 vecka 02"
+    },
+    {
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20211&KtAnmKod=B6FDF&lang=sv&parentPtKod=PAGWE20h",
+      "name": "Algoritmer och datastrukturer med objektorienterad Python",
+      "city": "Karlskrona",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=DV1618&revision=2,1&lang=sv",
+      "speed": 50,
+      "location": "Campus",
+      "code": "DV1618",
+      "points": 7.5,
+      "languages": [
+        "Svenska"
+      ],
+      "teachers": [
+        "Andreas Arnesson"
+      ],
+      "description": "Kursen syftar till att l\u00e4ra studenterna objektorienterade angreppss\u00e4tt och designprinciper f\u00f6r att utveckla objektorienterade program. Vidare ska studenterna l\u00e4ra sig s\u00e5v\u00e4l teoretiska aspekter som implementationsaspekter av algoritmer och datastrukturer.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngen kurs Programmering och probleml\u00f6sning med Python 7,5 hp.",
+      "start": "2021 vecka 03",
+      "end": "2021 vecka 12"
+    },
+    {
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20211&KtAnmKod=B3JAQ&lang=sv&parentPtKod=PAGWE20h",
+      "name": "Databasteknologier f\u00f6r webben",
+      "city": "Karlskrona",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=DV1606&revision=3&lang=sv",
+      "speed": 50,
+      "location": "Campus",
+      "code": "DV1606",
+      "points": 7.5,
+      "languages": [
+        "Svenska"
+      ],
+      "teachers": [
+        "Mikael Roos"
+      ],
+      "description": "Kursens syfte \u00e4r att studenten ska f\u00f6rst\u00e5 och l\u00e4ra sig modellera och implementera en databas samt utveckla en webbapplikation som anv\u00e4nder databasen. Som applikationsspr\u00e5k anv\u00e4nds serverbaserad JavaScript i webbmilj\u00f6.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngna kurser motsvarande 15 hp i programmering och/eller webbteknologier.",
+      "start": "2021 vecka 03",
+      "end": "2021 vecka 12"
+    },
+    {
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20222&KtAnmKod=BQAQU&lang=sv&parentPtKod=PAGWE20h",
+      "name": "Kontinuerlig integration och drifts\u00e4ttning i molnet",
+      "city": "Karlskrona",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=DV1658&revision=1&lang=sv",
+      "speed": 50,
+      "location": "Campus",
+      "code": "DV1658",
+      "points": 7.5,
+      "languages": [
+        "Svenska"
+      ],
+      "teachers": [
+        "Andreas Arnesson"
+      ],
+      "description": "Kursen l\u00e4r ut hur man arbetar med utveckling och it-drift av programvara i en gemensam roll ist\u00e4llet f\u00f6r tv\u00e5 separata roller. Kursen uppn\u00e5r sitt syfte genom att l\u00e4ra ut grunderna i hur man s\u00e4tter upp och automatiserar processer f\u00f6r kontinuerlig integration och drifts\u00e4ttning. Drifts\u00e4ttningen av programvaran sker i en molnbaserad milj\u00f6.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser motsvarande 45 hp inom omr\u00e5det datavetenskap/programvaruteknik/ telekommunikation varav minst 20 hp ska vara inom programmering och databaser.",
+      "start": "2022 vecka 44",
+      "end": "2023 vecka 02"
+    },
+    {
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20231&KtAnmKod=BEX34&lang=sv&parentPtKod=PAGWE20h",
+      "name": "Kandidatarbete i Programvaruteknik",
+      "city": "Karlskrona",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=PA1445&revision=9,1&lang=sv",
+      "speed": 50,
+      "location": "Campus",
+      "code": "PA1445",
+      "points": 15.0,
+      "languages": [
+        "Svenska"
+      ],
+      "teachers": [
+        "Mikael Svahnberg",
+        "J\u00fcrgen B\u00f6rstler",
+        "Conny Johansson"
+      ],
+      "description": "Kursen syftar till att studenten skall integrera, vidareutveckla och f\u00f6rdjupa sina kunskaper och f\u00e4rdigheter inom ett begr\u00e4nsat omr\u00e5de av det som behandlats inom tidigare genomf\u00f6rda kurser inom utbildningen. Kandidatarbetet syftar till att ge kunskaper och f\u00e4rdigheter i att till\u00e4mpa ett vetenskapligt arbetss\u00e4tt. Detta inkluderar att sj\u00e4lvst\u00e4ndigt identifiera ett problem och formulera relevanta forskningsfr\u00e5gor i programvaruteknik. Syftet \u00e4r vidare att planera, genomf\u00f6ra och presentera ett vetenskapligt arbete p\u00e5 kandidatniv\u00e5 inom omr\u00e5det programvaruteknik. Arbetet kan vara av utredande eller konstruktiv karakt\u00e4r och ska innefatta litteraturstudier och rapportskrivning.",
+      "requirements": "Avklarade kurser om minst 60 h\u00f6gskolepo\u00e4ng inom Programvaruteknik med successiv f\u00f6rdjupning varav minst 30 hp p\u00e5 G1F-niv\u00e5 eller h\u00f6gre.",
+      "start": "2023 vecka 03",
+      "end": "2023 vecka 22"
+    },
+    {
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20222&KtAnmKod=BTJEP&lang=sv&parentPtKod=PAGWE20h",
+      "name": "Forskningsmetodik i datavetenskaper",
+      "city": "Karlskrona",
+      "study_plan": "https://edu.bth.se/utbildning/utb_kursplan.asp?kurskod=PA1433&revisionsnr=8&format=pdf",
+      "speed": 50,
+      "location": "Campus",
+      "code": "PA1433",
+      "points": 7.5,
+      "languages": [
+        "Svenska"
+      ],
+      "teachers": [
+        "Binish Tanveer"
+      ],
+      "description": "Syftet med kursen \u00e4r att introducera, diskutera och tr\u00e4na ett vetenskapligt f\u00f6rh\u00e5llningss\u00e4tt, att bekanta sig med aktuell forskning inom ett valt omr\u00e5de och att tr\u00e4na vetenskapligt skrivande. En nyckelfr\u00e5ga i forskningen inom programvaruteknik och datavetenskap \u00e4r framtagning, utv\u00e4rdering och j\u00e4mf\u00f6relse av metoder, verktyg, spr\u00e5k, design och algoritmer och hur dessa p\u00e5verkar olika system, organisationer och m\u00e4nniskor. I denna kurs f\u00e5r studenten en f\u00f6rst\u00e5else f\u00f6r forskningsmetodik som g\u00f6r en s\u00e5dan utv\u00e4rdering och j\u00e4mf\u00f6relse m\u00f6jlig. Studenten f\u00e5r ocks\u00e5 en introduktion till samh\u00e4lleliga och etiska aspekter av s\u00e5dan forskning och utv\u00e4rdering och f\u00e5r f\u00f6rst erfarenheter av att planera, genomf\u00f6ra och rapportera ett forskningsprojekt.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att studenten har avklarat 45hp i huvudomr\u00e5det datavetenskap eller programvaruteknik.",
+      "start": "2022 vecka 35",
+      "end": "2022 vecka 43"
+    },
+    {
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20231&KtAnmKod=BWA3N&lang=sv&parentPtKod=PAGWE20h",
+      "name": "Avancerat programvaruprojekt i grupp",
+      "city": "Karlskrona",
+      "study_plan": "https://edu.bth.se/utbildning/utb_kursplan.asp?kurskod=PA1449&revisionsnr=6&format=pdf",
+      "speed": 50,
+      "location": "Campus",
+      "code": "PA1449",
+      "points": 15.0,
+      "languages": [
+        "Svenska"
+      ],
+      "teachers": [
+        "Nina Dzamashvili Fogelstr\u00f6m"
+      ],
+      "description": "Kursen syftar till att binda ihop tidigare kunskaper inom ramen f\u00f6r ett stort grupprojekt d\u00e4r en omfattande programvara skall utvecklas. Kursen \u00e4r upplagd f\u00f6r att, s\u00e5 n\u00e4ra det \u00e4r m\u00f6jligt, efterlikna ett projekt som det normalt kan bedrivas ute i industrin.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att den studerande har avklarat 90 h\u00f6gskolepo\u00e4ng i \u00e4mnet datavetenskap och/eller i \u00e4mnet programvaruteknik inklusive kursen Programvaruprojekt",
+      "start": "2023 vecka 03",
+      "end": "2023 vecka 22"
     },
     {
       "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20222&KtAnmKod=BMYD9&lang=sv&parentPtKod=PAGWE20h",
@@ -335,24 +337,24 @@
       "end": "2023 vecka 02"
     },
     {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20212&KtAnmKod=B7KX7&lang=sv&parentPtKod=PAGWE20h",
-      "name": "Operativsystemet Linux och virtualiseringstekniker",
-      "city": "DistansSt\u00f6rre delen av undervisningen bedrivs p\u00e5 distans, se vidare under rubriken Anm\u00e4rkning.",
-      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=DV1611&revision=4&lang=sv",
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20202&KtAnmKod=BYRJX&lang=sv&parentPtKod=PAGWE20h",
+      "name": "Webbteknologier",
+      "city": "Karlskrona",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=PA1439&revision=5&lang=sv",
       "speed": 50,
-      "location": "Distans",
-      "code": "DV1611",
+      "location": "Campus",
+      "code": "PA1439",
       "points": 7.5,
       "languages": [
         "Svenska"
       ],
       "teachers": [
-        "Kenneth Lewenhagen"
+        "Mikael Roos"
       ],
-      "description": "Syftet med kursen \u00e4r att studenten ska l\u00e4ra sig operativsystemet Linux och dess best\u00e5ndsdelar s\u00e5som processer, filsystemet och terminalen. Kursens fokusomr\u00e5den ligger \u00e4ven i operativsystemets uppbyggnad, programhantering och serverhantering samt att programmera i spr\u00e5ket bash. Studenten ska \u00e4ven l\u00e4ra sig skapa virtualiseringstekniker s\u00e5som VirtualBox och Docker.",
-      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser eller moment fr\u00e5n kurser i programmering och webbteknologier omfattande totalt 22,5 hp.",
-      "start": "2021 vecka 35",
-      "end": "2021 vecka 43"
+      "description": "Kursen l\u00e4r ut webbutveckling d\u00e4r teknikerna HTML, CSS, PHP och SQL anv\u00e4nds f\u00f6r att tillsammans bygga en databasdriven webbplats. Kursen \u00e4r f\u00f6r de som vill l\u00e4ra sig om webbutveckling och webbprogrammering.",
+      "requirements": "Grundl\u00e4ggande beh\u00f6righet.",
+      "start": "2020 vecka 36",
+      "end": "2020 vecka 44"
     },
     {
       "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20211&KtAnmKod=BCUUJ&lang=sv&parentPtKod=PAGWE20h",
@@ -375,28 +377,6 @@
       "end": "2021 vecka 22"
     },
     {
-      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20231&KtAnmKod=BEX34&lang=sv&parentPtKod=PAGWE20h",
-      "name": "Kandidatarbete i Programvaruteknik",
-      "city": "Karlskrona",
-      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=PA1445&revision=9,1&lang=sv",
-      "speed": 50,
-      "location": "Campus",
-      "code": "PA1445",
-      "points": 15.0,
-      "languages": [
-        "Svenska"
-      ],
-      "teachers": [
-        "J\u00fcrgen B\u00f6rstler",
-        "Conny Johansson",
-        "Mikael Svahnberg"
-      ],
-      "description": "Kursen syftar till att studenten skall integrera, vidareutveckla och f\u00f6rdjupa sina kunskaper och f\u00e4rdigheter inom ett begr\u00e4nsat omr\u00e5de av det som behandlats inom tidigare genomf\u00f6rda kurser inom utbildningen. Kandidatarbetet syftar till att ge kunskaper och f\u00e4rdigheter i att till\u00e4mpa ett vetenskapligt arbetss\u00e4tt. Detta inkluderar att sj\u00e4lvst\u00e4ndigt identifiera ett problem och formulera relevanta forskningsfr\u00e5gor i programvaruteknik. Syftet \u00e4r vidare att planera, genomf\u00f6ra och presentera ett vetenskapligt arbete p\u00e5 kandidatniv\u00e5 inom omr\u00e5det programvaruteknik. Arbetet kan vara av utredande eller konstruktiv karakt\u00e4r och ska innefatta litteraturstudier och rapportskrivning.",
-      "requirements": "Avklarade kurser om minst 60 h\u00f6gskolepo\u00e4ng inom Programvaruteknik med successiv f\u00f6rdjupning varav minst 30 hp p\u00e5 G1F-niv\u00e5 eller h\u00f6gre.",
-      "start": "2023 vecka 03",
-      "end": "2023 vecka 22"
-    },
-    {
       "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20202&KtAnmKod=BLPGY&lang=sv&parentPtKod=PAGWE20h",
       "name": "Teknisk webbdesign och anv\u00e4ndbarhet",
       "city": "Karlskrona",
@@ -415,6 +395,26 @@
       "requirements": "Genomg\u00e5ngen kurs i Webbteknologier, 7,5 hp.",
       "start": "2020 vecka 45",
       "end": "2021 vecka 02"
+    },
+    {
+      "url": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20212&KtAnmKod=BKXDR&lang=sv&parentPtKod=PAGWE20h",
+      "name": "Webbaserade ramverk och designm\u00f6nster",
+      "city": "Karlskrona",
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=DV1610&revision=3&lang=sv",
+      "speed": 50,
+      "location": "Campus",
+      "code": "DV1610",
+      "points": 7.5,
+      "languages": [
+        "Svenska"
+      ],
+      "teachers": [
+        "Mikael Roos"
+      ],
+      "description": "Kursen l\u00e4r ut programmering och objektorienterade kodstrukturer med designm\u00f6nster och modult\u00e4nkande kring \u00e5teranv\u00e4ndbara moduler i webbaserade ramverk samt tekniker f\u00f6r automatiserad testning, byggsystem och fl\u00f6de f\u00f6r kontinuerlig integration av programvaran.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser eller moment fr\u00e5n kurser i programmering och webbteknologier omfattande totalt 22,5 hp. D\u00e4rut\u00f6ver kr\u00e4vs genomg\u00e5ngen kurs Objektorienterade webbteknologier, 7,5 hp.",
+      "start": "2021 vecka 44",
+      "end": "2022 vecka 02"
     }
   ],
   "optional_courses": [
@@ -461,5 +461,5 @@
   ],
   "start": "2020 vecka 35",
   "end": "2021 vecka 02",
-  "generated": "2023-01-21 17:32:01.948525"
+  "generated": "2023-08-30 06:31:27.605085"
 }
