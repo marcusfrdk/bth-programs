@@ -7,30 +7,50 @@ def _get_time(soup: BeautifulSoup) -> tuple[str, str]:
   return get_times(soup.find("h3", string="Kurstid").next_sibling.next_sibling.text)
 
 def _get_name_and_code(soup: BeautifulSoup) -> tuple[str, str]:
-  text = soup.find("h1").text.split(" ")
-  return " ".join(text[1:]), text[0]
+  try:
+    text = soup.find("h1").text.split(" ")
+    return " ".join(text[1:]), text[0]
+  except AttributeError:
+    return "", ""
 
 def _get_location(soup: BeautifulSoup) -> str:
-  return soup.find("h3", string="Ort").next_sibling.next_sibling.text
+  try: 
+    return soup.find("h3", string="Ort").next_sibling.next_sibling.text
+  except AttributeError:
+    return "Karlskrona"
 
 def _get_languages(soup: BeautifulSoup) -> list[str]:
-  result = soup.find("h3", string="Undervisningsspråk")
-  result = result.nextSibling.nextSibling.text.lower()
-  languages = []
-  if "svenska" in result or "swedish" in result:
-    languages.append("svenska")
-  if "engelska" in result or "english" in result:
-    languages.append("engelska")
-  return languages
+  try:
+    result = soup.find("h3", string="Undervisningsspråk")
+    result = result.nextSibling.nextSibling.text.lower()
+    languages = []
+    if "svenska" in result or "swedish" in result:
+      languages.append("svenska")
+    if "engelska" in result or "english" in result:
+      languages.append("engelska")
+    return languages
+  except AttributeError:
+    return []
 
 def _get_points(soup: BeautifulSoup) -> float:
-  div = soup.find("div", {"id": "utb_program_omfattning_start"})
-  div = div.text.strip().replace(",", ".")
-  return float(div.lower().split("högskolepoäng")[0].strip().split(" ")[-1])
+  try:
+    div = soup.find("div", {"id": "utb_program_omfattning_start"})
+    div = div.text.strip().replace(",", ".")
+    return float(div.lower().split("högskolepoäng")[0].strip().split(" ")[-1])
+  except AttributeError:
+    return 0.0
 
 def _get_study_plan(soup: BeautifulSoup) -> str:
-  a = soup.find("h3", string="Kursplan").next_sibling.next_sibling.find("a")
-  return a.get("href") if a else ""
+  try:
+    a = soup.find("h3", string="Kursplan").next_sibling.next_sibling.find("a")
+    href = a.get("href")
+    if not href:
+      return ""
+    if re.match(r"^https?", href):
+      return href
+    return "https://edu.bth.se/utbildning/" + href
+  except AttributeError:
+    return ""
 
 def _has_requirements(requirements: str) -> bool:
   return "avklar" in requirements
@@ -55,7 +75,12 @@ def _get_description_requirements_and_teachers(soup: BeautifulSoup) -> tuple[str
 
 def get_course(url: str, is_optional: bool, lst: list):
   url = f"https://edu.bth.se/utbildning/{url}"
-  res = requests.get(url)
+  
+  try:
+    res = requests.get(url)
+  except requests.exceptions.ConnectTimeout:
+    return None
+  
   soup = BeautifulSoup(res.text, "html.parser")
 
   name, code = _get_name_and_code(soup)
