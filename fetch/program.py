@@ -1,3 +1,5 @@
+import json
+import os
 import re
 import requests
 from bs4 import BeautifulSoup
@@ -37,6 +39,12 @@ def _get_end(start: str, points: float) -> str:
 def _get_name(soup: BeautifulSoup) -> str:
   return soup.find("h1", {"id": "utb_programtitel"}).text
 
+def _get_teacher(soup: BeautifulSoup) -> str:
+  return soup.find("h3", string="Programansvarig").next_sibling.next_sibling.text
+
+def _get_location(soup: BeautifulSoup) -> str:
+  return soup.find("h3", string="Ort").next_sibling.next_sibling.text
+
 def get_program(code: str) -> None:
   print(f"=== Getting '{code}' ===")
 
@@ -49,45 +57,43 @@ def get_program(code: str) -> None:
   # Program metadata
   name = _get_name(soup)
   points = _get_points(soup)
-  location = ""
+  location = _get_location(soup)
   place, time_of_day, speed = get_place_time_of_day_and_speed(soup)
-  teacher = ""
+  teacher = _get_teacher(soup)
   url = program_url
   program_plan = _get_program_plan(soup)
   start = get_times(soup.find("h3", string="Programtid").next_sibling.next_sibling.text)[0]
   end = _get_end(start, points)
-  generated = str(datetime.now())
 
   # Get the url for each course
   urls = set()
 
-  # for section_title in soup.find_all("h2", string=re.compile(r"Kurser (höst|vår)terminen \d{4}")):
-  #   section = section_title.next_sibling.next_sibling
-  #   is_optional_courses_urls = False
+  for section_title in soup.find_all("h2", string=re.compile(r"Kurser (höst|vår)terminen \d{4}")):
+    section = section_title.next_sibling.next_sibling
+    is_optional_courses_urls = False
     
-  #   for child in section.children:
-  #     if child.name == "h4":
-  #       is_optional_courses_urls = child.text == "Obligatoriska kurser"
-  #     urls.add((child.find("a").get("href"), is_optional_courses_urls)) if child.name == "div" else None
+    for child in section.children:
+      if child.name == "h4":
+        is_optional_courses_urls = child.text == "Obligatoriska kurser"
+      urls.add((child.find("a").get("href"), is_optional_courses_urls)) if child.name == "div" else None
 
-  # # Download the courses
+  # Download the courses
   courses = []
   threads = []
 
-  # for url, is_optional in urls:
-  #   t = Thread(target=get_course, args=(url, is_optional, courses,))
-  #   threads.append(t)
+  for url, is_optional in urls:
+    t = Thread(target=get_course, args=(url, is_optional, courses,))
+    threads.append(t)
   
-  # for thread in threads:
-  #   thread.start()
+  for thread in threads:
+    thread.start()
 
-  # for thread in threads:
-  #   thread.join()
+  for thread in threads:
+    thread.join()
   
-  # courses.sort(key=lambda d: int(d["start"]))
+  courses.sort(key=lambda d: int(d["start"]))
 
   program = {
-    "courses": courses,
     "code": code,
     "name": name,
     "location": location,
@@ -100,8 +106,12 @@ def get_program(code: str) -> None:
     "program_plan": program_plan,
     "start": start,
     "end": end,
-    "generated": generated
+    "generated": str(datetime.now()),
+    "courses": courses
   }
 
-  import json
-  print(json.dumps(program, indent=2))
+  data_path = os.path.abspath(os.path.join(os.path.dirname(__file__), "data"))
+  os.makedirs(data_path, exist_ok=True)
+
+  with open(os.path.join(data_path, f"{code}.json"), "w+", encoding="utf-8") as f:
+    f.write(json.dumps(program, indent=2))
