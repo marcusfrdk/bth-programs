@@ -56,22 +56,25 @@ def _has_requirements(requirements: str) -> bool:
   return "avklar" in requirements
 
 def _get_description_requirements_and_teachers(soup: BeautifulSoup) -> tuple[str, str, list[str]]:
-  container = soup.find("h2", string="Syfte").parent
-  sections = {}
-  current_section = None
+  try:
+    container = soup.find("h2", string="Syfte").parent
+    sections = {}
+    current_section = None
 
-  for child in container.children:
-    if child.name == "h2":
-      current_section = child.text
-      sections[current_section] = []
-    elif current_section and isinstance(child, (NavigableString, Tag)):
-      sections[current_section].append(re.sub(r"[\s\n]{2,}", "", child.text).replace("\n", ""))
+    for child in container.children:
+      if child.name == "h2":
+        current_section = child.text
+        sections[current_section] = []
+      elif current_section and isinstance(child, (NavigableString, Tag)):
+        sections[current_section].append(re.sub(r"[\s\n]{2,}", "", child.text).replace("\n", ""))
 
-  description = " ".join(sections.get("Syfte", [])).strip()
-  requirements = " ".join(sections.get("Förkunskapskrav", [])).strip()
-  teachers = list(set(filter(lambda x: x != "" and x not in ["Examinator", "Kursansvarig"], sections.get("Lärare", []))))
-  
-  return description, requirements, teachers
+    description = " ".join(sections.get("Syfte", [])).strip()
+    requirements = " ".join(sections.get("Förkunskapskrav", [])).strip()
+    teachers = list(set(filter(lambda x: x != "" and x not in ["Examinator", "Kursansvarig"], sections.get("Lärare", []))))
+    
+    return description, requirements, teachers
+  except AttributeError:
+    return "", "", []
 
 def get_course(url: str, is_optional: bool, lst: list):
   url = f"https://edu.bth.se/utbildning/{url}"
@@ -79,6 +82,9 @@ def get_course(url: str, is_optional: bool, lst: list):
   try:
     res = requests.get(url)
   except requests.exceptions.ConnectTimeout:
+    return None
+  
+  if res.status_code != 200:
     return None
   
   soup = BeautifulSoup(res.text, "html.parser")

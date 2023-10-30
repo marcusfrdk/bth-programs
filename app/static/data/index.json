@@ -1,0 +1,186 @@
+{
+  "IEACI": [
+    "IEACI17h.json",
+    "IEACI22h.json",
+    "IEACI20h.json",
+    "IEACI21h.json",
+    "IEACI23h.json",
+    "IEACI18h.json",
+    "IEACI19h.json"
+  ],
+  "MTGHM": [
+    "MTGHM23h.json",
+    "MTGHM19h.json",
+    "MTGHM21h.json",
+    "MTGHM20h.json",
+    "MTGHM22h.json"
+  ],
+  "MEGUL": [
+    "MEGUL22h.json",
+    "MEGUL23h.json"
+  ],
+  "PAASP": [
+    "PAASP18h.json",
+    "PAASP21h.json",
+    "PAASP19h.json",
+    "PAASP20h.json"
+  ],
+  "PAAST": [
+    "PAAST22h.json",
+    "PAAST23h.json"
+  ],
+  "FMGFP": [
+    "FMGFP19h.json",
+    "FMGFP20h.json",
+    "FMGFP21h.json",
+    "FMGFP22h.json",
+    "FMGFP23h.json"
+  ],
+  "SLASH": [
+    "SLASH21h.json",
+    "SLASH23h.json",
+    "SLASH22h.json"
+  ],
+  "MTAMR": [
+    "MTAMR19h.json",
+    "MTAMR21h.json",
+    "MTAMR18h.json",
+    "MTAMR23h.json",
+    "MTAMR22h.json",
+    "MTAMR20h.json"
+  ],
+  "DVACC": [
+    "DVACC21h.json",
+    "DVACC23h.json",
+    "DVACC22h.json"
+  ],
+  "PAASA": [
+    "PAASA23v.json",
+    "PAASA22v.json",
+    "PAASA21v.json"
+  ],
+  "MTACI": [
+    "MTACI21h.json",
+    "MTACI19h.json",
+    "MTACI17h.json",
+    "MTACI20h.json",
+    "MTACI23h.json",
+    "MTACI22h.json",
+    "MTACI18h.json"
+  ],
+  "ETATL": [
+    "ETATL20h.json"
+  ],
+  "DVACD": [
+    "DVACD17h.json"
+  ],
+  "MEGDL": [
+    "MEGDL20h.json",
+    "MEGDL21h.json",
+    "MEGDL19h.json",
+    "MEGDL23h.json",
+    "MEGDL22h.json"
+  ],
+  "IYAMP": [
+    "IYAMP22h.json",
+    "IYAMP21h.json",
+    "IYAMP20h.json",
+    "IYAMP23h.json"
+  ],
+  "FMASN": [
+    "FMASN22h.json",
+    "FMASN23h.json"
+  ],
+  "PAASW": [
+    "PAASW22h.json",
+    "PAASW21h.json",
+    "PAASW23h.json"
+  ],
+  "DVAMI": [
+    "DVAMI19h.json",
+    "DVAMI21h.json",
+    "DVAMI23h.json",
+    "DVAMI22h.json",
+    "DVAMI20h.json"
+  ],
+  "DVADS": [
+    "DVADS18h.json",
+    "DVADS21h.json",
+    "DVADS22h.json",
+    "DVADS20h.json",
+    "DVADS19h.json",
+    "DVADS23h.json"
+  ],
+  "DVGHG": [
+    "DVGHG23h.json"
+  ],
+  "DVGHI": [
+    "DVGHI20h.json",
+    "DVGHI21h.json",
+    "DVGHI23h.json",
+    "DVGHI19h.json",
+    "DVGHI22h.json"
+  ],
+  "MTAME": [
+    "MTAME21h.json",
+    "MTAME23h.json",
+    "MTAME22h.json",
+    "MTAME20h.json"
+  ],
+  "DVATK": [
+    "DVATK23h.json",
+    "DVATK22h.json",
+    "DVATK21h.json"
+  ],
+  "FMASL": [
+    "FMASL22h.json",
+    "FMASL21h.json",
+    "FMASL20h.json",
+    "FMASL23h.json"
+  ],
+  "MEGDP": [
+    "MEGDP21h.json",
+    "MEGDP19h.json",
+    "MEGDP23h.json",
+    "MEGDP22h.json",
+    "MEGDP20h.json"
+  ],
+  "FMAST": [
+    "FMAST21h.json",
+    "FMAST20h.json"
+  ],
+  "MEGDU": [
+    "MEGDU22h.json",
+    "MEGDU21h.json",
+    "MEGDU23h.json"
+  ],
+  "PAAMJ": [
+    "PAAMJ23h.json",
+    "PAAMJ22h.json",
+    "PAAMJ21h.json",
+    "PAAMJ20h.json",
+    "PAAMJ19h.json"
+  ],
+  "IYAIE": [
+    "IYAIE21h.json",
+    "IYAIE22h.json"
+  ],
+  "IYAIM": [
+    "IYAIM23h.json"
+  ],
+  "PAAPS": [
+    "PAAPS20h.json"
+  ],
+  "PAACI": [
+    "PAACI17h.json"
+  ],
+  "MEGDD": [
+    "MEGDD20h.json"
+  ],
+  "MEGDS": [
+    "MEGDS19h.json"
+  ],
+  "DVACO": [
+    "DVACO20h.json"
+  ]
+}

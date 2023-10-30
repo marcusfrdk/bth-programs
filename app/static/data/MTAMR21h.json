@@ -1,0 +1,1009 @@
+{
+  "code": "MTAMR21h",
+  "name": "Civilingenj\u00f6r i marin teknik ",
+  "location": "Karlskrona",
+  "place": "Campus",
+  "speed": 100,
+  "time_of_day": "Dag",
+  "points": 300.0,
+  "teacher": "joo",
+  "url": "utb_kurstillfalle.asp?KtTermin=20212&KtAnmKod=BF3MH&lang=sv&parentPtKod=MTAMR21h",
+  "program_plan": "https://edu.bth.se/utbildningsplaner/MTAMR_ht-21.pdf",
+  "start": "202134",
+  "end": "202624",
+  "generated": "2023-10-30 09:43:55.688156",
+  "courses": [
+    {
+      "name": "Matematisk probleml\u00f6sning",
+      "code": "MA1486",
+      "description": "Kursens syfte \u00e4r att ge en introduktion till matematikstudier p\u00e5 universitetsniv\u00e5. Kursen genomsyras av ett unders\u00f6kande matematiskt arbetss\u00e4tt via probleml\u00f6sningsaktiviteter. I kursen ing\u00e5r studieteknik d\u00e4r studenten tr\u00e4nas i att reflektera \u00f6ver sitt eget arbetss\u00e4tt och studieuppl\u00e4gg i matematik.",
+      "requirements": "Omr\u00e5desbeh\u00f6righet A9: Matematik 4, Fysik 2 (Kemi 1 kr\u00e4vs ej) eller Omr\u00e5desbeh\u00f6righet 9: Matematik E, Fysik B (Kemi A kr\u00e4vs ej).",
+      "is_optional": true,
+      "has_requirements": false,
+      "place": "Campus",
+      "time_of_day": "Dag",
+      "speed": 50,
+      "course_page": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20212&KtAnmKod=BXLYG&lang=sv&parentPtKod=MTAMR21h",
+      "start": "202134",
+      "end": "202143",
+      "semester": 1,
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=MA1486&revision=4&lang=sv",
+      "location": "Karlskrona",
+      "languages": [
+        "svenska"
+      ],
+      "points": 4.0,
+      "teachers": [
+        "Robert Nyqvist",
+        "Linda Mattsson"
+      ]
+    },
+    {
+      "name": "Fysik grundkurs",
+      "code": "FY1431",
+      "description": "Kursens syfte \u00e4r att studenten ska skaffa sig grundl\u00e4ggande kunskaper i mekanik som en bas f\u00f6r fortsatta studier inom ingenj\u00f6rsvetenskap. Studenten tr\u00e4nar ingenj\u00f6rsm\u00e4ssigt modellt\u00e4nkande  och f\u00f6rm\u00e5ga till probleml\u00f6sning samt utvecklar sin f\u00f6rst\u00e5else f\u00f6r matematisk modellering av naturen.",
+      "requirements": "Grundl\u00e4ggande beh\u00f6righet samt Matematik 3c och Fysik 2.",
+      "is_optional": true,
+      "has_requirements": false,
+      "place": "Campus",
+      "time_of_day": "Dag",
+      "speed": 50,
+      "course_page": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20212&KtAnmKod=BMW6X&lang=sv&parentPtKod=MTAMR21h",
+      "start": "202135",
+      "end": "202143",
+      "semester": 1,
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=FY1431&revision=5&lang=sv",
+      "location": "Karlskrona",
+      "languages": [
+        "svenska"
+      ],
+      "points": 6.0,
+      "teachers": [
+        "Per Gralvik",
+        "Anna Sv\u00e4rd Olsson"
+      ]
+    },
+    {
+      "name": "Teknisk introduktionskurs i Maskinteknik",
+      "code": "MT1551",
+      "description": "Syftet \u00e4r att studenten p\u00e5 en grundl\u00e4ggande niv\u00e5 ska skapa sig en inblick i olika aspekter av ingenj\u00f6rens yrkesroll, samt skaffa sig kunskaper och f\u00e4rdigheter g\u00e4llande ingenj\u00f6rsm\u00e4ssiga arbetsmetoder s\u00e5som ber\u00e4kningsmetoder, projektmetodik, personlig ledning och presentationsteknik. Studenten ska tr\u00e4na sin f\u00f6rm\u00e5ga att kommunicera tekniskt inneh\u00e5ll skriftligen och muntligen p\u00e5 ett vetenskapligt s\u00e4tt, samt formulera en problemst\u00e4llning, s\u00f6ka, samla och v\u00e4rdera relevant information. En b\u00e4rande del i kursen \u00e4r ocks\u00e5 praktiskt verkstadsarbete f\u00f6r att f\u00f6rankra \u00e4mnesomr\u00e5dets teori, samt att f\u00f6rbereda studenten p\u00e5 att sj\u00e4lvst\u00e4ndigt kunna arbeta med prototyputveckling f\u00f6r utbildningen tillg\u00e4ngliga laboratorier.",
+      "requirements": "Grundl\u00e4ggande beh\u00f6righet samt Matematik 4, Fysik 2 och Kemi 1.",
+      "is_optional": true,
+      "has_requirements": false,
+      "place": "Campus",
+      "time_of_day": "Dag",
+      "speed": 50,
+      "course_page": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20212&KtAnmKod=BU7MG&lang=sv&parentPtKod=MTAMR21h",
+      "start": "202135",
+      "end": "202202",
+      "semester": 1,
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=MT1551&revision=2&lang=sv",
+      "location": "Karlskrona",
+      "languages": [
+        "svenska"
+      ],
+      "points": 8.0,
+      "teachers": [
+        "Ansel Berghuvud"
+      ]
+    },
+    {
+      "name": "Linj\u00e4r algebra 1",
+      "code": "MA1448",
+      "description": "Kursen syftar till att deltagarna inh\u00e4mtar de grundl\u00e4ggande kunskaper inom linj\u00e4r algebra som fordras inom tekniska utbildningsprogram.",
+      "requirements": "Omr\u00e5desbeh\u00f6righet 9: Matematik E, Fysik B. (Kemi A kr\u00e4vs ej)eller omr\u00e5desbeh\u00f6righet A9: Matematik 4, Fysik 2. (Kemi 1 kr\u00e4vs ej).",
+      "is_optional": true,
+      "has_requirements": false,
+      "place": "Campus",
+      "time_of_day": "Dag",
+      "speed": 50,
+      "course_page": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20212&KtAnmKod=BF3MH&lang=sv&parentPtKod=MTAMR21h",
+      "start": "202144",
+      "end": "202202",
+      "semester": 2,
+      "study_plan": "utb_kursplan.asp?kurskod=MA1448&revisionsnr=13&format=pdf",
+      "location": "Karlskrona",
+      "languages": [
+        "svenska"
+      ],
+      "points": 6.0,
+      "teachers": [
+        "Malin Bernelf",
+        "Stefan Wagner"
+      ]
+    },
+    {
+      "name": "Programmering och probleml\u00f6sning med Python",
+      "code": "DV1574",
+      "description": "Kursen l\u00e4r ut strukturerad programmering och probleml\u00f6sning med programsspr\u00e5ket Python.",
+      "requirements": "Grundl\u00e4ggande beh\u00f6righet",
+      "is_optional": true,
+      "has_requirements": false,
+      "place": "Campus",
+      "time_of_day": "Dag",
+      "speed": 50,
+      "course_page": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20212&KtAnmKod=BT7GX&lang=sv&parentPtKod=MTAMR21h",
+      "start": "202144",
+      "end": "202202",
+      "semester": 2,
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=DV1574&revision=7&lang=sv",
+      "location": "Karlskrona",
+      "languages": [
+        "svenska"
+      ],
+      "points": 6.0,
+      "teachers": [
+        "Carina Nilsson"
+      ]
+    },
+    {
+      "name": "Analys 1",
+      "code": "MA1444",
+      "description": "Kursen syftar till att studenten skall skaffa sig grundl\u00e4ggande f\u00f6rst\u00e5else f\u00f6r matematisk analys i en variabel med till\u00e4mpningar inom framf\u00f6r allt tekniska \u00e4mnesomr\u00e5den.",
+      "requirements": "Grundl\u00e4ggande beh\u00f6righet samt Matematik 4 och Fysik 2.",
+      "is_optional": true,
+      "has_requirements": false,
+      "place": "Campus",
+      "time_of_day": "Dag",
+      "speed": 50,
+      "course_page": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20221&KtAnmKod=BTAA4&lang=sv&parentPtKod=MTAMR21h",
+      "start": "202203",
+      "end": "202212",
+      "semester": 3,
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=MA1444&revision=18,1&lang=sv",
+      "location": "Karlskrona",
+      "languages": [
+        "svenska"
+      ],
+      "points": 6.0,
+      "teachers": [
+        "Stefan Wagner",
+        "Johan Richter"
+      ]
+    },
+    {
+      "name": "Fysik - v\u00e5gor och energi",
+      "code": "FY1433",
+      "description": "Kursens syfte \u00e4r att studenterna ska skaffa sig grundl\u00e4ggande kunskaper inom v\u00e5gfysik och termodynamik som en bas f\u00f6r vidare studier inom ingenj\u00f6rsvetenskap. Studenten tr\u00e4nar ingenj\u00f6rsm\u00e4ssigt modellt\u00e4nkande och f\u00f6rm\u00e5ga till probleml\u00f6sning samt utvecklar sin f\u00f6rst\u00e5else f\u00f6r matematisk modellering av naturen.",
+      "requirements": "F\u00f6r tilltr\u00e4de kr\u00e4vs genomg\u00e5ngen kurs Fysik grundkurs 6 hp.",
+      "is_optional": true,
+      "has_requirements": false,
+      "place": "Campus",
+      "time_of_day": "Dag",
+      "speed": 50,
+      "course_page": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20221&KtAnmKod=BQLPF&lang=sv&parentPtKod=MTAMR21h",
+      "start": "202203",
+      "end": "202212",
+      "semester": 3,
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=FY1433&revision=2&lang=sv",
+      "location": "Karlskrona",
+      "languages": [
+        "svenska"
+      ],
+      "points": 6.0,
+      "teachers": [
+        "Hanne M\u00e5nsson"
+      ]
+    },
+    {
+      "name": "Datorst\u00f6d f\u00f6r ingenj\u00f6rsarbete 1",
+      "code": "MT1549",
+      "description": "Syftet med kursen \u00e4r att studenten ska skaffa sig kunskaper om hur datorbaserade system f\u00f6r konstruktionsarbete och produktutveckling anv\u00e4nds.",
+      "requirements": "Grundl\u00e4ggande beh\u00f6righet",
+      "is_optional": true,
+      "has_requirements": false,
+      "place": "Campus",
+      "time_of_day": "Dag",
+      "speed": 50,
+      "course_page": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20221&KtAnmKod=BFWTH&lang=sv&parentPtKod=MTAMR21h",
+      "start": "202203",
+      "end": "202222",
+      "semester": 3,
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=MT1549&revision=2&lang=sv",
+      "location": "Karlskrona",
+      "languages": [
+        "svenska"
+      ],
+      "points": 8.0,
+      "teachers": [
+        "Markus Wejletorp"
+      ]
+    },
+    {
+      "name": "Nautisk introduktion",
+      "code": "MT1515",
+      "description": "Kursen ger studenten en grundl\u00e4ggande f\u00f6rst\u00e5else f\u00f6r hur marin verksamhet bedrivs ur ett praktiskt och teoretiskt perspektiv. Kunskaper och f\u00e4rdigheter som erh\u00e5lls i kursen anv\u00e4nds senare i programmet i de mer avancerade kurserna, och ger en grund f\u00f6r den marintekniska milj\u00f6 den f\u00e4rdiga ingenj\u00f6ren m\u00f6ter.",
+      "requirements": "Grundl\u00e4ggande beh\u00f6righet samt Matematik 4, Fysik 2, och Kemi 1 eller Matematik E, Fysik B och Kemi A.",
+      "is_optional": true,
+      "has_requirements": false,
+      "place": "Campus",
+      "time_of_day": "Dag",
+      "speed": 50,
+      "course_page": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20221&KtAnmKod=BHGHK&lang=sv&parentPtKod=MTAMR21h",
+      "start": "202213",
+      "end": "202222",
+      "semester": 4,
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=MT1515&revision=3,1&lang=sv",
+      "location": "Karlskrona",
+      "languages": [
+        "svenska"
+      ],
+      "points": 6.0,
+      "teachers": [
+        "joo"
+      ]
+    },
+    {
+      "name": "Matlab med till\u00e4mpningar inom matematik och teknik",
+      "code": "ET1549",
+      "description": "Kursen avser att ge studenten en introduktion till probleml\u00f6sning med anv\u00e4ndning av Matlab. Kursen utg\u00f6r en f\u00f6rberedelse f\u00f6r ett antal programkurser d\u00e4r Matlab anv\u00e4nds.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngna kurser Fysik grundkurs, 6 hp och Linj\u00e4r algebra, 6 hp.",
+      "is_optional": true,
+      "has_requirements": false,
+      "place": "Campus",
+      "time_of_day": "Dag",
+      "speed": 50,
+      "course_page": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20221&KtAnmKod=BCUCL&lang=sv&parentPtKod=MTAMR21h",
+      "start": "202213",
+      "end": "202222",
+      "semester": 4,
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=ET1549&revision=2,1&lang=sv",
+      "location": "Karlskrona",
+      "languages": [
+        "svenska"
+      ],
+      "points": 4.0,
+      "teachers": [
+        "Josef Str\u00f6m Bartunek",
+        "Viet Thuy Vu"
+      ]
+    },
+    {
+      "name": "H\u00e5llfasthetsl\u00e4ra grundkurs",
+      "code": "MT1506",
+      "description": "Kursen ska ge en grundl\u00e4ggande kunskap och f\u00f6rst\u00e5else h\u00e5llfasthetsl\u00e4ra. Studenten ska kunna best\u00e4mma hur konstruktionen reagerar vid enklare belastningar, dvs. hur stora sp\u00e4nningar och deformationer konstruktionen f\u00e5r. Dessa kunskaper bidrar till att produktutvecklingsprocessen blir effektivare d\u00e5 ingenj\u00f6ren i ett tidigt skede kan svara p\u00e5 \u0094H\u00e5ller det?\u0094 och \u0094Hur stora blir deformationerna?\u0094",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att 1,5 hp fr\u00e5n kursen Fysik grundkurs samt 1,5 hp fr\u00e5n kursen Analys 1 \u00e4r avklarade.",
+      "is_optional": true,
+      "has_requirements": true,
+      "place": "Campus",
+      "time_of_day": "Dag",
+      "speed": 50,
+      "course_page": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20222&KtAnmKod=BGLU7&lang=sv&parentPtKod=MTAMR21h",
+      "start": "202235",
+      "end": "202243",
+      "semester": 1,
+      "study_plan": "utb_kursplan.asp?kurskod=MT1506&revisionsnr=5&format=pdf",
+      "location": "Karlskrona",
+      "languages": [
+        "svenska"
+      ],
+      "points": 6.0,
+      "teachers": [
+        "Johan Pilthammar",
+        "Johan Wall"
+      ]
+    },
+    {
+      "name": "Analys 2",
+      "code": "MA1494",
+      "description": "Kursen syftar till att studenten skall skaffa sig grundl\u00e4ggande f\u00f6rst\u00e5else f\u00f6r matematisk analys i en variabel med till\u00e4mpningar inom framf\u00f6r allt tekniska \u00e4mnesomr\u00e5den.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngen kurs Analys 1, 6 hp.",
+      "is_optional": true,
+      "has_requirements": false,
+      "place": "Campus",
+      "time_of_day": "Dag",
+      "speed": 50,
+      "course_page": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20222&KtAnmKod=B4YK9&lang=sv&parentPtKod=MTAMR21h",
+      "start": "202235",
+      "end": "202243",
+      "semester": 1,
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=MA1494&revision=1&lang=sv",
+      "location": "Karlskrona",
+      "languages": [
+        "svenska"
+      ],
+      "points": 6.0,
+      "teachers": [
+        "Stefan Wagner",
+        "Johan Richter"
+      ]
+    },
+    {
+      "name": "Grundkurs i h\u00e5llbar utveckling",
+      "code": "SL1417",
+      "description": "Syftet med kursen \u00e4r att ge studenten:  (i) grundl\u00e4ggande kunskaper om och f\u00e4rdigheter i att bidra till en h\u00e5llbar utveckling som kan till\u00e4mpas och vidareutvecklas i programspecifika forts\u00e4ttningskurser.  (ii) f\u00f6ruts\u00e4ttningar att utveckla sin v\u00e4rderingsf\u00f6rm\u00e5ga och sitt f\u00f6rh\u00e5llningss\u00e4tt till h\u00e5llbar utveckling.",
+      "requirements": "Grundl\u00e4ggande beh\u00f6righet",
+      "is_optional": true,
+      "has_requirements": false,
+      "place": "Campus",
+      "time_of_day": "Dag",
+      "speed": 50,
+      "course_page": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20222&KtAnmKod=B9MRJ&lang=sv&parentPtKod=MTAMR21h",
+      "start": "202235",
+      "end": "202302",
+      "semester": 1,
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=SL1417&revision=1&lang=sv",
+      "location": "Karlskrona",
+      "languages": [
+        "svenska"
+      ],
+      "points": 6.0,
+      "teachers": [
+        "Jesko Schulte",
+        "Cecilia Bratt"
+      ]
+    },
+    {
+      "name": "Flervariabelanalys",
+      "code": "MA1447",
+      "description": "Kursen syftar till att studenten skall skaffa sig grundl\u00e4ggande f\u00f6rst\u00e5else f\u00f6r matematisk analys i flera variabler med till\u00e4mpningar inom framf\u00f6r allt tekniska \u00e4mnesomr\u00e5den.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngna kurser Linj\u00e4r algebra 6 hp, Analys 6 hp och Analys 2 6 hp.",
+      "is_optional": true,
+      "has_requirements": false,
+      "place": "Campus",
+      "time_of_day": "Dag",
+      "speed": 50,
+      "course_page": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20222&KtAnmKod=BLLW7&lang=sv&parentPtKod=MTAMR21h",
+      "start": "202244",
+      "end": "202302",
+      "semester": 2,
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=MA1447&revision=11,1&lang=sv",
+      "location": "Karlskrona",
+      "languages": [
+        "svenska"
+      ],
+      "points": 6.0,
+      "teachers": [
+        "Stefan Wagner",
+        "Johan Richter"
+      ]
+    },
+    {
+      "name": "Dynamik",
+      "code": "MT1502",
+      "description": "Syftet \u00e4r att studenterna ska utveckla f\u00f6rst\u00e5else f\u00f6r partiklarsdynamik och dess centrala roll som grundl\u00e4ggande ingenj\u00f6rs\u00e4mne, samt upp\u00f6va f\u00f6rm\u00e5gan att utf\u00f6ra ber\u00e4kningar inom omr\u00e5det. Dessa kunskaper beh\u00f6vs sedan i de tekniska till\u00e4mpningskurserna.",
+      "requirements": "Genomg\u00e5ngen kurs i Linj\u00e4r algebra, 6 hp.",
+      "is_optional": true,
+      "has_requirements": false,
+      "place": "Campus",
+      "time_of_day": "Dag",
+      "speed": 50,
+      "course_page": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20222&KtAnmKod=BLQKN&lang=sv&parentPtKod=MTAMR21h",
+      "start": "202244",
+      "end": "202302",
+      "semester": 2,
+      "study_plan": "utb_kursplan.asp?kurskod=MT1502&revisionsnr=7&format=pdf",
+      "location": "Karlskrona",
+      "languages": [
+        "svenska"
+      ],
+      "points": 6.0,
+      "teachers": [
+        "Claes Hedberg"
+      ]
+    },
+    {
+      "name": "Materiall\u00e4ra",
+      "code": "MT1544",
+      "description": "Att ha goda kunskaper om konstruktionsmaterial \u00e4r avg\u00f6rande f\u00f6r en effektiv produktutvecklingsprocess. Kursen ska ge kunskap och f\u00f6rst\u00e5else f\u00f6r v\u00e5ra vanligaste konstruktionsmaterial samt vilka mekanismer som styr materialens egenskaper. Studenten ska f\u00e5 en god inblick i hur materialegenskaper best\u00e4ms experimentellt med olika provningsmetoder och hur materialet reagerar p\u00e5 omgivande milj\u00f6 samt laster. Efter avslutad kurs ska studenten ha utvecklat sin f\u00f6rm\u00e5ga att f\u00f6r konstruktioner v\u00e4lja l\u00e4mpliga material utifr\u00e5n laster och anv\u00e4ndningsf\u00f6rh\u00e5llande och under processen ta h\u00e4nsyn till tillverkningsmetoder och \u00e5tervinning/avyttring.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen ska 3 hp fr\u00e5n kursen H\u00e5llfasthetsl\u00e4ra grundkurs vara avklarad.",
+      "is_optional": true,
+      "has_requirements": true,
+      "place": "Campus",
+      "time_of_day": "Dag",
+      "speed": 50,
+      "course_page": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20231&KtAnmKod=BP7UH&lang=sv&parentPtKod=MTAMR21h",
+      "start": "202303",
+      "end": "202312",
+      "semester": 3,
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=MT1544&revision=4&lang=sv",
+      "location": "Karlskrona",
+      "languages": [
+        "svenska"
+      ],
+      "points": 6.0,
+      "teachers": [
+        "Gunilla \u00c5kesson Nilsson"
+      ]
+    },
+    {
+      "name": "Transformteori",
+      "code": "MA1497",
+      "description": "Syftet med kursen \u00e4r att \u00f6ka f\u00f6rst\u00e5else f\u00f6r serier och transformteori och deras till\u00e4mpningar inom tekniska \u00e4mnen, framf\u00f6r allt inom elektroteknik och maskinteknik.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngna kurser Linj\u00e4r algebra 1, 6 hp, Analys 1, 6 hp och Analys 2, 6 hp.",
+      "is_optional": true,
+      "has_requirements": false,
+      "place": "Campus",
+      "time_of_day": "Dag",
+      "speed": 50,
+      "course_page": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20231&KtAnmKod=BRTXF&lang=sv&parentPtKod=MTAMR21h",
+      "start": "202303",
+      "end": "202312",
+      "semester": 3,
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=MA1497&revision=1&lang=sv",
+      "location": "Karlskrona",
+      "languages": [
+        "svenska"
+      ],
+      "points": 6.0,
+      "teachers": [
+        "Johan Richter"
+      ]
+    },
+    {
+      "name": "Teknikutveckling, marin teknik och samh\u00e4llsf\u00f6r\u00e4ndring",
+      "code": "TE1424",
+      "description": "Kursen syftar till att ge en \u00f6vergripande f\u00f6rst\u00e5else f\u00f6r hur effekter av teknisk utveckling p\u00e5verkar lokalt och samh\u00e4llet i stort. Beskrivningen av historiska perspektiv \u00e4r centrala i kursen men tyngdpunkten ligger p\u00e5 teknikutveckling och d\u00e4r framf\u00f6r allt hur maskin- och marinteknisk utveckling har p\u00e5verkat samh\u00e4llet och individen.",
+      "requirements": "Grundl\u00e4ggande beh\u00f6righet.",
+      "is_optional": true,
+      "has_requirements": false,
+      "place": "Campus",
+      "time_of_day": "Dag",
+      "speed": 50,
+      "course_page": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20231&KtAnmKod=BAXTG&lang=sv&parentPtKod=MTAMR21h",
+      "start": "202303",
+      "end": "202312",
+      "semester": 3,
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=TE1424&revision=3&lang=sv",
+      "location": "Karlskrona",
+      "languages": [
+        "svenska"
+      ],
+      "points": 4.0,
+      "teachers": [
+        "joo"
+      ]
+    },
+    {
+      "name": "Ell\u00e4ra, grundkurs",
+      "code": "ET1538",
+      "description": "Kursen syftar till att studenterna skall f\u00f6rv\u00e4rva grundl\u00e4ggande kunskaper om elektriska begrepp och maskiner samt att kursdeltagare skall utveckla grundl\u00e4ggande kunskaper och f\u00e4rdigheter i metoder att analysera elektriska n\u00e4t. S\u00e5dana kunskaper och f\u00e4rdigheter \u00e4r n\u00f6dv\u00e4ndiga grunder f\u00f6r vidare h\u00f6gskolestudier inom elektroteknikomr\u00e5det och f\u00f6r professionellt arbete som ingenj\u00f6r d\u00e4r man kommer i kontakt med elektroteknik.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngna kurser Fysik forts\u00e4ttningskurs, 6 hp, Linj\u00e4r algebra 1 och Analys 2, 6 hp.",
+      "is_optional": true,
+      "has_requirements": false,
+      "place": "Campus",
+      "time_of_day": "Dag",
+      "speed": 50,
+      "course_page": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20231&KtAnmKod=BW64R&lang=sv&parentPtKod=MTAMR21h",
+      "start": "202313",
+      "end": "202322",
+      "semester": 4,
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=ET1538&revision=3&lang=sv",
+      "location": "Karlskrona",
+      "languages": [
+        "svenska"
+      ],
+      "points": 6.0,
+      "teachers": [
+        "Josef Str\u00f6m Bartunek"
+      ]
+    },
+    {
+      "name": "Str\u00f6mningsl\u00e4ra",
+      "code": "MT1555",
+      "description": "Syftet med kursen \u00e4r att ge kunskaper i grundl\u00e4ggande str\u00f6mningsl\u00e4ra med fokus p\u00e5 marina applikationer.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser i Fysik-v\u00e5gor och energi 6 hp, Analys 2, 6 hp, och genomg\u00e5ngna kurser i Flervariabel analys, 6 hp och Dynamik, 6 hp.",
+      "is_optional": true,
+      "has_requirements": true,
+      "place": "Campus",
+      "time_of_day": "Dag",
+      "speed": 50,
+      "course_page": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20231&KtAnmKod=BL6UN&lang=sv&parentPtKod=MTAMR21h",
+      "start": "202313",
+      "end": "202322",
+      "semester": 4,
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=MT1555&revision=1&lang=sv",
+      "location": "Karlskrona",
+      "languages": [
+        "svenska"
+      ],
+      "points": 8.0,
+      "teachers": [
+        "Claes Hedberg"
+      ]
+    },
+    {
+      "name": "Matematisk statistik",
+      "code": "MS1405",
+      "description": "Kursens syfte \u00e4r att studenterna skall skaffa sig kunskaper i s\u00e5v\u00e4l sannolikhetsteori som statistisk teori och metodik. Tonvikten ligger p\u00e5 sannolikhetsteori med tekniska till\u00e4mpningar som grund f\u00f6r fortsatta studier i tekniska \u00e4mnen, t.ex. tillf\u00f6rlitlighetsteknik, signalbehandling och telekommunikation samt \u00e4ven ekonomi.",
+      "requirements": "Genomg\u00e5ngna kurser i Analys 12 hp samt Linj\u00e4r algebra 6 hp (eller motsvarande).",
+      "is_optional": true,
+      "has_requirements": false,
+      "place": "Campus",
+      "time_of_day": "Dag",
+      "speed": 50,
+      "course_page": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20232&KtAnmKod=B6CQR&lang=sv&parentPtKod=MTAMR21h",
+      "start": "202335",
+      "end": "202343",
+      "semester": 1,
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=MS1405&revision=8,1&lang=sv",
+      "location": "Karlskrona",
+      "languages": [
+        "svenska"
+      ],
+      "points": 6.0,
+      "teachers": [
+        "Bruna Palm",
+        "Mattias Dahl"
+      ]
+    },
+    {
+      "name": "Elektronik med till\u00e4mpningar inom m\u00e4tteknik",
+      "code": "ET1535",
+      "description": "Kursen syftar till att studenterna skall f\u00f6rv\u00e4rva grundl\u00e4ggande kunskaper om elektronik och m\u00e4ttekniska begrepp samt att kursdeltagare skall utveckla grundl\u00e4ggande kunskaper och f\u00e4rdigheter i metoder att modellera och designa enkla m\u00e4tsystem med enkortsdator f\u00f6r marin- och maskinteknisk till\u00e4mpning. S\u00e5dana kunskaper och f\u00e4rdigheter \u00e4r n\u00f6dv\u00e4ndiga grunder f\u00f6r vidare h\u00f6gskolestudier inom m\u00e4t- och styrsystem och f\u00f6r professionellt arbete som ingenj\u00f6r d\u00e4r man kommer i kontakt med elektronik och sensorer.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngna kurser i Ell\u00e4ra, 6 hp och Programmering och probleml\u00f6sning med Python, 6 hp, eller Grundl\u00e4ggande programmering i Matlab 6 hp.",
+      "is_optional": true,
+      "has_requirements": false,
+      "place": "Campus",
+      "time_of_day": "Dag",
+      "speed": 50,
+      "course_page": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20232&KtAnmKod=BQXQF&lang=sv&parentPtKod=MTAMR21h",
+      "start": "202335",
+      "end": "202343",
+      "semester": 1,
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=ET1535&revision=3&lang=sv",
+      "location": "Karlskrona",
+      "languages": [
+        "svenska"
+      ],
+      "points": 6.0,
+      "teachers": [
+        "Josef Str\u00f6m Bartunek"
+      ]
+    },
+    {
+      "name": "Oceanografi",
+      "code": "MT1518",
+      "description": "Kursen ger studenten en \u00f6vergripande f\u00f6rst\u00e5else f\u00f6r de f\u00f6ruts\u00e4ttningar som finns f\u00f6r att bedriva arbete i en marin milj\u00f6 och samtidigt ta h\u00e4nsyn till fysiska och biologiska krav f\u00f6r h\u00e5llbarhet. Kursen ger studenten en helhetsbild av de marina systemet. Detta \u00e4r en f\u00f6ruts\u00e4ttning f\u00f6r att i senare och mer avancerade kurser kunna g\u00f6ra initierade bed\u00f6mningar avseende konstruktioner och system.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngen kurs Str\u00f6mningsl\u00e4ra, 8 hp.",
+      "is_optional": true,
+      "has_requirements": false,
+      "place": "Campus",
+      "time_of_day": "Dag",
+      "speed": 50,
+      "course_page": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20232&KtAnmKod=BK6F4&lang=sv&parentPtKod=MTAMR21h",
+      "start": "202335",
+      "end": "202343",
+      "semester": 1,
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=MT1518&revision=3&lang=sv",
+      "location": "Karlskrona",
+      "languages": [
+        "svenska"
+      ],
+      "points": 4.0,
+      "teachers": [
+        "joo"
+      ]
+    },
+    {
+      "name": "Reglerteknik, grundkurs",
+      "code": "ET1534",
+      "description": "Syftet med kursen \u00e4r att studenten ska f\u00f6rv\u00e4rva grundl\u00e4ggande kunskaper och f\u00e4rdigheter i reglerteknik. S\u00e5dana kunskaper \u00e4r n\u00f6dv\u00e4ndiga f\u00f6r att kunna arbeta professionellt som ingenj\u00f6r med anknytning till omr\u00e5dena maskinteknik, elektroteknik och datateknik.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser i Linj\u00e4r algebra, 6 hp,  Fysik grundkurs 6 hp, Analys 2, 6 hp, samt genomg\u00e5ngna kurser i  Transformteori 6hp, Flervariabelanalys 6 hp, Dynamik 6 hp, Ell\u00e4ra 6  hp, Elektronik med till\u00e4mpningar inom m\u00e4tteknik 6 hp, Matlab 4 hp.",
+      "is_optional": true,
+      "has_requirements": true,
+      "place": "Campus",
+      "time_of_day": "Dag",
+      "speed": 50,
+      "course_page": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20232&KtAnmKod=BAUCQ&lang=sv&parentPtKod=MTAMR21h",
+      "start": "202344",
+      "end": "202402",
+      "semester": 2,
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=ET1534&revision=2&lang=sv",
+      "location": "Karlskrona",
+      "languages": [
+        "svenska"
+      ],
+      "points": 6.0,
+      "teachers": [
+        "cbg"
+      ]
+    },
+    {
+      "name": "Marin konstruktion",
+      "code": "MT1514",
+      "description": "Kursen ger studenten kunskaper och f\u00e4rdigheter om hur marina konstruktioner \u00e4r byggda f\u00f6r att fungera inom ramarna f\u00f6r den marina milj\u00f6ns p\u00e5frestningar. Konsekvenserna av ett haveri i marin milj\u00f6 kan varan omfattande b\u00e5de f\u00f6r m\u00e4nniskor och milj\u00f6 varf\u00f6r kunskaper om marin konstruktion \u00e4r avg\u00f6rande f\u00f6r en f\u00e4rdig marin ingenj\u00f6r.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs 60 hp i genomg\u00e5ngna kurser varav minst 30 hp ska vara inom Maskinteknik och Elektroteknik inklusive genomg\u00e5ngen kurs Str\u00f6mningsl\u00e4ra, 8 hp. De \u00f6vriga 30 hp kan, f\u00f6rutom Maskinteknik och Elektroteknik, vara inom matematik eller annat naturvetenskapligt \u00e4mne.",
+      "is_optional": true,
+      "has_requirements": false,
+      "place": "Campus",
+      "time_of_day": "Dag",
+      "speed": 50,
+      "course_page": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20232&KtAnmKod=BFWQ4&lang=sv&parentPtKod=MTAMR21h",
+      "start": "202344",
+      "end": "202402",
+      "semester": 2,
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=MT1514&revision=3,1&lang=sv",
+      "location": "Karlskrona",
+      "languages": [
+        "svenska"
+      ],
+      "points": 8.0,
+      "teachers": [
+        "Oskar Fr\u00e5nberg",
+        "joo"
+      ]
+    },
+    {
+      "name": "Termodynamik",
+      "code": "MT1540",
+      "description": "Kursens syfte \u00e4r att studenten skall utveckla f\u00f6rst\u00e5else f\u00f6r termodynamiken och dess ingenj\u00f6rsm\u00e4ssiga till\u00e4mpningar, upp\u00f6va f\u00f6rm\u00e5gan att utf\u00f6ra energitekniska ber\u00e4kningar, samt tydligg\u00f6ra \u00e4mnets centrala roll som belysande av h\u00e5llbar utveckling.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser Dynamik 6 hp eller Fysik f\u00f6r Ingenj\u00f6rer 2, 6 hp och Analys 2 6 hp samt genomg\u00e5ngna kurser Matematisk statistik, 6 hp och Fysik forts\u00e4ttningskurs, 6 hp eller Fysik f\u00f6r ingenj\u00f6rer 3, 6 hp.",
+      "is_optional": true,
+      "has_requirements": true,
+      "place": "Campus",
+      "time_of_day": "Dag",
+      "speed": 50,
+      "course_page": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20241&KtAnmKod=BWQGM&lang=sv&parentPtKod=MTAMR21h",
+      "start": "202403",
+      "end": "202412",
+      "semester": 3,
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=MT1540&revision=6&lang=sv",
+      "location": "Karlskrona",
+      "languages": [
+        "svenska"
+      ],
+      "points": 6.0,
+      "teachers": [
+        "Claes Hedberg"
+      ]
+    },
+    {
+      "name": "Signaler och system, grundkurs",
+      "code": "ET1555",
+      "description": "Kursen syftar till att studenten ska erh\u00e5lla de teoretiska grunderna inom modern digital signalbehandling, f\u00f6r s\u00e5v\u00e4l deterministiska som stokastiska signaler, samt att ge kunskap och insikt om till\u00e4mpade signalbehandlingsproblem. Den studerande skall vara v\u00e4l f\u00f6rberedd f\u00f6r s\u00e5v\u00e4l signalbehandling inom industrin som f\u00f6r fortsatta studier inom omr\u00e5det.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarad kurs i Transformteori, 6 hp samt genomg\u00e5ngen kurs i Reglerteknik, 6 hp.",
+      "is_optional": true,
+      "has_requirements": true,
+      "place": "Campus",
+      "time_of_day": "Dag",
+      "speed": 50,
+      "course_page": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20241&KtAnmKod=BK9HY&lang=sv&parentPtKod=MTAMR21h",
+      "start": "202403",
+      "end": "202422",
+      "semester": 3,
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=ET1555&revision=1&lang=sv",
+      "location": "Karlskrona",
+      "languages": [
+        "svenska"
+      ],
+      "points": 9.0,
+      "teachers": [
+        "Irina Gertsovich"
+      ]
+    },
+    {
+      "name": "Projektkurs 1 med produktutveckling och projektledning",
+      "code": "MT1517",
+      "description": "I kursen tr\u00e4nar sig studenterna att till\u00e4mpa kunskaper och f\u00e4rdigheter fr\u00e5n tidigare kurser i utbildningen. Ingenj\u00f6rsarbete inneb\u00e4r ofta att id\u00e9er beh\u00f6ver praktiskt testas f\u00f6r att s\u00e4kerst\u00e4lla funktion. Kursen avser att tr\u00e4na studenten i en design-bygg-testa loop och ur detta dra slutsatser om sv\u00e5righeterna med att f\u00e5 komplexa system att fungera i praktiken. Som en del i ett st\u00f6rre projekt \u00e4r det viktigt att beh\u00e4rska produktutvecklings- och projektledningsmetoder. Studenten f\u00e5r under kursen en naturlig tr\u00e4ning i ledning och organisation av ett praktiskt projekt.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs 60 hp avklarade kurser fr\u00e5n programmet Civilingenj\u00f6r i marinteknik varav f\u00f6ljande kurser ska vara avklarade Datorst\u00f6d f\u00f6r ingenj\u00f6rsarbete, 8 hp, Materiall\u00e4ra, 6 hp, H\u00e5llfasthetsl\u00e4ra, 6 hp och Str\u00f6mningsl\u00e4ra, 8 hp. Vidare kr\u00e4vs genomg\u00e5ngna kurser Elektroteknik med till\u00e4mpningar inom m\u00e4tteknik, 6 hp, Marin konstruktion, 8 hp samt Reglerteknik, 6 hp.",
+      "is_optional": true,
+      "has_requirements": true,
+      "place": "Campus",
+      "time_of_day": "Dag",
+      "speed": 100,
+      "course_page": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20241&KtAnmKod=BKYNK&lang=sv&parentPtKod=MTAMR21h",
+      "start": "202403",
+      "end": "202422",
+      "semester": 3,
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=MT1517&revision=1&lang=sv",
+      "location": "Karlskrona",
+      "languages": [
+        "svenska"
+      ],
+      "points": 15.0,
+      "teachers": [
+        "Oskar Fr\u00e5nberg",
+        "cbg"
+      ]
+    },
+    {
+      "name": "Elektromagnetisk f\u00e4ltteori",
+      "code": "FY2503",
+      "description": "Syftet med kursen \u00e4r att studenten skall l\u00e4ra sig teori om elektriska och magnetiska f\u00e4lt, s\u00e5v\u00e4l statiska som dynamiska, samt f\u00e5 insikt om hur man anv\u00e4nder teorin inom olika relevanta till\u00e4mpningsomr\u00e5den, som exempelvis radarteknik.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngna kurser i Flervariabelanalys, 6 hp och Ell\u00e4ra 6 hp.",
+      "is_optional": true,
+      "has_requirements": false,
+      "place": "Campus",
+      "time_of_day": "Dag",
+      "speed": 50,
+      "course_page": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20242&KtAnmKod=BMDQ4&lang=sv&parentPtKod=MTAMR21h",
+      "start": "202436",
+      "end": "202444",
+      "semester": 1,
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=FY2503&revision=1&lang=sv",
+      "location": "Karlskrona",
+      "languages": [
+        "svenska"
+      ],
+      "points": 6.0,
+      "teachers": []
+    },
+    {
+      "name": "Hydroakustik",
+      "code": "FY2504",
+      "description": "Kursen ger studenten en bakgrund inom hydroakustik (ljudutbredning i vatten) vars till\u00e4mpningar anv\u00e4nds i system f\u00f6r avbildning, detektion och kommunikation under vatten.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarad kurs i Transformteori, 6 hp och genomg\u00e5ngen kurs i Fysik- v\u00e5gor och energi, 6 hp.",
+      "is_optional": true,
+      "has_requirements": true,
+      "place": "Campus",
+      "time_of_day": "Dag",
+      "speed": 50,
+      "course_page": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20242&KtAnmKod=BCY4N&lang=sv&parentPtKod=MTAMR21h",
+      "start": "202436",
+      "end": "202444",
+      "semester": 1,
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=FY2504&revision=1&lang=sv",
+      "location": "Karlskrona",
+      "languages": [
+        "svenska"
+      ],
+      "points": 6.0,
+      "teachers": []
+    },
+    {
+      "name": "Signaler och system, forts\u00e4ttningskurs",
+      "code": "ET2611",
+      "description": "Kursen syftar till att ge studenten f\u00f6rdjupning inom signalbehandling inklusive detektering av k\u00e4nd signalform i brus, adaptiva filter och riktningsskattning med hj\u00e4lp av multipla sensorer. Kursen f\u00f6rbereder f\u00f6r vidare studier och till\u00e4mpade projekt inom delar av det marintekniska omr\u00e5det.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngen kurs i Signaler och system, grundkurs, 9 hp.",
+      "is_optional": true,
+      "has_requirements": false,
+      "place": "Campus",
+      "time_of_day": "Dag",
+      "speed": 50,
+      "course_page": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20242&KtAnmKod=BD36Q&lang=sv&parentPtKod=MTAMR21h",
+      "start": "202436",
+      "end": "202444",
+      "semester": 1,
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=ET2611&revision=1&lang=sv",
+      "location": "Karlskrona",
+      "languages": [
+        "svenska"
+      ],
+      "points": 4.0,
+      "teachers": []
+    },
+    {
+      "name": "Sensorsystem",
+      "code": "ET2613",
+      "description": "Syftet med kursen \u00e4r att studenten ska f\u00f6rv\u00e4rva kunskap om egenskaperna hos och anv\u00e4ndningen av ett autonomt sensorsystem best\u00e5ende av sensorer, aktuatorer, kommunikationsmoduler och bearbetningsalgoritmer som utg\u00f6r IoT, Internet of Things. Studenten ska kunna designa och implementera smarta inbyggda system f\u00f6r m\u00e4tning, kontroll, kommunikation och m\u00f6nsterigenk\u00e4nning.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarad kurs i Elektroteknik med till\u00e4mpningar inom m\u00e4tteknik, 6 hp samt genomg\u00e5ngna kurser i Elektromagnetisk f\u00e4ltteori, 6 hp, Reglerteknik, grundkurs, 6 hp och Signaler och system, forts\u00e4ttningskurs, 4 hp.",
+      "is_optional": true,
+      "has_requirements": true,
+      "place": "Campus",
+      "time_of_day": "Dag",
+      "speed": 50,
+      "course_page": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20242&KtAnmKod=B63Y7&lang=sv&parentPtKod=MTAMR21h",
+      "start": "202445",
+      "end": "202503",
+      "semester": 2,
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=ET2613&revision=1&lang=sv",
+      "location": "Karlskrona",
+      "languages": [
+        "svenska"
+      ],
+      "points": 7.0,
+      "teachers": []
+    },
+    {
+      "name": "Reglerteknik, forts\u00e4ttningskurs",
+      "code": "ET2612",
+      "description": "Syftet med kursen \u00e4r att studenten ska f\u00f6rv\u00e4rva f\u00f6rdjupade kunskaper och f\u00e4rdigheter i reglerteknik. S\u00e5dana kunskaper \u00e4r n\u00f6dv\u00e4ndiga f\u00f6r att kunna arbeta professionellt med reglertekniska konstruktionsuppgifter med anknytning till omr\u00e5dena maskinteknik, elektroteknik och datateknik.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser i Reglerteknik, grundkurs 6 hp och Signaler och system, grundkurs 9 hp samt genomg\u00e5ngen kurs i Signaler och system, forts\u00e4ttningskurs, 4 hp.",
+      "is_optional": true,
+      "has_requirements": true,
+      "place": "Campus",
+      "time_of_day": "Dag",
+      "speed": 50,
+      "course_page": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20242&KtAnmKod=B3XC4&lang=sv&parentPtKod=MTAMR21h",
+      "start": "202445",
+      "end": "202503",
+      "semester": 2,
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=ET2612&revision=1,1&lang=sv",
+      "location": "Karlskrona",
+      "languages": [
+        "svenska"
+      ],
+      "points": 7.0,
+      "teachers": []
+    },
+    {
+      "name": "Elkraft och energiteknik",
+      "code": "ET2615",
+      "description": "Kursen syftar till att studenterna ska f\u00f6rv\u00e4rva grundl\u00e4ggande kunskaper om elkraftsystems uppbyggnad och dess ing\u00e5ende elektriska maskiner fr\u00e5n generering via transmission till f\u00f6rbrukning samt f\u00e4rdigheter i att utf\u00f6ra grundl\u00e4ggande ber\u00e4kningar p\u00e5 s\u00e5dana komponenter. S\u00e5dana kunskaper och f\u00e4rdigheter \u00e4r n\u00f6dv\u00e4ndiga grunder f\u00f6r vidare h\u00f6gskolestudier inom elkraftteknik och f\u00f6r professionellt arbete som ingenj\u00f6r i energiomvandlingsprojekt som v\u00e5g-, vind och solkraft.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarad kurs i Ell\u00e4ra, 6 hp och genomg\u00e5ngna kurser i Elektromagnetisk f\u00e4ltteori, 6 hp, Dynamik, 6 hp, Elektronik med till\u00e4mpningar inom m\u00e4tteknik, 6 hp och Reglerteknik 6 hp.",
+      "is_optional": true,
+      "has_requirements": true,
+      "place": "Campus",
+      "time_of_day": "Dag",
+      "speed": 50,
+      "course_page": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20251&KtAnmKod=BJ7C7&lang=sv&parentPtKod=MTAMR21h",
+      "start": "202504",
+      "end": "202513",
+      "semester": 3,
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=ET2615&revision=1&lang=sv",
+      "location": "Karlskrona",
+      "languages": [
+        "svenska"
+      ],
+      "points": 6.0,
+      "teachers": []
+    },
+    {
+      "name": "Projektkurs 2 med industriell ekonomi och aff\u00e4rsplanering",
+      "code": "MT2552",
+      "description": "I kursen tr\u00e4nar sig studenten p\u00e5 att till\u00e4mpa sina kunskaper och f\u00e4rdigheter i verklighetstrogna industri- eller innovationsprojekt. F\u00f6r att f\u00f6rbereda studenten f\u00f6r skarpa industriprojekt v\u00e4vs moment om ekonomi och aff\u00e4rsplanering in som en integral del av kursen.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarad Projektkurs 1 med produktutveckling och projektledning, 15 hp.",
+      "is_optional": true,
+      "has_requirements": true,
+      "place": "Campus",
+      "time_of_day": "Dag",
+      "speed": 50,
+      "course_page": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20251&KtAnmKod=BPCLG&lang=sv&parentPtKod=MTAMR21h",
+      "start": "202504",
+      "end": "202523",
+      "semester": 3,
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=MT2552&revision=1&lang=sv",
+      "location": "Karlskrona",
+      "languages": [
+        "svenska"
+      ],
+      "points": 15.0,
+      "teachers": []
+    },
+    {
+      "name": "Undervattensteknik",
+      "code": "MT2551",
+      "description": "Kursens syfte \u00e4r att ge grundl\u00e4ggande f\u00f6rst\u00e5else och f\u00f6rm\u00e5ga till utveckling och anv\u00e4ndning av undervattensfarkoster. I kursen deltar studenten i konstruktionen av en undervattensfarkost. Studenten skall definiera problemst\u00e4llningar, l\u00f6sa energi- och kraftbehov samt utveckla reglersystem f\u00f6r att planera, utf\u00f6ra och utv\u00e4rdera undervattensoperationer.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att f\u00f6ljande kurser \u00e4r genomg\u00e5ngna: Matlab med till\u00e4mpningar inom matematik och teknik, 4 hp, Str\u00f6mningsl\u00e4ra, 8 hp, Reglerteknik grundkurs, 6 hp och Marin konstruktion, 8 hp.",
+      "is_optional": true,
+      "has_requirements": false,
+      "place": "Campus",
+      "time_of_day": "Dag",
+      "speed": 50,
+      "course_page": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20251&KtAnmKod=BXME4&lang=sv&parentPtKod=MTAMR21h",
+      "start": "202504",
+      "end": "202513",
+      "semester": 3,
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=MT2551&revision=2&lang=sv",
+      "location": "Karlskrona",
+      "languages": [
+        "svenska"
+      ],
+      "points": 5.0,
+      "teachers": []
+    },
+    {
+      "name": "Fartygstillsyn och marina regelverk",
+      "code": "MT1558",
+      "description": "Kursens syfte \u00e4r att ge en f\u00f6rst\u00e5else om hur fartygsutveckling, fartygskonstruktion, drift, ombyggnationer och uppgraderingar styrs av nationella regler och internationella koder, regelverk och \u00f6verenskommelser.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser i Marin konstruktion, 8 hp och Nautisk introduktion, 6 hp.",
+      "is_optional": true,
+      "has_requirements": true,
+      "place": "Campus",
+      "time_of_day": "Dag",
+      "speed": 50,
+      "course_page": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20251&KtAnmKod=BNPN9&lang=sv&parentPtKod=MTAMR21h",
+      "start": "202514",
+      "end": "202523",
+      "semester": 4,
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=MT1558&revision=1&lang=sv",
+      "location": "Karlskrona",
+      "languages": [
+        "svenska"
+      ],
+      "points": 4.0,
+      "teachers": []
+    },
+    {
+      "name": "Systems Engineering",
+      "code": "MT2574",
+      "description": "Systems Engineering som disciplin har sitt ursprung i behovet av att utveckla alltmer komplexa system inom rymdindustrin. Till\u00e4mpningen av metoder och verktyg f\u00f6r Systems Engineering har i stor utstr\u00e4ckning p\u00e5verkat utvecklingen av t.ex. flygplan och satelliter. De \u00f6kande socioekonomiska utmaningarna i samband med globalisering, befolkningstillv\u00e4xt, ekonomisk globalisering och h\u00e5llbarhet, betonar behovet av att Systems Engineering kompetenser till\u00e4mpas i olika dom\u00e4ner. Systems Engineering projekt kr\u00e4ver tv\u00e4rvetenskapliga f\u00e4rdigheter och tv\u00e4rfunktionella designteam, inklusive en bred upps\u00e4ttning av discipliner, s\u00e5som design, tillverkning, systemanalys, kunskapshantering och h\u00e5llbarhetsanalys. Kursdeltagarna har m\u00f6jlighet att f\u00f6rv\u00e4rva metodologiska och teoretiska kunskaper inom Systems Engineering och att till\u00e4mpa dem i ''real-life'' Systems Engineering projekt i samarbete med utvalda partnerf\u00f6retag.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs minst 180 avklarade hp, varav 90 hp inom maskinteknik, industriell ekonomi eller n\u00e4rliggande tekniskt omr\u00e5de inklusive 5 hp datorst\u00f6d f\u00f6r ingenj\u00f6rsarbete.",
+      "is_optional": true,
+      "has_requirements": true,
+      "place": "Campus",
+      "time_of_day": "Dag",
+      "speed": 50,
+      "course_page": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20252&KtAnmKod=BNY44&lang=sv&parentPtKod=MTAMR21h",
+      "start": "202536",
+      "end": "202544",
+      "semester": 1,
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=MT2574&revision=1&lang=sv",
+      "location": "Karlskrona",
+      "languages": [
+        "engelska"
+      ],
+      "points": 7.5,
+      "teachers": []
+    },
+    {
+      "name": "S\u00e4kerhet, ergonomi och m\u00e4nniska-system-interaktion",
+      "code": "MT1522",
+      "description": "Kursen ger studenten kunskaper f\u00f6r att kunna f\u00f6rst\u00e5 vilka krav som st\u00e4lls p\u00e5 m\u00e4nniska och system i en marin milj\u00f6, d\u00e4r viktiga delar i detta \u00e4r s\u00e4kerhet och s\u00e4kerhetskultur, arbetsmilj\u00f6 och ergonomi samt hur m\u00e4nniskan interagerar med omgivningen och om design av interaktionssystem. Vidare introducerar kursen till omr\u00e5det m\u00e4nniska-datorinteraktion (HCI).",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarad kurs i Fartygstillsyn och marina regelverk, 4 hp.",
+      "is_optional": true,
+      "has_requirements": true,
+      "place": "Campus",
+      "time_of_day": "Dag",
+      "speed": 50,
+      "course_page": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20252&KtAnmKod=BJ9FM&lang=sv&parentPtKod=MTAMR21h",
+      "start": "202536",
+      "end": "202544",
+      "semester": 1,
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=MT1522&revision=1&lang=sv",
+      "location": "Karlskrona",
+      "languages": [
+        "svenska"
+      ],
+      "points": 7.5,
+      "teachers": []
+    },
+    {
+      "name": "Forskningsmetodik med inriktning mot ingenj\u00f6rsvetenskap",
+      "code": "MT2521",
+      "description": "Studenten ska skaffa sig en grundl\u00e4ggande introduktion till moderna syns\u00e4tt om vetenskap, s\u00e4rskilt naturvetenskap och ingenj\u00f6rsvetenskap. Studenten ska f\u00f6rv\u00e4rva en inblick i vetenskapens historia och filosofi samt hur vetenskapliga metoder till\u00e4mpas inom ingenj\u00f6rsvetenskap, speciellt i elektro - och maskinteknik. Den studerande skall efter detta tillf\u00f6rskaffat sig kunskaper i hur man bedriver forskningsprojekt samt hur man skriver vetenskapliga texter.",
+      "requirements": "Avklarade studier om minst 180 hp inom omr\u00e5det teknik.",
+      "is_optional": true,
+      "has_requirements": false,
+      "place": "Campus",
+      "time_of_day": "Dag",
+      "speed": 50,
+      "course_page": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20252&KtAnmKod=B6TK9&lang=sv&parentPtKod=MTAMR21h",
+      "start": "202545",
+      "end": "202603",
+      "semester": 2,
+      "study_plan": "utb_kursplan.asp?kurskod=MT2521&revisionsnr=13&format=pdf",
+      "location": "Karlskrona",
+      "languages": [
+        "engelska"
+      ],
+      "points": 7.5,
+      "teachers": []
+    },
+    {
+      "name": "Kravhantering och produkthantering",
+      "code": "PA2591",
+      "description": "Kursens syfte \u00e4r att ge grundl\u00e4ggande och f\u00f6rdjupande kunskaper och f\u00e4rdigheter inom kontinuerlig kravhantering och produkthantering i storskalig utveckling av mjukvaruintensiva system och produkter i en f\u00f6r\u00e4ndringsben\u00e4gen och kostnadsk\u00e4nslig verklighet. Kursen ger b\u00e5de teoretisk analysf\u00f6rm\u00e5ga inom \u00e4mnet och praktisk till\u00e4mpning av metoder och tekniker f\u00f6r kravhantering och produkthantering.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser omfattande minst 120 hp varav minst 90 hp ska vara inom f\u00f6ljande omr\u00e5den: programvaruteknik, datavetenskap, informationssystem, datalogi, maskinteknik eller industriell ekonomi. Dessutom kr\u00e4vs en genomg\u00e5ngen kurs p\u00e5 minst 7,5 hp inom grundl\u00e4ggande Programvaruteknik eller Systemteknik alternativt en genomg\u00e5ngen projektkurs i grupp p\u00e5 minst 7,5 hp i Programvaruteknik eller Systemteknik.",
+      "is_optional": true,
+      "has_requirements": true,
+      "place": "Campus",
+      "time_of_day": "Dag",
+      "speed": 50,
+      "course_page": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20252&KtAnmKod=BYPLK&lang=sv&parentPtKod=MTAMR21h",
+      "start": "202545",
+      "end": "202603",
+      "semester": 2,
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=PA2591&revision=1&lang=sv",
+      "location": "Karlskrona",
+      "languages": [
+        "engelska"
+      ],
+      "points": 7.5,
+      "teachers": []
+    },
+    {
+      "name": "Examensarbete f\u00f6r civilingenj\u00f6rer",
+      "code": "TE2502",
+      "description": "Syftet med kursen \u00e4r att studenten tr\u00e4nar sin f\u00f6rm\u00e5ga att definiera, planera, genomf\u00f6ra och redovisa ett sj\u00e4lvst\u00e4ndigt forsknings- och utvecklingsarbete inom huvud\u00e4mnet f\u00f6r civilingenj\u00f6rsprogrammet. Examensarbetet inneb\u00e4r en till\u00e4mpning och syntes av de under utbildningen f\u00f6rv\u00e4rvade kunskaper och ska visa studentens f\u00f6rm\u00e5ga att arbeta sj\u00e4lvst\u00e4ndigt som civilingenj\u00f6r.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att studenten har avklarat minst 240 hp som f\u00e5r ing\u00e5 i en civilingenj\u00f6rsexamen. Av dessa ska minst 30 hp vara avklarade kurser p\u00e5 avancerad niv\u00e5.",
+      "is_optional": true,
+      "has_requirements": true,
+      "place": "Campus",
+      "time_of_day": "Dag",
+      "speed": 100,
+      "course_page": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20261&KtAnmKod=B473Q&lang=sv&parentPtKod=MTAMR21h",
+      "start": "202604",
+      "end": "202623",
+      "semester": 3,
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=TE2502&revision=4,1&lang=sv",
+      "location": "Karlskrona",
+      "languages": [
+        "svenska"
+      ],
+      "points": 30.0,
+      "teachers": []
+    }
+  ]
+}

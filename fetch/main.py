@@ -2,23 +2,34 @@ import argparse
 import json
 import os
 import time
+import signal
+from threading import Event
 from collections import defaultdict
 from fetch.program import get_program_codes, get_program
 from fetch.utils import get_data_path
+
+stop_flag = Event()
 
 def index_files() -> dict:
   data_path = get_data_path()
   index_path = os.path.join(data_path, "index.json")
   data = defaultdict(list)
-  
-  for file in os.listdir(data_path):
+  files = [file for file in os.listdir(data_path) if file.endswith(".json") and file != "index.json"]
+
+  for file in files:
     code = file.split(".")[0][:5].upper()
     data[code].append(file)
   
   with open(index_path, "w+", encoding="utf-8") as f:
     f.write(json.dumps(data, indent=2))
   
-  print("Indexed files")
+  print(f"Indexed {len(files)} file(s)")
+
+def signal_handler(sig, frame):
+  print("SIGINT detected, exiting after current program finishes downloading...")
+  stop_flag.set()
+
+signal.signal(signal.SIGINT, signal_handler)
 
 def main() -> int:
   parser = argparse.ArgumentParser()
@@ -30,15 +41,18 @@ def main() -> int:
   
   print(f"Generating data for {len(codes)} program(s)")
 
+  generated = 0
   start = time.time()
 
-  for semester in codes:
-    get_program(semester)
+  for i, semester in enumerate(codes):
+    if not stop_flag.is_set():
+      get_program(semester, i)
+      generated += 1
 
   index_files()
 
   end = time.time() - start
-  print(f"Generated data for {len(codes)} program(s) in {int(end)} seconds")
+  print(f"Generated data for {generated}/{len(codes)} programs in {int(end)} seconds")
 
   return 0
 

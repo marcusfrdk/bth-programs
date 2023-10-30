@@ -2,7 +2,7 @@ import json
 import os
 import re
 import requests
-import time
+import signal
 from bs4 import BeautifulSoup
 from datetime import datetime
 from threading import Thread
@@ -76,8 +76,8 @@ def is_private(soup: BeautifulSoup) -> bool:
   except AttributeError:
     return False
 
-def get_program(code: str) -> None:
-  print(f"=== Getting '{code}' ===")
+def get_program(code: str, i: int) -> None:
+  print(f"=== Getting '{code}' ({i + 1}) ===")
 
   program_url = f"https://edu.bth.se/utbildning/utb_program.asp?PtKod={code}&lang=sv"
   

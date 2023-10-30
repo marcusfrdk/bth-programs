@@ -1,0 +1,1375 @@
+{
+  "code": "DVACD17h",
+  "name": "Civilingenj\u00f6r i dators\u00e4kerhet ",
+  "location": "Karlskrona",
+  "place": "Campus",
+  "speed": 100,
+  "time_of_day": "Dag",
+  "points": 300.0,
+  "teacher": "Anton Borg",
+  "url": "utb_kurstillfalle.asp?KtTermin=20202&KtAnmKod=BRNLP&lang=sv&parentPtKod=DVACD17h",
+  "program_plan": "https://edu.bth.se/utbildningsplaner/DVACD_ht-17.pdf",
+  "start": "201734",
+  "end": "202224",
+  "generated": "2023-10-30 09:38:46.146717",
+  "courses": [
+    {
+      "name": "Digitalteknik",
+      "code": "ET1471",
+      "description": "Syftet med kursen \u00e4r att studenten skall utveckla grundl\u00e4ggande kunskaper och f\u00e4rdigheter i analys och syntes av digitala kretsar. S\u00e5dana kunskaper \u00e4r n\u00f6dv\u00e4ndiga f\u00f6r att kunna arbeta professionellt som ingenj\u00f6r med anknytning till omr\u00e5dena elektroteknik och datateknik.",
+      "requirements": "Omr\u00e5desbeh\u00f6righet 9: Matematik E, Fysik B. (Kemi A kr\u00e4vs ej)eller omr\u00e5desbeh\u00f6righet A9: Matematik 4, Fysik 2. (Kemi 1 kr\u00e4vs ej).",
+      "is_optional": true,
+      "has_requirements": false,
+      "place": "Campus",
+      "time_of_day": "Dag",
+      "speed": 50,
+      "course_page": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20172&KtAnmKod=T0002486&lang=sv&parentPtKod=DVACD17h",
+      "start": "201735",
+      "end": "201743",
+      "semester": 1,
+      "study_plan": "utb_kursplan.asp?kurskod=ET1471&revisionsnr=5&format=pdf",
+      "location": "Karlskrona",
+      "languages": [
+        "svenska"
+      ],
+      "points": 6.0,
+      "teachers": [
+        "Mikael \u00c5sman"
+      ]
+    },
+    {
+      "name": "Matematik grundkurs",
+      "code": "MA1480",
+      "description": "Kursens syfte \u00e4r att ge en introduktion till matematikstudier p\u00e5 universitetsniv\u00e5. Kursen genomsyras av ett unders\u00f6kande matematiskt arbetss\u00e4tt via probleml\u00f6sningsaktiviteter. I kursen ing\u00e5r studieteknik d\u00e4r studenten tr\u00e4nas i att reflektera \u00f6ver sitt eget arbetss\u00e4tt och studieuppl\u00e4gg i matematik.",
+      "requirements": "Omr\u00e5desbeh\u00f6righet A9: Matematik 4, Fysik 2 (Kemi 1 kr\u00e4vs ej). Eller: Omr\u00e5desbeh\u00f6righet 9: Matematik E, Fysik B (Kemi kurs A kr\u00e4vs ej).",
+      "is_optional": true,
+      "has_requirements": false,
+      "place": "Campus",
+      "time_of_day": "Dag",
+      "speed": 50,
+      "course_page": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20172&KtAnmKod=T0002343&lang=sv&parentPtKod=DVACD17h",
+      "start": "201735",
+      "end": "201743",
+      "semester": 1,
+      "study_plan": "utb_kursplan.asp?kurskod=MA1480&revisionsnr=2&format=pdf",
+      "location": "Karlskrona",
+      "languages": [
+        "svenska"
+      ],
+      "points": 4.0,
+      "teachers": [
+        "Robert Nyqvist",
+        "Linda Mattsson"
+      ]
+    },
+    {
+      "name": "Introduktion till s\u00e4kerhet",
+      "code": "DV1496",
+      "description": "Kursens syfte \u00e4r att studenter ska f\u00e5 en introduktion till datas\u00e4kerhet samt s\u00e4kerhet i allm\u00e4nhet.Kursen uppl\u00e4gg syftar till f\u00f6rmedla b\u00e5de teori och praktik baserat p\u00e5 aktuella hot- och riskanalyser i dagens IT-samh\u00e4lle samt p\u00e5 s\u00e4kerhetsl\u00f6sningar som erbjuds.",
+      "requirements": "Grundl\u00e4ggande beh\u00f6righet.",
+      "is_optional": true,
+      "has_requirements": false,
+      "place": "Campus",
+      "time_of_day": "Dag",
+      "speed": 50,
+      "course_page": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20172&KtAnmKod=T0002487&lang=sv&parentPtKod=DVACD17h",
+      "start": "201735",
+      "end": "201743",
+      "semester": 1,
+      "study_plan": "utb_kursplan.asp?kurskod=DV1496&revisionsnr=5&format=pdf",
+      "location": "Karlskrona",
+      "languages": [
+        "svenska"
+      ],
+      "points": 4.0,
+      "teachers": [
+        "Fredrik Erlandsson"
+      ]
+    },
+    {
+      "name": "Forskningsorientering i s\u00e4kerhet",
+      "code": "DV1495",
+      "description": "Syftet med kursen \u00e4r att studenten skaffar sig en \u00f6verblick \u00f6ver forskningsomr\u00e5den relaterade till dators\u00e4kerhet. Studenten f\u00e5r tillf\u00e4llen att tr\u00e4ffa forskare verksamma inom programmets inriktning.",
+      "requirements": "Grundl\u00e4ggande beh\u00f6righet.",
+      "is_optional": true,
+      "has_requirements": false,
+      "place": "Campus",
+      "time_of_day": "Dag",
+      "speed": 50,
+      "course_page": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20172&KtAnmKod=T0002634&lang=sv&parentPtKod=DVACD17h",
+      "start": "201735",
+      "end": "201802",
+      "semester": 1,
+      "study_plan": "utb_kursplan.asp?kurskod=DV1495&revisionsnr=6&format=pdf",
+      "location": "Karlskrona",
+      "languages": [
+        "svenska"
+      ],
+      "points": 2.0,
+      "teachers": [
+        "Anton Borg"
+      ]
+    },
+    {
+      "name": "Analys 1",
+      "code": "MA1444",
+      "description": "Kursen syftar till att studenten skall skaffa sig grundl\u00e4ggande f\u00f6rst\u00e5else f\u00f6r matematisk analys i en variabel med till\u00e4mpningar inom framf\u00f6r allt tekniska \u00e4mnesomr\u00e5den.",
+      "requirements": "Omr\u00e5desbeh\u00f6righet 9: Matematik E, Fysik B. (Kemi A kr\u00e4vs ej)eller omr\u00e5desbeh\u00f6righet A9: Matematik 4, Fysik 2. (Kemi 1 kr\u00e4vs ej).",
+      "is_optional": true,
+      "has_requirements": false,
+      "place": "Campus",
+      "time_of_day": "Dag",
+      "speed": 50,
+      "course_page": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20172&KtAnmKod=T0002317&lang=sv&parentPtKod=DVACD17h",
+      "start": "201744",
+      "end": "201802",
+      "semester": 2,
+      "study_plan": "utb_kursplan.asp?kurskod=MA1444&revisionsnr=8&format=pdf",
+      "location": "Karlskrona",
+      "languages": [
+        "svenska"
+      ],
+      "points": 6.0,
+      "teachers": [
+        "H\u00e5kan Lennerstad"
+      ]
+    },
+    {
+      "name": "Inledande programmering i C",
+      "code": "DV1550",
+      "description": "Programmering ligger till grund f\u00f6r det mesta som h\u00f6r till till\u00e4mpad IT. Syftet med kursen \u00e4r att ge en student, som inte har n\u00e5gon tidigare erfarenhet av programmering, en introduktion till probleml\u00f6sning och programmering i programspr\u00e5ket C.",
+      "requirements": "Grundl\u00e4ggande beh\u00f6righet.",
+      "is_optional": true,
+      "has_requirements": false,
+      "place": "Campus",
+      "time_of_day": "Dag",
+      "speed": 50,
+      "course_page": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20172&KtAnmKod=T0002409&lang=sv&parentPtKod=DVACD17h",
+      "start": "201744",
+      "end": "201802",
+      "semester": 2,
+      "study_plan": "utb_kursplan.asp?kurskod=DV1550&revisionsnr=3,1&format=pdf",
+      "location": "Karlskrona",
+      "languages": [
+        "svenska"
+      ],
+      "points": 8.0,
+      "teachers": [
+        "Carina Nilsson"
+      ]
+    },
+    {
+      "name": "Programmering i C++",
+      "code": "DV1497",
+      "description": "Syftet med kursen \u00e4r kunskap i objektorienterad programmering, dels f\u00f6r fortsatta studier inom datavetenskap, dels f\u00f6r att kunna l\u00f6sa generella programmerings-uppgifter i arbetslivet. Som verktyg i kursen anv\u00e4nds C++.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngen kurs Inledande programmering i C, 8 hp.",
+      "is_optional": true,
+      "has_requirements": false,
+      "place": "Campus",
+      "time_of_day": "Dag",
+      "speed": 50,
+      "course_page": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20181&KtAnmKod=T0002411&lang=sv&parentPtKod=DVACD17h",
+      "start": "201803",
+      "end": "201812",
+      "semester": 3,
+      "study_plan": "utb_kursplan.asp?kurskod=DV1497&revisionsnr=6,1&format=pdf",
+      "location": "Karlskrona",
+      "languages": [
+        "svenska"
+      ],
+      "points": 8.0,
+      "teachers": [
+        "Cuong Phung",
+        "H\u00e5kan Grahn",
+        "L\u00e4rare",
+        "Lars Lundberg",
+        "Mats-Ola Landbris",
+        "Pedher Johansson",
+        "Betty Bergqvist",
+        "Carina Nilsson"
+      ]
+    },
+    {
+      "name": "Teknisk kommunikation",
+      "code": "SV1406",
+      "description": "Syftet \u00e4r att studenten ska utveckla sin f\u00f6rm\u00e5ga i presentationsteknik och att kommunicera tekniskt inneh\u00e5ll skriftligen och muntligen p\u00e5 ett vetenskapligt s\u00e4tt. Studenten ska tr\u00e4na sin f\u00f6rm\u00e5ga att skriva referat, s\u00f6ka, samla och v\u00e4rdera relevant information, formulera en problemst\u00e4llning, och hantera referenser i en vetenskaplig rapport.",
+      "requirements": "Genomg\u00e5ngna 30 hp vid en ingenj\u00f6rsutbildning.",
+      "is_optional": true,
+      "has_requirements": false,
+      "place": "Campus",
+      "time_of_day": "Dag",
+      "speed": 50,
+      "course_page": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20181&KtAnmKod=T0002319&lang=sv&parentPtKod=DVACD17h",
+      "start": "201803",
+      "end": "201822",
+      "semester": 3,
+      "study_plan": "utb_kursplan.asp?kurskod=SV1406&revisionsnr=4&format=pdf",
+      "location": "Karlskrona",
+      "languages": [
+        "svenska"
+      ],
+      "points": 4.0,
+      "teachers": [
+        "Gunilla \u00c5kesson Nilsson"
+      ]
+    },
+    {
+      "name": "Analys 2",
+      "code": "MA1445",
+      "description": "Kursen syftar till att studenten skall skaffa sig grundl\u00e4ggande f\u00f6rst\u00e5else f\u00f6r matematisk analys i en variabel med till\u00e4mpningar inom framf\u00f6r allt tekniska \u00e4mnesomr\u00e5den.",
+      "requirements": "Genomg\u00e5ngen kurs MA1444 Analys 1, 6 hp.",
+      "is_optional": true,
+      "has_requirements": false,
+      "place": "Campus",
+      "time_of_day": "Dag",
+      "speed": 50,
+      "course_page": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20181&KtAnmKod=T0002323&lang=sv&parentPtKod=DVACD17h",
+      "start": "201803",
+      "end": "201812",
+      "semester": 3,
+      "study_plan": "utb_kursplan.asp?kurskod=MA1445&revisionsnr=8&format=pdf",
+      "location": "Karlskrona",
+      "languages": [
+        "svenska"
+      ],
+      "points": 6.0,
+      "teachers": [
+        "Mattias Eriksson"
+      ]
+    },
+    {
+      "name": "Linj\u00e4r algebra 1",
+      "code": "MA1448",
+      "description": "Kursen syftar till att deltagarna inh\u00e4mtar de grundl\u00e4ggande kunskaper inom linj\u00e4r algebra som fordras inom tekniska utbildningsprogram.",
+      "requirements": "Omr\u00e5desbeh\u00f6righet 9: Matematik E, Fysik B. (Kemi A kr\u00e4vs ej)eller omr\u00e5desbeh\u00f6righet A9: Matematik 4, Fysik 2. (Kemi 1 kr\u00e4vs ej).",
+      "is_optional": true,
+      "has_requirements": false,
+      "place": "Campus",
+      "time_of_day": "Dag",
+      "speed": 50,
+      "course_page": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20181&KtAnmKod=T0002412&lang=sv&parentPtKod=DVACD17h",
+      "start": "201813",
+      "end": "201822",
+      "semester": 4,
+      "study_plan": "utb_kursplan.asp?kurskod=MA1448&revisionsnr=7&format=pdf",
+      "location": "Karlskrona",
+      "languages": [
+        "svenska"
+      ],
+      "points": 6.0,
+      "teachers": [
+        "Malin Bernelf",
+        "Raisa Khamitova"
+      ]
+    },
+    {
+      "name": "Algoritmer och datastrukturer",
+      "code": "DV1490",
+      "description": "Kursens syfte \u00e4r att ge en introduktion till algoritmer och datastrukturer n\u00e4r det g\u00e4ller s\u00e5v\u00e4l teoretiska aspekter som implementeringsaspekter.",
+      "requirements": "Kursens f\u00f6rkunskapskrav \u00e4r 6 hp programmering.",
+      "is_optional": false,
+      "has_requirements": false,
+      "place": "Campus",
+      "time_of_day": "Dag",
+      "speed": 50,
+      "course_page": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20181&KtAnmKod=T0000305&lang=sv&parentPtKod=DVACD17h",
+      "start": "201813",
+      "end": "201822",
+      "semester": 4,
+      "study_plan": "utb_kursplan.asp?kurskod=DV1490&revisionsnr=5&format=pdf",
+      "location": "Karlskrona",
+      "languages": [
+        "svenska"
+      ],
+      "points": 6.0,
+      "teachers": [
+        "H\u00e5kan Grahn",
+        "Johanna T\u00f6rnquist Krasemann"
+      ]
+    },
+    {
+      "name": "Matematisk statistik",
+      "code": "MS1405",
+      "description": "Kursens syfte \u00e4r att studenterna skall skaffa sig kunskaper i s\u00e5v\u00e4l sannolikhetsteori som statistisk teori och metodik. Tonvikten ligger p\u00e5 sannolikhetsteori med tekniska till\u00e4mpningar som grund f\u00f6r fortsatta studier i tekniska \u00e4mnen, t.ex. tillf\u00f6rlitlighetsteknik, signalbehandling och telekommunikation samt \u00e4ven ekonomi.",
+      "requirements": "Genomg\u00e5ngna kurser i Analys 12 hp samt Linj\u00e4r algebra 6 hp (eller motsvarande).",
+      "is_optional": true,
+      "has_requirements": false,
+      "place": "Campus",
+      "time_of_day": "Dag",
+      "speed": 50,
+      "course_page": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20182&KtAnmKod=RK161&lang=sv&parentPtKod=DVACD17h",
+      "start": "201836",
+      "end": "201844",
+      "semester": 1,
+      "study_plan": "utb_kursplan.asp?kurskod=MS1405&revisionsnr=5&format=pdf",
+      "location": "Karlskrona",
+      "languages": [
+        "svenska"
+      ],
+      "points": 6.0,
+      "teachers": [
+        "Mattias Dahl",
+        "Claes Jogr\u00e9us"
+      ]
+    },
+    {
+      "name": "Diskret matematik",
+      "code": "MA1446",
+      "description": "Kursens syfte \u00e4r att ge en introduktion till matematiska begrepp, metoder och problemst\u00e4llningar inom diskret matematik. Den diskreta matematiken utg\u00f6r en viktig bas f\u00f6r studier inom datavetenskap och m\u00e5nga digitala till\u00e4mpningsomr\u00e5den.",
+      "requirements": "Kursens f\u00f6rkunskapskrav \u00e4r grundl\u00e4ggande beh\u00f6righet samt omr\u00e5desbeh\u00f6righet 9: Fysik B, Kemi A och Matematik E. Genomg\u00e5ngna kurser MA1450 Matematik, grundkurs och MA1448 Linj\u00e4r algebra 1 eller motsvarande.",
+      "is_optional": true,
+      "has_requirements": false,
+      "place": "Campus",
+      "time_of_day": "Dag",
+      "speed": 50,
+      "course_page": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20182&KtAnmKod=RK616&lang=sv&parentPtKod=DVACD17h",
+      "start": "201836",
+      "end": "201844",
+      "semester": 1,
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=MA1446&revision=7,1&lang=sv",
+      "location": "Karlskrona",
+      "languages": [
+        "svenska"
+      ],
+      "points": 6.0,
+      "teachers": [
+        "Johan \u00d6inert"
+      ]
+    },
+    {
+      "name": "Fysik grundkurs",
+      "code": "FY1420",
+      "description": "Kursens syfte \u00e4r att studenten ska skaffa sig grundl\u00e4ggande kunskaper i mekanik som en bas f\u00f6r fortsatta studier inom ingenj\u00f6rsvetenskap. Studenten tr\u00e4nar ingenj\u00f6rsm\u00e4ssigt modellt\u00e4nkande och f\u00f6rm\u00e5ga till probleml\u00f6sning samt utvecklar sin f\u00f6rst\u00e5else f\u00f6r matematisk modellering av naturen.",
+      "requirements": "Omr\u00e5desbeh\u00f6righet 8: Matematik D, Fysik B (Kemi A kr\u00e4vs ej) eller omr\u00e5desbeh\u00f6righet A8: Matematik 3c, Fysik 2 (Kemi 1 kr\u00e4vs ej).",
+      "is_optional": true,
+      "has_requirements": false,
+      "place": "Campus",
+      "time_of_day": "Kv\u00e4ll",
+      "speed": 50,
+      "course_page": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20182&KtAnmKod=RK828&lang=sv&parentPtKod=DVACD17h",
+      "start": "201836",
+      "end": "201844",
+      "semester": 1,
+      "study_plan": "utb_kursplan.asp?kurskod=FY1420&revisionsnr=5&format=pdf",
+      "location": "Karlskrona",
+      "languages": [
+        "svenska"
+      ],
+      "points": 4.0,
+      "teachers": [
+        "Per Gralvik"
+      ]
+    },
+    {
+      "name": "UNIX och Linux, en \u00f6versikt och introduktion",
+      "code": "DV1563",
+      "description": "Syftet med denna kurs \u00e4r att introducera kommandotolken, grundl\u00e4ggande standardverktyg och kommandon, deras anv\u00e4ndningsomr\u00e5den i UNIX samt att kombinera dessa till st\u00f6rre arbetsfl\u00f6den.",
+      "requirements": "Grundl\u00e4ggande beh\u00f6righet.",
+      "is_optional": true,
+      "has_requirements": false,
+      "place": "Campus",
+      "time_of_day": "Dag",
+      "speed": 50,
+      "course_page": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20182&KtAnmKod=RK069&lang=sv&parentPtKod=DVACD17h",
+      "start": "201845",
+      "end": "201903",
+      "semester": 2,
+      "study_plan": "utb_kursplan.asp?kurskod=DV1563&revisionsnr=2,1&format=pdf",
+      "location": "Karlskrona",
+      "languages": [
+        "engelska"
+      ],
+      "points": 6.0,
+      "teachers": [
+        "Andrew Moss"
+      ]
+    },
+    {
+      "name": "Kryptering 1",
+      "code": "MA1473",
+      "description": "Kursen ska ge studenten de grundl\u00e4ggande matematiska principerna f\u00f6r olika krypteringsmetoder. Kursdeltagaren ska erh\u00e5lla f\u00f6rst\u00e5else f\u00f6r hur man implementerar olika kryptosystem samt k\u00e4nda styrkor och svagheter hos dessa.",
+      "requirements": "Genomg\u00e5ngen kurs i Diskret matematik och genomg\u00e5ngen kurs i Matematisk statistik.",
+      "is_optional": true,
+      "has_requirements": false,
+      "place": "Campus",
+      "time_of_day": "Dag",
+      "speed": 50,
+      "course_page": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20182&KtAnmKod=RK734&lang=sv&parentPtKod=DVACD17h",
+      "start": "201845",
+      "end": "201903",
+      "semester": 2,
+      "study_plan": "utb_kursplan.asp?kurskod=MA1473&revisionsnr=4&format=pdf",
+      "location": "Karlskrona",
+      "languages": [
+        "svenska"
+      ],
+      "points": 8.0,
+      "teachers": [
+        "Robert Nyqvist"
+      ]
+    },
+    {
+      "name": "Datakommunikation och n\u00e4tverksteknik",
+      "code": "DV1589",
+      "description": "Kursen syftar till grundl\u00e4ggande teoretiska och praktiska kunskaper inom datakommunikation och n\u00e4tverk. Detta omfattar olika metoder och protokoll som anv\u00e4nds i b\u00e5de sm\u00e5 och st\u00f6rre lokala n\u00e4tverk. Vidare syftar kursen till f\u00f6rst\u00e5else f\u00f6r protokoll och teknologier som anv\u00e4nds i olika typer av WAN (Wide Area Network).",
+      "requirements": "Grundl\u00e4ggande beh\u00f6righet.",
+      "is_optional": true,
+      "has_requirements": false,
+      "place": "Campus",
+      "time_of_day": "Dag",
+      "speed": 50,
+      "course_page": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20191&KtAnmKod=RQ021&lang=sv&parentPtKod=DVACD17h",
+      "start": "201904",
+      "end": "201923",
+      "semester": 3,
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=DV1589&revision=1&lang=sv",
+      "location": "Karlskrona",
+      "languages": [
+        "svenska"
+      ],
+      "points": 12.0,
+      "teachers": [
+        "Anders Nelsson"
+      ]
+    },
+    {
+      "name": "Kryptering 2",
+      "code": "MA1453",
+      "description": "Kursens syfte \u00e4r att ge en f\u00f6rdjupad f\u00f6rst\u00e5else f\u00f6r de matematiska principerna bakom modern kryptering, s\u00e4kerhetsprotokoll och forceringsmetoder.",
+      "requirements": "Grundl\u00e4ggande kurs i kryptering om minst 8 hp exempelvis MA1432 eller MA1452 ska vara genomg\u00e5ngen.",
+      "is_optional": true,
+      "has_requirements": false,
+      "place": "Campus",
+      "time_of_day": "Dag",
+      "speed": 50,
+      "course_page": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20191&KtAnmKod=RQ595&lang=sv&parentPtKod=DVACD17h",
+      "start": "201904",
+      "end": "201913",
+      "semester": 3,
+      "study_plan": "utb_kursplan.asp?kurskod=MA1453&revisionsnr=6&format=pdf",
+      "location": "Karlskrona",
+      "languages": [
+        "svenska"
+      ],
+      "points": 6.0,
+      "teachers": [
+        "Robert Nyqvist"
+      ]
+    },
+    {
+      "name": "Databasteknik",
+      "code": "DV1587",
+      "description": "Syftet med kursen \u00e4r att studenten ska f\u00f6rst\u00e5 och l\u00e4ra sig modellera och implementera en databas och dess applikationer.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att studenten har avklarat 6hp i programmering.",
+      "is_optional": true,
+      "has_requirements": true,
+      "place": "Campus",
+      "time_of_day": "Dag",
+      "speed": 50,
+      "course_page": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20191&KtAnmKod=RQ269&lang=sv&parentPtKod=DVACD17h",
+      "start": "201914",
+      "end": "201923",
+      "semester": 4,
+      "study_plan": "utb_kursplan.asp?kurskod=DV1587&revisionsnr=2&format=pdf",
+      "location": "Karlskrona",
+      "languages": [
+        "svenska"
+      ],
+      "points": 6.0,
+      "teachers": [
+        "Fredrik Erlandsson"
+      ]
+    },
+    {
+      "name": "Datorteknik",
+      "code": "DV1493",
+      "description": "Kursen syftar till att ge en introduktion till hur ett datorsystem fungerar p\u00e5 maskinspr\u00e5ksniv\u00e5. Det \u00e4r viktigt att ha k\u00e4nnedom om de tekniska f\u00f6ruts\u00e4ttningarna i en dator n\u00e4r man arbetar med programmering. Kursen syftar till att ge en ut\u00f6kad f\u00f6rst\u00e5else kring datorns logiska funktion p\u00e5 l\u00e5g niv\u00e5 f\u00f6r att l\u00e4ttare kunna f\u00f6rst\u00e5 och hantera datorn \u00e4ven n\u00e4r man anv\u00e4nder h\u00f6gniv\u00e5spr\u00e5k.",
+      "requirements": "Programmering eller algoritmer och datastrukturer, 16 hp.",
+      "is_optional": true,
+      "has_requirements": false,
+      "place": "Campus",
+      "time_of_day": "Dag",
+      "speed": 50,
+      "course_page": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20191&KtAnmKod=RQ524&lang=sv&parentPtKod=DVACD17h",
+      "start": "201914",
+      "end": "201923",
+      "semester": 4,
+      "study_plan": "utb_kursplan.asp?kurskod=DV1493&revisionsnr=5,1&format=pdf",
+      "location": "Karlskrona",
+      "languages": [
+        "svenska"
+      ],
+      "points": 6.0,
+      "teachers": [
+        "Mikael \u00c5sman"
+      ]
+    },
+    {
+      "name": "N\u00e4tverkss\u00e4kerhet 1",
+      "code": "DV1590",
+      "description": "Syftet med kursen \u00e4r att utveckla en f\u00f6rst\u00e5else f\u00f6r s\u00e4kerhetsprinciper, f\u00f6r att d\u00e4rigenom kunna bygga s\u00e4krare n\u00e4tverk. F\u00f6r att n\u00e5 en bred f\u00f6rst\u00e5else av omr\u00e5det syftar kursen vidare till kunskap om n\u00e4tverkss\u00e4kerhetskoncept och olika typer av attacker, samt konfigurering av verktyg och enheter f\u00f6r s\u00e4krare n\u00e4tverkskommunikation.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser i ''Dators\u00e4kerhet och ingenj\u00f6rsarbete'' 6 hp eller ''Introduktion till s\u00e4kerhet'' 4 hp. D\u00e4rut\u00f6ver kr\u00e4vs avklarad kurs Datakommunikation och n\u00e4tverksteknik 6 hp.",
+      "is_optional": true,
+      "has_requirements": true,
+      "place": "Campus",
+      "time_of_day": "Dag",
+      "speed": 50,
+      "course_page": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20192&KtAnmKod=B4JGC&lang=sv&parentPtKod=DVACD17h",
+      "start": "201936",
+      "end": "201944",
+      "semester": 1,
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=DV1590&revision=2&lang=sv",
+      "location": "Karlskrona",
+      "languages": [
+        "svenska"
+      ],
+      "points": 4.0,
+      "teachers": [
+        "Dragos Ilie"
+      ]
+    },
+    {
+      "name": "S\u00e4kerhetsprojekt i grupp, inriktning systemutveckling",
+      "code": "DV1512",
+      "description": "F\u00f6rm\u00e5gan att utveckla datorbaserade system som m\u00f6ter eller bef\u00e4ster s\u00e4kerhetskraven som st\u00e4lls \u00e4r en central och viktig del i varje system. Detta kr\u00e4ver kunskap om de olika modeller som finns f\u00f6r b\u00e5de systemutveckling och modeller kring att s\u00e4kra dessa system. Kursen syftar till att ge studenten grundl\u00e4ggande kunskap om hur utveckling av programvarusystem g\u00e5r till. Genom utveckling av ett mindre system, eller st\u00f6dsystem, inom s\u00e4kerhetsomr\u00e5det i mindre arbetsteam till\u00e4mpas kunskaperna om hur utveckling av programvarusystem sker. Kursen behandlar ocks\u00e5 begreppet s\u00e4kerhet av ett system fr\u00e5n perspektivet programvaruutveckling.",
+      "requirements": "Avklarat kurser i programmering om minst 15 h\u00f6gskolepo\u00e4ng, algoritmer och datastrukturer om minst 6 h\u00f6gskolepo\u00e4ng, s\u00e4kerhet om minst 4 h\u00f6gskolepo\u00e4ng samt kryptering om minst 6 h\u00f6gskolepo\u00e4ng. Genomg\u00e5tt kurser omfattande f\u00f6ljande omr\u00e5den; datakommunikation, n\u00e4tverksteknik, realtidssystem, operativsystem och datorteknik.",
+      "is_optional": true,
+      "has_requirements": false,
+      "place": "Campus",
+      "time_of_day": "Dag",
+      "speed": 50,
+      "course_page": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20192&KtAnmKod=B94QT&lang=sv&parentPtKod=DVACD17h",
+      "start": "201936",
+      "end": "202003",
+      "semester": 1,
+      "study_plan": "utb_kursplan.asp?kurskod=DV1512&revisionsnr=5&format=pdf",
+      "location": "Karlskrona",
+      "languages": [
+        "svenska"
+      ],
+      "points": 8.0,
+      "teachers": [
+        "Nina Dzamashvili Fogelstr\u00f6m"
+      ]
+    },
+    {
+      "name": "Realtid- och operativsystem",
+      "code": "DV1602",
+      "description": "Ett operativsystem utg\u00f6r gr\u00e4nssnittet mellan mjukvaruapplikationer och h\u00e5rdvara b\u00e5de i traditionella datorsystem och mobila enheter s\u00e5som moderna mobiltelefoner. Operativsystemet hanterar och f\u00f6rdelar datorsystemets resurser och p\u00e5verkar d\u00e4rf\u00f6r alla mjukvaruapplikationers prestanda. Det \u00e4r d\u00e4rf\u00f6r n\u00f6dv\u00e4ndigt att mjukvaruutvecklare har god f\u00f6rst\u00e5else f\u00f6r hur ett operativsystem fungerar.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs 18 hp i datastrukturer och algoritmer och fr\u00e5n moment i programmeringskurservarav totalt 12 hp ska vara avklarade.",
+      "is_optional": true,
+      "has_requirements": true,
+      "place": "Campus",
+      "time_of_day": "Dag",
+      "speed": 50,
+      "course_page": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20192&KtAnmKod=BGTYT&lang=sv&parentPtKod=DVACD17h",
+      "start": "201936",
+      "end": "201944",
+      "semester": 1,
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=DV1602&revision=2&lang=sv",
+      "location": "Karlskrona",
+      "languages": [
+        "engelska"
+      ],
+      "points": 6.0,
+      "teachers": [
+        "Carl S\u00f6yseth"
+      ]
+    },
+    {
+      "name": "H\u00e5llbarhetsgrunder",
+      "code": "SL1407",
+      "description": "Syftet med kursen \u00e4r att studenterna skall f\u00e5:  Grundl\u00e4ggande kunskap om h\u00e5llbar utveckling, inkluderande samh\u00e4llets h\u00e5llbarhetsutmaningar och grundl\u00e4ggande orsaker till dessa liksom hur regeringar, f\u00f6retag och enskilda kan arbeta strategiskt med dessa utmaningar och relaterade m\u00f6jligheter f\u00f6r att bidra till en h\u00e5llbar samh\u00e4llsutveckling. \u00d6verblick \u00f6ver vanligen anv\u00e4nda begrepp, metoder och verktyg inom h\u00e5llbarhetsomr\u00e5det och f\u00f6rst\u00e5else f\u00f6r hur dessa kan struktureras och anv\u00e4ndas p\u00e5 ett koordinerat s\u00e4tt.F\u00f6rst\u00e5else f\u00f6r hur olika \u00e4mnesomr\u00e5den och professioner kan bidra till h\u00e5llbar samh\u00e4llsutveckling.",
+      "requirements": "Grundl\u00e4ggande beh\u00f6righet.",
+      "is_optional": true,
+      "has_requirements": false,
+      "place": "Campus",
+      "time_of_day": "Dag",
+      "speed": 50,
+      "course_page": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20192&KtAnmKod=B997A&lang=sv&parentPtKod=DVACD17h",
+      "start": "201945",
+      "end": "202003",
+      "semester": 2,
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=SL1407&revision=2&lang=sv",
+      "location": "Karlskrona",
+      "languages": [
+        "svenska"
+      ],
+      "points": 6.0,
+      "teachers": [
+        "Sophie Hallstedt",
+        "Cecilia Bratt"
+      ]
+    },
+    {
+      "name": "Fysik f\u00f6r ingenj\u00f6rer 2",
+      "code": "FY1423",
+      "description": "Efter kursen ska studenterna ha f\u00f6rst\u00e5else f\u00f6r d\u00e4mpad och tvungen sv\u00e4ngning samt v\u00e5gnaturen hos ljud och ljus. Studenterna ska ocks\u00e5 kunna r\u00e4kna p\u00e5 effekter av ljudets och ljusets v\u00e5gnatur som interferens och dopplerskift. Vidare ska studenterna ha bekantat sig med k\u00e4rnfysikaliska effekter som spelar roll f\u00f6r samh\u00e4llet som fission, fusion och str\u00e5lning.",
+      "requirements": "Avklarade kurser: Analys 1 (MA1444), Fysik Grundkurs (FY1422). Genomg\u00e5ngen kurs: Analys 2 (MA1445).",
+      "is_optional": true,
+      "has_requirements": false,
+      "place": "Campus",
+      "time_of_day": "Dag",
+      "speed": 50,
+      "course_page": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20192&KtAnmKod=BKL3P&lang=sv&parentPtKod=DVACD17h",
+      "start": "201945",
+      "end": "202003",
+      "semester": 2,
+      "study_plan": "utb_kursplan.asp?kurskod=FY1423&revisionsnr=3&format=pdf",
+      "location": "Karlskrona",
+      "languages": [
+        "svenska"
+      ],
+      "points": 6.0,
+      "teachers": [
+        "Mattias Eriksson"
+      ]
+    },
+    {
+      "name": "Ledarskap och projektverksamhet",
+      "code": "IY1424",
+      "description": "Kursen syftar till att studenten ska f\u00f6rv\u00e4rva grundl\u00e4ggande kunskap, f\u00f6rst\u00e5else, f\u00e4rdighet, f\u00f6rm\u00e5ga och f\u00f6rh\u00e5llningss\u00e4tt inom ledarskap och projektverksamhet.",
+      "requirements": "Grundl\u00e4ggande beh\u00f6righet.",
+      "is_optional": true,
+      "has_requirements": false,
+      "place": "Campus",
+      "time_of_day": "Dag",
+      "speed": 50,
+      "course_page": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20201&KtAnmKod=BXTJA&lang=sv&parentPtKod=DVACD17h",
+      "start": "202004",
+      "end": "202013",
+      "semester": 3,
+      "study_plan": "utb_kursplan.asp?kurskod=IY1424&revisionsnr=5&format=pdf",
+      "location": "Karlskrona",
+      "languages": [
+        "svenska"
+      ],
+      "points": 4.0,
+      "teachers": [
+        "Philippe Rouchy"
+      ]
+    },
+    {
+      "name": "N\u00e4tverkss\u00e4kerhet 2",
+      "code": "DV1591",
+      "description": "Syftet med kursen \u00e4r att ge studenten m\u00f6jlighet att praktiskt analysera och experimentera med olika n\u00e4tverkss\u00e4kerhetsproblem i en kontrollerad milj\u00f6. Under kursen kommer studenten till\u00e4gna sig b\u00e5de teoretiska och praktiska kunskaper om olika typer av avancerade s\u00e4kerhetsproblem relaterade till n\u00e4tverksbaserad kommunikation. Kursen fokuserar p\u00e5 praktiska moment, d\u00e4r studenten tr\u00e4nas i att analysera och hantera k\u00e4nda designm\u00e4ssiga fel i n\u00e4tverkss\u00e4kerhetsprotokoll. Under dessa praktiska moment f\u00f6rdjupar studenten f\u00f6rst\u00e5elsen av de teorier som behandlats och diskuterats.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarad kurs i N\u00e4tverks\u00e4kerhet 1, 4 hp, Programmering, 6 hp, Programmering i C++ 6 hp. Genomg\u00e5ngen kurs i Kryptering, 8 hp.",
+      "is_optional": true,
+      "has_requirements": true,
+      "place": "Campus",
+      "time_of_day": "Dag",
+      "speed": 50,
+      "course_page": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20201&KtAnmKod=BP9DD&lang=sv&parentPtKod=DVACD17h",
+      "start": "202004",
+      "end": "202013",
+      "semester": 3,
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=DV1591&revision=2&lang=sv",
+      "location": "Karlskrona",
+      "languages": [
+        "svenska"
+      ],
+      "points": 4.0,
+      "teachers": [
+        "Anders Carlsson",
+        "Anders Nelsson"
+      ]
+    },
+    {
+      "name": "Kompilator- och \u00f6vers\u00e4ttarteknik",
+      "code": "DV1585",
+      "description": "Syftet med denna kurs \u00e4r att studenterna ska l\u00e4ra sig hur man skriver en kompilator. En kompilator best\u00e5r av tre delar: parsning, tolkning (interpretering) och kodgenerering. Parsning \u00e4r anv\u00e4ndbart bland annat i samband med att man l\u00e4ser och skriver olika filformat. Kunskap om interpretering \u00f6kar f\u00f6rst\u00e5elsen f\u00f6r semantiken i programmeringsspr\u00e5k, till exempel n\u00e4r man beh\u00f6ver f\u00f6rst\u00e5 specifikationen till programmeringsspr\u00e5ket C++. Kunskap om kodgenerering hj\u00e4lper programmeraren f\u00f6rst\u00e5 hur olika konstruktioner i ett h\u00f6gniv\u00e5spr\u00e5k motsvarar exekverbar l\u00e5gniv\u00e5kod. God f\u00f6rst\u00e5else av vilken l\u00e5gniv\u00e5kod som genereras \u00e4r viktigt vid fels\u00f6kning (debugging) och prestandaoptimering, samt vid s\u00e5 kallad reverse-engineering av exekveringsfl\u00f6det i ett program, vilket bland annat beh\u00f6vs f\u00f6r att analysera skadliga program (malware).",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen ska studenten har avklarat 22 h\u00f6gskolepo\u00e4ng i programmering inklusive datastrukturer och algoritmer.",
+      "is_optional": true,
+      "has_requirements": true,
+      "place": "Campus",
+      "time_of_day": "Dag",
+      "speed": 50,
+      "course_page": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20201&KtAnmKod=BY6WC&lang=sv&parentPtKod=DVACD17h",
+      "start": "202004",
+      "end": "202013",
+      "semester": 3,
+      "study_plan": "utb_kursplan.asp?kurskod=DV1585&revisionsnr=3&format=pdf",
+      "location": "Karlskrona",
+      "languages": [
+        "engelska"
+      ],
+      "points": 6.0,
+      "teachers": [
+        "Suejb Memeti",
+        "Lars Lundberg"
+      ]
+    },
+    {
+      "name": "Digital unders\u00f6kningsteknik och digitala bevis",
+      "code": "DV1592",
+      "description": "Mer och mer information hanteras av IT-system, information som kan vara b\u00e5de k\u00e4nslig och hemlig. Obeh\u00f6riga anv\u00e4ndare som g\u00f6r intr\u00e5ng i IT-system l\u00e4mnar sp\u00e5r efter sig, oavsett om det \u00e4r personer, virus eller annan skadlig programvara. F\u00f6r s\u00e4kerhetsadministrat\u00f6rer och polis \u00e4r det viktigt att hitta och s\u00e4kra dessa sp\u00e5r som ett led i bevisf\u00f6ringen och f\u00f6r att i framtiden kunna skydda information. I kursen l\u00e4r sig studenten vilka sp\u00e5r olika program l\u00e4mnar efter sig och var n\u00e5gonstans i datorn eller i n\u00e4tverket dessa sp\u00e5r kan hittas. Studenten l\u00e4r sig ocks\u00e5 hur man praktiskt skyddar system f\u00f6r att f\u00f6rsv\u00e5ra eller om\u00f6jligg\u00f6ra att obeh\u00f6riga kan plocka ut information fr\u00e5n en dator.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngen kurs i N\u00e4tverkss\u00e4kerhet 2, 4 hp eller Till\u00e4mpad n\u00e4tverkss\u00e4kerhet 7,5 hp.",
+      "is_optional": true,
+      "has_requirements": false,
+      "place": "Campus",
+      "time_of_day": "Dag",
+      "speed": 50,
+      "course_page": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20201&KtAnmKod=B79ED&lang=sv&parentPtKod=DVACD17h",
+      "start": "202014",
+      "end": "202023",
+      "semester": 4,
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=DV1592&revision=2&lang=sv",
+      "location": "Karlskrona",
+      "languages": [
+        "svenska"
+      ],
+      "points": 6.0,
+      "teachers": [
+        "Anders Carlsson",
+        "Anders Nelsson"
+      ]
+    },
+    {
+      "name": "Teknikutveckling, digitalisering och samh\u00e4llsf\u00f6r\u00e4ndring",
+      "code": "TE1422",
+      "description": "Kursen syftar till att ge en \u00f6vergripande f\u00f6rst\u00e5else f\u00f6r effekter av teknisk utveckling inom f\u00f6retag, branscher och samh\u00e4llet i stort. Beskrivningen av historiska perspektiv \u00e4r centrala i kursen men tyngdpunkten ligger p\u00e5 modern teknikutveckling, och d\u00e4r framf\u00f6r allt hur digitaliseringen av samh\u00e4llet omvandlar och har p\u00e5verkar f\u00f6retag, arbetsmarknaden, samh\u00e4llet och individen.",
+      "requirements": "Grundl\u00e4ggande beh\u00f6righet.",
+      "is_optional": true,
+      "has_requirements": false,
+      "place": "Campus",
+      "time_of_day": "Dag",
+      "speed": 50,
+      "course_page": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20201&KtAnmKod=BD4Y6&lang=sv&parentPtKod=DVACD17h",
+      "start": "202014",
+      "end": "202023",
+      "semester": 4,
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=TE1422&revision=2&lang=sv",
+      "location": "Karlskrona",
+      "languages": [
+        "svenska"
+      ],
+      "points": 4.0,
+      "teachers": [
+        "Philippe Rouchy"
+      ]
+    },
+    {
+      "name": "Numerisk analys",
+      "code": "MA1454",
+      "description": "Kursens syfte \u00e4r att studenten skall skaffa sig kunskap om numeriska metoder f\u00f6r att kunna best\u00e4mma approximativa l\u00f6sningar till matematiska problem som inte kan ber\u00e4knas analytiskt. Inom m\u00e5nga till\u00e4mpningsomr\u00e5den \u00e4r problem formulerade med hj\u00e4lp av matematiska modeller som inneh\u00e5ller stora m\u00e4ngder av data, ofta givna som n\u00e4rmev\u00e4rden. F\u00f6r att finna skattade l\u00f6sningar till s\u00e5dana problem med stor noggrannhet studeras i kursen algoritmer baserade p\u00e5 regelbundet upprepade steg.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngna kurser i Analys 1, 6 hp, Analys 2, 6 hp samt Linj\u00e4r algebra, 6 hp.",
+      "is_optional": true,
+      "has_requirements": false,
+      "place": "Campus",
+      "time_of_day": "Dag",
+      "speed": 50,
+      "course_page": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20201&KtAnmKod=BXN7C&lang=sv&parentPtKod=DVACD17h",
+      "start": "202014",
+      "end": "202023",
+      "semester": 4,
+      "study_plan": "utb_kursplan.asp?kurskod=MA1454&revisionsnr=5,1&format=pdf",
+      "location": "Karlskrona",
+      "languages": [
+        "svenska"
+      ],
+      "points": 6.0,
+      "teachers": [
+        "Viet Thuy Vu"
+      ]
+    },
+    {
+      "name": "Analys av illasinnad programvara (malware)",
+      "code": "DV2582",
+      "description": "Syftet med kursen \u00e4r att studenten skall l\u00e4ra sig hur skadlig och illasinnad programvara (Malicous Software) kan analyseras p\u00e5 ett s\u00e4kert s\u00e4tt. En s\u00e5dan analys \u00e4r f\u00f6rsta steget i ett systematiskt angrepps\u00e4tt f\u00f6r att f\u00f6rhindra eller neutralisera den skadliga programvaran. Fokus ligger p\u00e5 analys av avancerade metoder som anv\u00e4nds vid tillverkning  av s.k. ''cybervapen'' och p\u00e5 praktiska mot\u00e5tg\u00e4rder f\u00f6r att detektera och oskadligg\u00f6ra dessa.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser i Programmering 12 hp, Realtids- och operativsystem 6 hp, Datakommunikation 6 hp samt genomg\u00e5ngen kurs i Datorsystems\u00e4kerhet 7,5 hp eller N\u00e4tverkss\u00e4kerhet 8 hp.",
+      "is_optional": false,
+      "has_requirements": true,
+      "place": "Campus",
+      "time_of_day": "Dag",
+      "speed": 50,
+      "course_page": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20202&KtAnmKod=BU6A3&lang=sv&parentPtKod=DVACD17h",
+      "start": "202036",
+      "end": "202044",
+      "semester": 1,
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=DV2582&revision=3&lang=sv",
+      "location": "Karlskrona",
+      "languages": [
+        "svenska"
+      ],
+      "points": 7.5,
+      "teachers": [
+        "Dragos Ilie"
+      ]
+    },
+    {
+      "name": "Prestandaoptimering",
+      "code": "DV1567",
+      "description": "Prestanda \u00e4r en viktig aspekt av all programvara. F\u00f6r att utveckla bra och h\u00f6gpresterande programvara, \u00e4r det viktigt att studenterna har en god f\u00f6rst\u00e5else f\u00f6r och kan till\u00e4mpa olika metoder och tekniker f\u00f6r att analysera och optimera prestandan hos ett programvarusystem.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att den studerande har avklarat: programmering 15 hp, algoritmer och datastrukturer 6 hp, datakommunikation 4 hp och realtids- och operativsystem 6 hp.",
+      "is_optional": false,
+      "has_requirements": true,
+      "place": "Campus",
+      "time_of_day": "Dag",
+      "speed": 50,
+      "course_page": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20202&KtAnmKod=BRNLP&lang=sv&parentPtKod=DVACD17h",
+      "start": "202036",
+      "end": "202044",
+      "semester": 1,
+      "study_plan": "utb_kursplan.asp?kurskod=DV1567&revisionsnr=4&format=pdf",
+      "location": "Karlskrona",
+      "languages": [
+        "engelska"
+      ],
+      "points": 7.5,
+      "teachers": [
+        "Suejb Memeti"
+      ]
+    },
+    {
+      "name": "Till\u00e4mpad artificiell intelligens",
+      "code": "DV2557",
+      "description": "Artificiell intelligens i olika former finns i en allt st\u00f6rre del av de datoriserade system vi anv\u00e4nder - optimeringstekniker inom logistik, datorstyrda karakt\u00e4rer i datorspel, beslutsst\u00f6dsystem, bildbehandlingsalgoritmer och mobila robotar. Kursen syftar till att introducera omr\u00e5det artificiell intelligens och n\u00e5gra av dess till\u00e4mpningsomr\u00e5den.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att studenten har avklarat 15 h\u00f6gskolepo\u00e4ng i programmering, varav minst 5 h\u00f6gskolepo\u00e4ng datastrukturer och algoritmer.",
+      "is_optional": false,
+      "has_requirements": true,
+      "place": "Campus",
+      "time_of_day": "Dag",
+      "speed": 50,
+      "course_page": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20202&KtAnmKod=BX6AE&lang=sv&parentPtKod=DVACD17h",
+      "start": "202036",
+      "end": "202044",
+      "semester": 1,
+      "study_plan": "utb_kursplan.asp?kurskod=DV2557&revisionsnr=7&format=pdf",
+      "location": "Karlskrona",
+      "languages": [
+        "engelska"
+      ],
+      "points": 7.5,
+      "teachers": [
+        "Prashant Goswami"
+      ]
+    },
+    {
+      "name": "Entrepren\u00f6rskap och det innovativa f\u00f6retaget",
+      "code": "IY2539",
+      "description": "De studerande skall:  till\u00e4gna sig en f\u00f6rst\u00e5else av entrepren\u00f6rskaps- och innovationsteori, god f\u00f6rst\u00e5else av innovations- och entrepren\u00f6rskapsm\u00f6nster i olika kontexter,till\u00e4gna sig kunskap om relevanta informationsresurser och -spridning",
+      "requirements": "Antagen p\u00e5 civilingenj\u00f6rsprogram",
+      "is_optional": false,
+      "has_requirements": false,
+      "place": "Campus",
+      "time_of_day": "Dag",
+      "speed": 50,
+      "course_page": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20202&KtAnmKod=BFG3E&lang=sv&parentPtKod=DVACD17h",
+      "start": "202036",
+      "end": "202044",
+      "semester": 1,
+      "study_plan": "utb_kursplan.asp?kurskod=IY2539&revisionsnr=8,1&format=pdf",
+      "location": "Karlskrona",
+      "languages": [
+        "engelska"
+      ],
+      "points": 7.5,
+      "teachers": [
+        "Wen Pan Fagerlin",
+        "Philippe Rouchy"
+      ]
+    },
+    {
+      "name": "Programmering i UNIX-milj\u00f6",
+      "code": "DV1457",
+      "description": "Syftet med kursen \u00e4r att studenten ska till\u00e4gna sig en f\u00f6rdjupad f\u00f6rst\u00e5else f\u00f6r UNIX-baserade system och f\u00f6r operativsystemn\u00e4ra programmering. Detta inneb\u00e4r bl a att kunna programmera p\u00e5 operativsystemets mest abstrakta niv\u00e5, n\u00e4rmast anv\u00e4ndaren, och ned\u00e5t genom abstraktionsniv\u00e5erna till den l\u00e4gsta niv\u00e5n, systemanropen.  Kursen l\u00e4r ut hur man designar mjukvara som interagerar med datorn via operativsystemet UNIX (och UNIX-baserade/liknande operativsystem s\u00e5som Linux och MacOS). Den l\u00e4gger grunden f\u00f6r vidare studier inom andra omr\u00e5den (till exempel datas\u00e4kerhet) som kr\u00e4ver konkret f\u00f6rst\u00e5else f\u00f6r den underliggande teknologin. Syftet uppn\u00e5s genom att studenten via en serie laborationer f\u00e5r praktisk erfarenhet av att utveckla program i en UNIX-milj\u00f6.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att den studerande har avklarat kurser i programmering, 15 hp, algoritmer och datastrukturer, 6 hp, operativsystem, 6hp och datakommunikation alt lokala n\u00e4tverk, 4 hp.",
+      "is_optional": true,
+      "has_requirements": true,
+      "place": "Campus",
+      "time_of_day": "Dag",
+      "speed": 50,
+      "course_page": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20202&KtAnmKod=B6YEC&lang=sv&parentPtKod=DVACD17h",
+      "start": "202036",
+      "end": "202044",
+      "semester": 1,
+      "study_plan": "utb_kursplan.asp?kurskod=DV1457&revisionsnr=10&format=pdf",
+      "location": "Karlskrona",
+      "languages": [
+        "engelska"
+      ],
+      "points": 7.5,
+      "teachers": [
+        "Martin Boldt",
+        "Florian Westphal"
+      ]
+    },
+    {
+      "name": "Maskininl\u00e4rning",
+      "code": "DV2578",
+      "description": "Det huvudsakliga syftet med kursen \u00e4r att introducera teori och metod fr\u00e5n maskininl\u00e4rning (machine learning) samt praktiska till\u00e4mpningar inom informationsutvinning (data mining). Den teknologiska utvecklingen har bidragit till att vi blivit mer beroende av databaser f\u00f6r lagring och databehandling. Antalet databaser och m\u00e4ngden inneh\u00e5ll i dessa v\u00e4xer snabbt. I takt med denna tillv\u00e4xt blir det sv\u00e5rare att manuellt finna anv\u00e4ndbar information fr\u00e5n den stora m\u00e4ngden data. Vi beh\u00f6ver d\u00e4rf\u00f6r semiautomatiska och automatiska metoder f\u00f6r att anv\u00e4nda, aggregera, analyseraoch extrahera s\u00e5dan information. Metoder och tekniker fr\u00e5n maskininl\u00e4rning, informationsutvinning, och artificiell intelligens har visat sig anv\u00e4ndbara f\u00f6r detta syfte.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngen kurs i Till\u00e4mpad artificiell intelligens, 7,5 hp.",
+      "is_optional": false,
+      "has_requirements": false,
+      "place": "Campus",
+      "time_of_day": "Dag",
+      "speed": 50,
+      "course_page": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20202&KtAnmKod=B7XYC&lang=sv&parentPtKod=DVACD17h",
+      "start": "202045",
+      "end": "202102",
+      "semester": 2,
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=DV2578&revision=3&lang=sv",
+      "location": "Karlskrona",
+      "languages": [
+        "engelska"
+      ],
+      "points": 7.5,
+      "teachers": [
+        "Veselka Boeva"
+      ]
+    },
+    {
+      "name": "Programvaruarkitektur och kvalitet",
+      "code": "PA1453",
+      "description": "Programvaruarkitektur \u00e4r ett viktigt tekniskt koncept i modern, storskalig programvaruutveckling, d\u00e4r programvaruarkitektur tj\u00e4nar flera syften: planering av utvecklingsresurser; analysav problemdom\u00e4nen fr\u00e5n flera olika perspektiv med hj\u00e4lp av arkitekturella vyer, samt abstraktion av stora m\u00e4ngder information f\u00f6r att uppn\u00e5 en anv\u00e4ndbar \u00f6versikt av systemet. Dessutom \u00e4r programvaruarkitekturen och de beslut som fattats ang\u00e5ende dess konstruktion nyckelkomponenter f\u00f6r att planera och \u00e5stadkomma specifika niv\u00e5er av kvalitet i det f\u00e4rdiga systemet och d\u00e4rmed ocks\u00e5 avg\u00f6rande f\u00f6r systemets framg\u00e5ngsm\u00f6jligheter.  I kursen f\u00f6rv\u00e4ntas studenten skaffa sig detaljerad kunskap om programvaruarkitektur och kvalitet, om programvaruarkitektur och dess relaterade beslutseffekter p\u00e5 kvaliteten p\u00e5 den utvecklade programvaran.  Studenten f\u00f6rv\u00e4ntas uppn\u00e5 detaljerad f\u00f6rst\u00e5else om hur: i) programvaruarkitektur av befintliga programvarusystem dokumenteras; ii) programvaruarkitekturer konstrueras baserat p\u00e5 moderna metoder och ideer, till exempel arkitekturstilar, -m\u00f6nster och taktiker, genom att ta h\u00e4nsyn till den \u00f6nskade programvaran, den omgivande teknologin och utvecklingsorganisationen; iii) resonera sakligt och faktabaserat om en specifik programvaruarkitekturs l\u00e4mplighet f\u00f6r en viss produkt eller tj\u00e4nst.",
+      "requirements": "Studenten m\u00e5ste ha klarat av totalt 22,5 h\u00f6gskolepo\u00e4ng fr\u00e5n f\u00f6ljande omr\u00e5den: Programvarudesign, Datastrukturer och algoritmer, Databasteknik, Datakommunikation, Realtidssystem, Operativsystem samt avklarat en kurs i Programmering p\u00e5 minst 6 h\u00f6gskolepo\u00e4ng.",
+      "is_optional": false,
+      "has_requirements": true,
+      "place": "Campus",
+      "time_of_day": "Dag",
+      "speed": 50,
+      "course_page": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20202&KtAnmKod=BJ7CC&lang=sv&parentPtKod=DVACD17h",
+      "start": "202045",
+      "end": "202102",
+      "semester": 2,
+      "study_plan": "utb_kursplan.asp?kurskod=PA1453&revisionsnr=4&format=pdf",
+      "location": "Karlskrona",
+      "languages": [
+        "engelska"
+      ],
+      "points": 7.5,
+      "teachers": [
+        "Ehsan Zabardast",
+        "Javier Gonzalez Huerta"
+      ]
+    },
+    {
+      "name": "Programvarus\u00e4kerhet",
+      "code": "DV2546",
+      "description": "Kursens huvudsakliga syfte \u00e4r att f\u00f6rst\u00e5 samt hantera olika programvarus\u00e4kerhetsproblem i en s\u00e4ker och kontrollerad milj\u00f6. Under kursen kommer studenten att till\u00e4gna sig teoretiska och praktiska kunskaper om olika typer av s\u00e4kerhetsproblem hos programvara, och tekniker som kan anv\u00e4ndas f\u00f6r att skydda programvaran. Studenten kommer ocks\u00e5 att l\u00e4ra sig f\u00f6rst\u00e5 motst\u00e5ndarnas arbetss\u00e4tt, vilket kan anv\u00e4ndas f\u00f6r att \u00f6ka programvarans p\u00e5litlighet.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngen kurs, ''Programmering i UNIX-milj\u00f6''.",
+      "is_optional": true,
+      "has_requirements": false,
+      "place": "Campus",
+      "time_of_day": "Dag",
+      "speed": 50,
+      "course_page": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20202&KtAnmKod=BQXQC&lang=sv&parentPtKod=DVACD17h",
+      "start": "202045",
+      "end": "202102",
+      "semester": 2,
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=DV2546&revision=8,1&lang=sv",
+      "location": "Karlskrona",
+      "languages": [
+        "engelska"
+      ],
+      "points": 7.5,
+      "teachers": [
+        "Dragos Ilie"
+      ]
+    },
+    {
+      "name": "Webbs\u00e4kerhet",
+      "code": "DV2577",
+      "description": "Syftet med kursen \u00e4r att studenten skall l\u00e4ra sig att f\u00f6rst\u00e5 och uppt\u00e4cka svagheter och s\u00e5rbarheter i webbapplikationer samt att kunna utveckla l\u00f6sningar f\u00f6r skydd och genomf\u00f6ra tester.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser i Programmering 12 hp, Realtid- och operativsystem 6 hp, Datakommunikation 6 hp samt Databasteknik 6 hp. Genomg\u00e5ngen kurs i N\u00e4tverkss\u00e4kerhet 4 hp eller Datorsystems\u00e4kerhet 7,5 hp.",
+      "is_optional": false,
+      "has_requirements": true,
+      "place": "Campus",
+      "time_of_day": "Dag",
+      "speed": 50,
+      "course_page": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20202&KtAnmKod=BR7L6&lang=sv&parentPtKod=DVACD17h",
+      "start": "202045",
+      "end": "202102",
+      "semester": 2,
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=DV2577&revision=3&lang=sv",
+      "location": "Karlskrona",
+      "languages": [
+        "svenska"
+      ],
+      "points": 7.5,
+      "teachers": [
+        "Oleksii BARANOVSKYI",
+        "Anders Carlsson"
+      ]
+    },
+    {
+      "name": "S\u00e4ker mjukvaruutveckling",
+      "code": "PA2562",
+      "description": "Kursen utg\u00e5r fr\u00e5n mjukvarans livscykel som helhet och syftar till att ge kunskap om metoder, tekniker och principer i olika utvecklingsfaser f\u00f6r att utveckla s\u00e4ker mjukvara. Kursen behandlar ocks\u00e5 olika s\u00e4kerhetsrelaterade kvalitetsattribut: s\u00e4kerhet, anv\u00e4ndbarhet, p\u00e5litlighet (eng. dependability) och systems\u00e4kerhet (eng. safety, egenskapen att inte orsaka skada p\u00e5 person, egendom eller yttre milj\u00f6) samt en orientering om IT-s\u00e4kerhetsrelaterad lagstiftning och etik f\u00f6r ingenj\u00f6rer.",
+      "requirements": "Avklarat 45 h\u00f6gskolepo\u00e4ng inom Programvaruteknik och/eller Datvetenskap inkluderatavklarade kurser inom Programmering, Datastrukturer och Algoritmer, och en projektkurs omfattande Mjukvaruutveckling i team alternativtMjukvaruutveckling (Software Engineering).",
+      "is_optional": true,
+      "has_requirements": true,
+      "place": "Campus",
+      "time_of_day": "Dag",
+      "speed": 50,
+      "course_page": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20211&KtAnmKod=BPGRC&lang=sv&parentPtKod=DVACD17h",
+      "start": "202103",
+      "end": "202112",
+      "semester": 3,
+      "study_plan": "utb_kursplan.asp?kurskod=PA2562&revisionsnr=4&format=pdf",
+      "location": "Karlskrona",
+      "languages": [
+        "engelska"
+      ],
+      "points": 7.5,
+      "teachers": [
+        "Nina Dzamashvili Fogelstr\u00f6m",
+        "Bengt Carlsson"
+      ]
+    },
+    {
+      "name": "Avancerat projekt i s\u00e4ker mjukvaruutveckling",
+      "code": "PA2561",
+      "description": "Kursen syftar till att ge studenterna kunskap kring och erfarenhet av att utveckla mjukvara med s\u00e4kerhetskrav. Studenterna erh\u00e5ller erfarenhet i mjukvaruutveckling i grupp, moderna utvecklingsmetoder samt hantering av relationen best\u00e4llare och leverant\u00f6r och det \u00e5tagande som sker mellan dessa b\u00e5da parter. Kursen syftar till att orientera studenterna kring tekniker och standarder som \u00e4r kopplat till utveckling av s\u00e4ker mjukvara, samt att ge studenterna erfarenhet i att till\u00e4mpa n\u00e5gra av dessa tekniker och standarder.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att den studerande har avklarat 60 h\u00f6gskolepo\u00e4ng i programvaruteknik och/ellerdatavetenskap inkluderat en projektkurs om mjukvaruutveckling i team p\u00e5 minst 7,5h\u00f6gskolepo\u00e4ng.",
+      "is_optional": true,
+      "has_requirements": true,
+      "place": "Campus",
+      "time_of_day": "Dag",
+      "speed": 50,
+      "course_page": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20211&KtAnmKod=B6UNC&lang=sv&parentPtKod=DVACD17h",
+      "start": "202103",
+      "end": "202122",
+      "semester": 3,
+      "study_plan": "utb_kursplan.asp?kurskod=PA2561&revisionsnr=4&format=pdf",
+      "location": "Karlskrona",
+      "languages": [
+        "svenska"
+      ],
+      "points": 22.5,
+      "teachers": [
+        "Kennet Henningsson",
+        "Nina Dzamashvili Fogelstr\u00f6m"
+      ]
+    },
+    {
+      "name": "Analys av illasinnad programvara (malware)",
+      "code": "DV2582",
+      "description": "Syftet med kursen \u00e4r att studenten skall l\u00e4ra sig hur skadlig och illasinnad programvara (Malicous Software) kan analyseras p\u00e5 ett s\u00e4kert s\u00e4tt. En s\u00e5dan analys \u00e4r f\u00f6rsta steget i ett systematiskt angrepps\u00e4tt f\u00f6r att f\u00f6rhindra eller neutralisera den skadliga programvaran. Fokus ligger p\u00e5 analys av avancerade metoder som anv\u00e4nds vid tillverkning  av s.k. ''cybervapen'' och p\u00e5 praktiska mot\u00e5tg\u00e4rder f\u00f6r att detektera och oskadligg\u00f6ra dessa.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser i Programmering 12 hp, Realtids- och operativsystem 6 hp, Datakommunikation 6 hp samt genomg\u00e5ngen kurs i Datorsystems\u00e4kerhet 7,5 hp eller N\u00e4tverkss\u00e4kerhet 8 hp.",
+      "is_optional": false,
+      "has_requirements": true,
+      "place": "Campus",
+      "time_of_day": "Dag",
+      "speed": 50,
+      "course_page": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20212&KtAnmKod=BM3KE&lang=sv&parentPtKod=DVACD17h",
+      "start": "202135",
+      "end": "202143",
+      "semester": 1,
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=DV2582&revision=4&lang=sv",
+      "location": "Karlskrona",
+      "languages": [
+        "svenska"
+      ],
+      "points": 7.5,
+      "teachers": [
+        "Dragos Ilie"
+      ]
+    },
+    {
+      "name": "Entrepren\u00f6rskap och det innovativa f\u00f6retaget",
+      "code": "IY2539",
+      "description": "De studerande skall:  till\u00e4gna sig en f\u00f6rst\u00e5else av entrepren\u00f6rskaps- och innovationsteori, god f\u00f6rst\u00e5else av innovations- och entrepren\u00f6rskapsm\u00f6nster i olika kontexter,till\u00e4gna sig kunskap om relevanta informationsresurser och -spridning",
+      "requirements": "Antagen p\u00e5 civilingenj\u00f6rsprogram",
+      "is_optional": false,
+      "has_requirements": false,
+      "place": "Campus",
+      "time_of_day": "Dag",
+      "speed": 50,
+      "course_page": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20212&KtAnmKod=BT3WT&lang=sv&parentPtKod=DVACD17h",
+      "start": "202135",
+      "end": "202143",
+      "semester": 1,
+      "study_plan": "utb_kursplan.asp?kurskod=IY2539&revisionsnr=9&format=pdf",
+      "location": "Karlskrona",
+      "languages": [
+        "engelska"
+      ],
+      "points": 7.5,
+      "teachers": [
+        "mbh",
+        "Philippe Rouchy"
+      ]
+    },
+    {
+      "name": "Kryptering 3",
+      "code": "MA2513",
+      "description": "Kursens syfte \u00e4r att ge f\u00f6rdjupad kunskap i kryptologi, det vill s\u00e4ga den matematiska grunden f\u00f6r kryptering och kryptoanalys.",
+      "requirements": "Avklarade kurser: Kryptering 2, Linj\u00e4r algebra, Analys 1 och Analys 2 samt Algoritmer och datastrukturer.",
+      "is_optional": false,
+      "has_requirements": false,
+      "place": "Campus",
+      "time_of_day": "Dag",
+      "speed": 50,
+      "course_page": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20212&KtAnmKod=B7EYT&lang=sv&parentPtKod=DVACD17h",
+      "start": "202135",
+      "end": "202143",
+      "semester": 1,
+      "study_plan": "utb_kursplan.asp?kurskod=MA2513&revisionsnr=8&format=pdf",
+      "location": "Karlskrona",
+      "languages": [
+        "svenska"
+      ],
+      "points": 7.5,
+      "teachers": [
+        "Robert Nyqvist"
+      ]
+    },
+    {
+      "name": "Prestandaoptimering",
+      "code": "DV1567",
+      "description": "Prestanda \u00e4r en viktig aspekt av all programvara. F\u00f6r att utveckla bra och h\u00f6gpresterande programvara, \u00e4r det viktigt att studenterna har en god f\u00f6rst\u00e5else f\u00f6r och kan till\u00e4mpa olika metoder och tekniker f\u00f6r att analysera och optimera prestandan hos ett programvarusystem.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att den studerande har avklarat: programmering 15 hp, algoritmer och datastrukturer 6 hp, datakommunikation 4 hp och realtids- och operativsystem 6 hp.",
+      "is_optional": false,
+      "has_requirements": true,
+      "place": "Campus",
+      "time_of_day": "Dag",
+      "speed": 50,
+      "course_page": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20212&KtAnmKod=BM6NE&lang=sv&parentPtKod=DVACD17h",
+      "start": "202135",
+      "end": "202143",
+      "semester": 1,
+      "study_plan": "utb_kursplan.asp?kurskod=DV1567&revisionsnr=5&format=pdf",
+      "location": "Karlskrona",
+      "languages": [
+        "engelska"
+      ],
+      "points": 7.5,
+      "teachers": [
+        "Suejb Memeti"
+      ]
+    },
+    {
+      "name": "Forskningsmetodik i datavetenskaper",
+      "code": "PA1433",
+      "description": "Syftet med kursen \u00e4r att introducera, diskutera och tr\u00e4na ett vetenskapligt f\u00f6rh\u00e5llningss\u00e4tt, att bekanta sig med aktuell forskning inom ett valt omr\u00e5de och att tr\u00e4na vetenskapligt skrivande. En nyckelfr\u00e5ga i forskningen inom programvaruteknik och datavetenskap \u00e4r framtagning, utv\u00e4rdering och j\u00e4mf\u00f6relse av metoder, verktyg, spr\u00e5k, design och algoritmer och hur dessa p\u00e5verkar olika system, organisationer och m\u00e4nniskor. I denna kurs f\u00e5r studenten en f\u00f6rst\u00e5else f\u00f6r forskningsmetodik som g\u00f6r en s\u00e5dan utv\u00e4rdering och j\u00e4mf\u00f6relse m\u00f6jlig. Studenten f\u00e5r ocks\u00e5 en introduktion till samh\u00e4lleliga och etiska aspekter av s\u00e5dan forskning och utv\u00e4rdering och f\u00e5r f\u00f6rst erfarenheter av att planera, genomf\u00f6ra och rapportera ett forskningsprojekt.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att studenten har avklarat 45hp i huvudomr\u00e5det datavetenskap eller programvaruteknik.",
+      "is_optional": true,
+      "has_requirements": true,
+      "place": "Campus",
+      "time_of_day": "Dag",
+      "speed": 50,
+      "course_page": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20212&KtAnmKod=BUE3T&lang=sv&parentPtKod=DVACD17h",
+      "start": "202135",
+      "end": "202143",
+      "semester": 1,
+      "study_plan": "utb_kursplan.asp?kurskod=PA1433&revisionsnr=8&format=pdf",
+      "location": "Karlskrona",
+      "languages": [
+        "svenska"
+      ],
+      "points": 7.5,
+      "teachers": [
+        "Binish Tanveer"
+      ]
+    },
+    {
+      "name": "Till\u00e4mpad artificiell intelligens",
+      "code": "DV2557",
+      "description": "Artificiell intelligens i olika former finns i en allt st\u00f6rre del av de datoriserade system vi anv\u00e4nder - optimeringstekniker inom logistik, datorstyrda karakt\u00e4rer i datorspel, beslutsst\u00f6dsystem, bildbehandlingsalgoritmer och mobila robotar. Kursen syftar till att introducera omr\u00e5det artificiell intelligens och n\u00e5gra av dess till\u00e4mpningsomr\u00e5den.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att studenten har avklarat 15 h\u00f6gskolepo\u00e4ng i programmering, varav minst 5 h\u00f6gskolepo\u00e4ng datastrukturer och algoritmer.",
+      "is_optional": false,
+      "has_requirements": true,
+      "place": "Campus",
+      "time_of_day": "Dag",
+      "speed": 50,
+      "course_page": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20212&KtAnmKod=BQNJT&lang=sv&parentPtKod=DVACD17h",
+      "start": "202135",
+      "end": "202143",
+      "semester": 1,
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=DV2557&revision=8,1&lang=sv",
+      "location": "Karlskrona",
+      "languages": [
+        "engelska"
+      ],
+      "points": 7.5,
+      "teachers": [
+        "H\u00fcseyin Kusetogullari"
+      ]
+    },
+    {
+      "name": "Kravhantering och Produkthantering",
+      "code": "PA2551",
+      "description": "Kursens syfte \u00e4r att erbjuda grundl\u00e4ggande och f\u00f6rdjupande kunskaper och f\u00e4rdigheter inom kontinuerlig kravhantering och produkthantering i storskalig utveckling av mjukvaruintensiva system och produkter i en f\u00f6r\u00e4ndringsben\u00e4gen och kostnads k\u00e4nslig verklighet. Kursen ger b\u00e5de teoretisk analysf\u00f6rm\u00e5ga inom \u00e4mnet och praktisk till\u00e4mplig av metoder och tekniker f\u00f6r kravhantering och produkthantering.",
+      "requirements": "Avklarade kurser omfattande minst 120 hp varav minst 90 hp inom f\u00f6ljande omr\u00e5den: Programvaruteknik, Datavetenskap, Informationssystem eller Datalogi.Dessutom kr\u00e4vs en avklarad kurs p\u00e5 minst 7.5 hp inom Grundl\u00e4ggande Programvaruteknik (Software Engineering) eller Programvaruutvecklingsprojekt i grupp.",
+      "is_optional": false,
+      "has_requirements": true,
+      "place": "Campus",
+      "time_of_day": "Dag",
+      "speed": 50,
+      "course_page": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20212&KtAnmKod=BKYUC&lang=sv&parentPtKod=DVACD17h",
+      "start": "202144",
+      "end": "202202",
+      "semester": 2,
+      "study_plan": "utb_kursplan.asp?kurskod=PA2551&revisionsnr=5&format=pdf",
+      "location": "Karlskrona",
+      "languages": [
+        "engelska"
+      ],
+      "points": 7.5,
+      "teachers": [
+        "Krzysztof Wnuk"
+      ]
+    },
+    {
+      "name": "Maskininl\u00e4rning",
+      "code": "DV2578",
+      "description": "Det huvudsakliga syftet med kursen \u00e4r att introducera teori och metod fr\u00e5n maskininl\u00e4rning (machine learning) samt praktiska till\u00e4mpningar inom informationsutvinning (data mining). Den teknologiska utvecklingen har bidragit till att vi blivit mer beroende av databaser f\u00f6r lagring och databehandling. Antalet databaser och m\u00e4ngden inneh\u00e5ll i dessa v\u00e4xer snabbt. I takt med denna tillv\u00e4xt blir det sv\u00e5rare att manuellt finna anv\u00e4ndbar information fr\u00e5n den stora m\u00e4ngden data. Vi beh\u00f6ver d\u00e4rf\u00f6r semiautomatiska och automatiska metoder f\u00f6r att anv\u00e4nda, aggregera, analyseraoch extrahera s\u00e5dan information. Metoder och tekniker fr\u00e5n maskininl\u00e4rning, informationsutvinning, och artificiell intelligens har visat sig anv\u00e4ndbara f\u00f6r detta syfte.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngen kurs i Till\u00e4mpad artificiell intelligens, 7,5 hp.",
+      "is_optional": false,
+      "has_requirements": false,
+      "place": "Campus",
+      "time_of_day": "Dag",
+      "speed": 50,
+      "course_page": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20212&KtAnmKod=B44LT&lang=sv&parentPtKod=DVACD17h",
+      "start": "202144",
+      "end": "202202",
+      "semester": 2,
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=DV2578&revision=4&lang=sv",
+      "location": "Karlskrona",
+      "languages": [
+        "engelska"
+      ],
+      "points": 7.5,
+      "teachers": [
+        "Veselka Boeva"
+      ]
+    },
+    {
+      "name": "Programvaruarkitektur och kvalitet",
+      "code": "PA1453",
+      "description": "Programvaruarkitektur \u00e4r ett viktigt tekniskt koncept i modern, storskalig programvaruutveckling, d\u00e4r programvaruarkitektur tj\u00e4nar flera syften: planering av utvecklingsresurser; analysav problemdom\u00e4nen fr\u00e5n flera olika perspektiv med hj\u00e4lp av arkitekturella vyer, samt abstraktion av stora m\u00e4ngder information f\u00f6r att uppn\u00e5 en anv\u00e4ndbar \u00f6versikt av systemet. Dessutom \u00e4r programvaruarkitekturen och de beslut som fattats ang\u00e5ende dess konstruktion nyckelkomponenter f\u00f6r att planera och \u00e5stadkomma specifika niv\u00e5er av kvalitet i det f\u00e4rdiga systemet och d\u00e4rmed ocks\u00e5 avg\u00f6rande f\u00f6r systemets framg\u00e5ngsm\u00f6jligheter.  I kursen f\u00f6rv\u00e4ntas studenten skaffa sig detaljerad kunskap om programvaruarkitektur och kvalitet, om programvaruarkitektur och dess relaterade beslutseffekter p\u00e5 kvaliteten p\u00e5 den utvecklade programvaran.  Studenten f\u00f6rv\u00e4ntas uppn\u00e5 detaljerad f\u00f6rst\u00e5else om hur: i) programvaruarkitektur av befintliga programvarusystem dokumenteras; ii) programvaruarkitekturer konstrueras baserat p\u00e5 moderna metoder och ideer, till exempel arkitekturstilar, -m\u00f6nster och taktiker, genom att ta h\u00e4nsyn till den \u00f6nskade programvaran, den omgivande teknologin och utvecklingsorganisationen; iii) resonera sakligt och faktabaserat om en specifik programvaruarkitekturs l\u00e4mplighet f\u00f6r en viss produkt eller tj\u00e4nst.",
+      "requirements": "Studenten m\u00e5ste ha klarat av totalt 22,5 h\u00f6gskolepo\u00e4ng fr\u00e5n f\u00f6ljande omr\u00e5den: Programvarudesign, Datastrukturer och algoritmer, Databasteknik, Datakommunikation, Realtidssystem, Operativsystem samt avklarat en kurs i Programmering p\u00e5 minst 6 h\u00f6gskolepo\u00e4ng.",
+      "is_optional": false,
+      "has_requirements": true,
+      "place": "Campus",
+      "time_of_day": "Dag",
+      "speed": 50,
+      "course_page": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20212&KtAnmKod=BK6WT&lang=sv&parentPtKod=DVACD17h",
+      "start": "202144",
+      "end": "202202",
+      "semester": 2,
+      "study_plan": "utb_kursplan.asp?kurskod=PA1453&revisionsnr=5&format=pdf",
+      "location": "Karlskrona",
+      "languages": [
+        "engelska"
+      ],
+      "points": 7.5,
+      "teachers": [
+        "una"
+      ]
+    },
+    {
+      "name": "F\u00f6rdjupningskurs i digital unders\u00f6kningsteknik",
+      "code": "DV2579",
+      "description": "Mer och mer information hanteras av och lagras i IT-system och denna information kan i h\u00f6gsta grad vara intressant vid utredning av misst\u00e4nkt brottslighet. Kursens syfte \u00e4r att studenten skall studera och arbeta med aktuella forskningsr\u00f6n inom digital unders\u00f6kningsteknik samt ge insikt om s\u00e4kerhetsadministrat\u00f6rers och utredares arbete med att kunna identifiera, bevara, \u00e5terskapa och analysera digitala sp\u00e5r. Resultaten fr\u00e5n ett s\u00e5dant arbete kan anv\u00e4ndas som st\u00f6d i brottsutredning eller t.ex. f\u00f6r att i framtiden kunna skydda system och information fr\u00e5n intr\u00e5ng och angrepp.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser i Digital unders\u00f6kningsteknik och digitala bevis 6 hp, Realtid- och operativsystem 6 hp, Datorteknik 6 hp, Programmering 6 hp, Datakommunikation och n\u00e4tverksteknik 6 hp, N\u00e4tverkss\u00e4kerhet 1 4 hp. Genomg\u00e5ngen kurs i N\u00e4tverkss\u00e4kerhet 2 4 hp.",
+      "is_optional": true,
+      "has_requirements": true,
+      "place": "Campus",
+      "time_of_day": "Dag",
+      "speed": 50,
+      "course_page": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20212&KtAnmKod=BYQED&lang=sv&parentPtKod=DVACD17h",
+      "start": "202144",
+      "end": "202202",
+      "semester": 2,
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=DV2579&revision=4&lang=sv",
+      "location": "Karlskrona",
+      "languages": [
+        "engelska"
+      ],
+      "points": 7.5,
+      "teachers": [
+        "dji"
+      ]
+    },
+    {
+      "name": "Webbs\u00e4kerhet",
+      "code": "DV2577",
+      "description": "Syftet med kursen \u00e4r att studenten skall l\u00e4ra sig att f\u00f6rst\u00e5 och uppt\u00e4cka svagheter och s\u00e5rbarheter i webbapplikationer samt att kunna utveckla l\u00f6sningar f\u00f6r skydd och genomf\u00f6ra tester.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser i Programmering 12 hp, Realtid- och operativsystem 6 hp, Datakommunikation 6 hp samt Databasteknik 6 hp. Genomg\u00e5ngen kurs i N\u00e4tverkss\u00e4kerhet 4 hp eller Datorsystems\u00e4kerhet 7,5 hp.",
+      "is_optional": false,
+      "has_requirements": true,
+      "place": "Campus",
+      "time_of_day": "Dag",
+      "speed": 50,
+      "course_page": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20212&KtAnmKod=BQ9Q6&lang=sv&parentPtKod=DVACD17h",
+      "start": "202144",
+      "end": "202202",
+      "semester": 2,
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=DV2577&revision=4&lang=sv",
+      "location": "Karlskrona",
+      "languages": [
+        "svenska"
+      ],
+      "points": 7.5,
+      "teachers": [
+        "Anders Carlsson"
+      ]
+    },
+    {
+      "name": "Multiprocessorprogrammering",
+      "code": "DV2597",
+      "description": "Parallellism har under m\u00e5nga \u00e5r varit ett s\u00e4tt att uppn\u00e5 h\u00f6g prestanda i datorsystem. Datorsystem best\u00e5r idag av parallellism p\u00e5 flera olika niv\u00e5er: regelbundna arrayer (matriser) av SIMD processork\u00e4rnor som i GPU:er, ett mindre antal generella processork\u00e4rnor som i multicore-processorer, eller sammankopplade noder som i ett distribuerat system. F\u00f6r att kunna utnyttja h\u00e5rdvaran till fullo, beh\u00f6ver man skriva effektiva parallella program. Mao, parallella datorsystem och parallell programmering \u00e4r fundamentala grundstenar f\u00f6r dagens och framtidens datorer.   Denna kurs syftar till att studenterna ska l\u00e4ra sig att programmera datorsystem som inneh\u00e5ller m\u00e5nga processorer eller processork\u00e4rnor s\u00e5 att man uppn\u00e5r h\u00f6g prestanda. Vi kommer att g\u00e5 igenom programmering f\u00f6r delat minne, b\u00e5de MIMD och SIMD, samt programmering av distribuerade system. Fokus i kursen kommer att ligga p\u00e5 programmering av multiprocessorer med delat minne.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs 60 hp avklarade i huvudomr\u00e5det datavetenskap eller huvudomr\u00e5det programvaruteknik inklusive avklarade kurser i programmering 12 hp, algoritmer och datastrukturer, 6 hp, operativsystem, 6 hp och datorteknik, 6 hp.",
+      "is_optional": false,
+      "has_requirements": true,
+      "place": "Campus",
+      "time_of_day": "Dag",
+      "speed": 50,
+      "course_page": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20212&KtAnmKod=BTG7U&lang=sv&parentPtKod=DVACD17h",
+      "start": "202144",
+      "end": "202202",
+      "semester": 2,
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=DV2597&revision=1&lang=sv",
+      "location": "Karlskrona",
+      "languages": [
+        "engelska"
+      ],
+      "points": 7.5,
+      "teachers": [
+        "H\u00e5kan Grahn"
+      ]
+    },
+    {
+      "name": "Examensarbete f\u00f6r civilingenj\u00f6rer",
+      "code": "TE2502",
+      "description": "Syftet med kursen \u00e4r att studenten tr\u00e4nar sin f\u00f6rm\u00e5ga att definiera, planera, genomf\u00f6ra och redovisa ett sj\u00e4lvst\u00e4ndigt forsknings- och utvecklingsarbete inom huvud\u00e4mnet f\u00f6r civilingenj\u00f6rsprogrammet. Examensarbetet inneb\u00e4r en till\u00e4mpning och syntes av de under utbildningen f\u00f6rv\u00e4rvade kunskaper och ska visa studentens f\u00f6rm\u00e5ga att arbeta sj\u00e4lvst\u00e4ndigt som civilingenj\u00f6r.",
+      "requirements": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att studenten har avklarat minst 240 hp som f\u00e5r ing\u00e5 i en civilingenj\u00f6rsexamen. Av dessa ska minst 30 hp vara avklarade kurser p\u00e5 avancerad niv\u00e5.",
+      "is_optional": true,
+      "has_requirements": true,
+      "place": "Campus",
+      "time_of_day": "Dag",
+      "speed": 100,
+      "course_page": "https://edu.bth.se/utbildning/utb_kurstillfalle.asp?KtTermin=20221&KtAnmKod=B4L66&lang=sv&parentPtKod=DVACD17h",
+      "start": "202203",
+      "end": "202222",
+      "semester": 3,
+      "study_plan": "https://bth.azure-api.net/plan/api/kursplan?kurskod=TE2502&revision=4,1&lang=sv",
+      "location": "Karlskrona",
+      "languages": [
+        "svenska"
+      ],
+      "points": 30.0,
+      "teachers": [
+        "H\u00e5kan Grahn",
+        "Oskar Fr\u00e5nberg",
+        "Eva L\u00f6vst\u00e5l",
+        "Johan Wall",
+        "Nauman Ali",
+        "Krzysztof Wnuk",
+        "Prashant Goswami",
+        "cbg",
+        "Ansel Berghuvud",
+        "Valeria Garro",
+        "Anton Borg",
+        "J\u00fcrgen B\u00f6rstler",
+        "Martin Svensson",
+        "Veronica Sundstedt",
+        "Martin Andersson",
+        "Yan Hu",
+        "Emil Numminen"
+      ]
+    }
+  ]
+}
