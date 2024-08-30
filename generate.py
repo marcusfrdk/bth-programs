@@ -7,8 +7,10 @@ import requests
 import pandas as pd
 import os
 import shutil
+import json
 import threading as th
 import numpy as np
+from collections import defaultdict
 from bs4 import BeautifulSoup
 from io import BytesIO
 from pyppeteer import launch
@@ -23,6 +25,7 @@ year_regex = re.compile(r"\d{4}")
 # Paths
 ROOT_PATH = os.path.abspath(os.path.dirname(__file__))
 DATA_PATH = os.path.join(ROOT_PATH, "data")
+INDEX_PATH = os.path.join(DATA_PATH, "index.json")
 
 async def get_html(url: str) -> str:
     """ Asyncronously fetches the HTML content of a webpage """
@@ -85,6 +88,16 @@ def main() -> int:
 
         for thread in threads:
             thread.join()
+
+        # Generate index
+        indexes = defaultdict(list)
+        for file in os.listdir(DATA_PATH):
+            code = file[:5].upper()
+            semester = file.split(".")[0][5:].lower()
+            indexes[code].append(semester)
+
+        with open(INDEX_PATH, "w") as f:
+            json.dump(indexes, f, indent=4)
 
         return 0
     except Exception as e:
