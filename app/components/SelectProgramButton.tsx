@@ -1,13 +1,12 @@
 "use client";
 
+import { useData } from "@/contexts/DataProvider";
+
 export default function SelectProgramButton({program}: {program: string}) {
-    function setProgram(){
-        console.log("Setting program to " + program);
-        document.cookie = "selectedProgram=" + program;
-    }
+    const {updateSelectedProgram} = useData();
     
     return (
-        <button onClick={setProgram}>
+        <button onClick={() => updateSelectedProgram(program)}>
             Set program to {program}
         </button>
     )
