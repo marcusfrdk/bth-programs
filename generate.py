@@ -24,7 +24,7 @@ year_regex = re.compile(r"\d{4}")
 
 # Paths
 ROOT_PATH = os.path.abspath(os.path.dirname(__file__))
-DATA_PATH = os.path.join(ROOT_PATH, "data")
+DATA_PATH = os.path.join(ROOT_PATH, "app", "public", "data")
 INDEX_PATH = os.path.join(DATA_PATH, "index.json")
 
 async def get_html(url: str) -> str:
