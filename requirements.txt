@@ -1,0 +1,6 @@
+pyppeteer==2.0.0
+beautifulsoup4==4.12.3
+openpyxl==3.1.5
+requests==2.32.3
+pandas==2.2.2
+numpy==2.1.0
