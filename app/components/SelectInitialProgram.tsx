@@ -30,7 +30,7 @@ export default function SelectInitialProgram(){
                 <Logo/>
                 <div>
                     <h1>BTH Programs</h1>
-                    <p>Get an overview of your program's schedule.</p>
+                    <p>Get an overview of your program&apos;s schedule.</p>
                 </div>
             </div>
             <Select>

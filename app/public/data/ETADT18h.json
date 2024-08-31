@@ -5,7 +5,9 @@
         "semester": "V\u00e5rtermin 2019",
         "start_week": 4,
         "end_week": 13,
-        "period": 3,
+        "periods": [
+            3
+        ],
         "type": "Obligatorisk",
         "academic_focus": "JNTU Hyderabad",
         "prerequisites": "Avklarad kurs i Datakommunikation 7,5 hp och Objektorienterad programmering 7,5 hp",
@@ -25,7 +27,9 @@
         "semester": "V\u00e5rtermin 2019",
         "start_week": 4,
         "end_week": 13,
-        "period": 3,
+        "periods": [
+            3
+        ],
         "type": "Obligatorisk",
         "academic_focus": "JNTU Hyderabad",
         "prerequisites": "Avklarad kurs i Matematik, forts\u00e4ttningskurs 7,5 hp och Datakommunikation 7,5 hp. Genomg\u00e5ngen kurs i Matematisk statistik 7,5 hp.",
@@ -45,7 +49,9 @@
         "semester": "V\u00e5rtermin 2019",
         "start_week": 14,
         "end_week": 23,
-        "period": 4,
+        "periods": [
+            4
+        ],
         "type": "Obligatorisk",
         "academic_focus": "JNTU Hyderabad",
         "prerequisites": "Genomg\u00e5ngen kurs i Avancerad n\u00e4tverksteknik 7,5 hp",
@@ -65,7 +71,9 @@
         "semester": "V\u00e5rtermin 2019",
         "start_week": 14,
         "end_week": 23,
-        "period": 4,
+        "periods": [
+            4
+        ],
         "type": "Obligatorisk",
         "academic_focus": "JNTU Hyderabad",
         "prerequisites": "Avklarad kurs i Datakommunikation 7,5 hp och Matematisk statistik 7,5 hp.",
@@ -85,7 +93,9 @@
         "semester": "H\u00f6sttermin 2019",
         "start_week": 36,
         "end_week": 44,
-        "period": 1,
+        "periods": [
+            1
+        ],
         "type": "Obligatorisk",
         "academic_focus": "JNTU Hyderabad",
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser i Avancerad n\u00e4tverksteknik 7,5 hp, Simulering 7,5 hp, samt Kapacitetsanalys 7,5 hp samt genomg\u00e5ngen kurs i Upplevd kvalitet i n\u00e4tverksbaserade tj\u00e4nster 7,5 hp.",
@@ -105,7 +115,9 @@
         "semester": "H\u00f6sttermin 2019",
         "start_week": 36,
         "end_week": 44,
-        "period": 1,
+        "periods": [
+            1
+        ],
         "type": "Obligatorisk",
         "academic_focus": "JNTU Hyderabad",
         "prerequisites": "Avklarad kurs i Avancerad n\u00e4tverksteknik 7,5 hp",
@@ -125,7 +137,9 @@
         "semester": "H\u00f6sttermin 2019",
         "start_week": 45,
         "end_week": 3,
-        "period": 2,
+        "periods": [
+            2
+        ],
         "type": "Obligatorisk",
         "academic_focus": "JNTU Hyderabad",
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarad kurser Kapacitetsanalys 7,5 hp och Avancerad n\u00e4tverksteknik 7,5 hp.",
@@ -137,7 +151,7 @@
         "start_year": 2019,
         "end_year": 2020,
         "course_duration": 11,
-        "is_double": true
+        "is_double": false
     },
     "ET2604": {
         "name": "F\u00f6rdjupningskurs i telekommunikationssystem",
@@ -145,7 +159,9 @@
         "semester": "H\u00f6sttermin 2019",
         "start_week": 45,
         "end_week": 3,
-        "period": 2,
+        "periods": [
+            2
+        ],
         "type": "Obligatorisk",
         "academic_focus": "JNTU Hyderabad",
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vas avklarad kurs i Mjukvarubaserade n\u00e4tverk 7,5 hp samt genomg\u00e5ngen kurs i Forskningsmetodik i elektroteknik med inriktning mot telekommunikationssystem 7,5 hp.",
@@ -157,7 +173,7 @@
         "start_year": 2019,
         "end_year": 2020,
         "course_duration": 11,
-        "is_double": true
+        "is_double": false
     },
     "ET2606": {
         "name": "Masterarbete i elektroteknik med inriktning mot telekommunikationssystem",
@@ -165,7 +181,10 @@
         "semester": "V\u00e5rtermin 2020",
         "start_week": 4,
         "end_week": 23,
-        "period": 3,
+        "periods": [
+            3,
+            4
+        ],
         "type": "Obligatorisk",
         "academic_focus": "JNTU Hyderabad",
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs minst 90 h\u00f6gskolepo\u00e4ng inom huvudomr\u00e5det elektroteknik, varav minst 30 h\u00f6gskolepo\u00e4ng p\u00e5 avancerad niv\u00e5. Avklarat kurs i forskningsmetodik med inriktning mot elektroteknik om 7,5 h\u00f6gskolepo\u00e4ng. Genomg\u00e5ngen f\u00f6rdjupningskurs i telekommunikationssystem 7,5 hp",
@@ -200,6 +219,9 @@
         },
         "2020": {
             "3": [
+                "ET2606"
+            ],
+            "4": [
                 "ET2606"
             ]
         }

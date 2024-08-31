@@ -8,7 +8,6 @@ type Props = {
 };
 
 export default function Menu({isOpen}: Props){
-
     return (
         <Container className={isOpen ? "open" : ""}>
             <MenuChange/>

@@ -5,7 +5,9 @@
         "semester": "H\u00f6sttermin 2020",
         "start_week": 36,
         "end_week": 44,
-        "period": 1,
+        "periods": [
+            1
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "Erfarenhet av yrkesm\u00e4ssigt ingenj\u00f6rsarbete eller tidigare h\u00f6gskolestudier.",
@@ -25,7 +27,9 @@
         "semester": "H\u00f6sttermin 2020",
         "start_week": 45,
         "end_week": 2,
-        "period": 2,
+        "periods": [
+            2
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "Grundl\u00e4ggande beh\u00f6righet och genomf\u00f6rd grundkurs, MT1101 Datorst\u00f6d inom Konstruktion 1 eller motsvarande.",
@@ -45,7 +49,9 @@
         "semester": "V\u00e5rtermin 2021",
         "start_week": 3,
         "end_week": 12,
-        "period": 3,
+        "periods": [
+            3
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngna kurser Innovativ och H\u00e5llbar produktutveckling, 7,5 hp och Datorst\u00f6d inom Konstruktion 2, 7,5 hp.",
@@ -65,7 +71,9 @@
         "semester": "V\u00e5rtermin 2021",
         "start_week": 13,
         "end_week": 22,
-        "period": 4,
+        "periods": [
+            4
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen krav 90 hp avklarade fr\u00e5n en utbildning som ger h\u00f6gskoleexamen med inriktning mot maskinteknik.",

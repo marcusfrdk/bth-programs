@@ -84,7 +84,7 @@ def download_program(url: str) -> None:
             "Termin": "semester",
             "Startvecka": "start_week",
             "Slutvecka": "end_week",
-            "Läsperiod": "period",
+            "Läsperiod": "periods",
             "Typ": "type",
             "Inriktning": "academic_focus",
             "Förkunskapskrav": "prerequisites",
@@ -108,7 +108,22 @@ def download_program(url: str) -> None:
         df[["start_year", "start_week", "end_year", "end_week"]] = df[["start_year", "start_week", "end_year", "end_week"]].astype(int)
 
         df["course_duration"] = (df["end_year"] - df["start_year"]) * 52 + (df["end_week"] - df["start_week"]) + 1
-        df["is_double"] = df["course_duration"] > 10
+        df["is_double"] = df["course_duration"] > 15
+
+        def fix_period(row):
+            is_double = row["is_double"]
+
+            if row["start_week"] < 10:
+                return [3, 4] if is_double else [3] 
+            elif row["start_week"] < 30:
+                return [4, 1] if is_double else [4]
+            elif row["start_week"] < 40:
+                return [1, 2] if is_double else [1]
+            else:
+                return [2, 3] if is_double else [2]
+
+        df["periods"] = df.apply(fix_period, axis=1)
+        # df["periods"] = df["periods"].astype(int)
 
         teacher_codes.update(df["teacher"].unique())
 
@@ -116,17 +131,29 @@ def download_program(url: str) -> None:
         df = df.drop_duplicates(subset=["code"], keep="first")
         df = df.drop(columns=["teacher_url"])
 
-        # Group courses by year and period for easier access
+        # Group courses by year and periods for easier access
+        # groups = {}
+        # for _, row in df.iterrows():
+        #     year = str(row["start_year"])
+            
+        #     if year not in groups:
+        #         groups[year] = {}
+        #     if row["periods"] not in groups[year]:
+        #         groups[year][row["periods"]] = []
+            
+        #     groups[year][row["periods"]].append(row["code"])
         groups = {}
         for _, row in df.iterrows():
             year = str(row["start_year"])
             
             if year not in groups:
                 groups[year] = {}
-            if row["period"] not in groups[year]:
-                groups[year][row["period"]] = []
             
-            groups[year][row["period"]].append(row["code"])
+            for period in row["periods"]:
+                if period not in groups[year]:
+                    groups[year][period] = []
+                
+                groups[year][period].append(row["code"])
 
         def replace_nan_with_none(obj):
             if isinstance(obj, dict):
@@ -211,17 +238,17 @@ async def main() -> int:
     with ThreadPoolExecutor() as executor:
         await asyncio.gather(*[asyncio.to_thread(executor.submit, download_program, url) for url in urls])
 
-    # Download teacher data
-    with open(TEACHER_CSV, "w", encoding="utf-8") as f:
-        f.write("code;name;email;phone;room;unit;location\n")
+    # # Download teacher data
+    # with open(TEACHER_CSV, "w", encoding="utf-8") as f:
+    #     f.write("code;name;email;phone;room;unit;location\n")
 
-    with ProcessPoolExecutor() as executor:
-        await asyncio.gather(*[asyncio.to_thread(executor.submit, download_teacher, code) for code in teacher_codes])
+    # with ProcessPoolExecutor() as executor:
+    #     await asyncio.gather(*[asyncio.to_thread(executor.submit, download_teacher, code) for code in teacher_codes])
 
-    with open(TEACHER_CSV, "r", encoding="utf-8") as f:
-        df = pd.read_csv(f, delimiter=";")
-        df.loc[df["name"] == "Nan Huang", "code"] = "nan" # Fun edge case, since the code is "nan", pandas believes it's NaN
-        df.to_json(TEACHER_JSON, orient="records", indent=4)
+    # with open(TEACHER_CSV, "r", encoding="utf-8") as f:
+    #     df = pd.read_csv(f, delimiter=";")
+    #     df.loc[df["name"] == "Nan Huang", "code"] = "nan" # Fun edge case, since the code is "nan", pandas believes it's NaN
+    #     df.to_json(TEACHER_JSON, orient="records", indent=4)
 
     # Generate index
     indexes = defaultdict(list)
@@ -250,5 +277,5 @@ async def main() -> int:
 
 if __name__ == "__main__":
     exit_code = asyncio.run(main())
-    os.remove(TEACHER_CSV)
+    os.remove(TEACHER_CSV) if os.path.exists(TEACHER_CSV) else None
     sys.exit(exit_code)

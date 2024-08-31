@@ -5,7 +5,10 @@
         "semester": "H\u00f6sttermin 2016",
         "start_week": 35,
         "end_week": 2,
-        "period": "FEL",
+        "periods": [
+            1,
+            2
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "Grundl\u00e4ggande beh\u00f6righet\nOmr\u00e5desbeh\u00f6righet 7: Matematik B (Fysik A kr\u00e4vs ej)\neller\nOmr\u00e5desbeh\u00f6righet A7: Matematik 2a alt 2b alt 2c (Fysik 1b1 alt 1a kr\u00e4vs ej)",
@@ -25,7 +28,10 @@
         "semester": "H\u00f6sttermin 2016",
         "start_week": 35,
         "end_week": 2,
-        "period": "FEL",
+        "periods": [
+            1,
+            2
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "Omr\u00e5desbeh\u00f6righet A7: Matematik 2a alt 2b alt 2c (Fysik 1b1 alt 1a kr\u00e4vs ej)\nalternativt\nOmr\u00e5desbeh\u00f6righet 7: Matematik B (Fysik A kr\u00e4vs ej).",
@@ -45,7 +51,10 @@
         "semester": "V\u00e5rtermin 2017",
         "start_week": 3,
         "end_week": 22,
-        "period": "FEL",
+        "periods": [
+            3,
+            4
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "Kursen har f\u00f6ljande h\u00f6gskolekurser som f\u00f6rkunskapskrav: Genomg\u00e5ngna kurser: ME1561-Introduktion i medieteknik.",
@@ -65,7 +74,10 @@
         "semester": "V\u00e5rtermin 2017",
         "start_week": 3,
         "end_week": 22,
-        "period": "FEL",
+        "periods": [
+            3,
+            4
+        ],
         "type": "Valbar",
         "academic_focus": null,
         "prerequisites": "Kursen har f\u00f6ljande h\u00f6gskolekurser som f\u00f6rkunskapskrav: Godk\u00e4nda kurser: ME1561-Introduktion i medieteknik.",
@@ -85,7 +97,10 @@
         "semester": "H\u00f6sttermin 2017",
         "start_week": 35,
         "end_week": 2,
-        "period": "FEL",
+        "periods": [
+            1,
+            2
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "Genomg\u00e5ngen kurs ME1575 Projektmetodik f\u00f6r medieteknik",
@@ -105,7 +120,10 @@
         "semester": "H\u00f6sttermin 2017",
         "start_week": 35,
         "end_week": 2,
-        "period": "FEL",
+        "periods": [
+            1,
+            2
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngen kurs ME1561 Introduktion till medieteknik.",
@@ -125,7 +143,10 @@
         "semester": "V\u00e5rtermin 2018",
         "start_week": 3,
         "end_week": 22,
-        "period": "FEL",
+        "periods": [
+            3,
+            4
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "Kursen har f\u00f6ljande h\u00f6gskolekurser som f\u00f6rkunskapskrav: Genomg\u00e5ngna kurser: ME1581-Situated Making.",
@@ -145,7 +166,10 @@
         "semester": "V\u00e5rtermin 2018",
         "start_week": 3,
         "end_week": 22,
-        "period": "FEL",
+        "periods": [
+            3,
+            4
+        ],
         "type": "Valbar",
         "academic_focus": null,
         "prerequisites": "Kursen har f\u00f6ljande h\u00f6gskolekurser som f\u00f6rkunskapskrav: Genomg\u00e5ngna kurser: ME1555-F\u00f6rdjupning i ber\u00e4ttande f\u00f6r medieteknik.",
@@ -165,7 +189,9 @@
         "semester": "H\u00f6sttermin 2018",
         "start_week": 36,
         "end_week": 44,
-        "period": "1",
+        "periods": [
+            1
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs 90 hp avklarade i huvudomr\u00e5det medieteknik.",
@@ -185,7 +211,9 @@
         "semester": "H\u00f6sttermin 2018",
         "start_week": 45,
         "end_week": 49,
-        "period": "2",
+        "periods": [
+            2
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs 90 hp avklarade i huvudomr\u00e5det medieteknik.",
@@ -205,7 +233,9 @@
         "semester": "H\u00f6sttermin 2018",
         "start_week": 50,
         "end_week": 3,
-        "period": "2",
+        "periods": [
+            2
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs 90 hp avklarade i huvudomr\u00e5det medieteknik.",
@@ -225,7 +255,10 @@
         "semester": "V\u00e5rtermin 2019",
         "start_week": 4,
         "end_week": 23,
-        "period": "3",
+        "periods": [
+            3,
+            4
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs minst 90 hp inom huvudomr\u00e5det Medieteknik samt moment Medietekniska unders\u00f6kningar 1 i kursen Forskningsmetodik f\u00f6r medieteknik.",
@@ -241,21 +274,39 @@
     },
     "_groups": {
         "2016": {
-            "FEL": [
+            "1": [
+                "ME1561",
+                "ME1570"
+            ],
+            "2": [
                 "ME1561",
                 "ME1570"
             ]
         },
         "2017": {
-            "FEL": [
+            "3": [
                 "ME1578",
-                "ME1575",
+                "ME1575"
+            ],
+            "4": [
+                "ME1578",
+                "ME1575"
+            ],
+            "1": [
+                "ME1584",
+                "ME1589"
+            ],
+            "2": [
                 "ME1584",
                 "ME1589"
             ]
         },
         "2018": {
-            "FEL": [
+            "3": [
+                "ME1587",
+                "ME1557"
+            ],
+            "4": [
                 "ME1587",
                 "ME1557"
             ],
@@ -269,6 +320,9 @@
         },
         "2019": {
             "3": [
+                "ME1588"
+            ],
+            "4": [
                 "ME1588"
             ]
         }

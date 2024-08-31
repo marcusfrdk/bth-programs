@@ -5,7 +5,10 @@
         "semester": "H\u00f6sttermin 2017",
         "start_week": 35,
         "end_week": 2,
-        "period": "FEL",
+        "periods": [
+            1,
+            2
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "Kandidatexamen i fysisk planering, arkitektur, landskapsarkitektur eller motsvarande. Alternativt kandidatexamen 180hp i planering eller motsvarande och d\u00e4rut\u00f6ver 30hp i rumslig gestaltning.",
@@ -25,7 +28,10 @@
         "semester": "H\u00f6sttermin 2017",
         "start_week": 35,
         "end_week": 2,
-        "period": "FEL",
+        "periods": [
+            1,
+            2
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "Kandidatexamen i fysisk planering, arkitektur, landskapsarkitektur eller motsvarande. Alternativt kandidatexamen 180hp i planering eller motsvarande och d\u00e4rut\u00f6ver 30hp i rumslig gestaltning.",
@@ -45,7 +51,10 @@
         "semester": "V\u00e5rtermin 2018",
         "start_week": 3,
         "end_week": 22,
-        "period": "FEL",
+        "periods": [
+            3,
+            4
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "30hp i kurser p\u00e5 avancerad niv\u00e5 inom huvudomr\u00e5det Fysisk planering.",
@@ -65,7 +74,10 @@
         "semester": "V\u00e5rtermin 2018",
         "start_week": 3,
         "end_week": 22,
-        "period": "FEL",
+        "periods": [
+            3,
+            4
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "Genomg\u00e5ngna kurser motsvarande 30hp p\u00e5 avancerad niv\u00e5 inom huvudomr\u00e5det Fysisk planering",
@@ -85,7 +97,10 @@
         "semester": "V\u00e5rtermin 2018",
         "start_week": 3,
         "end_week": 22,
-        "period": "FEL",
+        "periods": [
+            3,
+            4
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "Genomg\u00e5ngna kurser motsvarande 30hp p\u00e5 avancerad niv\u00e5 inom huvudomr\u00e5det Fysisk planering",
@@ -105,7 +120,9 @@
         "semester": "H\u00f6sttermin 2018",
         "start_week": 36,
         "end_week": 40,
-        "period": "1",
+        "periods": [
+            1
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "60hp i kurser p\u00e5 avancerad niv\u00e5 inom huvudomr\u00e5det Fysisk planering.",
@@ -125,7 +142,9 @@
         "semester": "H\u00f6sttermin 2018",
         "start_week": 40,
         "end_week": 49,
-        "period": "2",
+        "periods": [
+            2
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "60hp i kurser p\u00e5 avancerad niv\u00e5 inom huvudomr\u00e5det Fysisk planering.",
@@ -145,7 +164,9 @@
         "semester": "H\u00f6sttermin 2018",
         "start_week": 49,
         "end_week": 3,
-        "period": "2",
+        "periods": [
+            2
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "60hp i kurser p\u00e5 avancerad niv\u00e5 inom huvudomr\u00e5det Fysisk planering.",
@@ -165,7 +186,10 @@
         "semester": "V\u00e5rtermin 2019",
         "start_week": 4,
         "end_week": 23,
-        "period": "3",
+        "periods": [
+            3,
+            4
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "Innan examensarbetet p\u00e5b\u00f6rjas f\u00e5r h\u00f6gst 15hp restera.",
@@ -181,13 +205,22 @@
     },
     "_groups": {
         "2017": {
-            "FEL": [
+            "1": [
+                "FM2591",
+                "FM2596"
+            ],
+            "2": [
                 "FM2591",
                 "FM2596"
             ]
         },
         "2018": {
-            "FEL": [
+            "3": [
+                "FM2592",
+                "FM2598",
+                "FM2597"
+            ],
+            "4": [
                 "FM2592",
                 "FM2598",
                 "FM2597"
@@ -202,6 +235,9 @@
         },
         "2019": {
             "3": [
+                "FM2594"
+            ],
+            "4": [
                 "FM2594"
             ]
         }

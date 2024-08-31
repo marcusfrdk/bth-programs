@@ -5,7 +5,10 @@
         "semester": "H\u00f6sttermin 2021",
         "start_week": 35,
         "end_week": 22,
-        "period": 1,
+        "periods": [
+            1,
+            2
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "Sjuksk\u00f6terskeexamen och kandidatexamen i omv\u00e5rdnad/v\u00e5rdvetenskap.\nSvensk legitimation som sjuksk\u00f6terska. \nYrkeserfarenhet som sjuksk\u00f6terska motsvarande 6 m\u00e5naders heltidstj\u00e4nstg\u00f6ring.",
@@ -25,7 +28,9 @@
         "semester": "V\u00e5rtermin 2022",
         "start_week": 3,
         "end_week": 12,
-        "period": 3,
+        "periods": [
+            3
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "Sjuksk\u00f6terskeexamen och kandidatexamen i omv\u00e5rdnad/v\u00e5rdvetenskap.\nSvensk legitimation som sjuksk\u00f6terska. \nYrkeserfarenhet som sjuksk\u00f6terska motsvarande 6 m\u00e5naders heltidstj\u00e4nstg\u00f6ring.",
@@ -45,7 +50,10 @@
         "semester": "H\u00f6sttermin 2022",
         "start_week": 35,
         "end_week": 2,
-        "period": 1,
+        "periods": [
+            1,
+            2
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "Sjuksk\u00f6terskeexamen och kandidatexamen i omv\u00e5rdnad/v\u00e5rdvetenskap.\nSvensk legitimation som sjuksk\u00f6terska. \nYrkeserfarenhet som sjuksk\u00f6terska motsvarande 6 m\u00e5naders heltidstj\u00e4nstg\u00f6ring. D\u00e4rut\u00f6ver kr\u00e4vs minst 15 hp p\u00e5 niv\u00e5 A1N inom omv\u00e5rdnad.",
@@ -65,7 +73,10 @@
         "semester": "V\u00e5rtermin 2023",
         "start_week": 3,
         "end_week": 22,
-        "period": 3,
+        "periods": [
+            3,
+            4
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarad kurs Specialistsjuksk\u00f6terskans profession och vetenskapliga f\u00f6rh\u00e5llningss\u00e4tt inom v\u00e5rd av \u00e4ldre, 30 hp.",
@@ -83,6 +94,9 @@
         "2021": {
             "1": [
                 "OM2532"
+            ],
+            "2": [
+                "OM2532"
             ]
         },
         "2022": {
@@ -91,10 +105,16 @@
             ],
             "1": [
                 "OM2534"
+            ],
+            "2": [
+                "OM2534"
             ]
         },
         "2023": {
             "3": [
+                "OM2535"
+            ],
+            "4": [
                 "OM2535"
             ]
         }

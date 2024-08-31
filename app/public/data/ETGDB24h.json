@@ -5,7 +5,9 @@
         "semester": "H\u00f6sttermin 2024",
         "start_week": 36,
         "end_week": 44,
-        "period": "1",
+        "periods": [
+            1
+        ],
         "type": "Obligatorisk",
         "academic_focus": "JNTU Kakinada",
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs 120 hp fr\u00e5n en ingenj\u00f6rsutbildning eller kandidatutbildning, varav minst 60 hp ska vara avklarade.",
@@ -25,7 +27,9 @@
         "semester": "H\u00f6sttermin 2024",
         "start_week": 36,
         "end_week": 44,
-        "period": "1",
+        "periods": [
+            1
+        ],
         "type": "Obligatorisk",
         "academic_focus": "JINTU Ananthapur",
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser eller moment fr\u00e5n kurser i programmering omfattande 7,5 hp.\n",
@@ -45,7 +49,9 @@
         "semester": "H\u00f6sttermin 2024",
         "start_week": 45,
         "end_week": 3,
-        "period": "2",
+        "periods": [
+            2
+        ],
         "type": "Obligatorisk",
         "academic_focus": "JINTU Ananthapur",
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarad kurs i Elektroteknik med till\u00e4mpningar inom m\u00e4tteknik, 6 hp samt genomg\u00e5ngna kurser i Elektromagnetisk f\u00e4ltteori, 6 hp, Reglerteknik, grundkurs, 6 hp och Signaler och system, forts\u00e4ttningskurs, 4 hp.",
@@ -57,7 +63,7 @@
         "start_year": 2024,
         "end_year": 2025,
         "course_duration": 11,
-        "is_double": true
+        "is_double": false
     },
     "ET1542": {
         "name": "N\u00e4tverksbaserade system",
@@ -65,7 +71,9 @@
         "semester": "H\u00f6sttermin 2024",
         "start_week": 45,
         "end_week": 3,
-        "period": "2",
+        "periods": [
+            2
+        ],
         "type": "Obligatorisk",
         "academic_focus": "JINTU Ananthapur",
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarad kurs i programmering om minst 7,5 hp.\n",
@@ -77,7 +85,7 @@
         "start_year": 2024,
         "end_year": 2025,
         "course_duration": 11,
-        "is_double": true
+        "is_double": false
     },
     "ET1544": {
         "name": "Projektkurs i elektroteknik med inriktning mot IoT",
@@ -85,7 +93,9 @@
         "semester": "V\u00e5rtermin 2025",
         "start_week": 4,
         "end_week": 13,
-        "period": "3",
+        "periods": [
+            3
+        ],
         "type": "Obligatorisk",
         "academic_focus": "JINTU Ananthapur",
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att kurser motsvarande minst 60 h\u00f6gskolepo\u00e4ng inom \u00e4mnet Elektroteknik, varav minst 15 h\u00f6gskolepo\u00e4ng, f\u00f6r projektet relevanta kurser, \u00e4r genomg\u00e5ngna.\n",
@@ -105,7 +115,9 @@
         "semester": "V\u00e5rtermin 2025",
         "start_week": 4,
         "end_week": 13,
-        "period": "3",
+        "periods": [
+            3
+        ],
         "type": "Obligatorisk",
         "academic_focus": "JINTU Ananthapur",
         "prerequisites": "Genomg\u00e5ngna: ET1447 Data- och telekommunikation, MA1458 Matematik forts\u00e4ttningskurs, MS2502 Stokastiska processer\n",
@@ -125,7 +137,9 @@
         "semester": "V\u00e5rtermin 2025",
         "start_week": 14,
         "end_week": 23,
-        "period": "FEL",
+        "periods": [
+            4
+        ],
         "type": "Obligatorisk",
         "academic_focus": "JINTU Ananthapur",
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser om minst 135 h\u00f6gskolepo\u00e4ng, varav minst 45 h\u00f6gskolepo\u00e4ng inom elektroteknik. Ut\u00f6ver 45 avklarade h\u00f6gskolepo\u00e4ng i elektroteknik kr\u00e4vs 15 genomg\u00e5ngna h\u00f6gskolepo\u00e4ng i elektroteknik.\n",
@@ -155,7 +169,7 @@
                 "ET1544",
                 "ET2568"
             ],
-            "FEL": [
+            "4": [
                 "ET1553"
             ]
         }

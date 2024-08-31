@@ -5,7 +5,9 @@
         "semester": "V\u00e5rtermin 2019",
         "start_week": 14,
         "end_week": 18,
-        "period": 4,
+        "periods": [
+            4
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "Grundl\u00e4ggande beh\u00f6righet + Matematik 3b / 3c, Samh\u00e4llskunskap 1b / 1a1 +1a2. Eller: Matematik C, Samh\u00e4llskunskap A. Naturkunskap B beh\u00f6vs ej.",
@@ -25,7 +27,9 @@
         "semester": "V\u00e5rtermin 2019",
         "start_week": 19,
         "end_week": 23,
-        "period": 4,
+        "periods": [
+            4
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "Grundl\u00e4ggande beh\u00f6righet + Matematik 3b / 3c, Naturkunskap 2, Samh\u00e4llskunskap 1b / 1a1 +1a2. Eller: Matematik C, Naturkunskap B, Samh\u00e4llskunskap A. Naturkunskap B beh\u00f6vs ej.",
@@ -45,7 +49,9 @@
         "semester": "H\u00f6sttermin 2019",
         "start_week": 45,
         "end_week": 3,
-        "period": 2,
+        "periods": [
+            2
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngna kurser motsvarande 60 hp fr\u00e5n programmet Fysisk planering",
@@ -57,7 +63,7 @@
         "start_year": 2019,
         "end_year": 2020,
         "course_duration": 11,
-        "is_double": true
+        "is_double": false
     },
     "FM1476": {
         "name": "Planeringsteori",
@@ -65,7 +71,9 @@
         "semester": "V\u00e5rtermin 2020",
         "start_week": 4,
         "end_week": 8,
-        "period": 3,
+        "periods": [
+            3
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "Minst 60 h\u00f6gskolepo\u00e4ng enligt programmet Fysisk planering.",
@@ -85,7 +93,9 @@
         "semester": "V\u00e5rtermin 2020",
         "start_week": 9,
         "end_week": 13,
-        "period": 3,
+        "periods": [
+            3
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "Minst 60 h\u00f6gskolepo\u00e4ng enligt programmet Fysisk planering.",
@@ -105,7 +115,9 @@
         "semester": "V\u00e5rtermin 2020",
         "start_week": 19,
         "end_week": 23,
-        "period": 4,
+        "periods": [
+            4
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "60hp fr\u00e5n programmet Fysisk planering",
@@ -125,7 +137,9 @@
         "semester": "H\u00f6sttermin 2020",
         "start_week": 36,
         "end_week": 44,
-        "period": 1,
+        "periods": [
+            1
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "120 hp fr\u00e5n programmet fysisk planering ska vara genomg\u00e5ngna.",
@@ -145,7 +159,9 @@
         "semester": "H\u00f6sttermin 2020",
         "start_week": 45,
         "end_week": 49,
-        "period": 2,
+        "periods": [
+            2
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngna kurser om minst 120 hp inom huvudomr\u00e5det Fysisk planering.",

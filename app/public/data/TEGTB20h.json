@@ -5,7 +5,10 @@
         "semester": "H\u00f6sttermin 2020",
         "start_week": 35,
         "end_week": 2,
-        "period": 1,
+        "periods": [
+            1,
+            2
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs grundl\u00e4ggande beh\u00f6righet samt Matematik B eller Matematik 2a/2b/2c.",
@@ -25,7 +28,10 @@
         "semester": "H\u00f6sttermin 2020",
         "start_week": 36,
         "end_week": 2,
-        "period": 1,
+        "periods": [
+            1,
+            2
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "Grundl\u00e4ggande beh\u00f6righet och Matematik 2a/2b/2c samt p\u00e5b\u00f6rjad kurs Matematik gamma 15 fup.",
@@ -45,7 +51,10 @@
         "semester": "H\u00f6sttermin 2020",
         "start_week": 40,
         "end_week": 12,
-        "period": 1,
+        "periods": [
+            2,
+            3
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs grundl\u00e4ggande beh\u00f6righet samt Matematik 2a/2b/2c.",
@@ -65,7 +74,10 @@
         "semester": "V\u00e5rtermin 2021",
         "start_week": 3,
         "end_week": 22,
-        "period": 3,
+        "periods": [
+            3,
+            4
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs grundl\u00e4ggande beh\u00f6righet och Matematik 2a/2b/2c samt genomg\u00e5ngna kurser Matematik gamma 15 fup och Matematik delta, 10 fup.",
@@ -85,7 +97,10 @@
         "semester": "V\u00e5rtermin 2021",
         "start_week": 3,
         "end_week": 22,
-        "period": 3,
+        "periods": [
+            3,
+            4
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs 2,5 fup avklarade p\u00e5 kursen Matematik gamma, 15 fup.",
@@ -103,12 +118,23 @@
         "2020": {
             "1": [
                 "MA0005",
+                "FY0003"
+            ],
+            "2": [
+                "MA0005",
                 "FY0003",
+                "KE0003"
+            ],
+            "3": [
                 "KE0003"
             ]
         },
         "2021": {
             "3": [
+                "FY0005",
+                "MA0007"
+            ],
+            "4": [
                 "FY0005",
                 "MA0007"
             ]

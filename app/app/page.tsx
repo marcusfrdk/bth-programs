@@ -53,20 +53,20 @@ export default async function Home() {
   });
 
   return (
-    <QueryProvider>
-      <DataProvider 
-        names={names} 
-        programs={index}
-        teachers={teachers}
-        initialComparedPrograms={comparedPrograms}
-        initialSelectedProgram={hasSelectedProgram ? {
-          name: names[selectedCode],
-          code: selectedCode,
-          semester: selectedSemester
-        } : null}
-      >
+    <DataProvider 
+      names={names} 
+      programs={index}
+      teachers={teachers}
+      initialComparedPrograms={comparedPrograms}
+      initialSelectedProgram={hasSelectedProgram ? {
+        name: names[selectedCode],
+        code: selectedCode,
+        semester: selectedSemester
+      } : null}
+    >
+      <QueryProvider>
         <App/>
-      </DataProvider>
-    </QueryProvider>
+      </QueryProvider>
+    </DataProvider>
   );
 }

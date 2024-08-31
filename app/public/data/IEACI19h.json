@@ -5,7 +5,9 @@
         "semester": "H\u00f6sttermin 2019",
         "start_week": 35,
         "end_week": 44,
-        "period": 1,
+        "periods": [
+            1
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "Grundl\u00e4ggande beh\u00f6righet samt Matematik 4 och Fysik 2.",
@@ -25,7 +27,9 @@
         "semester": "H\u00f6sttermin 2019",
         "start_week": 35,
         "end_week": 44,
-        "period": 1,
+        "periods": [
+            1
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "Grundl\u00e4ggande beh\u00f6righet.",
@@ -45,7 +49,10 @@
         "semester": "H\u00f6sttermin 2019",
         "start_week": 36,
         "end_week": 3,
-        "period": 1,
+        "periods": [
+            1,
+            2
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "Grundl\u00e4ggande beh\u00f6righet + Fysik 2, Kemi 1, Matematik 4. Eller: Fysik B, Kemi A, Matematik E.",
@@ -65,7 +72,9 @@
         "semester": "H\u00f6sttermin 2019",
         "start_week": 45,
         "end_week": 3,
-        "period": 2,
+        "periods": [
+            2
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "Grundl\u00e4ggande beh\u00f6righet samt Matematik 4 och Fysik 2.",
@@ -77,7 +86,7 @@
         "start_year": 2019,
         "end_year": 2020,
         "course_duration": 11,
-        "is_double": true
+        "is_double": false
     },
     "IY1417": {
         "name": "Till\u00e4mpad mikroekonomi och strategi",
@@ -85,7 +94,9 @@
         "semester": "H\u00f6sttermin 2019",
         "start_week": 45,
         "end_week": 3,
-        "period": 2,
+        "periods": [
+            2
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "Grundl\u00e4ggande beh\u00f6righet.",
@@ -97,7 +108,7 @@
         "start_year": 2019,
         "end_year": 2020,
         "course_duration": 11,
-        "is_double": true
+        "is_double": false
     },
     "DV1574": {
         "name": "Programmering och probleml\u00f6sning med Python",
@@ -105,7 +116,10 @@
         "semester": "V\u00e5rtermin 2020",
         "start_week": 4,
         "end_week": 23,
-        "period": 3,
+        "periods": [
+            3,
+            4
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "Grundl\u00e4ggande beh\u00f6righet",
@@ -125,7 +139,9 @@
         "semester": "V\u00e5rtermin 2020",
         "start_week": 4,
         "end_week": 13,
-        "period": 3,
+        "periods": [
+            3
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "Omr\u00e5desbeh\u00f6righet 9: Matematik E, Fysik B. (Kemi A kr\u00e4vs ej)  eller omr\u00e5desbeh\u00f6righet A9: Matematik 4, Fysik 2. (Kemi 1 kr\u00e4vs ej).",
@@ -145,7 +161,9 @@
         "semester": "V\u00e5rtermin 2020",
         "start_week": 4,
         "end_week": 13,
-        "period": 3,
+        "periods": [
+            3
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "Grundl\u00e4ggande beh\u00f6righet samt Matematik 3c och Fysik 2.",
@@ -165,7 +183,9 @@
         "semester": "V\u00e5rtermin 2020",
         "start_week": 14,
         "end_week": 23,
-        "period": 4,
+        "periods": [
+            4
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "Genomg\u00e5ngna kurser Matematik, grundkurs, 4 hp alternativt Matematisk probleml\u00f6sning, 4 hp och Linj\u00e4r algebra 1, 6 hp eller motsvarande.",
@@ -185,7 +205,9 @@
         "semester": "V\u00e5rtermin 2020",
         "start_week": 14,
         "end_week": 23,
-        "period": 4,
+        "periods": [
+            4
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "Grundl\u00e4ggande beh\u00f6righet.",
@@ -205,7 +227,9 @@
         "semester": "H\u00f6sttermin 2020",
         "start_week": 36,
         "end_week": 44,
-        "period": 1,
+        "periods": [
+            1
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "Genomg\u00e5ngen kurs MA1444 Analys 1, 6 hp.",
@@ -225,7 +249,9 @@
         "semester": "H\u00f6sttermin 2020",
         "start_week": 36,
         "end_week": 44,
-        "period": 1,
+        "periods": [
+            1
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "Grundl\u00e4ggande beh\u00f6righet samt genomg\u00e5ngna kurser i Till\u00e4mpad mikroekonomi och strategi 6 hp och F\u00f6retag och organisation 6 hp.",
@@ -245,7 +271,10 @@
         "semester": "H\u00f6sttermin 2020",
         "start_week": 36,
         "end_week": 2,
-        "period": 1,
+        "periods": [
+            1,
+            2
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "Grundl\u00e4ggande beh\u00f6righet.",
@@ -265,7 +294,9 @@
         "semester": "H\u00f6sttermin 2020",
         "start_week": 45,
         "end_week": 2,
-        "period": 2,
+        "periods": [
+            2
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "Avklarade kurser: Analys 1 (MA1444), Fysik Grundkurs (FY1422). Genomg\u00e5ngen kurs: Analys 2 (MA1445).",
@@ -285,7 +316,9 @@
         "semester": "H\u00f6sttermin 2020",
         "start_week": 45,
         "end_week": 2,
-        "period": 2,
+        "periods": [
+            2
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngna kurser Linj\u00e4r algebra 6 hp, Analys 6 hp och Analys 2 6 hp.",
@@ -305,7 +338,9 @@
         "semester": "V\u00e5rtermin 2021",
         "start_week": 3,
         "end_week": 12,
-        "period": 3,
+        "periods": [
+            3
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser Analys 2, 6 hp och Fysik f\u00f6r ingenj\u00f6rer 1, 4 hp, samt genomg\u00e5ngen kurs Fysik f\u00f6r ingenj\u00f6rer 2, 6 hp.",
@@ -325,7 +360,9 @@
         "semester": "V\u00e5rtermin 2021",
         "start_week": 3,
         "end_week": 12,
-        "period": 3,
+        "periods": [
+            3
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "Grundl\u00e4ggande beh\u00f6righet samt genomg\u00e5ngen kurs i Mikroekonomi och strategi 6 hp.",
@@ -345,7 +382,10 @@
         "semester": "V\u00e5rtermin 2021",
         "start_week": 3,
         "end_week": 22,
-        "period": 3,
+        "periods": [
+            3,
+            4
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "Avklarad kurs i programmering i en omfattning av minst 6 h\u00f6gskolepo\u00e4ng.",
@@ -365,7 +405,9 @@
         "semester": "V\u00e5rtermin 2021",
         "start_week": 13,
         "end_week": 22,
-        "period": 4,
+        "periods": [
+            4
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "Grundl\u00e4ggande beh\u00f6righet",
@@ -385,7 +427,9 @@
         "semester": "V\u00e5rtermin 2021",
         "start_week": 13,
         "end_week": 22,
-        "period": 4,
+        "periods": [
+            4
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att studenten har avklarat 6  hp i programmering.",
@@ -405,7 +449,9 @@
         "semester": "H\u00f6sttermin 2021",
         "start_week": 35,
         "end_week": 43,
-        "period": 1,
+        "periods": [
+            1
+        ],
         "type": "Obligatorisk",
         "academic_focus": "Industriell mjukvaruutveckling",
         "prerequisites": "Genomg\u00e5ngna kurser i Analys 12 hp samt Linj\u00e4r algebra 6 hp (eller motsvarande).",
@@ -425,7 +471,9 @@
         "semester": "H\u00f6sttermin 2021",
         "start_week": 35,
         "end_week": 43,
-        "period": 1,
+        "periods": [
+            1
+        ],
         "type": "Obligatorisk",
         "academic_focus": "Industriell mjukvaruutveckling",
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs 75 avklarade h\u00f6gskolepo\u00e4ng fr\u00e5n ett ingenj\u00f6rsprogram inom\nmaskinteknik eller industriell ekonomi inkluderande avklarad kurs Milj\u00f6strategi och h\u00e5llbar utveckling, 6 hp eller H\u00e5llbarhetsgrunder, 6 hp.",
@@ -445,7 +493,9 @@
         "semester": "H\u00f6sttermin 2021",
         "start_week": 35,
         "end_week": 43,
-        "period": 1,
+        "periods": [
+            1
+        ],
         "type": "Obligatorisk",
         "academic_focus": "Maskinteknik och h\u00e5llbar produktinnovation",
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att 1,5 hp fr\u00e5n kursen Fysik grundkurs samt 1,5 hp fr\u00e5n kursen Analys 1 \u00e4r avklarade.",
@@ -465,7 +515,9 @@
         "semester": "H\u00f6sttermin 2021",
         "start_week": 35,
         "end_week": 43,
-        "period": 1,
+        "periods": [
+            1
+        ],
         "type": "Obligatorisk",
         "academic_focus": "Industriell mjukvaruutveckling",
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngen kurs, Programmering och probleml\u00f6sning med Python, 6 hp, varav minst 2 hp ska vara avklarade.",
@@ -485,7 +537,9 @@
         "semester": "H\u00f6sttermin 2021",
         "start_week": 44,
         "end_week": 2,
-        "period": 2,
+        "periods": [
+            2
+        ],
         "type": "Obligatorisk",
         "academic_focus": "Industriell mjukvaruutveckling",
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarad kurs Teknisk introduktionskurs med ingenj\u00f6rsmetodik, 8 hp eller Grunder i spelutveckling, 8 hp.",
@@ -497,7 +551,7 @@
         "start_year": 2021,
         "end_year": 2022,
         "course_duration": 11,
-        "is_double": true
+        "is_double": false
     },
     "IY1420": {
         "name": "Ekonometri",
@@ -505,7 +559,9 @@
         "semester": "H\u00f6sttermin 2021",
         "start_week": 44,
         "end_week": 2,
-        "period": 2,
+        "periods": [
+            2
+        ],
         "type": "Obligatorisk",
         "academic_focus": "Industriell mjukvaruutveckling",
         "prerequisites": "Grundl\u00e4ggande beh\u00f6righet samt genomg\u00e5ngna kurser i Mikroekonomi och strategi 6 hp samt F\u00f6retag och organisation 6 hp.",
@@ -517,7 +573,7 @@
         "start_year": 2021,
         "end_year": 2022,
         "course_duration": 11,
-        "is_double": true
+        "is_double": false
     },
     "PA2576": {
         "name": "Programvaruintensiv produktutveckling",
@@ -525,7 +581,10 @@
         "semester": "V\u00e5rtermin 2022",
         "start_week": 3,
         "end_week": 22,
-        "period": 3,
+        "periods": [
+            3,
+            4
+        ],
         "type": "Obligatorisk",
         "academic_focus": "Industriell mjukvaruutveckling",
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser i programmering i en omfattning av 12 h\u00f6gskolepo\u00e4ng.",
@@ -545,7 +604,9 @@
         "semester": "V\u00e5rtermin 2022",
         "start_week": 3,
         "end_week": 12,
-        "period": 3,
+        "periods": [
+            3
+        ],
         "type": "Obligatorisk",
         "academic_focus": "Industriell mjukvaruutveckling",
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att den studerande har avklarat programmering motsvarande 6 h\u00f6gskolepo\u00e4ng.",
@@ -565,7 +626,9 @@
         "semester": "V\u00e5rtermin 2022",
         "start_week": 3,
         "end_week": 12,
-        "period": 3,
+        "periods": [
+            3
+        ],
         "type": "Obligatorisk",
         "academic_focus": "Maskinteknik och h\u00e5llbar produktinnovation",
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser Dynamik 6 hp eller Fysik f\u00f6r Ingenj\u00f6rer 2, 6 hp och Analys 2 6 hp samt genomg\u00e5ngna kurser Matematisk statistik, 6 hp och Fysik forts\u00e4ttningskurs, 6 hp eller Fysik f\u00f6r ingenj\u00f6rer 3, 6 hp.",
@@ -585,7 +648,9 @@
         "semester": "V\u00e5rtermin 2022",
         "start_week": 3,
         "end_week": 12,
-        "period": 3,
+        "periods": [
+            3
+        ],
         "type": "Obligatorisk",
         "academic_focus": "Maskinteknik och h\u00e5llbar produktinnovation",
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen ska 3 hp fr\u00e5n kursen H\u00e5llfasthetsl\u00e4ra grundkurs vara avklarad.",
@@ -605,7 +670,9 @@
         "semester": "V\u00e5rtermin 2022",
         "start_week": 13,
         "end_week": 22,
-        "period": 4,
+        "periods": [
+            4
+        ],
         "type": "Obligatorisk",
         "academic_focus": "Industriell mjukvaruutveckling",
         "prerequisites": "Grundl\u00e4ggande beh\u00f6righet samt genomg\u00e5ngna kurser i Grunderna i industriell ekonomi 6 hp, Mikroekonomi och strategi 6 hp och Ekonometri 6 hp.",
@@ -625,7 +692,9 @@
         "semester": "V\u00e5rtermin 2022",
         "start_week": 13,
         "end_week": 22,
-        "period": 4,
+        "periods": [
+            4
+        ],
         "type": "Obligatorisk",
         "academic_focus": "Maskinteknik och h\u00e5llbar produktinnovation",
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarad kurs H\u00e5llbarhetsgrunder, 6 hp samt genomg\u00e5ngna kurser Termodynamik, 6 hp och Materiall\u00e4ra, 6 hp.",
@@ -645,7 +714,9 @@
         "semester": "V\u00e5rtermin 2022",
         "start_week": 13,
         "end_week": 22,
-        "period": 4,
+        "periods": [
+            4
+        ],
         "type": "Obligatorisk",
         "academic_focus": "Industriell mjukvaruutveckling",
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs minst 6 hp avklarade i grundl\u00e4ggande programmering i C++, Java eller Python samt minst 2 hp avklarade i objektorienterad programmering.",
@@ -665,7 +736,9 @@
         "semester": "V\u00e5rtermin 2022",
         "start_week": 13,
         "end_week": 22,
-        "period": 4,
+        "periods": [
+            4
+        ],
         "type": "Obligatorisk",
         "academic_focus": "Maskinteknik och h\u00e5llbar produktinnovation",
         "prerequisites": "Grundl\u00e4ggande beh\u00f6righet",
@@ -685,7 +758,9 @@
         "semester": "H\u00f6sttermin 2022",
         "start_week": 35,
         "end_week": 43,
-        "period": 1,
+        "periods": [
+            1
+        ],
         "type": "Obligatorisk",
         "academic_focus": "Industriell mjukvaruutveckling",
         "prerequisites": "Avklarade kurser Introduktion till industriell ekonomi 6 hp, Mikroekonomi och strategi 6 hp eller motsvarande",
@@ -705,7 +780,9 @@
         "semester": "H\u00f6sttermin 2022",
         "start_week": 35,
         "end_week": 43,
-        "period": 1,
+        "periods": [
+            1
+        ],
         "type": "Valbar",
         "academic_focus": "Industriell mjukvaruutveckling",
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs 12 avklarade hp fr\u00e5n moment i programmeringskurser (Python eller dylikt) samt 6 avklarade hp i datastrukturer och algoritmer.",
@@ -725,7 +802,9 @@
         "semester": "H\u00f6sttermin 2022",
         "start_week": 35,
         "end_week": 43,
-        "period": 1,
+        "periods": [
+            1
+        ],
         "type": "Valbar",
         "academic_focus": "Industriell mjukvaruutveckling",
         "prerequisites": "Grundl\u00e4ggande beh\u00f6righet.",
@@ -745,7 +824,9 @@
         "semester": "H\u00f6sttermin 2022",
         "start_week": 35,
         "end_week": 43,
-        "period": 1,
+        "periods": [
+            1
+        ],
         "type": "Valbar",
         "academic_focus": "Maskinteknik och h\u00e5llbar produktinnovation",
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs 150 avklarade h\u00f6gskolepo\u00e4ng varav 60 hp fr\u00e5n ett cvilingenj\u00f6rsprogram i maskinteknik eller industriell ekonomi inkluderande avklarad kurs Produktutvecklingsmetodik (Innovativ- och h\u00e5llbar produktutveckling 1), 6 hp, Industriell ekonomi, \u00f6versiktskurs 6 hp eller Grunderna i industriell ekonomi 6 hp.",
@@ -765,7 +846,9 @@
         "semester": "H\u00f6sttermin 2022",
         "start_week": 35,
         "end_week": 43,
-        "period": 1,
+        "periods": [
+            1
+        ],
         "type": "Valbar",
         "academic_focus": "Maskinteknik och h\u00e5llbar produktinnovation",
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs 150 avklarade h\u00f6gskolepo\u00e4ng varav 60 hp ska vara fr\u00e5n ett civilingenj\u00f6rsprogram i maskinteknik eller industriell ekonomi. I de 60 hp ska kurs om minst 6 hp Datorst\u00f6dd konstruktion, CAD ( Datorst\u00f6d f\u00f6r Ingenj\u00f6rsarbete) ing\u00e5. Dessutom kr\u00e4vs genomg\u00e5ngen kurs om minst 6 hp i Produktutvecklingsmetodik (Innovativ och H\u00e5llbar produktutveckling 1) och Matematisk statistik 6 hp.",
@@ -785,7 +868,9 @@
         "semester": "H\u00f6sttermin 2022",
         "start_week": 44,
         "end_week": 2,
-        "period": 2,
+        "periods": [
+            2
+        ],
         "type": "Obligatorisk",
         "academic_focus": "Industriell mjukvaruutveckling",
         "prerequisites": "Avklarade kurser i Grunderna i industriell ekonomi 6 hp, Mikroekonomi och strategi 6 hp och Finansiell ekonomi 6 hp.",
@@ -797,7 +882,7 @@
         "start_year": 2022,
         "end_year": 2023,
         "course_duration": 11,
-        "is_double": true
+        "is_double": false
     },
     "MA2512": {
         "name": "Till\u00e4mpad optimering",
@@ -805,7 +890,9 @@
         "semester": "H\u00f6sttermin 2022",
         "start_week": 44,
         "end_week": 2,
-        "period": 2,
+        "periods": [
+            2
+        ],
         "type": "Valbar",
         "academic_focus": "Industriell mjukvaruutveckling",
         "prerequisites": "Genomg\u00e5ngna kurser i Analys 12 hp, Flervariabelanalys 6 hp samt Linj\u00e4r algebra 6 hp.",
@@ -817,7 +904,7 @@
         "start_year": 2022,
         "end_year": 2023,
         "course_duration": 11,
-        "is_double": true
+        "is_double": false
     },
     "SL2559": {
         "name": "Strategisk planering f\u00f6r organisatoriska h\u00e5llbarhetsomst\u00e4llningar",
@@ -825,7 +912,9 @@
         "semester": "H\u00f6sttermin 2022",
         "start_week": 44,
         "end_week": 2,
-        "period": 2,
+        "periods": [
+            2
+        ],
         "type": "Valbar",
         "academic_focus": "Maskinteknik och h\u00e5llbar produktinnovation",
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs minst 120 avklarade hp inklusive minst 1,5 hp i strategisk h\u00e5llbar utveckling. Engelska 6.",
@@ -837,7 +926,7 @@
         "start_year": 2022,
         "end_year": 2023,
         "course_duration": 11,
-        "is_double": true
+        "is_double": false
     },
     "DV2578": {
         "name": "Maskininl\u00e4rning",
@@ -845,7 +934,9 @@
         "semester": "H\u00f6sttermin 2022",
         "start_week": 44,
         "end_week": 2,
-        "period": 2,
+        "periods": [
+            2
+        ],
         "type": "Valbar",
         "academic_focus": "Industriell mjukvaruutveckling",
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngen kurs i Till\u00e4mpad artificiell intelligens, 7,5 hp.",
@@ -857,7 +948,7 @@
         "start_year": 2022,
         "end_year": 2023,
         "course_duration": 11,
-        "is_double": true
+        "is_double": false
     },
     "MT2568": {
         "name": "V\u00e4rdeinnovation",
@@ -865,7 +956,9 @@
         "semester": "H\u00f6sttermin 2022",
         "start_week": 44,
         "end_week": 2,
-        "period": 2,
+        "periods": [
+            2
+        ],
         "type": "Valbar",
         "academic_focus": "Maskinteknik och h\u00e5llbar produktinnovation",
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs 150 avklarade hp varav 60 hp fr\u00e5n ett civilingenj\u00f6rsprogram i maskinteknik eller industriell ekonomi. I de 60 hp ska kurserna Analys 1, 6 hp, kurs om minst 6hp i Produktutvecklingsmetodik (Innovativ och H\u00e5llbar produktutveckling 1) och grundkurs om minst 6 hp i Industriell ekonomi (Grunderna i industriell ekonomi, 6 hp / Industriell ekonomi, \u00f6versiktskurs, 6 hp) ing\u00e5. Dessutom kr\u00e4vs genomg\u00e5ngen kurs i H\u00e5llbarhetsgrunder, 6 hp och Matematisk statistik, 6 hp.",
@@ -877,7 +970,7 @@
         "start_year": 2022,
         "end_year": 2023,
         "course_duration": 11,
-        "is_double": true
+        "is_double": false
     },
     "SL2543": {
         "name": "H\u00e5llbar produktutveckling",
@@ -885,7 +978,9 @@
         "semester": "H\u00f6sttermin 2022",
         "start_week": 44,
         "end_week": 2,
-        "period": 2,
+        "periods": [
+            2
+        ],
         "type": "Valbar",
         "academic_focus": "Maskinteknik och h\u00e5llbar produktinnovation",
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarad grundl\u00e4ggande kurs i h\u00e5llbarhet om minst 6 hp, exempelvis kursen H\u00e5llbarhetsgrunder, avklarat 2 hp i grundl\u00e4ggande produktutveckling och avklarat 1 hp i h\u00e5llbarhetsanalys inom produktutveckling, exempelvis fr\u00e5n kursen Innovativ- och h\u00e5llbar produktutveckling.",
@@ -897,7 +992,7 @@
         "start_year": 2022,
         "end_year": 2023,
         "course_duration": 11,
-        "is_double": true
+        "is_double": false
     },
     "PA2539": {
         "name": "Programvaruprojekt i team",
@@ -905,7 +1000,10 @@
         "semester": "V\u00e5rtermin 2023",
         "start_week": 3,
         "end_week": 22,
-        "period": 3,
+        "periods": [
+            3,
+            4
+        ],
         "type": "Obligatorisk",
         "academic_focus": "Industriell mjukvaruutveckling",
         "prerequisites": "Genomg\u00e5tt kursen Programvaruintensiv produktutveckling.",
@@ -925,7 +1023,10 @@
         "semester": "V\u00e5rtermin 2023",
         "start_week": 3,
         "end_week": 22,
-        "period": 3,
+        "periods": [
+            3,
+            4
+        ],
         "type": "Obligatorisk",
         "academic_focus": "Industriell mjukvaruutveckling",
         "prerequisites": "Genomg\u00e5ngna 48 hp i industriell ekonomi och management.",
@@ -945,7 +1046,10 @@
         "semester": "V\u00e5rtermin 2023",
         "start_week": 3,
         "end_week": 22,
-        "period": 3,
+        "periods": [
+            3,
+            4
+        ],
         "type": "Obligatorisk",
         "academic_focus": "Maskinteknik och h\u00e5llbar produktinnovation",
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser Till\u00e4mpad mikroekonomi och strategi, 6 hp, F\u00f6retag och organisation, 6 hp, Industriell marknadsf\u00f6ring- Teori och praktik, 6 hp och Finansiell ekonomi, 6 hp.",
@@ -965,7 +1069,9 @@
         "semester": "V\u00e5rtermin 2023",
         "start_week": 3,
         "end_week": 12,
-        "period": 3,
+        "periods": [
+            3
+        ],
         "type": "Obligatorisk",
         "academic_focus": "Maskinteknik och h\u00e5llbar produktinnovation",
         "prerequisites": "Grundl\u00e4ggande beh\u00f6righet.",
@@ -985,7 +1091,9 @@
         "semester": "V\u00e5rtermin 2023",
         "start_week": 3,
         "end_week": 12,
-        "period": 3,
+        "periods": [
+            3
+        ],
         "type": "Valbar",
         "academic_focus": "Industriell mjukvaruutveckling",
         "prerequisites": "7.5hp avklarad kurs inom huvudomr\u00e5det datavetenskap",
@@ -1005,7 +1113,9 @@
         "semester": "V\u00e5rtermin 2023",
         "start_week": 3,
         "end_week": 12,
-        "period": 3,
+        "periods": [
+            3
+        ],
         "type": "Valbar",
         "academic_focus": "Industriell mjukvaruutveckling",
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarad kurs Finansiell ekonomi, 6 hp.",
@@ -1025,7 +1135,9 @@
         "semester": "V\u00e5rtermin 2023",
         "start_week": 13,
         "end_week": 22,
-        "period": 4,
+        "periods": [
+            4
+        ],
         "type": "Valbar",
         "academic_focus": "Industriell mjukvaruutveckling",
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarad kurs Finansiell ekonomi, 6 hp.",
@@ -1045,7 +1157,9 @@
         "semester": "V\u00e5rtermin 2023",
         "start_week": 13,
         "end_week": 22,
-        "period": 4,
+        "periods": [
+            4
+        ],
         "type": "Valbar",
         "academic_focus": "Maskinteknik och h\u00e5llbar produktinnovation",
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs 150 avklarade hp varav 60 hp fr\u00e5n ett civilingenj\u00f6rsprogram i maskinteknik (eller motsvarande). I de 60 hp ska kurserna i produktutvecklingsmetodik (Innovativ och H\u00e5llbar produktutveckling 1/Design Thinking), minst 6 hp och Datorst\u00f6d f\u00f6r ingenj\u00f6rer (eller motsvarande), minst 5 hp ing\u00e5.",
@@ -1065,7 +1179,9 @@
         "semester": "H\u00f6sttermin 2023",
         "start_week": 35,
         "end_week": 43,
-        "period": 1,
+        "periods": [
+            1
+        ],
         "type": "Obligatorisk",
         "academic_focus": "Industriell mjukvaruutveckling",
         "prerequisites": "Avklarade kurser i Mikroekonomi och strategi 6 hp, F\u00f6retag och organisation 6 hp och Industriell\nmarknadsf\u00f6ring- teori och praktik 6 hp.",
@@ -1085,7 +1201,9 @@
         "semester": "H\u00f6sttermin 2023",
         "start_week": 35,
         "end_week": 43,
-        "period": 1,
+        "periods": [
+            1
+        ],
         "type": "Valbar",
         "academic_focus": "Industriell mjukvaruutveckling",
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser i Till\u00e4mpad mikroekonomi, 6 hp och Matematisk statistik, 6 hp, d\u00e4rut\u00f6ver genomg\u00e5ngna kurser om 12 hp i industriell ekonomi och management.",
@@ -1105,7 +1223,10 @@
         "semester": "H\u00f6sttermin 2023",
         "start_week": 35,
         "end_week": 2,
-        "period": 1,
+        "periods": [
+            1,
+            2
+        ],
         "type": "Valbar",
         "academic_focus": "Maskinteknik och h\u00e5llbar produktinnovation",
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs minst 180 avklarade hp varav 80 hp fr\u00e5n ett ingenj\u00f6rsprogram i Maskinteknik, Industriell Ekonomi eller motsvarande, inkluderande avklarad kurs i produktutvecklingsmetodik (Design Thinking 7,5 hp Systems Engineering 7,5 hp V\u00e4rdeinnovation 7,5 hp eller motsvarande).",
@@ -1125,7 +1246,9 @@
         "semester": "H\u00f6sttermin 2023",
         "start_week": 44,
         "end_week": 2,
-        "period": 2,
+        "periods": [
+            2
+        ],
         "type": "Obligatorisk",
         "academic_focus": "Industriell mjukvaruutveckling",
         "prerequisites": "Genomg\u00e5ngna kurser om 59 hp i industriell ekonomi och management.",
@@ -1137,7 +1260,7 @@
         "start_year": 2023,
         "end_year": 2024,
         "course_duration": 11,
-        "is_double": true
+        "is_double": false
     },
     "PA2557": {
         "name": "Kvalitetsstyrning",
@@ -1145,7 +1268,9 @@
         "semester": "H\u00f6sttermin 2023",
         "start_week": 44,
         "end_week": 2,
-        "period": 2,
+        "periods": [
+            2
+        ],
         "type": "Valbar",
         "academic_focus": "Industriell mjukvaruutveckling",
         "prerequisites": "Avklarade kurser omfattande minst 120 hp varav minst 90 hp inom f\u00f6ljande omr\u00e5den: Programvaruteknik, Datavetenskap eller Datalogi. Dessutom kr\u00e4vs en avklarad kurs p\u00e5 minst 7.5 hp inom Grundl\u00e4ggande Programvaruteknik (Software Engineering) eller Programvaruutvecklingsprojekt i grupp.",
@@ -1157,7 +1282,7 @@
         "start_year": 2023,
         "end_year": 2024,
         "course_duration": 11,
-        "is_double": true
+        "is_double": false
     },
     "IY2608": {
         "name": "Till\u00e4mpad konkurrens- och marknadsanalys",
@@ -1165,7 +1290,9 @@
         "semester": "H\u00f6sttermin 2023",
         "start_week": 44,
         "end_week": 2,
-        "period": 2,
+        "periods": [
+            2
+        ],
         "type": "Valbar",
         "academic_focus": "Industriell mjukvaruutveckling",
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser i Till\u00e4mpad mikroekonomi, 6 hp och Matematisk statistik, 6 hp, d\u00e4rut\u00f6ver genomg\u00e5ngna kurser om 12 hp i industriell ekonomi och management.",
@@ -1177,7 +1304,7 @@
         "start_year": 2023,
         "end_year": 2024,
         "course_duration": 11,
-        "is_double": true
+        "is_double": false
     },
     "DV1566": {
         "name": "Introduktion till Cloud Computing",
@@ -1185,7 +1312,9 @@
         "semester": "H\u00f6sttermin 2023",
         "start_week": 44,
         "end_week": 2,
-        "period": 2,
+        "periods": [
+            2
+        ],
         "type": "Valbar",
         "academic_focus": "Industriell mjukvaruutveckling",
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att den studerande har avklarat: programmering 15 hp, algoritmer och datastrukturer 6 hp  och  operativsystem 6 hp.",
@@ -1197,7 +1326,7 @@
         "start_year": 2023,
         "end_year": 2024,
         "course_duration": 11,
-        "is_double": true
+        "is_double": false
     },
     "TE2502": {
         "name": "Examensarbete f\u00f6r civilingenj\u00f6rer",
@@ -1205,7 +1334,10 @@
         "semester": "V\u00e5rtermin 2024",
         "start_week": 3,
         "end_week": 22,
-        "period": 3,
+        "periods": [
+            3,
+            4
+        ],
         "type": "Obligatorisk",
         "academic_focus": "Industriell mjukvaruutveckling",
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att studenten har avklarat minst 240 hp som f\u00e5r ing\u00e5 i en civilingenj\u00f6rsexamen. Av dessa ska minst 30 hp vara avklarade kurser p\u00e5 avancerad niv\u00e5.",
@@ -1227,6 +1359,7 @@
                 "TE1421"
             ],
             "2": [
+                "TE1421",
                 "MA1448",
                 "IY1417"
             ]
@@ -1238,6 +1371,7 @@
                 "FY1431"
             ],
             "4": [
+                "DV1574",
                 "MA1446",
                 "IY1416"
             ],
@@ -1247,6 +1381,7 @@
                 "SL1409"
             ],
             "2": [
+                "SL1409",
                 "FY1423",
                 "MA1447"
             ]
@@ -1258,6 +1393,7 @@
                 "PA1450"
             ],
             "4": [
+                "PA1450",
                 "MT1463",
                 "DV1587"
             ],
@@ -1280,6 +1416,7 @@
                 "MT1544"
             ],
             "4": [
+                "PA2576",
                 "IY1422",
                 "SL2542",
                 "DV1625",
@@ -1311,6 +1448,9 @@
                 "IY2606"
             ],
             "4": [
+                "PA2539",
+                "IY2585",
+                "IY2628",
                 "IY2607",
                 "MT2578"
             ],
@@ -1320,6 +1460,7 @@
                 "MT2573"
             ],
             "2": [
+                "MT2573",
                 "IY2587",
                 "PA2557",
                 "IY2608",
@@ -1328,6 +1469,9 @@
         },
         "2024": {
             "3": [
+                "TE2502"
+            ],
+            "4": [
                 "TE2502"
             ]
         }

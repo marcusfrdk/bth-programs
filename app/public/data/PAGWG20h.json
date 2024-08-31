@@ -5,7 +5,9 @@
         "semester": "H\u00f6sttermin 2020",
         "start_week": 36,
         "end_week": 44,
-        "period": 1,
+        "periods": [
+            1
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "Grundl\u00e4ggande beh\u00f6righet.",
@@ -25,7 +27,9 @@
         "semester": "H\u00f6sttermin 2020",
         "start_week": 36,
         "end_week": 44,
-        "period": 1,
+        "periods": [
+            1
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "Grundl\u00e4ggande beh\u00f6righet.",
@@ -45,7 +49,9 @@
         "semester": "H\u00f6sttermin 2020",
         "start_week": 45,
         "end_week": 2,
-        "period": 2,
+        "periods": [
+            2
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngen kurs i programmering, 7,5 h\u00f6gskolepo\u00e4ng.",
@@ -65,7 +71,9 @@
         "semester": "H\u00f6sttermin 2020",
         "start_week": 45,
         "end_week": 2,
-        "period": 2,
+        "periods": [
+            2
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "Genomg\u00e5ngen kurs i Webbteknologier, 7,5 hp.",
@@ -85,7 +93,9 @@
         "semester": "V\u00e5rtermin 2021",
         "start_week": 3,
         "end_week": 12,
-        "period": 3,
+        "periods": [
+            3
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngna kurser motsvarande 15 hp i programmering och/eller webbteknologier.",
@@ -105,7 +115,9 @@
         "semester": "V\u00e5rtermin 2021",
         "start_week": 3,
         "end_week": 12,
-        "period": 3,
+        "periods": [
+            3
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngen kurs Programmering och probleml\u00f6sning med Python 7,5 hp.",
@@ -125,7 +137,9 @@
         "semester": "V\u00e5rtermin 2021",
         "start_week": 13,
         "end_week": 22,
-        "period": 4,
+        "periods": [
+            4
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngen kurs Webbteknologier, 7,5 hp samt genomg\u00e5ngen kurs i databaser motsvarande 7,5 hp.",
@@ -145,7 +159,9 @@
         "semester": "V\u00e5rtermin 2021",
         "start_week": 13,
         "end_week": 22,
-        "period": 4,
+        "periods": [
+            4
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngna kurser motsvarande 15 hp i programmering och webbteknologier varav 6 hp ska vara programmering med JavaScript.",
@@ -165,7 +181,9 @@
         "semester": "H\u00f6sttermin 2021",
         "start_week": 35,
         "end_week": 43,
-        "period": 1,
+        "periods": [
+            1
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser eller moment fr\u00e5n kurser i programmering och webbteknologier omfattande totalt 22,5 hp.",
@@ -185,7 +203,9 @@
         "semester": "H\u00f6sttermin 2021",
         "start_week": 35,
         "end_week": 43,
-        "period": 1,
+        "periods": [
+            1
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser eller moment fr\u00e5n kurser i programmering och webbteknologier omfattande 22,5 hp samt genomg\u00e5ngen kurs Webbapplikationer f\u00f6r mobila enheter, 7,5 hp.",
@@ -205,7 +225,9 @@
         "semester": "H\u00f6sttermin 2021",
         "start_week": 44,
         "end_week": 2,
-        "period": 2,
+        "periods": [
+            2
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarad Matematik 3b alt. 3c eller Matematik C fr\u00e5n gymnasieskolan samt genomg\u00e5ngna kurser i programmering om minst 15 hp.",
@@ -217,7 +239,7 @@
         "start_year": 2021,
         "end_year": 2022,
         "course_duration": 11,
-        "is_double": true
+        "is_double": false
     },
     "DV1610": {
         "name": "Webbaserade ramverk och designm\u00f6nster",
@@ -225,7 +247,9 @@
         "semester": "H\u00f6sttermin 2021",
         "start_week": 44,
         "end_week": 2,
-        "period": 2,
+        "periods": [
+            2
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser eller moment fr\u00e5n kurser i programmering och webbteknologier omfattande totalt 22,5 hp. D\u00e4rut\u00f6ver kr\u00e4vs genomg\u00e5ngen kurs Objektorienterade webbteknologier, 7,5 hp.",
@@ -237,7 +261,7 @@
         "start_year": 2021,
         "end_year": 2022,
         "course_duration": 11,
-        "is_double": true
+        "is_double": false
     },
     "ET1447": {
         "name": "Data- och telekommunikation",
@@ -245,7 +269,9 @@
         "semester": "V\u00e5rtermin 2022",
         "start_week": 3,
         "end_week": 12,
-        "period": 3,
+        "periods": [
+            3
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "Genomg\u00e5ngen grundl\u00e4ggande kurs i programmering om minst 7,5 hp.",
@@ -265,7 +291,10 @@
         "semester": "V\u00e5rtermin 2022",
         "start_week": 3,
         "end_week": 22,
-        "period": 3,
+        "periods": [
+            3,
+            4
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "60 hp avklarade p\u00e5 programmet Webbprogrammering",
@@ -285,7 +314,9 @@
         "semester": "V\u00e5rtermin 2022",
         "start_week": 13,
         "end_week": 22,
-        "period": 4,
+        "periods": [
+            4
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att den studerande har klarat programmering, 15 h\u00f6gskolepo\u00e4ng eller motsvarande.",
@@ -334,6 +365,7 @@
                 "PA1438"
             ],
             "4": [
+                "PA1438",
                 "PA1417"
             ]
         }

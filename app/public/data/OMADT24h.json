@@ -5,7 +5,9 @@
         "semester": "H\u00f6sttermin 2024",
         "start_week": 36,
         "end_week": 45,
-        "period": 1,
+        "periods": [
+            1
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs sjuksk\u00f6terskeexamen och kandidatexamen i omv\u00e5rdnad/v\u00e5rdvetenskap, svensk sjuksk\u00f6terskelegitimation och yrkeserfarenhet motsvarande 6 m\u00e5nader heltidstj\u00e4nstg\u00f6ring som sjuksk\u00f6terska.\n",
@@ -25,7 +27,10 @@
         "semester": "H\u00f6sttermin 2024",
         "start_week": 46,
         "end_week": 13,
-        "period": 2,
+        "periods": [
+            2,
+            3
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs sjuksk\u00f6terskeexamen och kandidatexamen i omv\u00e5rdnad/v\u00e5rdvetenskap, svensk sjuksk\u00f6terskelegitimation och yrkeserfarenhet motsvarande 6 m\u00e5nader heltidstj\u00e4nstg\u00f6ring som sjuksk\u00f6terska. Engelska 6.\n",
@@ -45,7 +50,10 @@
         "semester": "V\u00e5rtermin 2025",
         "start_week": 14,
         "end_week": 44,
-        "period": 4,
+        "periods": [
+            4,
+            1
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarad Specialistsjuksk\u00f6terskans profession inriktning distriktssk\u00f6terska 7,5 hp.\n",
@@ -65,7 +73,9 @@
         "semester": "H\u00f6sttermin 2025",
         "start_week": 45,
         "end_week": 3,
-        "period": 2,
+        "periods": [
+            2
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs sjuksk\u00f6terskeexamen och kandidatexamen i omv\u00e5rdnad/v\u00e5rdvetenskap, svensk sjuksk\u00f6terskelegitimation och yrkeserfarenhet motsvarande 6 m\u00e5nader heltidstj\u00e4nstg\u00f6ring som sjuksk\u00f6terska. Engelska 6.\n",
@@ -77,7 +87,7 @@
         "start_year": 2025,
         "end_year": 2026,
         "course_duration": 11,
-        "is_double": true
+        "is_double": false
     },
     "OM2551": {
         "name": "H\u00e4lsofr\u00e4mjande omv\u00e5rdnad, inriktning vuxna och \u00e4ldre",
@@ -85,7 +95,10 @@
         "semester": "V\u00e5rtermin 2026",
         "start_week": 4,
         "end_week": 23,
-        "period": 3,
+        "periods": [
+            3,
+            4
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarad Farmakologi och f\u00f6rskrivningsr\u00e4tt av vissa l\u00e4kemedel, hj\u00e4lpmedel och f\u00f6rbrukningsartiklar, 15 hp.\n",
@@ -105,7 +118,10 @@
         "semester": "H\u00f6sttermin 2026",
         "start_week": 36,
         "end_week": 2,
-        "period": 1,
+        "periods": [
+            1,
+            2
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs Specialistsjuksk\u00f6terskans profession, inriktning mot distriktssk\u00f6terska 7,5 hp och Vetenskapliga teorier och metoder p\u00e5 avancerad niv\u00e5 7,5 hp eller motsvarande.\n",
@@ -126,10 +142,16 @@
             ],
             "2": [
                 "OM2548"
+            ],
+            "3": [
+                "OM2548"
             ]
         },
         "2025": {
             "4": [
+                "OM2550"
+            ],
+            "1": [
                 "OM2550"
             ],
             "2": [
@@ -140,7 +162,13 @@
             "3": [
                 "OM2551"
             ],
+            "4": [
+                "OM2551"
+            ],
             "1": [
+                "OM2552"
+            ],
+            "2": [
                 "OM2552"
             ]
         }

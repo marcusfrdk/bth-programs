@@ -5,7 +5,9 @@
         "semester": "H\u00f6sttermin 2019",
         "start_week": 35,
         "end_week": 44,
-        "period": 1,
+        "periods": [
+            1
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "Grundl\u00e4ggande beh\u00f6righet",
@@ -25,7 +27,9 @@
         "semester": "H\u00f6sttermin 2019",
         "start_week": 35,
         "end_week": 44,
-        "period": 1,
+        "periods": [
+            1
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "Grundl\u00e4ggande beh\u00f6righet.",
@@ -45,7 +49,9 @@
         "semester": "V\u00e5rtermin 2020",
         "start_week": 14,
         "end_week": 23,
-        "period": 4,
+        "periods": [
+            4
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de kr\u00e4vs avklarad kurs Grunder i spelgrafik",
@@ -65,7 +71,9 @@
         "semester": "V\u00e5rtermin 2020",
         "start_week": 14,
         "end_week": 23,
-        "period": 4,
+        "periods": [
+            4
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarde kurser Grunder i spelutveckling och Grunder i spelgrafik.",
@@ -85,7 +93,9 @@
         "semester": "H\u00f6sttermin 2020",
         "start_week": 36,
         "end_week": 44,
-        "period": 1,
+        "periods": [
+            1
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "Grundl\u00e4ggande beh\u00f6righet + Fysik 1b1 / 1a, Matematik 2a / 2b / 2c. Eller: Fysik A, Matematik B.",
@@ -105,7 +115,9 @@
         "semester": "H\u00f6sttermin 2020",
         "start_week": 36,
         "end_week": 44,
-        "period": 1,
+        "periods": [
+            1
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarad kurs Till\u00e4mpad spelgrafik, 15 hp.",
@@ -125,7 +137,10 @@
         "semester": "H\u00f6sttermin 2020",
         "start_week": 45,
         "end_week": 12,
-        "period": 2,
+        "periods": [
+            2,
+            3
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att studenten avklarat 7,5 hp C- eller C++-programmering samt genomg\u00e5tt kurs inneh\u00e5llande linj\u00e4r algebra.",
@@ -145,7 +160,10 @@
         "semester": "H\u00f6sttermin 2020",
         "start_week": 45,
         "end_week": 12,
-        "period": 2,
+        "periods": [
+            2,
+            3
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarat kursen Plugin-konstruktion och skriptspr\u00e5k \nGenomg\u00e5tt kursen Digital skulptering och optimering 7,5 hp eller motsvarande.",
@@ -165,7 +183,9 @@
         "semester": "V\u00e5rtermin 2021",
         "start_week": 13,
         "end_week": 22,
-        "period": 4,
+        "periods": [
+            4
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att den studerande har avklarat Grunder i spelutveckling, 7,5 hp, Grunder i spelgrafik, 7,5 hp, laborationsuppgifterna i 3D-programmering, C++-programmering, 7,5 hp, Plug-in-konstruktion och skriptspr\u00e5k, 7,5 hp, Spelgrafik - anatomi, skissteknik och spelmilj\u00f6er, 15 hp, Spelprototyptillverkning, 7,5 hp, Digital skulptering och optimering, 7,5 hp.",
@@ -185,7 +205,9 @@
         "semester": "H\u00f6sttermin 2021",
         "start_week": 35,
         "end_week": 43,
-        "period": 1,
+        "periods": [
+            1
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att den studerande har avklarat Grunder i spelutveckling, 7,5 hp, Grunder i spelgrafik, 7,5 hp, Spelgrafik - anatomi, skissteknik och spelmilj\u00f6er, 15 hp, 3D-programmering, 15 hp, C++-programmering, 7,5 hp, Plug-in-konstruktion och skriptspr\u00e5k, 7,5 hp samt genomg\u00e5tt kursen Litet spelprojekt f\u00f6r Technical Artist, 15 hp.",
@@ -205,7 +227,10 @@
         "semester": "H\u00f6sttermin 2021",
         "start_week": 35,
         "end_week": 2,
-        "period": 1,
+        "periods": [
+            1,
+            2
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att den studerande avklarat Grunder i spelutveckling, 7,5 hp, 3D-programmering, 15 hp, C++-programmering, 7,5 hp, Plug-in-konstruktion och skriptspr\u00e5k, 7,5 hp, Spelgrafik - anatomi, skissteknik och spelmilj\u00f6er, 15 hp, Spelprototyptillverkning, 7,5 hp, Digital skulptering och optimering 7,5 hp, Till\u00e4mpade animationstekniker samt genomg\u00e5tt Litet spelprojekt f\u00f6r Technical Artist, 15 hp.",
@@ -225,7 +250,9 @@
         "semester": "V\u00e5rtermin 2022",
         "start_week": 3,
         "end_week": 12,
-        "period": 3,
+        "periods": [
+            3
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de i kursen kr\u00e4vs att studenten har avklarat kurser motsvarande 120hp inom relevant omr\u00e5de.",
@@ -245,7 +272,9 @@
         "semester": "V\u00e5rtermin 2022",
         "start_week": 13,
         "end_week": 22,
-        "period": 4,
+        "periods": [
+            4
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att den studerande har avklarat minst 110 hp inom n\u00e5got eller b\u00e5da huvudomr\u00e5dena Utveckling av digitala spel eller Datavetenskap. Av dessa ska minst 60hp vara inom huvudomr\u00e5det Utveckling av digitala spel. Dessutom m\u00e5ste studenten ha genomg\u00e5tt en kurs i forskningsmetodik om minst 7,5 hp.",
@@ -278,6 +307,10 @@
             "2": [
                 "DV1568",
                 "UD1439"
+            ],
+            "3": [
+                "DV1568",
+                "UD1439"
             ]
         },
         "2021": {
@@ -286,6 +319,9 @@
             ],
             "1": [
                 "UD1447",
+                "UD1448"
+            ],
+            "2": [
                 "UD1448"
             ]
         },

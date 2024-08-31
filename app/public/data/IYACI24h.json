@@ -5,7 +5,9 @@
         "semester": "H\u00f6sttermin 2024",
         "start_week": 35,
         "end_week": 44,
-        "period": 1,
+        "periods": [
+            1
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "Grundl\u00e4ggande beh\u00f6righet samt Fysik 1 och Matematik 4/Matematik E.\n",
@@ -25,7 +27,9 @@
         "semester": "H\u00f6sttermin 2024",
         "start_week": 36,
         "end_week": 44,
-        "period": 1,
+        "periods": [
+            1
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "Grundl\u00e4ggande beh\u00f6righet.",
@@ -45,7 +49,10 @@
         "semester": "H\u00f6sttermin 2024",
         "start_week": 36,
         "end_week": 3,
-        "period": 1,
+        "periods": [
+            1,
+            2
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "Grundl\u00e4ggande beh\u00f6righet samt Matematik 4, Fysik 2, Kemi 1\n",
@@ -65,7 +72,9 @@
         "semester": "H\u00f6sttermin 2024",
         "start_week": 45,
         "end_week": 3,
-        "period": 2,
+        "periods": [
+            2
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "Grundl\u00e4ggande beh\u00f6righet samt Fysik 1 och Matematik 4/Matematik E.\n",
@@ -77,7 +86,7 @@
         "start_year": 2024,
         "end_year": 2025,
         "course_duration": 11,
-        "is_double": true
+        "is_double": false
     },
     "DV1574": {
         "name": "Programmering och probleml\u00f6sning med Python",
@@ -85,7 +94,9 @@
         "semester": "H\u00f6sttermin 2024",
         "start_week": 45,
         "end_week": 3,
-        "period": 2,
+        "periods": [
+            2
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "Grundl\u00e4ggande beh\u00f6righet.\n",
@@ -97,7 +108,7 @@
         "start_year": 2024,
         "end_year": 2025,
         "course_duration": 11,
-        "is_double": true
+        "is_double": false
     },
     "FY1435": {
         "name": "Mekanik",
@@ -105,7 +116,9 @@
         "semester": "V\u00e5rtermin 2025",
         "start_week": 4,
         "end_week": 13,
-        "period": 4,
+        "periods": [
+            3
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs grundl\u00e4ggande beh\u00f6righet samt Matematik 3c och Fysik 2.\n",
@@ -125,7 +138,10 @@
         "semester": "V\u00e5rtermin 2025",
         "start_week": 4,
         "end_week": 23,
-        "period": 3,
+        "periods": [
+            3,
+            4
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "Grundl\u00e4ggande beh\u00f6righet\n",
@@ -145,7 +161,9 @@
         "semester": "V\u00e5rtermin 2025",
         "start_week": 4,
         "end_week": 13,
-        "period": 3,
+        "periods": [
+            3
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngen kurs i envariabelanalys, 6 hp.\n",
@@ -165,7 +183,9 @@
         "semester": "V\u00e5rtermin 2025",
         "start_week": 14,
         "end_week": 23,
-        "period": 4,
+        "periods": [
+            4
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6rtilltr\u00e4det till kursen kr\u00e4vs avklarad kurs i Grunderna i Industriell ekonomi, 6 hp.\n",
@@ -185,7 +205,9 @@
         "semester": "V\u00e5rtermin 2025",
         "start_week": 14,
         "end_week": 23,
-        "period": 3,
+        "periods": [
+            4
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "Grundl\u00e4ggande beh\u00f6righet samt Matematik 4, Fysik 2, Kemi 1.\n",
@@ -205,7 +227,9 @@
         "semester": "H\u00f6sttermin 2025",
         "start_week": 36,
         "end_week": 44,
-        "period": 1,
+        "periods": [
+            1
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs 6 avklarade hp i linj\u00e4r algebra, och 6 avklarade hp i envariabelsanalys 1, samt genomg\u00e5ngen kurs Mikroekonomi f\u00f6r beslutsfattare, 6 hp.\n",
@@ -225,7 +249,9 @@
         "semester": "H\u00f6sttermin 2025",
         "start_week": 36,
         "end_week": 44,
-        "period": 1,
+        "periods": [
+            1
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs 6 avklarade hp i linj\u00e4r algebra. Vidare kr\u00e4vs genomg\u00e5ngna kurser om 12 hp i envariabelanalys, varav 4 hp ska vara avklarade.\n",
@@ -245,7 +271,10 @@
         "semester": "H\u00f6sttermin 2025",
         "start_week": 36,
         "end_week": 3,
-        "period": 1,
+        "periods": [
+            1,
+            2
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser om 30 hp inom industriell ekonomi, eller annat tekniskt omr\u00e5de, och/eller inom f\u00f6retagsekonomi.",
@@ -265,7 +294,9 @@
         "semester": "H\u00f6sttermin 2025",
         "start_week": 45,
         "end_week": 3,
-        "period": 2,
+        "periods": [
+            2
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs 6 avklarade hp i linj\u00e4r algebra och minst 6 avklarade hp fr\u00e5n envariabelanalys 1-2. Vidare kr\u00e4vs genomg\u00e5ngen kurs i Flervariabelanalys, 6 hp.",
@@ -277,7 +308,7 @@
         "start_year": 2025,
         "end_year": 2026,
         "course_duration": 11,
-        "is_double": true
+        "is_double": false
     },
     "FY1437": {
         "name": "V\u00e5gfysik",
@@ -285,7 +316,9 @@
         "semester": "H\u00f6sttermin 2025",
         "start_week": 45,
         "end_week": 3,
-        "period": 2,
+        "periods": [
+            2
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngna kurser i Mekanik: statik, 6 hp, samt Envariabelanalys 2: differentialekvationer och integralkalkyl, 6 hp.\n",
@@ -297,7 +330,7 @@
         "start_year": 2025,
         "end_year": 2026,
         "course_duration": 11,
-        "is_double": true
+        "is_double": false
     },
     "MA1502": {
         "name": "Optimering",
@@ -305,7 +338,9 @@
         "semester": "V\u00e5rtermin 2026",
         "start_week": 4,
         "end_week": 13,
-        "period": 3,
+        "periods": [
+            3
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngen kurs i<br>\nflervariabelanalys, 6 hp, och avklarad kurs i linj\u00e4r<br>\nalgebra, 6 hp.\n",
@@ -325,7 +360,9 @@
         "semester": "V\u00e5rtermin 2026",
         "start_week": 4,
         "end_week": 13,
-        "period": 3,
+        "periods": [
+            3
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngen kurs, Programmering och probleml\u00f6sning med Python, 6 hp, varav minst 2 hp ska vara avklarade.",
@@ -345,7 +382,10 @@
         "semester": "V\u00e5rtermin 2026",
         "start_week": 4,
         "end_week": 23,
-        "period": 3,
+        "periods": [
+            3,
+            4
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs 12 avklarade hp i Industriell ekonomi.\n",
@@ -365,7 +405,9 @@
         "semester": "V\u00e5rtermin 2026",
         "start_week": 14,
         "end_week": 23,
-        "period": 4,
+        "periods": [
+            4
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngna kurser i Makroekonomi, 6 hp, Grunderna i Industriell Ekonomi, 6 hp och Mikroekonomi f\u00f6r beslutsfattare, 6 hp.\n",
@@ -385,7 +427,9 @@
         "semester": "V\u00e5rtermin 2026",
         "start_week": 14,
         "end_week": 23,
-        "period": 4,
+        "periods": [
+            4
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs 6 avklarade hp i linj\u00e4r algebra, och 6 avklarade hp i envariabelsanalys 1, samt genomg\u00e5ngen kurs Mikroekonomi f\u00f6r beslutsfattare, 6 hp.\n",
@@ -405,7 +449,9 @@
         "semester": "H\u00f6sttermin 2026",
         "start_week": 36,
         "end_week": 44,
-        "period": 1,
+        "periods": [
+            1
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs 60 avklarade hp p\u00e5 grundniv\u00e5 varav 6 hp i linj\u00e4r algebra och 6 hp i envariabelanalys.\n",
@@ -425,7 +471,10 @@
         "semester": "H\u00f6sttermin 2026",
         "start_week": 36,
         "end_week": 2,
-        "period": 1,
+        "periods": [
+            1,
+            2
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs 6 avklarade hp fr\u00e5n kurser i introduktion till ingenj\u00f6rsarbete/-rollen och minst 6 avklarade hp i programmering.\n",
@@ -445,7 +494,9 @@
         "semester": "H\u00f6sttermin 2026",
         "start_week": 36,
         "end_week": 44,
-        "period": 1,
+        "periods": [
+            1
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs 6 avklarade hp i linj\u00e4r algebra, 6 avklarade hp i envariabelanalys I och 6 avklarade hp i mikroekonomi f\u00f6r beslutsfattare.\n",
@@ -465,7 +516,9 @@
         "semester": "H\u00f6sttermin 2026",
         "start_week": 45,
         "end_week": 2,
-        "period": 2,
+        "periods": [
+            2
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs 6 avklarade hp i grunderna i industriell ekonomi.\n",
@@ -485,7 +538,9 @@
         "semester": "H\u00f6sttermin 2026",
         "start_week": 45,
         "end_week": 2,
-        "period": 2,
+        "periods": [
+            2
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs 60 avklarade hp p\u00e5 grundniv\u00e5 samt genomg\u00e5ngen kurs i mikroekonomi f\u00f6r beslutsfattare, 6 hp.\n",
@@ -505,7 +560,9 @@
         "semester": "V\u00e5rtermin 2027",
         "start_week": 3,
         "end_week": 12,
-        "period": 3,
+        "periods": [
+            3
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarad kurs Mikroekonomi f\u00f6r beslutsfattare, 6 hp.\n",
@@ -525,7 +582,10 @@
         "semester": "V\u00e5rtermin 2027",
         "start_week": 3,
         "end_week": 22,
-        "period": 3,
+        "periods": [
+            3,
+            4
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs 70 avklarade hp i huvudomr\u00e5det teknik, 24 hp i matematik/naturvetenskap och 6 hp i etik eller h\u00e5llbar utveckling.\n",
@@ -545,7 +605,9 @@
         "semester": "V\u00e5rtermin 2027",
         "start_week": 13,
         "end_week": 22,
-        "period": 4,
+        "periods": [
+            4
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att studenten har avklarat 12 hp i programmering, varav 6 hp m\u00e5ste vara i objektorienterad programmering.",
@@ -565,7 +627,10 @@
         "semester": "H\u00f6sttermin 2027",
         "start_week": 35,
         "end_week": 2,
-        "period": 1,
+        "periods": [
+            1,
+            2
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs kandidat- eller h\u00f6gskoleingenj\u00f6rsexamen inom ett tekniskt omr\u00e5de, 180 hp eller 60 hp avklarade i teknik, programvaruteknik eller industriell ekonomi och management. Minst 6 hp ska utg\u00f6ras av kurser inom industriell ekonomi och/eller management. Engelska 6.\n",
@@ -585,7 +650,9 @@
         "semester": "H\u00f6sttermin 2027",
         "start_week": 35,
         "end_week": 43,
-        "period": 1,
+        "periods": [
+            1
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs kandidat- eller h\u00f6gskoleingenj\u00f6rsexamen inom ett tekniskt omr\u00e5de, 180 hp eller 60 hp avklarade i teknik eller industriell ekonomi och management. Minst 20 hp ska utg\u00f6ras av kurser inom industriell ekonomi och/eller management, minst 5 hp i programmering och minst 5 hp i statistik. Engelska 6.\n",
@@ -605,7 +672,9 @@
         "semester": "H\u00f6sttermin 2027",
         "start_week": 35,
         "end_week": 43,
-        "period": 1,
+        "periods": [
+            1
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser om minst 90 hp inom ett tekniskt omr\u00e5de. Engelska 6.\n",
@@ -625,7 +694,9 @@
         "semester": "H\u00f6sttermin 2027",
         "start_week": 44,
         "end_week": 2,
-        "period": 2,
+        "periods": [
+            2
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser om minst 90 hp inom ett tekniskt omr\u00e5de. Engelska 6. D\u00e4rut\u00f6ver kr\u00e4vs genomg\u00e5ngen kurs i Technology venture 1: Innovation och aff\u00e4rsutveckling eller motsvarande. Engelska 6.\n",
@@ -637,7 +708,7 @@
         "start_year": 2027,
         "end_year": 2028,
         "course_duration": 11,
-        "is_double": true
+        "is_double": false
     },
     "IY2634": {
         "name": "Industriell organisation",
@@ -645,7 +716,9 @@
         "semester": "H\u00f6sttermin 2027",
         "start_week": 44,
         "end_week": 2,
-        "period": 2,
+        "periods": [
+            2
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser i\u00a0Mikroekonomi f\u00f6r beslutsfattare, 6 hp och Matematisk statistik, 6 hp, d\u00e4rut\u00f6ver genomg\u00e5ngna kurser om 12 hp i industriell ekonomi och management. Engelska 6.\n",
@@ -657,7 +730,7 @@
         "start_year": 2027,
         "end_year": 2028,
         "course_duration": 11,
-        "is_double": true
+        "is_double": false
     },
     "IY2647": {
         "name": "M\u00e5l- och prestationsstyrning inom industriell verksamhet",
@@ -665,7 +738,9 @@
         "semester": "V\u00e5rtermin 2028",
         "start_week": 3,
         "end_week": 12,
-        "period": 3,
+        "periods": [
+            3
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs kandidat- eller h\u00f6gskoleingenj\u00f6rsexamen inom ett tekniskt omr\u00e5de, 180 hp eller 60 hp avklarade i teknik eller industriell ekonomi och management. Minst 20 hp ska utg\u00f6ras av kurser inom industriell ekonomi och/eller management. Engelska 6.\n",
@@ -685,7 +760,10 @@
         "semester": "V\u00e5rtermin 2028",
         "start_week": 3,
         "end_week": 22,
-        "period": 3,
+        "periods": [
+            3,
+            4
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngen kurs i Business Analytics, 6 hp. Engelska 6.\n",
@@ -705,7 +783,9 @@
         "semester": "V\u00e5rtermin 2028",
         "start_week": 3,
         "end_week": 12,
-        "period": 3,
+        "periods": [
+            3
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngna kurser i Mikroekonomi f\u00f6r beslutsfattare, 6 hp och Ekonomisk analys f\u00f6r strategiskt beslutsfattande, 6 hp. Engelska 6.\n",
@@ -725,7 +805,9 @@
         "semester": "V\u00e5rtermin 2028",
         "start_week": 13,
         "end_week": 22,
-        "period": 4,
+        "periods": [
+            4
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngna kurser i grundl\u00e4ggande programmering motsvarande 5 hp samt objektorienterad programmering, 5 hp.\n",
@@ -745,7 +827,9 @@
         "semester": "V\u00e5rtermin 2028",
         "start_week": 13,
         "end_week": 22,
-        "period": 4,
+        "periods": [
+            4
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser i Mikroekonomi f\u00f6r beslutsfattare, 6 hp och Matematisk statistik, 5 hp, samt 12 genomg\u00e5ngna hp fr\u00e5n kurser i industriell ekonomi och management. Engelska 6.\n",
@@ -765,7 +849,9 @@
         "semester": "H\u00f6sttermin 2028",
         "start_week": 35,
         "end_week": 43,
-        "period": 1,
+        "periods": [
+            1
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs 12 avklarade hp fr\u00e5n moment i programmeringskurser (Python eller dylikt) samt 6 avklarade hp i datastrukturer och algoritmer.",
@@ -785,7 +871,10 @@
         "semester": "H\u00f6sttermin 2028",
         "start_week": 35,
         "end_week": 2,
-        "period": 1,
+        "periods": [
+            1,
+            2
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarad kurs i Mikroekonomi f\u00f6r beslutsfattare, 6 hp samt genomg\u00e5ngen kurs i Industriell projektledning inom Business Analytics, 6 hp. Engelska 6.\n",
@@ -805,7 +894,9 @@
         "semester": "H\u00f6sttermin 2028",
         "start_week": 35,
         "end_week": 43,
-        "period": 1,
+        "periods": [
+            1
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs kandidat- eller h\u00f6gskoleingenj\u00f6rsexamen inom ett tekniskt omr\u00e5de, 180 hp eller 60 hp avklarade inom teknik, programvaruteknik eller industriell ekonomi och management. Minst 5 hp ska utg\u00f6ras av kurser i statistik. Engelska 6.\n",
@@ -825,7 +916,9 @@
         "semester": "H\u00f6sttermin 2028",
         "start_week": 44,
         "end_week": 2,
-        "period": 2,
+        "periods": [
+            2
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser Mikroekonomi f\u00f6r beslutsfattare, 6 hp och Ekonomisk analys f\u00f6r strategiskt beslutsfattande, 6 hp. Engelska 6.\n",
@@ -837,7 +930,7 @@
         "start_year": 2028,
         "end_year": 2029,
         "course_duration": 11,
-        "is_double": true
+        "is_double": false
     },
     "IY2643": {
         "name": "F\u00f6retagsv\u00e4rdering och analys",
@@ -845,7 +938,9 @@
         "semester": "H\u00f6sttermin 2028",
         "start_week": 44,
         "end_week": 2,
-        "period": 2,
+        "periods": [
+            2
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser Mikroekonomi f\u00f6r beslutsfattare, 6 hp och Ekonomisk analys f\u00f6r strategiskt beslutsfattande, 6 hp. Engelska 6.\n",
@@ -857,7 +952,7 @@
         "start_year": 2028,
         "end_year": 2029,
         "course_duration": 11,
-        "is_double": true
+        "is_double": false
     },
     "IY2651": {
         "name": "Masterarbete i industriell ekonomi och management",
@@ -865,7 +960,10 @@
         "semester": "V\u00e5rtermin 2029",
         "start_week": 3,
         "end_week": 22,
-        "period": 3,
+        "periods": [
+            3,
+            4
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs ett avklarat kandidatarbete. Vidare kr\u00e4vs 30 avklarade hp p\u00e5 avancerad niv\u00e5 inom huvudomr\u00e5det industriell ekonomi och management, och 6 avklarade hp i forskningsmetodik. Engelska 6.\n",
@@ -887,18 +985,20 @@
                 "IY1445"
             ],
             "2": [
+                "IY1445",
                 "MA1499",
                 "DV1574"
             ]
         },
         "2025": {
-            "4": [
-                "FY1435",
-                "IY1451"
-            ],
             "3": [
+                "FY1435",
                 "SL1418",
-                "MA1500",
+                "MA1500"
+            ],
+            "4": [
+                "SL1418",
+                "IY1451",
                 "IY1447"
             ],
             "1": [
@@ -907,6 +1007,7 @@
                 "IY1444"
             ],
             "2": [
+                "IY1444",
                 "MS1416",
                 "FY1437"
             ]
@@ -918,6 +1019,7 @@
                 "IY1454"
             ],
             "4": [
+                "IY1454",
                 "IY1453",
                 "IY1456"
             ],
@@ -927,6 +1029,7 @@
                 "IY1452"
             ],
             "2": [
+                "PA1484",
                 "IY1457",
                 "IY1448"
             ]
@@ -937,6 +1040,7 @@
                 "TE1432"
             ],
             "4": [
+                "TE1432",
                 "DV1663"
             ],
             "1": [
@@ -945,6 +1049,7 @@
                 "IY2649"
             ],
             "2": [
+                "IY2653",
                 "IY2650",
                 "IY2634"
             ]
@@ -956,6 +1061,7 @@
                 "IY2637"
             ],
             "4": [
+                "IY2646",
                 "DV1682",
                 "IY2648"
             ],
@@ -965,12 +1071,16 @@
                 "IY2638"
             ],
             "2": [
+                "IY2639",
                 "IY2642",
                 "IY2643"
             ]
         },
         "2029": {
             "3": [
+                "IY2651"
+            ],
+            "4": [
                 "IY2651"
             ]
         }

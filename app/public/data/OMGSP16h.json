@@ -5,7 +5,10 @@
         "semester": "H\u00f6sttermin 2016",
         "start_week": 34,
         "end_week": 2,
-        "period": "FEL",
+        "periods": [
+            1,
+            2
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "Grundl\u00e4ggande beh\u00f6righet + Matematik 2a / 2b / 2c, Naturkunskap 2, Samh\u00e4llskunskap 1b / 1a1 +1a2. Eller: Matematik B, Naturkunskap B, Samh\u00e4llskunskap A. (Naturkunskap B kan ers\u00e4ttas med Fysik A, Kemi A och Biologi A med l\u00e4gst betyget Godk\u00e4nd)",
@@ -25,7 +28,10 @@
         "semester": "H\u00f6sttermin 2016",
         "start_week": 34,
         "end_week": 2,
-        "period": "FEL",
+        "periods": [
+            1,
+            2
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "Grundl\u00e4ggande beh\u00f6righet + Matematik 2a / 2b / 2c, Naturkunskap 2, Samh\u00e4llskunskap 1b / 1a1 +1a2. Eller: Matematik B, Naturkunskap B, Samh\u00e4llskunskap A. (Naturkunskap B kan ers\u00e4ttas med Fysik A, Kemi A och Biologi A med l\u00e4gst betyget Godk\u00e4nd)",
@@ -45,7 +51,10 @@
         "semester": "H\u00f6sttermin 2016",
         "start_week": 34,
         "end_week": 2,
-        "period": "FEL",
+        "periods": [
+            1,
+            2
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "Grundl\u00e4ggande beh\u00f6righet + Matematik 2a / 2b / 2c, Naturkunskap 2, Samh\u00e4llskunskap 1b / 1a1 +1a2. Eller: Matematik B, Naturkunskap B, Samh\u00e4llskunskap A. (Naturkunskap B kan ers\u00e4ttas med Fysik A, Kemi A och Biologi A med l\u00e4gst betyget Godk\u00e4nd)",
@@ -65,7 +74,10 @@
         "semester": "H\u00f6sttermin 2016",
         "start_week": 35,
         "end_week": 2,
-        "period": "FEL",
+        "periods": [
+            1,
+            2
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "Grundl\u00e4ggande beh\u00f6righet + Matematik 2a / 2b / 2c, Naturkunskap 2, Samh\u00e4llskunskap 1b / 1a1 +1a2. Eller: Matematik B, Naturkunskap B, Samh\u00e4llskunskap A. (Naturkunskap B kan ers\u00e4ttas med Fysik A, Kemi A och Biologi A med l\u00e4gst betyget Godk\u00e4nd)",
@@ -85,7 +97,10 @@
         "semester": "V\u00e5rtermin 2017",
         "start_week": 3,
         "end_week": 22,
-        "period": "FEL",
+        "periods": [
+            3,
+            4
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "Grundl\u00e4ggande beh\u00f6righet + Matematik 2a / 2b / 2c, Naturkunskap 2, Samh\u00e4llskunskap 1b / 1a1 +1a2. Eller: Matematik B, Naturkunskap B, Samh\u00e4llskunskap A. (Naturkunskap B kan ers\u00e4ttas med Fysik A, Kemi A och Biologi A med l\u00e4gst betyget Godk\u00e4nd)",
@@ -105,7 +120,10 @@
         "semester": "V\u00e5rtermin 2017",
         "start_week": 3,
         "end_week": 22,
-        "period": "FEL",
+        "periods": [
+            3,
+            4
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "Grundl\u00e4ggande beh\u00f6righet + Matematik 2a / 2b / 2c, Naturkunskap 2, Samh\u00e4llskunskap 1b / 1a1 +1a2. Eller: Matematik B, Naturkunskap B, Samh\u00e4llskunskap A. (Naturkunskap B kan ers\u00e4ttas med Fysik A, Kemi A och Biologi A med l\u00e4gst betyget Godk\u00e4nd)(eller motsvarande)",
@@ -125,7 +143,10 @@
         "semester": "V\u00e5rtermin 2017",
         "start_week": 3,
         "end_week": 22,
-        "period": "FEL",
+        "periods": [
+            3,
+            4
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "Grundl\u00e4ggande beh\u00f6righet + Matematik 2a / 2b / 2c, Naturkunskap 2, Samh\u00e4llskunskap 1b / 1a1 +1a2. Eller: Matematik B, Naturkunskap B, Samh\u00e4llskunskap A. (Naturkunskap B kan ers\u00e4ttas med Fysik A, Kemi A och Biologi A med l\u00e4gst betyget Godk\u00e4nd)\nF\u00f6r \u00f6verg\u00e5ng mellan termin 1 och termin 2 kr\u00e4vs att kurserna \nProfession och omv\u00e5rdnad 9 hp \nVFU M\u00f6tet med m\u00e4nniskor 6 hp \u00e4r godk\u00e4nda.",
@@ -145,7 +166,10 @@
         "semester": "V\u00e5rtermin 2017",
         "start_week": 3,
         "end_week": 22,
-        "period": "FEL",
+        "periods": [
+            3,
+            4
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "Grundl\u00e4ggande beh\u00f6righet + Matematik 2a / 2b / 2c, Naturkunskap 2, Samh\u00e4llskunskap 1b / 1a1 +1a2. Eller: Matematik B, Naturkunskap B, Samh\u00e4llskunskap A. (Naturkunskap B kan ers\u00e4ttas med Fysik A, Kemi A och Biologi A med l\u00e4gst betyget Godk\u00e4nd)\nF\u00f6r \u00f6verg\u00e5ng mellan termin 1 och termin 2 kr\u00e4vs att kurserna \nProfession och omv\u00e5rdnad 9 hp \nVFU M\u00f6tet med m\u00e4nniskor 6 hp \u00e4r godk\u00e4nda.",
@@ -165,7 +189,10 @@
         "semester": "H\u00f6sttermin 2017",
         "start_week": 35,
         "end_week": 2,
-        "period": "FEL",
+        "periods": [
+            1,
+            2
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att kurserna VFU M\u00e4nniskan och omv\u00e5rdanden 7,5 hp och Grundl\u00e4ggande omv\u00e5rdnad 7,5 hp \u00e4r avklarade.",
@@ -185,7 +212,10 @@
         "semester": "H\u00f6sttermin 2017",
         "start_week": 35,
         "end_week": 2,
-        "period": "FEL",
+        "periods": [
+            1,
+            2
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att termin 1 (30 hp) p\u00e5 sjuksk\u00f6terskeprogrammet \u00e4r avklarad samt kurserna Grundl\u00e4ggande omv\u00e5rdnad 7,5 hp och Verksamhetsf\u00f6rlagd utbildning (VFU) M\u00e4nniskan och omv\u00e5rdnaden, 7,5 hp.",
@@ -205,7 +235,10 @@
         "semester": "H\u00f6sttermin 2017",
         "start_week": 35,
         "end_week": 2,
-        "period": "FEL",
+        "periods": [
+            1,
+            2
+        ],
         "type": "Valbar",
         "academic_focus": null,
         "prerequisites": "Grundl\u00e4ggande beh\u00f6righet + Matematik 2a / 2b / 2c, Naturkunskap 2, Samh\u00e4llskunskap 1b / 1a1 +1a2. Eller: Matematik B, Naturkunskap B, Samh\u00e4llskunskap A. (Naturkunskap B kan ers\u00e4ttas med Fysik A, Kemi A och Biologi A med l\u00e4gst betyget Godk\u00e4nd)\n\nF\u00f6r \u00f6verg\u00e5ng mellan termin 2 och 3 kr\u00e4vs att termin 1 samt kurserna\n\n VFU M\u00e4nniskan och omv\u00e5rdanden 7,5 hp, \n Grundl\u00e4ggande omv\u00e5rdnad 7,5 hp \u00e4r godk\u00e4nda.",
@@ -225,7 +258,10 @@
         "semester": "H\u00f6sttermin 2017",
         "start_week": 35,
         "end_week": 2,
-        "period": "FEL",
+        "periods": [
+            1,
+            2
+        ],
         "type": "Valbar",
         "academic_focus": null,
         "prerequisites": "Grundl\u00e4ggande beh\u00f6righet + Matematik 2a / 2b / 2c, Naturkunskap 2, Samh\u00e4llskunskap 1b / 1a1 +1a2. Eller: Matematik B, Naturkunskap B, Samh\u00e4llskunskap A. (Naturkunskap B kan ers\u00e4ttas med Fysik A, Kemi A och Biologi A med l\u00e4gst betyget Godk\u00e4nd)\nF\u00f6r \u00f6verg\u00e5ng mellan termin 3 och 4 kr\u00e4vs att termin 2 samt kursen \n\n Omv\u00e5rdnad vid oh\u00e4lsa 12 hp \u00e4r godk\u00e4nd.",
@@ -245,7 +281,10 @@
         "semester": "H\u00f6sttermin 2017",
         "start_week": 35,
         "end_week": 2,
-        "period": "FEL",
+        "periods": [
+            1,
+            2
+        ],
         "type": "Valbar",
         "academic_focus": null,
         "prerequisites": "Grundl\u00e4ggande beh\u00f6righet + Matematik 2a / 2b / 2c, Naturkunskap 2, Samh\u00e4llskunskap 1b / 1a1 +1a2. Eller: Matematik B, Naturkunskap B, Samh\u00e4llskunskap A. (Naturkunskap B kan ers\u00e4ttas med Fysik A, Kemi A och Biologi A med l\u00e4gst betyget Godk\u00e4nd)\nF\u00f6r \u00f6verg\u00e5ng mellan termin 3 och 4 kr\u00e4vs att termin 2 samt kursen\n Omv\u00e5rdnad vid oh\u00e4lsa 12 hp \u00e4r godk\u00e4nda.",
@@ -265,7 +304,10 @@
         "semester": "V\u00e5rtermin 2018",
         "start_week": 3,
         "end_week": 22,
-        "period": "FEL",
+        "periods": [
+            3,
+            4
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "Grundl\u00e4ggande beh\u00f6righet + Matematik 2a / 2b / 2c, Naturkunskap 2, Samh\u00e4llskunskap 1b / 1a1 +1a2. Eller: Matematik B, Naturkunskap B, Samh\u00e4llskunskap A. F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att kurserna Omv\u00e5rdnad vid oh\u00e4lsa 12 hp och Verksamhetsf\u00f6rlagd utbildning 10,5 hp \u00e4r avklarade.",
@@ -285,7 +327,10 @@
         "semester": "V\u00e5rtermin 2018",
         "start_week": 3,
         "end_week": 22,
-        "period": "FEL",
+        "periods": [
+            3,
+            4
+        ],
         "type": "Valbar",
         "academic_focus": null,
         "prerequisites": "Grundl\u00e4ggande beh\u00f6righet + Matematik 2a / 2b / 2c, Naturkunskap 2, Samh\u00e4llskunskap 1b / 1a1 +1a2. Eller: Matematik B, Naturkunskap B, Samh\u00e4llskunskap A. (General Science B can be replaced by Physics A, Chemistry A and Biology A with a minimum of a Pass grade).\nF\u00f6r \u00f6verg\u00e5ng mellan termin 3 och 4 kr\u00e4vs att termin 2 samt kursen Omv\u00e5rdnad vid oh\u00e4lsa 12 hp \u00e4r godk\u00e4nda.",
@@ -305,7 +350,10 @@
         "semester": "V\u00e5rtermin 2018",
         "start_week": 3,
         "end_week": 22,
-        "period": "FEL",
+        "periods": [
+            3,
+            4
+        ],
         "type": "Valbar",
         "academic_focus": null,
         "prerequisites": "Grundl\u00e4ggande beh\u00f6righet + Matematik 2a / 2b / 2c, Naturkunskap 2, Samh\u00e4llskunskap 1b / 1a1 +1a2. Eller: Matematik B, Naturkunskap B, Samh\u00e4llskunskap A. (Naturkunskap B kan ers\u00e4ttas med Fysik A, Kemi A och Biologi A med l\u00e4gst betyget Godk\u00e4nd)\nF\u00f6r \u00f6verg\u00e5ng mellan termin 3 och 4 kr\u00e4vs att termin 2 samt kursen Omv\u00e5rdnad vid oh\u00e4lsa 12 hp \u00e4r godk\u00e4nda.",
@@ -325,7 +373,10 @@
         "semester": "V\u00e5rtermin 2018",
         "start_week": 3,
         "end_week": 22,
-        "period": "FEL",
+        "periods": [
+            3,
+            4
+        ],
         "type": "Valbar",
         "academic_focus": null,
         "prerequisites": "Grundl\u00e4ggande beh\u00f6righet + Matematik 2a / 2b / 2c, Naturkunskap 2, Samh\u00e4llskunskap 1b / 1a1 +1a2. Eller: Matematik B, Naturkunskap B, Samh\u00e4llskunskap A. (Naturkunskap B kan ers\u00e4ttas med Fysik A, Kemi A och Biologi A med l\u00e4gst betyget Godk\u00e4nd)\nF\u00f6r \u00f6verg\u00e5ng mellan termin 3 och 4 kr\u00e4vs att termin 2 samt kursen Omv\u00e5rdnad vid oh\u00e4lsa 12 hp \u00e4r godk\u00e4nda.",
@@ -345,7 +396,9 @@
         "semester": "H\u00f6sttermin 2018",
         "start_week": 35,
         "end_week": 39,
-        "period": "1",
+        "periods": [
+            1
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "Grundl\u00e4ggande beh\u00f6righet + Matematik 2a / 2b / 2c, Naturkunskap 2, Samh\u00e4llskunskap 1b / 1a1 +1a2. Eller: Matematik B, Naturkunskap B, Samh\u00e4llskunskap A. (Naturkunskap B kan ers\u00e4ttas med Fysik A, Kemi A och Biologi A med l\u00e4gst betyget Godk\u00e4nd)\nF\u00f6r \u00f6verg\u00e5ng mellan termin 4 och 5 kr\u00e4vs att termin 3 samt kurserna; \nVFU inriktad mot somatisk v\u00e5rd 10,5 hp, \nVFU inriktad mot psykiatrisk v\u00e5rd/demensv\u00e5rd 10,5 hp \nVFU inriktad mot prim\u00e4r v\u00e5rd 10,5 hp \u00e4r godk\u00e4nda.",
@@ -365,7 +418,10 @@
         "semester": "H\u00f6sttermin 2018",
         "start_week": 40,
         "end_week": 3,
-        "period": "2",
+        "periods": [
+            2,
+            3
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "Grundl\u00e4ggande beh\u00f6righet + Matematik 2a / 2b / 2c, Naturkunskap 2, Samh\u00e4llskunskap 1b / 1a1 +1a2. Eller: Matematik B, Naturkunskap B, Samh\u00e4llskunskap A. (Naturkunskap B kan ers\u00e4ttas med Fysik A, Kemi A och Biologi A med l\u00e4gst betyget Godk\u00e4nd)\nF\u00f6r \u00f6verg\u00e5ng mellan termin 4 och 5 kr\u00e4vs att termin 3 samt kurserna; \nVFU inriktad mot somatisk v\u00e5rd 10,5 hp, \nVFU inriktad mot psykiatrisk v\u00e5rd/demensv\u00e5rd 10,5 hp \nVFU inriktad mot prim\u00e4r v\u00e5rd 10,5 hp \u00e4r godk\u00e4nda. \nSamt godk\u00e4nd projektplan eller motsvarande.",
@@ -385,7 +441,9 @@
         "semester": "H\u00f6sttermin 2018",
         "start_week": 40,
         "end_week": 51,
-        "period": "1",
+        "periods": [
+            2
+        ],
         "type": "Valbar",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att kurserna fr\u00e5n \u00e5r ett (60 hp) p\u00e5 Sjuksk\u00f6terskeprogrammt \u00e4r avklarade.",
@@ -397,7 +455,7 @@
         "start_year": 2018,
         "end_year": 2018,
         "course_duration": 12,
-        "is_double": true
+        "is_double": false
     },
     "OM1475": {
         "name": "eH\u00e4lsa inom omv\u00e5rdnad II",
@@ -405,7 +463,9 @@
         "semester": "H\u00f6sttermin 2018",
         "start_week": 40,
         "end_week": 51,
-        "period": "1",
+        "periods": [
+            2
+        ],
         "type": "Valbar",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att kurserna fr\u00e5n \u00e5r ett (60 hp) p\u00e5 sjuksk\u00f6terskeprogrammet \u00e4r avklarade.",
@@ -417,7 +477,7 @@
         "start_year": 2018,
         "end_year": 2018,
         "course_duration": 12,
-        "is_double": true
+        "is_double": false
     },
     "OM1478": {
         "name": "Omv\u00e5rdnad vid neurologisk oh\u00e4lsa",
@@ -425,7 +485,9 @@
         "semester": "H\u00f6sttermin 2018",
         "start_week": 40,
         "end_week": 51,
-        "period": "1",
+        "periods": [
+            2
+        ],
         "type": "Valbar",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att kurserna fr\u00e5n \u00e5r ett (60 hp) p\u00e5 Sjuksk\u00f6terskeprogrammet \u00e4r avklarade.",
@@ -437,7 +499,7 @@
         "start_year": 2018,
         "end_year": 2018,
         "course_duration": 12,
-        "is_double": true
+        "is_double": false
     },
     "OM1479": {
         "name": "Omv\u00e5rdnad vid kardiologisk oh\u00e4lsa",
@@ -445,7 +507,9 @@
         "semester": "H\u00f6sttermin 2018",
         "start_week": 40,
         "end_week": 51,
-        "period": "1",
+        "periods": [
+            2
+        ],
         "type": "Valbar",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att kurserna fr\u00e5n \u00e5r ett (60 hp) p\u00e5 Sjuksk\u00f6terskeprogrammet \u00e4r avklarade.",
@@ -457,7 +521,7 @@
         "start_year": 2018,
         "end_year": 2018,
         "course_duration": 12,
-        "is_double": true
+        "is_double": false
     },
     "OM1507": {
         "name": "F\u00f6rdjupning av sjuksk\u00f6terskans profession",
@@ -465,7 +529,10 @@
         "semester": "V\u00e5rtermin 2019",
         "start_week": 4,
         "end_week": 23,
-        "period": "3",
+        "periods": [
+            3,
+            4
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att f\u00f6ljande kurser \u00e4r avklarade: Omv\u00e5rdnad, vetenskapliga teorier och metoder 9hp, Sjuksk\u00f6terskan som ledare, 7,5hp samt f\u00f6ljande tre VFU-kurser; VFU inriktad mot somatisk v\u00e5rd 10,5 hp, VFU inriktad mot psykiatrisk v\u00e5rd/demensv\u00e5rd 10,5 hp och VFU inriktad mot prim\u00e4r v\u00e5rd 10,5 hp. Valbar kurs 7,5hp beh\u00f6ver vara genomg\u00e5ngen.",
@@ -485,7 +552,10 @@
         "semester": "V\u00e5rtermin 2019",
         "start_week": 5,
         "end_week": 22,
-        "period": "3",
+        "periods": [
+            3,
+            4
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att f\u00f6ljande kurser \u00e4r avklarade: Omv\u00e5rdnad, vetenskapliga teorier och metoder 9 hp, Sjuksk\u00f6terskan som ledare, 7,5hp samt f\u00f6ljande tre VFU-kurser; VFU inriktad mot somatisk v\u00e5rd 10,5 hp, VFU inriktad mot psykiatrisk v\u00e5rd/demensv\u00e5rd 10,5 hp och VFU inriktad mot prim\u00e4r v\u00e5rd 10,5 hp. Valbar kurs 7,5hp beh\u00f6ver vara genomg\u00e5ngen.",
@@ -501,7 +571,13 @@
     },
     "_groups": {
         "2016": {
-            "FEL": [
+            "1": [
+                "OM1439",
+                "OM1442",
+                "OM1444",
+                "KM1412"
+            ],
+            "2": [
                 "OM1439",
                 "OM1442",
                 "OM1444",
@@ -509,11 +585,26 @@
             ]
         },
         "2017": {
-            "FEL": [
+            "3": [
                 "KM1413",
                 "KM1414",
                 "OM1462",
-                "OM1463",
+                "OM1463"
+            ],
+            "4": [
+                "KM1413",
+                "KM1414",
+                "OM1462",
+                "OM1463"
+            ],
+            "1": [
+                "OM1470",
+                "OM1482",
+                "OM1447",
+                "OM1446",
+                "OM1445"
+            ],
+            "2": [
                 "OM1470",
                 "OM1482",
                 "OM1447",
@@ -522,25 +613,36 @@
             ]
         },
         "2018": {
-            "FEL": [
+            "3": [
+                "OM1472",
+                "OM1464",
+                "OM1466",
+                "OM1465",
+                "OM1434"
+            ],
+            "4": [
                 "OM1472",
                 "OM1464",
                 "OM1466",
                 "OM1465"
             ],
             "1": [
-                "OM1433",
+                "OM1433"
+            ],
+            "2": [
+                "OM1434",
                 "OM1476",
                 "OM1475",
                 "OM1478",
                 "OM1479"
-            ],
-            "2": [
-                "OM1434"
             ]
         },
         "2019": {
             "3": [
+                "OM1507",
+                "OM1506"
+            ],
+            "4": [
                 "OM1507",
                 "OM1506"
             ]

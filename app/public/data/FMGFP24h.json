@@ -5,7 +5,9 @@
         "semester": "H\u00f6sttermin 2024",
         "start_week": 35,
         "end_week": 44,
-        "period": 1,
+        "periods": [
+            1
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs grundl\u00e4ggande beh\u00f6righet samt Matematik 3b alt 3c och  Samh\u00e4llskunskap 1b alt 1a1 och 1a2 eller Matematik C och Samh\u00e4llskunskap A.",
@@ -25,7 +27,9 @@
         "semester": "H\u00f6sttermin 2024",
         "start_week": 45,
         "end_week": 49,
-        "period": 2,
+        "periods": [
+            2
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs grundl\u00e4ggande beh\u00f6righet och Matematik 3b alternativt 3c samt Samh\u00e4llskunskap 1b alternativt 1a1 och 1a2 eller Matematik C och Samh\u00e4llskunskap A.",
@@ -45,7 +49,9 @@
         "semester": "H\u00f6sttermin 2024",
         "start_week": 49,
         "end_week": 3,
-        "period": 2,
+        "periods": [
+            2
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs grundl\u00e4ggande beh\u00f6righet samt Matematik 3b alt 3c och Samh\u00e4llskunskap 1b alt 1a1 och 1a2 eller Matematik C och Samh\u00e4llskunskap A.",
@@ -65,7 +71,9 @@
         "semester": "V\u00e5rtermin 2025",
         "start_week": 4,
         "end_week": 8,
-        "period": 3,
+        "periods": [
+            3
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs grundl\u00e4ggande beh\u00f6righet samt Matematik 3b alt 3c och Samh\u00e4llskunskap 1b alt 1a1 och 1a2 eller Matematik C och Samh\u00e4llskunskap A.",
@@ -85,7 +93,9 @@
         "semester": "V\u00e5rtermin 2025",
         "start_week": 9,
         "end_week": 13,
-        "period": 3,
+        "periods": [
+            3
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs grundl\u00e4ggande beh\u00f6righet samt Matematik 3b alt 3c och Samh\u00e4llskunskap 1b alt 1a1 och 1a2 eller Matematik C och Samh\u00e4llskunskap A.",
@@ -105,7 +115,9 @@
         "semester": "V\u00e5rtermin 2025",
         "start_week": 14,
         "end_week": 23,
-        "period": 4,
+        "periods": [
+            4
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs grundl\u00e4ggande beh\u00f6righet samt Matematik 3b alt 3c och Samh\u00e4llskunskap 1b alt 1a1 och 1a2 eller Matematik C och Samh\u00e4llskunskap A.",
@@ -125,7 +137,9 @@
         "semester": "H\u00f6sttermin 2025",
         "start_week": 36,
         "end_week": 44,
-        "period": 1,
+        "periods": [
+            1
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser Introduktion till Fysisk planering, 15 hp, Rum 1, 7,5 hp samt Vetenskapsteorins grunder, 7,5 hp.",
@@ -145,7 +159,9 @@
         "semester": "H\u00f6sttermin 2025",
         "start_week": 45,
         "end_week": 49,
-        "period": 2,
+        "periods": [
+            2
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser i Introduktion till fysisk planering, 15 hp och i Vetenskapsteorins grunder, 7,5 hp.",
@@ -165,7 +181,9 @@
         "semester": "H\u00f6sttermin 2025",
         "start_week": 50,
         "end_week": 3,
-        "period": 2,
+        "periods": [
+            2
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarad kurs Introduktion till Fysisk planering, 15 hp.",
@@ -185,7 +203,9 @@
         "semester": "V\u00e5rtermin 2026",
         "start_week": 4,
         "end_week": 8,
-        "period": 3,
+        "periods": [
+            3
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser Introduktion till Fysisk planering, 15 hp och \u00d6versiktlig planering och detaljplanering, 15 hp.",
@@ -205,7 +225,9 @@
         "semester": "V\u00e5rtermin 2026",
         "start_week": 9,
         "end_week": 13,
-        "period": 3,
+        "periods": [
+            3
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser Introduktion till Fysisk planering, 15 hp och Stadsrum 1, 7,5 hp.",
@@ -225,7 +247,9 @@
         "semester": "V\u00e5rtermin 2026",
         "start_week": 14,
         "end_week": 23,
-        "period": 4,
+        "periods": [
+            4
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser Introduktion till Fysisk planering, 15 hp samt Rum 1, 7,5 hp.",
@@ -245,7 +269,9 @@
         "semester": "H\u00f6sttermin 2026",
         "start_week": 36,
         "end_week": 44,
-        "period": 1,
+        "periods": [
+            1
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser Naturresurser och landskap 15 hp samt Plan- och milj\u00f6r\u00e4tt 7,5 hp.",
@@ -265,7 +291,9 @@
         "semester": "H\u00f6sttermin 2026",
         "start_week": 45,
         "end_week": 2,
-        "period": 2,
+        "periods": [
+            2
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser Introduktion till Fysisk planering, 15 hp samt Rum 1, 7,5 hp.",
@@ -285,7 +313,9 @@
         "semester": "V\u00e5rtermin 2027",
         "start_week": 3,
         "end_week": 12,
-        "period": 3,
+        "periods": [
+            3
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser \u00d6versiktlig planering och detaljplanering, 15 hp,  Naturresurser och Landskap 15 hp samt Planeringsteori 7,5 hp.",
@@ -305,7 +335,9 @@
         "semester": "V\u00e5rtermin 2027",
         "start_week": 13,
         "end_week": 22,
-        "period": 4,
+        "periods": [
+            4
+        ],
         "type": "Valbar",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser om minst 130 hp inom huvudomr\u00e5det Fysisk planering.",
@@ -325,7 +357,9 @@
         "semester": "V\u00e5rtermin 2027",
         "start_week": 13,
         "end_week": 22,
-        "period": 4,
+        "periods": [
+            4
+        ],
         "type": "Valbar",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser om minst 130 hp inom huvudomr\u00e5det Fysisk planering.",

@@ -5,7 +5,9 @@
         "semester": "H\u00f6sttermin 2019",
         "start_week": 36,
         "end_week": 44,
-        "period": 1,
+        "periods": [
+            1
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "Grundl\u00e4ggande beh\u00f6righet (har en examen p\u00e5 grundniv\u00e5 som omfattar minst 180 h\u00f6gskolepo\u00e4ng) inom milj\u00f6vetenskap/ekologi, lantm\u00e4teri, v\u00e4g och vattenbyggnad, trafikteknik, samh\u00e4llsplanering/samh\u00e4llsbyggnad, landskapsingenj\u00f6r, bebyggelsev\u00e5rd, arkitektur, landskapsarkitektur, fysisk planering eller n\u00e4rliggande utbildningar. Engelska B/Engelska 6",
@@ -25,7 +27,9 @@
         "semester": "H\u00f6sttermin 2019",
         "start_week": 45,
         "end_week": 3,
-        "period": 2,
+        "periods": [
+            2
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "Grundl\u00e4ggande beh\u00f6righet (har en examen p\u00e5 grundniv\u00e5 som omfattar minst 180 h\u00f6gskolepo\u00e4ng)inom milj\u00f6vetenskap/ekologi, lantm\u00e4teri, v\u00e4g och vattenbyggnad, trafikteknik, samh\u00e4llsplanering/samh\u00e4llsbyggnad, landskapsingenj\u00f6r, bebyggelsev\u00e5rd, arkitektur, landskapsarkitektur, fysisk planering eller n\u00e4rliggande utbildningar. Engelska B/Engelska 6.",
@@ -37,7 +41,7 @@
         "start_year": 2019,
         "end_year": 2020,
         "course_duration": 11,
-        "is_double": true
+        "is_double": false
     },
     "FM2604": {
         "name": "Arbeta i ett multidisciplin\u00e4rt planeringsprojekt",
@@ -45,7 +49,9 @@
         "semester": "V\u00e5rtermin 2020",
         "start_week": 4,
         "end_week": 13,
-        "period": 3,
+        "periods": [
+            3
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "Deltagit i kurser motsvarande 30 hp inom magisterprogrammet i fysisk planering.",
@@ -65,7 +71,9 @@
         "semester": "V\u00e5rtermin 2020",
         "start_week": 14,
         "end_week": 23,
-        "period": 4,
+        "periods": [
+            4
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "Deltagit i kurser motsvarande 45 hp inom magisterprogrammet i fysisk planering.",

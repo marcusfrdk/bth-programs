@@ -5,7 +5,9 @@
         "semester": "H\u00f6sttermin 2018",
         "start_week": 36,
         "end_week": 44,
-        "period": 1,
+        "periods": [
+            1
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6ljande kurser ska vara genomg\u00e5ngna; Linj\u00e4r algebra, 7,5 hp, Analys 15 hp samt  Matematik, forts\u00e4ttningskurs, 7,5 hp eller motsvarande.",
@@ -25,7 +27,9 @@
         "semester": "H\u00f6sttermin 2018",
         "start_week": 36,
         "end_week": 44,
-        "period": 1,
+        "periods": [
+            1
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4det till kursen kr\u00e4vs kandidatexamen, 180 h\u00f6gskolepo\u00e4ng.",
@@ -45,7 +49,9 @@
         "semester": "H\u00f6sttermin 2018",
         "start_week": 45,
         "end_week": 3,
-        "period": 2,
+        "periods": [
+            2
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarad kurs Dynamik, 6 hp och genomg\u00e5ngen kurs Linj\u00e4r algebra, 6 hp.",
@@ -57,7 +63,7 @@
         "start_year": 2018,
         "end_year": 2019,
         "course_duration": 11,
-        "is_double": true
+        "is_double": false
     },
     "ET1539": {
         "name": "Signalbehandling",
@@ -65,7 +71,9 @@
         "semester": "H\u00f6sttermin 2018",
         "start_week": 45,
         "end_week": 3,
-        "period": 2,
+        "periods": [
+            2
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngen kurs i transformteori, 6 hp.",
@@ -77,7 +85,7 @@
         "start_year": 2018,
         "end_year": 2019,
         "course_duration": 11,
-        "is_double": true
+        "is_double": false
     },
     "MT2562": {
         "name": "Strukturanalys",
@@ -85,7 +93,9 @@
         "semester": "V\u00e5rtermin 2019",
         "start_week": 4,
         "end_week": 13,
-        "period": 3,
+        "periods": [
+            3
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs 150 avklarade hp fr\u00e5n ett ingenj\u00f6rsprogram inom maskinteknik.",
@@ -105,7 +115,9 @@
         "semester": "V\u00e5rtermin 2019",
         "start_week": 14,
         "end_week": 23,
-        "period": 4,
+        "periods": [
+            4
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att f\u00f6ljande kurs \u00e4r genomg\u00e5ngen:\n\nSignalbehandling I ET1203 7,5 hp eller motsvarande.",
@@ -125,7 +137,9 @@
         "semester": "V\u00e5rtermin 2019",
         "start_week": 14,
         "end_week": 23,
-        "period": 4,
+        "periods": [
+            4
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngen kurs Strukturanalys 7,5 hp.",
@@ -145,7 +159,9 @@
         "semester": "H\u00f6sttermin 2019",
         "start_week": 36,
         "end_week": 44,
-        "period": 1,
+        "periods": [
+            1
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att f\u00f6ljande kurs \u00e4r genomg\u00e5ngen:\nET2529 Ljud- och vibrationsanalys, 7,5 hp.",
@@ -165,7 +181,9 @@
         "semester": "H\u00f6sttermin 2019",
         "start_week": 36,
         "end_week": 44,
-        "period": 1,
+        "periods": [
+            1
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngen kurs Mekanikens approximativa ber\u00e4kningsmetoder 1, 7,5 hp.",
@@ -185,7 +203,9 @@
         "semester": "H\u00f6sttermin 2019",
         "start_week": 45,
         "end_week": 3,
-        "period": 2,
+        "periods": [
+            2
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "Avklarade studier om minst 180 hp inom omr\u00e5det teknik.",
@@ -197,7 +217,7 @@
         "start_year": 2019,
         "end_year": 2020,
         "course_duration": 11,
-        "is_double": true
+        "is_double": false
     },
     "MT2553": {
         "name": "Fysikalisk akustik",
@@ -205,7 +225,9 @@
         "semester": "H\u00f6sttermin 2019",
         "start_week": 45,
         "end_week": 3,
-        "period": 2,
+        "periods": [
+            2
+        ],
         "type": "Valbar",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser Dynamik 6 hp och Flervariabelanalys 6 hp samt genomg\u00e5ngna kurser Differentialekvationer med Liegruppsanalys 7,5 hp och Ljud- och vibrationsanalys 7,5 h eller Mekaniska sv\u00e4ngningar 7,5 hp eller Strukturdynamik i mekaniska konstruktionen 7,5 hp.",
@@ -217,7 +239,7 @@
         "start_year": 2019,
         "end_year": 2020,
         "course_duration": 11,
-        "is_double": true
+        "is_double": false
     },
     "MT2559": {
         "name": "Simuleringsdriven produktutveckling",
@@ -225,7 +247,9 @@
         "semester": "H\u00f6sttermin 2019",
         "start_week": 45,
         "end_week": 3,
-        "period": 2,
+        "periods": [
+            2
+        ],
         "type": "Valbar",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngen kurs Mekanikens approximativa ber\u00e4kningsmetoder 1, 7,5 hp.",
@@ -237,7 +261,7 @@
         "start_year": 2019,
         "end_year": 2020,
         "course_duration": 11,
-        "is_double": true
+        "is_double": false
     },
     "MT2565": {
         "name": "Masterarbete i maskinteknik med inriktning mot strukturmekanik",
@@ -245,7 +269,10 @@
         "semester": "V\u00e5rtermin 2020",
         "start_week": 4,
         "end_week": 23,
-        "period": 3,
+        "periods": [
+            3,
+            4
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs 60 hp avklarade fr\u00e5n ett masterprogram i maskinteknik.",
@@ -290,6 +317,9 @@
         },
         "2020": {
             "3": [
+                "MT2565"
+            ],
+            "4": [
                 "MT2565"
             ]
         }

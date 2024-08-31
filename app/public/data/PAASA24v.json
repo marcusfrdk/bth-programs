@@ -5,7 +5,10 @@
         "semester": "V\u00e5rtermin 2024",
         "start_week": 3,
         "end_week": 22,
-        "period": 3,
+        "periods": [
+            3,
+            4
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "Minst 90 hp varav minst 60 hp inom  ett tekniskt omr\u00e5de.",
@@ -25,7 +28,10 @@
         "semester": "V\u00e5rtermin 2024",
         "start_week": 3,
         "end_week": 22,
-        "period": 3,
+        "periods": [
+            3,
+            4
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "Minst 90 hp inom ett tekniskt omr\u00e5de varav en avklarad kurs p\u00e5 7,5 hp inom Grundl\u00e4ggande Programvaruteknik (Software Engineering) eller Programvaruutvecklingsprojekt i grupp, och varav minst 30 hp skall utg\u00f6ras av kurser inom ett eller flera av f\u00f6ljande omr\u00e5den: Programmering, Objektorienterad systemutveckling, Programvarudesign, Datastrukturer och algoritmer, Databasteknik, Datakommunikation, Realtidssystem, Operativsystem. \n\neller \n\nMinst 90 hp inom omr\u00e5det teknologi och minst 2 \u00e5rs yrkeserfarenhet av mjukvarurelaterad utveckling (visas exempelvis genom intyg fr\u00e5n arbetsgivare).",
@@ -45,7 +51,10 @@
         "semester": "H\u00f6sttermin 2024",
         "start_week": 36,
         "end_week": 3,
-        "period": 1,
+        "periods": [
+            1,
+            2
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "Minst 90 hp inom ett tekniskt omr\u00e5de varav en avklarad kurs p\u00e5 7,5 hp inom Grundl\u00e4ggande Programvaruteknik (Software Engineering) eller Programvaruutvecklingsprojekt i grupp, och varav minst 30 hp skall utg\u00f6ras av kurser inom ett eller flera av f\u00f6ljande omr\u00e5den: Programmering, Objektorienterad systemutveckling, Programvarudesign, Datastrukturer och algoritmer, Databasteknik, Datakommunikation, Realtidssystem, Operativsystem.\n\neller\n\nMinst 90 hp inom omr\u00e5det teknologi och minst 2 \u00e5rs yrkeserfarenhet av mjukvarurelaterad utveckling (visas exempelvis genom intyg fr\u00e5n arbetsgivare).\n",
@@ -65,7 +74,10 @@
         "semester": "H\u00f6sttermin 2024",
         "start_week": 36,
         "end_week": 3,
-        "period": 1,
+        "periods": [
+            1,
+            2
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "Minst 90hp inom ett tekniskt omr\u00e5de varav minst 30 hp skall utg\u00f6ras av kurser inom ett eller flera av f\u00f6ljande omr\u00e5den: Programmering, Objektorienterad systemutveckling, Programvarudesign, Datastrukturer och algoritmer, Databasteknik, Datakommunikation, Realtidssystem, Operativsystem. eller Minst 90 hp inom omr\u00e5det teknologi och minst 2 \u00e5rs yrkeserfarenhet av mjukvarurelaterad utveckling (visas exempelvis genom intyg fr\u00e5n arbetsgivare).\n",
@@ -85,7 +97,10 @@
         "semester": "V\u00e5rtermin 2025",
         "start_week": 4,
         "end_week": 3,
-        "period": 3,
+        "periods": [
+            3,
+            4
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs minst 120 hp inom omr\u00e5det teknologi och 7,5 hp i en avancerad (A1N) kurs inom omr\u00e5det mjukvaruteknik samt minst 2 \u00e5rs yrkeserfarenhet av mjukvarurelaterad utveckling (visas exempelvis genom intyg fr\u00e5n arbetsgivare).\n",
@@ -105,7 +120,10 @@
         "semester": "V\u00e5rtermin 2025",
         "start_week": 4,
         "end_week": 23,
-        "period": 3,
+        "periods": [
+            3,
+            4
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs minst 120 hp varav 90 hp inom ett tekniskt omr\u00e5de och minst 2 \u00e5rs yrkeserfarenhet inom omr\u00e5de som \u00e4r relaterat till mjukvaruintensiv produkt och/eller tj\u00e4nsteutveckling (visas exempelvis genom intyg fr\u00e5n arbetsgivare).\n",
@@ -125,7 +143,10 @@
         "semester": "V\u00e5rtermin 2025",
         "start_week": 4,
         "end_week": 23,
-        "period": 3,
+        "periods": [
+            3,
+            4
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att minst 120 hp \u00e4r avklarade varav 90 hp inom ett tekniskt omr\u00e5de samt minst 2 \u00e5rs yrkeserfarenhet inom omr\u00e5de som \u00e4r relaterat till mjukvaruintensiv produkt och/eller tj\u00e4nsteutveckling (visas exempelvis genom intyg fr\u00e5n arbetsgivare.)\n",
@@ -145,13 +166,26 @@
                 "PA2578",
                 "PA2579"
             ],
+            "4": [
+                "PA2578",
+                "PA2579"
+            ],
             "1": [
+                "PA2580",
+                "PA2577"
+            ],
+            "2": [
                 "PA2580",
                 "PA2577"
             ]
         },
         "2025": {
             "3": [
+                "PA2592",
+                "PA2595",
+                "PA2585"
+            ],
+            "4": [
                 "PA2592",
                 "PA2595",
                 "PA2585"

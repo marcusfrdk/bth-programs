@@ -5,7 +5,10 @@
         "semester": "H\u00f6sttermin 2020",
         "start_week": 36,
         "end_week": 2,
-        "period": 1,
+        "periods": [
+            1,
+            2
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "Minst 90 hp inom ett tekniskt omr\u00e5de varav en avklarad kurs p\u00e5 7,5 hp inom Grundl\u00e4ggande Programvaruteknik (Software Engineering) eller Programvaruutvecklingsprojekt i grupp, och varav minst 30 hp skall utg\u00f6ras av kurser inom ett eller flera av f\u00f6ljande omr\u00e5den: Programmering, Objektorienterad systemutveckling, Programvarudesign, Datastrukturer och algoritmer, Databasteknik, Datakommunikation, Realtidssystem, Operativsystem.\n\neller \n\nMinst 90 hp inom omr\u00e5det teknologi och minst 2 \u00e5rs yrkeserfarenhet av mjukvarurelaterad utveckling (visas exempelvis genom intyg fr\u00e5n arbetsgivare).",
@@ -25,7 +28,10 @@
         "semester": "H\u00f6sttermin 2020",
         "start_week": 36,
         "end_week": 2,
-        "period": 1,
+        "periods": [
+            1,
+            2
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "Minst 90 hp inom ett tekniskt omr\u00e5de varav en avklarad kurs p\u00e5 7,5 hp inom Grundl\u00e4ggande Programvaruteknik (Software Engineering) eller Programvaruutvecklingsprojekt i grupp, och varav minst 30 hp skall utg\u00f6ras av kurser inom ett eller flera av f\u00f6ljande omr\u00e5den: Programmering, Objektorienterad systemutveckling, Programvarudesign, Datastrukturer och algoritmer, Databasteknik, Datakommunikation, Realtidssystem, Operativsystem. \n\neller \n\nMinst 90 hp inom omr\u00e5det teknologi och minst 2 \u00e5rs yrkeserfarenhet av mjukvarurelaterad utveckling (visas exempelvis genom intyg fr\u00e5n arbetsgivare).",
@@ -45,7 +51,9 @@
         "semester": "H\u00f6sttermin 2020",
         "start_week": 45,
         "end_week": 2,
-        "period": 2,
+        "periods": [
+            2
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att den studerande har avklarat 15 hp programmering och algoritmer och datastrukturer 7,5 hp.",
@@ -65,7 +73,9 @@
         "semester": "H\u00f6sttermin 2020",
         "start_week": 45,
         "end_week": 2,
-        "period": 2,
+        "periods": [
+            2
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs 60 h\u00f6gskolepo\u00e4ng i Datavetenskap eller Programvaruteknik varav avklarad kurs i Realtid och operativsystem 6 hp samt genomg\u00e5ngen kurs i Prestandaoptimering 7,5 hp.",
@@ -85,7 +95,9 @@
         "semester": "V\u00e5rtermin 2021",
         "start_week": 3,
         "end_week": 12,
-        "period": 3,
+        "periods": [
+            3
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de i kursen kr\u00e4vs att studenten har avklarat 15 h\u00f6gskolepo\u00e4ng C  eller C++-programmering, 15 h\u00f6gskolepo\u00e4ng 3D-programmering, 6 h\u00f6gskolepo\u00e4ng objektorienterad design, 6 h\u00f6gskolepo\u00e4ng algoritmer och datastrukturer, 6 h\u00f6gskolepo\u00e4ng realtids- eller operativsystem, 6 h\u00f6gskolepo\u00e4ng linj\u00e4r algebra samt 4 h\u00f6gskolepo\u00e4ng teknisk kommunikation.",
@@ -105,7 +117,9 @@
         "semester": "V\u00e5rtermin 2021",
         "start_week": 3,
         "end_week": 12,
-        "period": 3,
+        "periods": [
+            3
+        ],
         "type": "Valbar",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngen kurs Programmering och probleml\u00f6sning med Python 7,5 hp.",
@@ -125,7 +139,9 @@
         "semester": "V\u00e5rtermin 2021",
         "start_week": 3,
         "end_week": 12,
-        "period": 3,
+        "periods": [
+            3
+        ],
         "type": "Valbar",
         "academic_focus": null,
         "prerequisites": "Grundl\u00e4ggande beh\u00f6righet.",
@@ -145,7 +161,9 @@
         "semester": "V\u00e5rtermin 2021",
         "start_week": 13,
         "end_week": 22,
-        "period": 4,
+        "periods": [
+            4
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "Grundl\u00e4ggande beh\u00f6righet samt Matematik 2 eller motsvarande.",
@@ -165,7 +183,9 @@
         "semester": "V\u00e5rtermin 2021",
         "start_week": 13,
         "end_week": 22,
-        "period": 4,
+        "periods": [
+            4
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "Grundl\u00e4ggande beh\u00f6righet samt Matematik 2 eller motsvarande.",
@@ -186,6 +206,8 @@
                 "PA2579"
             ],
             "2": [
+                "PA2580",
+                "PA2579",
                 "DV1569",
                 "DV2581"
             ]

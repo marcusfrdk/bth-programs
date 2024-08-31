@@ -5,7 +5,10 @@
         "semester": "H\u00f6sttermin 2023",
         "start_week": 35,
         "end_week": 22,
-        "period": 1,
+        "periods": [
+            1,
+            2
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "Kandidatexamen eller yrkesexamen om 180 h\u00f6gskolepo\u00e4ng och Engelska B samt minst sex m\u00e5naders relevant yrkeslivserfarenhet, s\u00e5som arbete, praktikarbete, volont\u00e4rarbete, f\u00f6rtroendeuppdrag, eller motsvarande, p\u00e5 heltid eller deltid, som visar p\u00e5 erfarenhet av h\u00e5llbarhetsarbete.",
@@ -25,7 +28,9 @@
         "semester": "H\u00f6sttermin 2023",
         "start_week": 35,
         "end_week": 43,
-        "period": 1,
+        "periods": [
+            1
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "Kandidatexamen eller yrkesexamen om 180 hp samt Engelska B.",
@@ -45,7 +50,9 @@
         "semester": "H\u00f6sttermin 2023",
         "start_week": 44,
         "end_week": 48,
-        "period": 2,
+        "periods": [
+            2
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att 5 hp av kursen Strategisk h\u00e5llbar utveckling (12,5 hp) \u00e4r avklarade.",
@@ -65,7 +72,10 @@
         "semester": "H\u00f6sttermin 2023",
         "start_week": 44,
         "end_week": 17,
-        "period": 2,
+        "periods": [
+            2,
+            3
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurs Strategisk h\u00e5llbar utveckling 12,5 hp samt att 2,5 hp av kursen Ledarskap i komplexitet (10 hp) \u00e4r avklarade.",
@@ -85,7 +95,10 @@
         "semester": "H\u00f6sttermin 2023",
         "start_week": 44,
         "end_week": 7,
-        "period": 2,
+        "periods": [
+            2,
+            3
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att kursen Strategisk h\u00e5llbar utveckling 12,5 hp \u00e4r avklarad, samt att 2,5 hp av kursen Ledarskap i komplexitet, 10 hp \u00e4r avklarade.",
@@ -105,7 +118,10 @@
         "semester": "V\u00e5rtermin 2024",
         "start_week": 3,
         "end_week": 22,
-        "period": 3,
+        "periods": [
+            3,
+            4
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser Strategisk h\u00e5llbar utveckling 12,5 hp och Innovation f\u00f6r h\u00e5llbarhet, 5 hp samt att 2,5 hp av kursen Ledarskap i komplexitet (10 hp) \u00e4r avklarade.",
@@ -126,13 +142,21 @@
                 "SL2533"
             ],
             "2": [
+                "SL2534",
                 "SL2540",
+                "SL2537",
+                "SL2550"
+            ],
+            "3": [
                 "SL2537",
                 "SL2550"
             ]
         },
         "2024": {
             "3": [
+                "SL2538"
+            ],
+            "4": [
                 "SL2538"
             ]
         }

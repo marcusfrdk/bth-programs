@@ -5,7 +5,10 @@
         "semester": "H\u00f6sttermin 2017",
         "start_week": 35,
         "end_week": 2,
-        "period": "FEL",
+        "periods": [
+            1,
+            2
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": null,
@@ -25,7 +28,10 @@
         "semester": "H\u00f6sttermin 2017",
         "start_week": 35,
         "end_week": 2,
-        "period": "FEL",
+        "periods": [
+            1,
+            2
+        ],
         "type": "Valbar",
         "academic_focus": null,
         "prerequisites": null,
@@ -41,7 +47,11 @@
     },
     "_groups": {
         "2017": {
-            "FEL": [
+            "1": [
+                "FM1900",
+                "FM1901"
+            ],
+            "2": [
                 "FM1900",
                 "FM1901"
             ]

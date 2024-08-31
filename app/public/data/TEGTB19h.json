@@ -5,7 +5,10 @@
         "semester": "H\u00f6sttermin 2019",
         "start_week": 35,
         "end_week": 3,
-        "period": 1,
+        "periods": [
+            1,
+            2
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "Grundl\u00e4ggande beh\u00f6righet samt Matematik 2a/2b/2c.",
@@ -25,7 +28,10 @@
         "semester": "H\u00f6sttermin 2019",
         "start_week": 36,
         "end_week": 3,
-        "period": 1,
+        "periods": [
+            1,
+            2
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "Grundl\u00e4ggande beh\u00f6righet och Matematik 2a/2b/2c samt p\u00e5b\u00f6rjad kurs Matematik gamma 15 fup.",
@@ -45,7 +51,10 @@
         "semester": "H\u00f6sttermin 2019",
         "start_week": 45,
         "end_week": 13,
-        "period": 2,
+        "periods": [
+            2,
+            3
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "Grundl\u00e4ggande beh\u00f6righet samt Matematik 2a/2b/2c.",
@@ -65,7 +74,10 @@
         "semester": "V\u00e5rtermin 2020",
         "start_week": 4,
         "end_week": 23,
-        "period": 3,
+        "periods": [
+            3,
+            4
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "Grundl\u00e4ggande beh\u00f6righet samt Matematik 2a/2b/2c.",
@@ -85,7 +97,10 @@
         "semester": "V\u00e5rtermin 2020",
         "start_week": 4,
         "end_week": 23,
-        "period": 3,
+        "periods": [
+            3,
+            4
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "Grundl\u00e4ggande beh\u00f6righet och Matematik 2a/2b/2c samt genomg\u00e5ngen kurs Matematik gamma 15 fup och p\u00e5b\u00f6rjad kurs Matematik delta, 10 fup.",
@@ -105,7 +120,10 @@
         "semester": "V\u00e5rtermin 2020",
         "start_week": 4,
         "end_week": 23,
-        "period": 3,
+        "periods": [
+            3,
+            4
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngen kurs Matematik gamma, 15 fup.",
@@ -126,11 +144,21 @@
                 "FY0003"
             ],
             "2": [
+                "MA0003",
+                "FY0003",
+                "NO0003"
+            ],
+            "3": [
                 "NO0003"
             ]
         },
         "2020": {
             "3": [
+                "KE0002",
+                "FY0004",
+                "MA0004"
+            ],
+            "4": [
                 "KE0002",
                 "FY0004",
                 "MA0004"

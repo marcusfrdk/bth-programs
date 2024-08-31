@@ -5,7 +5,9 @@
         "semester": "H\u00f6sttermin 2021",
         "start_week": 34,
         "end_week": 43,
-        "period": 1,
+        "periods": [
+            1
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "Grundl\u00e4ggande beh\u00f6righet",
@@ -25,7 +27,9 @@
         "semester": "H\u00f6sttermin 2021",
         "start_week": 34,
         "end_week": 43,
-        "period": 1,
+        "periods": [
+            1
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "Grundl\u00e4ggande beh\u00f6righet samt Matematik 4 och Fysik 2.",
@@ -45,7 +49,10 @@
         "semester": "H\u00f6sttermin 2021",
         "start_week": 34,
         "end_week": 2,
-        "period": 1,
+        "periods": [
+            1,
+            2
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "Grundl\u00e4ggande beh\u00f6righet samt Matematik 4, Fysik 2, och Kemi 1 eller Matematik E, Fysik B och Kemi\nA.",
@@ -65,7 +72,9 @@
         "semester": "H\u00f6sttermin 2021",
         "start_week": 44,
         "end_week": 2,
-        "period": 2,
+        "periods": [
+            2
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "Grundl\u00e4ggande beh\u00f6righet",
@@ -77,7 +86,7 @@
         "start_year": 2021,
         "end_year": 2022,
         "course_duration": 11,
-        "is_double": true
+        "is_double": false
     },
     "MA1448": {
         "name": "Linj\u00e4r algebra 1",
@@ -85,7 +94,9 @@
         "semester": "H\u00f6sttermin 2021",
         "start_week": 44,
         "end_week": 2,
-        "period": 2,
+        "periods": [
+            2
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "Grundl\u00e4ggande beh\u00f6righet samt Matematik 4 och Fysik 2.",
@@ -97,7 +108,7 @@
         "start_year": 2021,
         "end_year": 2022,
         "course_duration": 11,
-        "is_double": true
+        "is_double": false
     },
     "PA1473": {
         "name": "Programvaruutveckling",
@@ -105,7 +116,10 @@
         "semester": "V\u00e5rtermin 2022",
         "start_week": 3,
         "end_week": 22,
-        "period": 3,
+        "periods": [
+            3,
+            4
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngna 8 hp inom introduktion till ingenj\u00f6rsmetodik och genomg\u00e5ngna 6 hp inom programmering.",
@@ -125,7 +139,9 @@
         "semester": "V\u00e5rtermin 2022",
         "start_week": 3,
         "end_week": 12,
-        "period": 3,
+        "periods": [
+            3
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "Grundl\u00e4ggande beh\u00f6righet samt Matematik 3c och Fysik 2.",
@@ -145,7 +161,9 @@
         "semester": "V\u00e5rtermin 2022",
         "start_week": 3,
         "end_week": 12,
-        "period": 3,
+        "periods": [
+            3
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "Omr\u00e5desbeh\u00f6righet 9: Matematik E, Fysik B. (Kemi A kr\u00e4vs ej)  eller omr\u00e5desbeh\u00f6righet A9: Matematik 4, Fysik 2. (Kemi 1 kr\u00e4vs ej).",
@@ -165,7 +183,9 @@
         "semester": "V\u00e5rtermin 2022",
         "start_week": 13,
         "end_week": 22,
-        "period": 4,
+        "periods": [
+            4
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att studenten har avklarat 6  hp i programmering.",
@@ -185,7 +205,9 @@
         "semester": "V\u00e5rtermin 2022",
         "start_week": 13,
         "end_week": 22,
-        "period": 4,
+        "periods": [
+            4
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngen kurs Analys 1, 6 hp.",
@@ -205,7 +227,9 @@
         "semester": "H\u00f6sttermin 2022",
         "start_week": 35,
         "end_week": 43,
-        "period": 1,
+        "periods": [
+            1
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "Genomg\u00e5ngna kurser Matematik, grundkurs, 4 hp alternativt Matematisk probleml\u00f6sning, 4 hp och Linj\u00e4r algebra 1, 6 hp eller motsvarande.",
@@ -225,7 +249,9 @@
         "semester": "H\u00f6sttermin 2022",
         "start_week": 35,
         "end_week": 43,
-        "period": 1,
+        "periods": [
+            1
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngen kurs, Programmering och probleml\u00f6sning med Python, 6 hp, varav minst 2 hp ska vara avklarade.",
@@ -245,7 +271,9 @@
         "semester": "H\u00f6sttermin 2022",
         "start_week": 35,
         "end_week": 43,
-        "period": 1,
+        "periods": [
+            1
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "Genomg\u00e5ngna kurser i Analys 12 hp samt Linj\u00e4r algebra 6 hp (eller motsvarande).",
@@ -265,7 +293,9 @@
         "semester": "H\u00f6sttermin 2022",
         "start_week": 44,
         "end_week": 2,
-        "period": 2,
+        "periods": [
+            2
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngna kurser Linj\u00e4r algebra 6 hp, Analys 6 hp och Analys 2 6 hp.",
@@ -277,7 +307,7 @@
         "start_year": 2022,
         "end_year": 2023,
         "course_duration": 11,
-        "is_double": true
+        "is_double": false
     },
     "DV1625": {
         "name": "Datastrukturer och algoritmer",
@@ -285,7 +315,9 @@
         "semester": "H\u00f6sttermin 2022",
         "start_week": 44,
         "end_week": 2,
-        "period": 2,
+        "periods": [
+            2
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs minst 6 hp avklarade i grundl\u00e4ggande programmering i C++, Java eller Python samt minst 2 hp avklarade i objektorienterad programmering.",
@@ -297,7 +329,7 @@
         "start_year": 2022,
         "end_year": 2023,
         "course_duration": 11,
-        "is_double": true
+        "is_double": false
     },
     "PA1475": {
         "name": "Projekt i systemteknik",
@@ -305,7 +337,10 @@
         "semester": "V\u00e5rtermin 2023",
         "start_week": 3,
         "end_week": 22,
-        "period": 3,
+        "periods": [
+            3,
+            4
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs 2 hp avklarade i objektorienterad design och 6 hp avklarade i programvaruutveckling.",
@@ -325,7 +360,9 @@
         "semester": "V\u00e5rtermin 2023",
         "start_week": 3,
         "end_week": 12,
-        "period": 3,
+        "periods": [
+            3
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att studenten har avklarat 6 hp inom huvudomr\u00e5det\ndatavetenskap eller programvaruteknik.",
@@ -345,7 +382,9 @@
         "semester": "V\u00e5rtermin 2023",
         "start_week": 3,
         "end_week": 12,
-        "period": 3,
+        "periods": [
+            3
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs 6 hp i programmering.",
@@ -365,7 +404,9 @@
         "semester": "V\u00e5rtermin 2023",
         "start_week": 3,
         "end_week": 12,
-        "period": 3,
+        "periods": [
+            3
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngna kurser i programmering, 6 hp.",
@@ -385,7 +426,9 @@
         "semester": "V\u00e5rtermin 2023",
         "start_week": 13,
         "end_week": 22,
-        "period": 4,
+        "periods": [
+            4
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "Programmering eller algoritmer och datastrukturer, 16 hp.",
@@ -405,7 +448,9 @@
         "semester": "V\u00e5rtermin 2023",
         "start_week": 13,
         "end_week": 22,
-        "period": 4,
+        "periods": [
+            4
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarad kurs Matematisk statistik, 6 hp samt 12 hp avklarade fr\u00e5n moment i programmeringskurser.",
@@ -425,7 +470,9 @@
         "semester": "H\u00f6sttermin 2023",
         "start_week": 35,
         "end_week": 43,
-        "period": 1,
+        "periods": [
+            1
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs 12 avklarade hp fr\u00e5n moment i programmeringskurser (Python eller dylikt) samt 6 avklarade hp i datastrukturer och algoritmer.",
@@ -445,7 +492,9 @@
         "semester": "H\u00f6sttermin 2023",
         "start_week": 35,
         "end_week": 43,
-        "period": 1,
+        "periods": [
+            1
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att 12 hp programmering \u00e4r avklarade.",
@@ -465,7 +514,10 @@
         "semester": "H\u00f6sttermin 2023",
         "start_week": 35,
         "end_week": 2,
-        "period": 1,
+        "periods": [
+            1,
+            2
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "Grundl\u00e4ggande beh\u00f6righet",
@@ -485,7 +537,9 @@
         "semester": "H\u00f6sttermin 2023",
         "start_week": 44,
         "end_week": 2,
-        "period": 2,
+        "periods": [
+            2
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngen kurs i Till\u00e4mpad artificiell intelligens, 6 hp.",
@@ -497,7 +551,7 @@
         "start_year": 2023,
         "end_year": 2024,
         "course_duration": 11,
-        "is_double": true
+        "is_double": false
     },
     "DV1629": {
         "name": "Operativsystem",
@@ -505,7 +559,9 @@
         "semester": "H\u00f6sttermin 2023",
         "start_week": 44,
         "end_week": 2,
-        "period": 2,
+        "periods": [
+            2
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de i kursen kr\u00e4vs 12 avklarade hp i programmering samt 1,5 hp avklarade fr\u00e5n algoritmer och datastrukturer.",
@@ -517,7 +573,7 @@
         "start_year": 2023,
         "end_year": 2024,
         "course_duration": 11,
-        "is_double": true
+        "is_double": false
     },
     "ET1541": {
         "name": "Signalbehandling med introduktion till maskininl\u00e4rning",
@@ -525,7 +581,10 @@
         "semester": "V\u00e5rtermin 2024",
         "start_week": 3,
         "end_week": 22,
-        "period": 3,
+        "periods": [
+            3,
+            4
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att f\u00f6ljande kurser \u00e4r genomg\u00e5ngna:\nLinj\u00e4r algebra, 6 hp,\nFlervariabel analys, 6 hp,\nMatematisk statistik, 6 hp.",
@@ -545,7 +604,9 @@
         "semester": "V\u00e5rtermin 2024",
         "start_week": 3,
         "end_week": 12,
-        "period": 3,
+        "periods": [
+            3
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "Omr\u00e5desbeh\u00f6righet 3: Matematik C, Samh\u00e4llskunskap A.  (Naturkunskap B kr\u00e4vs ej.)",
@@ -565,7 +626,9 @@
         "semester": "V\u00e5rtermin 2024",
         "start_week": 3,
         "end_week": 12,
-        "period": 3,
+        "periods": [
+            3
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs 18 hp avklarade i programmering inklusive datastrukturer och algoritmer.",
@@ -585,7 +648,9 @@
         "semester": "V\u00e5rtermin 2024",
         "start_week": 13,
         "end_week": 22,
-        "period": 4,
+        "periods": [
+            4
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarad kurs i Matematisk statistik, 6 hp.",
@@ -605,7 +670,9 @@
         "semester": "V\u00e5rtermin 2024",
         "start_week": 13,
         "end_week": 22,
-        "period": 4,
+        "periods": [
+            4
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs 12 hp avklarade fr\u00e5n moment i programmeringskurser samt avklarad kurs Programvaruutveckling, 6 hp.",
@@ -625,7 +692,9 @@
         "semester": "H\u00f6sttermin 2024",
         "start_week": 36,
         "end_week": 44,
-        "period": 1,
+        "periods": [
+            1
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "Studenten m\u00e5ste ha klarat av totalt 22,5 h\u00f6gskolepo\u00e4ng fr\u00e5n f\u00f6ljande omr\u00e5den: Programvarudesign, Datastrukturer\noch algoritmer, Databasteknik, Datakommunikation, Realtidssystem, Operativsystem samt avklarat en kurs i Programmering p\u00e5 minst 6 h\u00f6gskolepo\u00e4ng.",
@@ -645,7 +714,10 @@
         "semester": "H\u00f6sttermin 2024",
         "start_week": 36,
         "end_week": 3,
-        "period": 1,
+        "periods": [
+            1,
+            2
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarad kurs Maskininl\u00e4rning, 6 hp eller avklarad kurs Signalbehandling med introduktion till maskininl\u00e4rning, 6 hp.",
@@ -665,7 +737,9 @@
         "semester": "H\u00f6sttermin 2024",
         "start_week": 36,
         "end_week": 44,
-        "period": 1,
+        "periods": [
+            1
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarad kurs Till\u00e4mpad AI, 6 hp.",
@@ -685,7 +759,9 @@
         "semester": "H\u00f6sttermin 2024",
         "start_week": 45,
         "end_week": 3,
-        "period": 2,
+        "periods": [
+            2
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "Grundl\u00e4ggande beh\u00f6righet.",
@@ -697,7 +773,7 @@
         "start_year": 2024,
         "end_year": 2025,
         "course_duration": 11,
-        "is_double": true
+        "is_double": false
     },
     "DV2606": {
         "name": "Multiprocessorprogrammering",
@@ -705,7 +781,9 @@
         "semester": "H\u00f6sttermin 2024",
         "start_week": 45,
         "end_week": 3,
-        "period": 2,
+        "periods": [
+            2
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs 60 hp avklarade i huvudomr\u00e5det datavetenskap eller programvaruteknik inklusive avklarade kurser i programmering 12 hp, algoritmer och datastrukturer 6 hp, operativsystem samt datorteknik 6 hp.",
@@ -717,7 +795,7 @@
         "start_year": 2024,
         "end_year": 2025,
         "course_duration": 11,
-        "is_double": true
+        "is_double": false
     },
     "DV2627": {
         "name": "Avancerad maskininl\u00e4rning",
@@ -725,7 +803,9 @@
         "semester": "V\u00e5rtermin 2025",
         "start_week": 4,
         "end_week": 13,
-        "period": 3,
+        "periods": [
+            3
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser i Till\u00e4mpad artificiell intelligens, 6 hp och Maskininl\u00e4rning, 6 hp.",
@@ -745,7 +825,9 @@
         "semester": "V\u00e5rtermin 2025",
         "start_week": 4,
         "end_week": 13,
-        "period": 3,
+        "periods": [
+            3
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs 120 avklarade hp. Av dessa ska minst 90 hp ska vara inom n\u00e5got av omr\u00e5dena datavetenskap, informationssystem, datateknik, AI och maskininl\u00e4rning, telekommunikationssystem och/eller dators\u00e4kerhet. Minst 6 hp ska vara p\u00e5 avancerad niv\u00e5 inom datavetenskap eller objektorienterad programmering. I de avklarade 120 hp ska \u00e4ven minst 15 hp matematik ing\u00e5.",
@@ -765,7 +847,9 @@
         "semester": "V\u00e5rtermin 2025",
         "start_week": 14,
         "end_week": 23,
-        "period": 4,
+        "periods": [
+            4
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser i Linj\u00e4r algebra, 6 hp, Analys 2 (integralkalkyl), 6 hp, Flervariabel analys, 6 hp samt 12 hp fr\u00e5n moment i programmeringskurser. Vidare kr\u00e4vs att studenten har genomg\u00e5tt kursen Fysik grundkurs (mekanik), 6 hp.",
@@ -785,7 +869,9 @@
         "semester": "V\u00e5rtermin 2025",
         "start_week": 14,
         "end_week": 23,
-        "period": 4,
+        "periods": [
+            4
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngen kurs Maskininl\u00e4rning 6 hp.",
@@ -805,7 +891,10 @@
         "semester": "H\u00f6sttermin 2025",
         "start_week": 36,
         "end_week": 3,
-        "period": 1,
+        "periods": [
+            1,
+            2
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser i programmering, 6 hp,  algoritmer och datastrukturer, 6 hp, programvaruutveckling, 6 hp, projekt i mjukvaruutveckling eller systemteknik, 7,5 hp samt genomg\u00e5ngen kurs i databasteknik, 6 hp.",
@@ -825,7 +914,9 @@
         "semester": "H\u00f6sttermin 2025",
         "start_week": 36,
         "end_week": 44,
-        "period": 1,
+        "periods": [
+            1
+        ],
         "type": "Valbar",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att 5 hp i C/C++ programmering \u00e4r avklarat alternativt 15 hp avklarat i n\u00e5got annat programmeringsspr\u00e5k.",
@@ -845,7 +936,9 @@
         "semester": "H\u00f6sttermin 2025",
         "start_week": 36,
         "end_week": 44,
-        "period": 1,
+        "periods": [
+            1
+        ],
         "type": "Valbar",
         "academic_focus": null,
         "prerequisites": "Grundl\u00e4ggande beh\u00f6righet.",
@@ -865,7 +958,9 @@
         "semester": "H\u00f6sttermin 2025",
         "start_week": 36,
         "end_week": 44,
-        "period": 1,
+        "periods": [
+            1
+        ],
         "type": "Valbar",
         "academic_focus": null,
         "prerequisites": "Minst 90hp inom ett tekniskt omr\u00e5de varav minst 30 hp skall utg\u00f6ras av kurser inom ett eller flera av f\u00f6ljande omr\u00e5den: Programmering, Objektorienterad systemutveckling, Programvarudesign, Datastrukturer och algoritmer, Databasteknik, Datakommunikation, Realtidssystem, Operativsystem. eller Minst 90 hp inom omr\u00e5det teknologi och minst 2 \u00e5rs yrkeserfarenhet av mjukvarurelaterad utveckling (visas exempelvis genom intyg fr\u00e5n arbetsgivare).\n",
@@ -885,7 +980,9 @@
         "semester": "H\u00f6sttermin 2025",
         "start_week": 36,
         "end_week": 44,
-        "period": 1,
+        "periods": [
+            1
+        ],
         "type": "Valbar",
         "academic_focus": null,
         "prerequisites": "Avklarade kurser omfattande minst 120 hp varav minst 90 hp inom f\u00f6ljande omr\u00e5den: Programvaruteknik, Datavetenskap, Informationssystem eller Datalogi. Dessutom kr\u00e4vs avklarad kurs p\u00e5 minst 7.5 hp inom Grundl\u00e4ggande Programvaruteknik (Software Engineering) eller Programvaruutvecklingsprojekt i grupp.\n",
@@ -905,7 +1002,9 @@
         "semester": "H\u00f6sttermin 2025",
         "start_week": 36,
         "end_week": 44,
-        "period": 1,
+        "periods": [
+            1
+        ],
         "type": "Valbar",
         "academic_focus": null,
         "prerequisites": "Antagen p\u00e5 civilingenj\u00f6rsprogram",
@@ -925,7 +1024,9 @@
         "semester": "H\u00f6sttermin 2025",
         "start_week": 45,
         "end_week": 3,
-        "period": 2,
+        "periods": [
+            2
+        ],
         "type": "Valbar",
         "academic_focus": null,
         "prerequisites": "Genomg\u00e5ngna kurser i Analys 12 hp, Flervariabelanalys 6 hp samt Linj\u00e4r algebra 6 hp.\n",
@@ -937,7 +1038,7 @@
         "start_year": 2025,
         "end_year": 2026,
         "course_duration": 11,
-        "is_double": true
+        "is_double": false
     },
     "PA1469": {
         "name": "Utveckling av mobila applikationer",
@@ -945,7 +1046,9 @@
         "semester": "H\u00f6sttermin 2025",
         "start_week": 45,
         "end_week": 3,
-        "period": 2,
+        "periods": [
+            2
+        ],
         "type": "Valbar",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs 60 hp avklarade inom huvudomr\u00e5det datavetenskap eller programvaruteknik.",
@@ -957,7 +1060,7 @@
         "start_year": 2025,
         "end_year": 2026,
         "course_duration": 11,
-        "is_double": true
+        "is_double": false
     },
     "SL2561": {
         "name": "Strategisk planering f\u00f6r organisatoriska h\u00e5llbarhetsomst\u00e4llningar",
@@ -965,7 +1068,9 @@
         "semester": "H\u00f6sttermin 2025",
         "start_week": 45,
         "end_week": 3,
-        "period": 2,
+        "periods": [
+            2
+        ],
         "type": "Valbar",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs minst 120 avklarade hp samt genomg\u00e5ngen kurs omfattande minst 6 hp inom strategisk h\u00e5llbar utveckling inkluderande minst 2,5 hp om ramverket f\u00f6r strategisk h\u00e5llbar utveckling (FSSD). Engelska 6.",
@@ -977,7 +1082,7 @@
         "start_year": 2025,
         "end_year": 2026,
         "course_duration": 11,
-        "is_double": true
+        "is_double": false
     },
     "IY1430": {
         "name": "ICT startups och h\u00f6gteknologiskt entrepren\u00f6rskap",
@@ -985,7 +1090,9 @@
         "semester": "H\u00f6sttermin 2025",
         "start_week": 45,
         "end_week": 3,
-        "period": 2,
+        "periods": [
+            2
+        ],
         "type": "Valbar",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngen kurs Industriell ekonomi, \u00f6versiktskurs, 6 hp.\n",
@@ -997,7 +1104,7 @@
         "start_year": 2025,
         "end_year": 2026,
         "course_duration": 11,
-        "is_double": true
+        "is_double": false
     },
     "TE2502": {
         "name": "Examensarbete f\u00f6r civilingenj\u00f6rer",
@@ -1005,7 +1112,10 @@
         "semester": "V\u00e5rtermin 2026",
         "start_week": 4,
         "end_week": 23,
-        "period": 3,
+        "periods": [
+            3,
+            4
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att studenten har avklarat minst 240 hp som f\u00e5r ing\u00e5 i en civilingenj\u00f6rsexamen. Av dessa ska minst 30 hp vara avklarade kurser p\u00e5 avancerad niv\u00e5.",
@@ -1027,6 +1137,7 @@
                 "PA1461"
             ],
             "2": [
+                "PA1461",
                 "DV1621",
                 "MA1448"
             ]
@@ -1038,6 +1149,7 @@
                 "MA1444"
             ],
             "4": [
+                "PA1473",
                 "DV1587",
                 "MA1494"
             ],
@@ -1059,6 +1171,7 @@
                 "DV1604"
             ],
             "4": [
+                "PA1475",
                 "DV1493",
                 "DV1597"
             ],
@@ -1068,6 +1181,7 @@
                 "SL1418"
             ],
             "2": [
+                "SL1418",
                 "DV2599",
                 "DV1629"
             ]
@@ -1079,6 +1193,7 @@
                 "DV1655"
             ],
             "4": [
+                "ET1541",
                 "MS1415",
                 "PA1465"
             ],
@@ -1088,6 +1203,7 @@
                 "DV2583"
             ],
             "2": [
+                "DV2607",
                 "TE1423",
                 "DV2606"
             ]
@@ -1110,6 +1226,7 @@
                 "IY2539"
             ],
             "2": [
+                "PA2567",
                 "MA2512",
                 "PA1469",
                 "SL2561",
@@ -1118,6 +1235,9 @@
         },
         "2026": {
             "3": [
+                "TE2502"
+            ],
+            "4": [
                 "TE2502"
             ]
         }

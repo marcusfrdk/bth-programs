@@ -5,7 +5,9 @@
         "semester": "H\u00f6sttermin 2018",
         "start_week": 36,
         "end_week": 44,
-        "period": 1,
+        "periods": [
+            1
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "Kandidatexamen 180hp d\u00e4r minst 30hp planering ing\u00e5r, alternativt kandidatexamen 180hp och d\u00e4rut\u00f6ver 30hp planering eller motsvarande.",
@@ -25,7 +27,9 @@
         "semester": "H\u00f6sttermin 2018",
         "start_week": 45,
         "end_week": 3,
-        "period": 2,
+        "periods": [
+            2
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs kandidatexamen 180 hp d\u00e4r minst 30 hp planering ing\u00e5r, alternativt kandidatexamen 180hp och d\u00e4rut\u00f6ver 30 hp planering eller motsvarande.",
@@ -37,7 +41,7 @@
         "start_year": 2018,
         "end_year": 2019,
         "course_duration": 11,
-        "is_double": true
+        "is_double": false
     },
     "FM2597": {
         "name": "Vetenskapligt arbete: teoretiska utg\u00e5ngspunkter och unders\u00f6kningsmetoder",
@@ -45,7 +49,9 @@
         "semester": "V\u00e5rtermin 2019",
         "start_week": 4,
         "end_week": 8,
-        "period": 3,
+        "periods": [
+            3
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "Genomg\u00e5ngna kurser motsvarande 30hp p\u00e5 avancerad niv\u00e5 inom huvudomr\u00e5det Fysisk planering",
@@ -65,7 +71,9 @@
         "semester": "V\u00e5rtermin 2019",
         "start_week": 9,
         "end_week": 13,
-        "period": 3,
+        "periods": [
+            3
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "Genomg\u00e5ngna kurser motsvarande 30hp p\u00e5 avancerad niv\u00e5 inom huvudomr\u00e5det Fysisk planering",
@@ -85,7 +93,9 @@
         "semester": "V\u00e5rtermin 2019",
         "start_week": 14,
         "end_week": 23,
-        "period": 4,
+        "periods": [
+            4
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "Genomg\u00e5ngna kurser motsvarande 30hp p\u00e5 avancerad niv\u00e5 inom masterprogrammet Strategisk Fysisk planering",
@@ -105,7 +115,9 @@
         "semester": "V\u00e5rtermin 2019",
         "start_week": 14,
         "end_week": 18,
-        "period": 4,
+        "periods": [
+            4
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6rtilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngna kurser motsvarande 30 hp p\u00e5 avancerad niv\u00e5 inom masterprogrammet Strategisk Fysisk planering.",
@@ -125,7 +137,9 @@
         "semester": "H\u00f6sttermin 2019",
         "start_week": 36,
         "end_week": 44,
-        "period": 1,
+        "periods": [
+            1
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngna kurser motsvarande 60 hp p\u00e5 avancerad niv\u00e5 inom huvudomr\u00e5det fysisk planering varav minst 45 hp ska vara avklarade. Bland de avklarde kurserna ska kursen Introduktion till strategisk fysisk planering 15 hp ing\u00e5.",
@@ -145,7 +159,9 @@
         "semester": "H\u00f6sttermin 2019",
         "start_week": 45,
         "end_week": 3,
-        "period": 2,
+        "periods": [
+            2
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngna kurser motsvarande 60 hp p\u00e5 avancerad niv\u00e5 inom huvudomr\u00e5det fysisk planering varav minst 45 hp ska vara avklarade. Bland de avklarde kurserna ska kursen Introduktion till strategisk fysisk planering 15 hp ing\u00e5.",
@@ -157,7 +173,7 @@
         "start_year": 2019,
         "end_year": 2020,
         "course_duration": 11,
-        "is_double": true
+        "is_double": false
     },
     "FM2612": {
         "name": "Masterarbete i fysisk planering",
@@ -165,7 +181,10 @@
         "semester": "V\u00e5rtermin 2020",
         "start_week": 4,
         "end_week": 23,
-        "period": 3,
+        "periods": [
+            3,
+            4
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngna kurser motsvarande 90 hp p\u00e5 avancerad niv\u00e5 inom huvudomr\u00e5det fysisk planering, varav minst 75 hp ska vara avklarade, inklusive kursen Introduktion till strategisk fysisk planering, 15 hp.",
@@ -206,6 +225,9 @@
         },
         "2020": {
             "3": [
+                "FM2612"
+            ],
+            "4": [
                 "FM2612"
             ]
         }

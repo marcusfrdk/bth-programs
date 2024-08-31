@@ -5,7 +5,9 @@
         "semester": "V\u00e5rtermin 2022",
         "start_week": 3,
         "end_week": 7,
-        "period": 3,
+        "periods": [
+            3
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "Grundl\u00e4ggande beh\u00f6righet + Matematik 2a alt 2b alt 2c, Naturkunskap 2 och Samh\u00e4llskunskap 1b alt 1a1+1a2.",
@@ -25,7 +27,9 @@
         "semester": "V\u00e5rtermin 2022",
         "start_week": 8,
         "end_week": 12,
-        "period": 3,
+        "periods": [
+            3
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "Grundl\u00e4ggande beh\u00f6righet + Matematik 2a alt 2b alt 2c, Naturkunskap 2 och Samh\u00e4llskunskap 1b alt 1a1+1a2.",
@@ -45,7 +49,9 @@
         "semester": "V\u00e5rtermin 2022",
         "start_week": 13,
         "end_week": 17,
-        "period": 4,
+        "periods": [
+            4
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "Grundl\u00e4ggande beh\u00f6righet + Matematik 2a alt 2b alt 2c, Naturkunskap 2 och Samh\u00e4llskunskap 1b alt 1a1+1a2.",
@@ -65,7 +71,9 @@
         "semester": "V\u00e5rtermin 2022",
         "start_week": 18,
         "end_week": 22,
-        "period": 4,
+        "periods": [
+            4
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "Grundl\u00e4ggande beh\u00f6righet + Matematik 2a alt 2b alt 2c, Naturkunskap 2 och Samh\u00e4llskunskap 1b alt 1a1+1a2.",
@@ -85,7 +93,9 @@
         "semester": "H\u00f6sttermin 2022",
         "start_week": 34,
         "end_week": 38,
-        "period": 1,
+        "periods": [
+            1
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att f\u00f6ljande kurs \u00e4r genomg\u00e5ngen: Grundl\u00e4ggande anatomi och fysiologi, 7,5 hp.",
@@ -105,7 +115,9 @@
         "semester": "H\u00f6sttermin 2022",
         "start_week": 39,
         "end_week": 43,
-        "period": 1,
+        "periods": [
+            1
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att f\u00f6ljande kurser \u00e4r genomg\u00e5ngna: Grundl\u00e4ggande anatomi och fysiologi, 7,5hp; Anatomi och fysiologi, f\u00f6rdjupning, 7,5hp.",
@@ -125,7 +137,9 @@
         "semester": "H\u00f6sttermin 2022",
         "start_week": 44,
         "end_week": 48,
-        "period": 2,
+        "periods": [
+            2
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att f\u00f6ljande kurser \u00e4r avklarade: Introduktion till yrke och akademi, 7,5 hp; Det v\u00e5rdande och l\u00e4rande m\u00f6tet,7,5 hp; Grundl\u00e4ggande anatomi och fysiologi, 7,5 hp; Omv\u00e5rdnadens grunder, 7,5 hp. D\u00e4rut\u00f6ver kr\u00e4vs att f\u00f6ljande kurser \u00e4r genomg\u00e5ngna: Anatomi och fysiologi, f\u00f6rdjupning, 7,5 hp; Mikrobiologi, farmakologi och n\u00e4ringsl\u00e4ra, 7,5 hp.",
@@ -145,7 +159,9 @@
         "semester": "H\u00f6sttermin 2022",
         "start_week": 49,
         "end_week": 2,
-        "period": 2,
+        "periods": [
+            2
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att f\u00f6ljande kurser \u00e4r avklarade: Introduktion till yrke och akademi,7,5 hp; Det v\u00e5rdande och l\u00e4rande m\u00f6tet,7,5 hp.\nD\u00e4rut\u00f6ver kr\u00e4vs att f\u00f6ljande kurser \u00e4r genomg\u00e5ngna: Grundl\u00e4ggande anatomi och fysiologi, 7,5 hp; Omv\u00e5rdnadens grunder, 7,5 hp; Anatomi och fysiologi, f\u00f6rdjupning, 7,5 hp; Mikrobiologi, farmakologi och n\u00e4ringsl\u00e4ra, 7,5 hp.",
@@ -165,7 +181,9 @@
         "semester": "V\u00e5rtermin 2023",
         "start_week": 3,
         "end_week": 7,
-        "period": 3,
+        "periods": [
+            3
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att f\u00f6ljande kurser \u00e4r avklarade: Grundl\u00e4ggande anatomi och fysiologi, 7,5 hp; Anatomi och fysiologi, f\u00f6rdjupning, 7,5 hp.\nD\u00e4rut\u00f6ver kr\u00e4vs att att f\u00f6ljande kurs \u00e4r genomg\u00e5ngen: Mikrobiologi, farmakologi och n\u00e4ringsl\u00e4ra, 7,5 hp.",
@@ -185,7 +203,9 @@
         "semester": "V\u00e5rtermin 2023",
         "start_week": 8,
         "end_week": 12,
-        "period": 3,
+        "periods": [
+            3
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att f\u00f6ljande kurser \u00e4r avklarade: Mikrobiologi, farmakologi och n\u00e4ringsl\u00e4ra, 7,5 hp; Sjuksk\u00f6terskans professionella grund, 7,5 hp.\nD\u00e4rut\u00f6ver kr\u00e4vs \u00e4ven att f\u00f6ljande kurser \u00e4r genomg\u00e5ngna: Omv\u00e5rdnad, f\u00f6rdjupning, 7,5 hp; Patofysiologi I, 7,5 hp.",
@@ -205,7 +225,9 @@
         "semester": "V\u00e5rtermin 2023",
         "start_week": 13,
         "end_week": 17,
-        "period": 4,
+        "periods": [
+            4
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs \u00e4ven att f\u00f6ljande kurser \u00e4r genomg\u00e5ngna: Patofysiologi I, 7,5 hp; Omv\u00e5rdnad, metoder och till\u00e4mpning I, 7,5 hp.",
@@ -225,7 +247,9 @@
         "semester": "V\u00e5rtermin 2023",
         "start_week": 18,
         "end_week": 22,
-        "period": 4,
+        "periods": [
+            4
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs \u00e4ven att f\u00f6ljande kurser \u00e4r genomg\u00e5ngna: Omv\u00e5rdnad, f\u00f6rdjupning, 7,5 hp; Patofysiologi I, 7,5 hp; Omv\u00e5rdnad, metoder och till\u00e4mpning I, 7,5 hp; Patofysiologi II, 7,5 hp.",
@@ -245,7 +269,10 @@
         "semester": "H\u00f6sttermin 2023",
         "start_week": 34,
         "end_week": 2,
-        "period": 1,
+        "periods": [
+            1,
+            2
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att f\u00f6ljande kurser \u00e4r avklarade: Omv\u00e5rdnad, f\u00f6rdjupning, 7,5 hp; Patofysiologi I, 7,5 hp.\nD\u00e4rut\u00f6ver kr\u00e4vs att f\u00f6ljande kurser \u00e4r genomg\u00e5ngna: Omv\u00e5rdnad, metoder och till\u00e4mpning I, 7,5 hp; Patofysiologi II, 7,5 hp; Omv\u00e5rdnad, metoder och till\u00e4mpning II, 7,5 hp.",
@@ -265,7 +292,9 @@
         "semester": "V\u00e5rtermin 2024",
         "start_week": 3,
         "end_week": 7,
-        "period": 3,
+        "periods": [
+            3
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att f\u00f6ljande kurser \u00e4r avklarade: Omv\u00e5rdnad, metoder och till\u00e4mpning I, 7,5 hp; Omv\u00e5rdnad, metoder och till\u00e4mpning II, 7,5 hp. D\u00e4rut\u00f6ver kr\u00e4vs att f\u00f6ljande kurs \u00e4r genomg\u00e5ngen: Sjuksk\u00f6terskans professionella utveckling, 30 hp.",
@@ -285,7 +314,9 @@
         "semester": "V\u00e5rtermin 2024",
         "start_week": 8,
         "end_week": 17,
-        "period": 3,
+        "periods": [
+            3
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att f\u00f6ljande kurser \u00e4r avklarade: Omv\u00e5rdnad, metoder och till\u00e4mpning I, 7,5 hp; Omv\u00e5rdnad, metoder och till\u00e4mpning II, 7,5 hp.\nD\u00e4rut\u00f6ver kr\u00e4vs att f\u00f6ljande kurs \u00e4r genomg\u00e5ngen: Sjuksk\u00f6terskans professionella utveckling, 30 hp.",
@@ -305,7 +336,9 @@
         "semester": "V\u00e5rtermin 2024",
         "start_week": 18,
         "end_week": 22,
-        "period": 4,
+        "periods": [
+            4
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att f\u00f6ljande kurser \u00e4r avklarade: \nOmv\u00e5rdnad, metoder och till\u00e4mpning I, 7,5 hp; Patofysiologi II, 7,5 hp; Omv\u00e5rdnad, metoder och till\u00e4mpning II, 7,5 hp.\nD\u00e4rut\u00f6ver kr\u00e4vs \u00e4ven att f\u00f6ljande kurs \u00e4r genomg\u00e5ngen: Sjuksk\u00f6terskans professionella utveckling, 30 hp.",
@@ -325,7 +358,10 @@
         "semester": "H\u00f6sttermin 2024",
         "start_week": 35,
         "end_week": 3,
-        "period": 1,
+        "periods": [
+            1,
+            2
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att kursen Sjuksk\u00f6terskans professionella utveckling, 30 hp \u00e4r avklarad. D\u00e4rut\u00f6ver kr\u00e4vs \u00e4ven att f\u00f6ljande kurser \u00e4r genomg\u00e5ngna: Omv\u00e5rdnad, vetenskapliga teorier och metoder 7,5 hp och Sj\u00e4lvst\u00e4ndigt arbete, 15 hp samt Omv\u00e5rdnad vid akuta situationer och komplexa oh\u00e4lsotillst\u00e5nd, 7,5 hp.\n",
@@ -369,6 +405,9 @@
             ],
             "1": [
                 "OM1540"
+            ],
+            "2": [
+                "OM1540"
             ]
         },
         "2024": {
@@ -380,6 +419,9 @@
                 "OM1541"
             ],
             "1": [
+                "OM1543"
+            ],
+            "2": [
                 "OM1543"
             ]
         }

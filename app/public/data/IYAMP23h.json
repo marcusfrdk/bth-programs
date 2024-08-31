@@ -5,7 +5,9 @@
         "semester": "H\u00f6sttermin 2023",
         "start_week": 35,
         "end_week": 43,
-        "period": 1,
+        "periods": [
+            1
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs h\u00f6gskoleingenj\u00f6rsexamen om 180 hp alternativt kandidatexamen inom tekniskt\nomr\u00e5de, inklusive ett sj\u00e4lvst\u00e4ndigt arbete. Vidare kr\u00e4vs 5 h\u00f6gskolepo\u00e4ng inom industriell ekonomi, f\u00f6retagsekonomi eller motsvarande. Tv\u00e5 \u00e5rs arbetslivserfarenhet inom tekniskt/ ingenj\u00f6rsm\u00e4ssigt verksamhetsomr\u00e5de, som relaterar till ledarskap och management. Engelska 6.",
@@ -25,7 +27,9 @@
         "semester": "H\u00f6sttermin 2023",
         "start_week": 44,
         "end_week": 2,
-        "period": 2,
+        "periods": [
+            2
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "H\u00f6gskoleingenj\u00f6rsexamen eller kandidatexamen inom ett tekniskt omr\u00e5de, inklusive ett sj\u00e4lvst\u00e4ndigt arbete.  Vidare kr\u00e4vs 15 h\u00f6gskolepo\u00e4ng matematik/till\u00e4mpad matematik, 5 h\u00f6gskolepo\u00e4ng industriell ekonomi, f\u00f6retagsekonomi eller motsvarande samt tv\u00e5 \u00e5rs arbetslivserfarenhet efter examen. Engelska 6.",
@@ -37,7 +41,7 @@
         "start_year": 2023,
         "end_year": 2024,
         "course_duration": 11,
-        "is_double": true
+        "is_double": false
     },
     "IY2593": {
         "name": "Mikroekonomi f\u00f6r beslutsfattare",
@@ -45,7 +49,9 @@
         "semester": "V\u00e5rtermin 2024",
         "start_week": 3,
         "end_week": 12,
-        "period": 3,
+        "periods": [
+            3
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "H\u00f6gskoleingenj\u00f6rsexamen om 180 hp inom teknik inklusive ett sj\u00e4lvst\u00e4ndigt arbete om 7,5 hp, 15 hp matematik/till\u00e4mpad matematik p\u00e5 grundniv\u00e5/avancerad niv\u00e5, 5 hp industriell ekonomi och organisation, f\u00f6retagsekonomi eller motsvarande, Engelska B samt 2 \u00e5rs arbetslivserfarenhet.",
@@ -65,7 +71,9 @@
         "semester": "V\u00e5rtermin 2024",
         "start_week": 13,
         "end_week": 22,
-        "period": 4,
+        "periods": [
+            4
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs h\u00f6gskoleingenj\u00f6rsexamen om 180 hp inom teknik inklusive ett sj\u00e4lvst\u00e4ndigt arbete om 7,5 hp. D\u00e4rut\u00f6ver kr\u00e4vs 15 hp i matematik/till\u00e4mpad matematik p\u00e5 grundniv\u00e5/avancerad niv\u00e5, 5 hp  i industriell ekonomi och organisation eller f\u00f6retagsekonomi samt Engelska 6 och 2 \u00e5rs arbetslivserfarenhet.",
@@ -85,7 +93,9 @@
         "semester": "H\u00f6sttermin 2024",
         "start_week": 36,
         "end_week": 44,
-        "period": 1,
+        "periods": [
+            1
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4det till kursen kr\u00e4vs h\u00f6gskoleingenj\u00f6rsexamen, 180 hp, inom teknik inklusive ett sj\u00e4lvst\u00e4ndigt arbete, 7,5 hp, matematik/till\u00e4mpad matematik p\u00e5 grundniv\u00e5/avancerad niv\u00e5, 15 hp samt, industriell ekonomi och organisation,  f\u00f6retagsekonomi, 5 hp. D\u00e4rut\u00f6ver kr\u00e4vs Engelska 6 samt 2 \u00e5rs arbetslivserfarenhet.",
@@ -105,7 +115,9 @@
         "semester": "H\u00f6sttermin 2024",
         "start_week": 45,
         "end_week": 3,
-        "period": 2,
+        "periods": [
+            2
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "H\u00f6gskoleingenj\u00f6rsexamen om 180 hp inom teknik inklusive ett sj\u00e4lvst\u00e4ndigt arbete om 7,5 hp, 15 hp matematik/till\u00e4mpad matematik p\u00e5 grundniv\u00e5/avancerad niv\u00e5, 5 hp industriell ekonomi och organisation, f\u00f6retagsekonomi eller motsvarande, Engelska B samt 2 \u00e5rs arbetslivserfarenhet.",
@@ -117,7 +129,7 @@
         "start_year": 2024,
         "end_year": 2025,
         "course_duration": 11,
-        "is_double": true
+        "is_double": false
     },
     "IY2594": {
         "name": "Magisterarbete MBA",
@@ -125,7 +137,10 @@
         "semester": "V\u00e5rtermin 2025",
         "start_week": 4,
         "end_week": 23,
-        "period": 3,
+        "periods": [
+            3,
+            4
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "H\u00f6gskoleingenj\u00f6rsexamen om 180 hp inom teknik inklusive ett sj\u00e4lvst\u00e4ndigt arbete om 7,5 hp, 15 hp matematik/till\u00e4mpad matematik p\u00e5 grundniv\u00e5/avancerad niv\u00e5, 5 hp industriell ekonomi och organisation, f\u00f6retagsekonomi eller motsvarande, Engelska B samt 2 \u00e5rs arbetslivserfarenhet, 45 hp genomg\u00e5gna vid MBA-programmet vid BTH varav 35 hp avklarade.",
@@ -164,6 +179,9 @@
         },
         "2025": {
             "3": [
+                "IY2594"
+            ],
+            "4": [
                 "IY2594"
             ]
         }

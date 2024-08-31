@@ -5,7 +5,9 @@
         "semester": "H\u00f6sttermin 2018",
         "start_week": 36,
         "end_week": 44,
-        "period": 1,
+        "periods": [
+            1
+        ],
         "type": "Obligatorisk",
         "academic_focus": "Kunming University of Science and Technology",
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs minst 180 hp (eller motsvarande). Engelska B /Engelska 6 (minst IELTS 6,5 eller TOEFL 575). Studenten ska ocks\u00e5 ha fullf\u00f6ljt/alternativt vara registrerad p\u00e5 en 6 hp kurs inom strategisk h\u00e5llbar utveckling, t.ex. Introduktion till strategisk h\u00e5llbar utveckling, eller liknande kurs.",
@@ -25,7 +27,9 @@
         "semester": "H\u00f6sttermin 2018",
         "start_week": 36,
         "end_week": 44,
-        "period": 1,
+        "periods": [
+            1
+        ],
         "type": "Obligatorisk",
         "academic_focus": "Kunming University of Science and Technology",
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarad kurs H\u00e5llfasthetsl\u00e4ra grundkurs 6 hp.",
@@ -45,7 +49,9 @@
         "semester": "H\u00f6sttermin 2018",
         "start_week": 45,
         "end_week": 3,
-        "period": 2,
+        "periods": [
+            2
+        ],
         "type": "Obligatorisk",
         "academic_focus": "Kunming University of Science and Technology",
         "prerequisites": "Utbytesstudenten skall det avslutande \u00e5ret studera en kandidatutbildning som f\u00f6ljs vid hemmauniversitetet.",
@@ -57,7 +63,7 @@
         "start_year": 2018,
         "end_year": 2019,
         "course_duration": 11,
-        "is_double": true
+        "is_double": false
     },
     "MT1525": {
         "name": "CAE - Datorst\u00f6d i Ingenj\u00f6rsarbete",
@@ -65,7 +71,9 @@
         "semester": "H\u00f6sttermin 2018",
         "start_week": 45,
         "end_week": 3,
-        "period": 2,
+        "periods": [
+            2
+        ],
         "type": "Obligatorisk",
         "academic_focus": "Kunming University of Science and Technology",
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs 120 avklarade hp fr\u00e5n ett ingenj\u00f6rsprogram inom maskinteknik.",
@@ -77,7 +85,7 @@
         "start_year": 2018,
         "end_year": 2019,
         "course_duration": 11,
-        "is_double": true
+        "is_double": false
     },
     "MT1488": {
         "name": "Teknisk kommunikation f\u00f6r ingenj\u00f6rer",
@@ -85,7 +93,9 @@
         "semester": "V\u00e5rtermin 2019",
         "start_week": 4,
         "end_week": 13,
-        "period": 3,
+        "periods": [
+            3
+        ],
         "type": "Obligatorisk",
         "academic_focus": "Kunming University of Science and Technology",
         "prerequisites": "Grundl\u00e4ggande beh\u00f6righet.",
@@ -105,7 +115,10 @@
         "semester": "V\u00e5rtermin 2019",
         "start_week": 4,
         "end_week": 23,
-        "period": 3,
+        "periods": [
+            3,
+            4
+        ],
         "type": "Obligatorisk",
         "academic_focus": "Kunming University of Science and Technology",
         "prerequisites": "F\u00f6r att f\u00e5 p\u00e5b\u00f6rja kandidatarbetet kr\u00e4vs att studenten har klarat av minst 127,5 h\u00f6gskolepo\u00e4ng varav 45 h\u00f6gskolepo\u00e4ng inom huvudomr\u00e5det Maskinteknik.",
@@ -125,7 +138,9 @@
         "semester": "V\u00e5rtermin 2019",
         "start_week": 14,
         "end_week": 23,
-        "period": 4,
+        "periods": [
+            4
+        ],
         "type": "Obligatorisk",
         "academic_focus": "Andhra University",
         "prerequisites": "15 hp matematik avklarat.",
@@ -156,6 +171,7 @@
                 "MT1430"
             ],
             "4": [
+                "MT1430",
                 "MS1411"
             ]
         }

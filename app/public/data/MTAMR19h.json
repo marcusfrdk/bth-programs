@@ -5,7 +5,9 @@
         "semester": "H\u00f6sttermin 2019",
         "start_week": 35,
         "end_week": 44,
-        "period": 1,
+        "periods": [
+            1
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "Grundl\u00e4ggande beh\u00f6righet samt Matematik 3c och Fysik 2.",
@@ -25,7 +27,9 @@
         "semester": "H\u00f6sttermin 2019",
         "start_week": 35,
         "end_week": 44,
-        "period": 1,
+        "periods": [
+            1
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "Grundl\u00e4ggande beh\u00f6righet samt Matematik 4 och Fysik 2.",
@@ -45,7 +49,10 @@
         "semester": "H\u00f6sttermin 2019",
         "start_week": 36,
         "end_week": 13,
-        "period": 1,
+        "periods": [
+            1,
+            2
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "Omr\u00e5desbe\u00f6righet 9: Matematik E, Fysik B, Kemi A\neller\nOmr\u00e5desbeh\u00f6righet A9: Matematik 4, Fysik 2, Kemi 1.",
@@ -65,7 +72,9 @@
         "semester": "H\u00f6sttermin 2019",
         "start_week": 45,
         "end_week": 3,
-        "period": 2,
+        "periods": [
+            2
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "Grundl\u00e4ggande beh\u00f6righet samt Matematik 4 och Fysik 2.",
@@ -77,7 +86,7 @@
         "start_year": 2019,
         "end_year": 2020,
         "course_duration": 11,
-        "is_double": true
+        "is_double": false
     },
     "ET1540": {
         "name": "Grundl\u00e4ggande programmering i Matlab",
@@ -85,7 +94,9 @@
         "semester": "H\u00f6sttermin 2019",
         "start_week": 45,
         "end_week": 3,
-        "period": 2,
+        "periods": [
+            2
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs grundl\u00e4ggande beh\u00f6righet samt Matematik 3c, Fysik 2 och Kemi 1 eller Matematik D, Fysik B och Kemi A.",
@@ -97,7 +108,7 @@
         "start_year": 2019,
         "end_year": 2020,
         "course_duration": 11,
-        "is_double": true
+        "is_double": false
     },
     "MT1519": {
         "name": "Datorst\u00f6d f\u00f6r ingenj\u00f6rsarbete",
@@ -105,7 +116,10 @@
         "semester": "V\u00e5rtermin 2020",
         "start_week": 4,
         "end_week": 23,
-        "period": 3,
+        "periods": [
+            3,
+            4
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "Grundl\u00e4ggande beh\u00f6righet.",
@@ -125,7 +139,9 @@
         "semester": "V\u00e5rtermin 2020",
         "start_week": 4,
         "end_week": 13,
-        "period": 3,
+        "periods": [
+            3
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "Omr\u00e5desbeh\u00f6righet 9: Matematik E, Fysik B. (Kemi A kr\u00e4vs ej)  eller omr\u00e5desbeh\u00f6righet A9: Matematik 4, Fysik 2. (Kemi 1 kr\u00e4vs ej).",
@@ -145,7 +161,9 @@
         "semester": "V\u00e5rtermin 2020",
         "start_week": 4,
         "end_week": 13,
-        "period": 3,
+        "periods": [
+            3
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "Genomg\u00e5ngen kurs i Linj\u00e4r algebra, 6 hp.",
@@ -165,7 +183,9 @@
         "semester": "V\u00e5rtermin 2020",
         "start_week": 14,
         "end_week": 23,
-        "period": 4,
+        "periods": [
+            4
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "Grundl\u00e4ggande beh\u00f6righet samt Matematik 4, Fysik 2, och Kemi 1 eller Matematik E, Fysik B och Kemi A.",
@@ -185,7 +205,9 @@
         "semester": "H\u00f6sttermin 2020",
         "start_week": 36,
         "end_week": 44,
-        "period": 1,
+        "periods": [
+            1
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att 1,5 hp fr\u00e5n kursen Fysik grundkurs samt 1,5 hp fr\u00e5n kursen Analys 1 \u00e4r avklarade.",
@@ -205,7 +227,9 @@
         "semester": "H\u00f6sttermin 2020",
         "start_week": 36,
         "end_week": 44,
-        "period": 1,
+        "periods": [
+            1
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "Genomg\u00e5ngen kurs MA1444 Analys 1, 6 hp.",
@@ -225,7 +249,10 @@
         "semester": "H\u00f6sttermin 2020",
         "start_week": 36,
         "end_week": 2,
-        "period": 1,
+        "periods": [
+            1,
+            2
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "Grundl\u00e4ggande beh\u00f6righet.",
@@ -245,7 +272,9 @@
         "semester": "H\u00f6sttermin 2020",
         "start_week": 45,
         "end_week": 2,
-        "period": 2,
+        "periods": [
+            2
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarad kurs Fysik grundkurs 6 hp och minst 1,5 hp avklarade p\u00e5 Analys 1, 6 hp samt genomg\u00e5ngen kurs Analys 2, 6 hp.",
@@ -265,7 +294,9 @@
         "semester": "H\u00f6sttermin 2020",
         "start_week": 45,
         "end_week": 2,
-        "period": 2,
+        "periods": [
+            2
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngna kurser Linj\u00e4r algebra 6 hp, Analys 6 hp och Analys 2 6 hp.",
@@ -285,7 +316,9 @@
         "semester": "V\u00e5rtermin 2021",
         "start_week": 3,
         "end_week": 12,
-        "period": 3,
+        "periods": [
+            3
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen ska 3 hp fr\u00e5n kursen H\u00e5llfasthetsl\u00e4ra grundkurs vara avklarad.",
@@ -305,7 +338,10 @@
         "semester": "V\u00e5rtermin 2021",
         "start_week": 3,
         "end_week": 22,
-        "period": 3,
+        "periods": [
+            3,
+            4
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": null,
@@ -325,7 +361,9 @@
         "semester": "V\u00e5rtermin 2021",
         "start_week": 3,
         "end_week": 12,
-        "period": 3,
+        "periods": [
+            3
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngna kurser Linj\u00e4r algebra 1, 6 hp, Analys 1, 6 hp och Analys 2, 6 hp.",
@@ -345,7 +383,9 @@
         "semester": "V\u00e5rtermin 2021",
         "start_week": 13,
         "end_week": 22,
-        "period": 4,
+        "periods": [
+            4
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "Grundl\u00e4ggande beh\u00f6righet.",
@@ -365,7 +405,9 @@
         "semester": "V\u00e5rtermin 2021",
         "start_week": 13,
         "end_week": 22,
-        "period": 4,
+        "periods": [
+            4
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngna kurser Fysik forts\u00e4ttningskurs, 6 hp, Linj\u00e4r algebra 1 och Analys 2, 6 hp.",
@@ -385,7 +427,9 @@
         "semester": "H\u00f6sttermin 2021",
         "start_week": 35,
         "end_week": 43,
-        "period": 1,
+        "periods": [
+            1
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngna kurser i Ell\u00e4ra, 6 hp och Programmering och probleml\u00f6sning med Python, 6 hp, eller Grundl\u00e4ggande programmering i Matlab 6 hp.",
@@ -405,7 +449,9 @@
         "semester": "H\u00f6sttermin 2021",
         "start_week": 35,
         "end_week": 43,
-        "period": 1,
+        "periods": [
+            1
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "Genomg\u00e5ngna kurser i Analys 12 hp samt Linj\u00e4r algebra 6 hp (eller motsvarande).",
@@ -425,7 +471,9 @@
         "semester": "H\u00f6sttermin 2021",
         "start_week": 35,
         "end_week": 43,
-        "period": 1,
+        "periods": [
+            1
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngen kurs Str\u00f6mningsl\u00e4ra, 8 hp.",
@@ -445,7 +493,9 @@
         "semester": "H\u00f6sttermin 2021",
         "start_week": 44,
         "end_week": 2,
-        "period": 2,
+        "periods": [
+            2
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs 60 hp i genomg\u00e5ngna kurser varav minst 30 hp ska vara inom Maskinteknik och Elektroteknik inklusive genomg\u00e5ngen kurs Str\u00f6mningsl\u00e4ra, 8 hp. De \u00f6vriga 30 hp kan, f\u00f6rutom Maskinteknik och Elektroteknik, vara inom matematik eller annat naturvetenskapligt \u00e4mne.",
@@ -457,7 +507,7 @@
         "start_year": 2021,
         "end_year": 2022,
         "course_duration": 11,
-        "is_double": true
+        "is_double": false
     },
     "ET1534": {
         "name": "Reglerteknik, grundkurs",
@@ -465,7 +515,9 @@
         "semester": "H\u00f6sttermin 2021",
         "start_week": 44,
         "end_week": 2,
-        "period": 2,
+        "periods": [
+            2
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser i Linj\u00e4r algebra, 6 hp, Fysik grundkurs 6 hp,  Analys 2, 6 hp, samt genomg\u00e5ngna kurser i Transformteori 6hp, Flervariabelanalys 6 hp, Dynamik 6 hp, Ell\u00e4ra 6 hp, Elektronik med till\u00e4mpningar inom m\u00e4tteknik 6 hp, Matlab 4 hp.",
@@ -477,7 +529,7 @@
         "start_year": 2021,
         "end_year": 2022,
         "course_duration": 11,
-        "is_double": true
+        "is_double": false
     },
     "MT1540": {
         "name": "Termodynamik",
@@ -485,7 +537,9 @@
         "semester": "V\u00e5rtermin 2022",
         "start_week": 3,
         "end_week": 12,
-        "period": 3,
+        "periods": [
+            3
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser Dynamik 6 hp eller Fysik f\u00f6r Ingenj\u00f6rer 2, 6 hp och Analys 2 6 hp samt genomg\u00e5ngna kurser Matematisk statistik, 6 hp och Fysik forts\u00e4ttningskurs, 6 hp eller Fysik f\u00f6r ingenj\u00f6rer 3, 6 hp.",
@@ -505,7 +559,10 @@
         "semester": "V\u00e5rtermin 2022",
         "start_week": 3,
         "end_week": 22,
-        "period": 3,
+        "periods": [
+            3,
+            4
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarad kurs i Transformteori, 6 hp samt genomg\u00e5ngen kurs i Reglerteknik, 6 hp.",
@@ -525,7 +582,10 @@
         "semester": "V\u00e5rtermin 2022",
         "start_week": 3,
         "end_week": 22,
-        "period": 3,
+        "periods": [
+            3,
+            4
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs 60 hp avklarade kurser fr\u00e5n programmet Civilingenj\u00f6r i marinteknik varav f\u00f6ljande kurser ska vara avklarade Datorst\u00f6d f\u00f6r ingenj\u00f6rsarbete, 8 hp, Materiall\u00e4ra, 6 hp, H\u00e5llfasthetsl\u00e4ra, 6 hp och Str\u00f6mningsl\u00e4ra, 8 hp. Vidare kr\u00e4vs genomg\u00e5ngna kurser Elektroteknik med till\u00e4mpningar inom m\u00e4tteknik, 6 hp, Marin konstruktion, 8 hp samt Reglerteknik, 6 hp.",
@@ -545,7 +605,9 @@
         "semester": "H\u00f6sttermin 2022",
         "start_week": 35,
         "end_week": 43,
-        "period": 1,
+        "periods": [
+            1
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngna kurser i Flervariabelanalys, 6 hp och Ell\u00e4ra 6 hp.",
@@ -565,7 +627,9 @@
         "semester": "H\u00f6sttermin 2022",
         "start_week": 35,
         "end_week": 43,
-        "period": 1,
+        "periods": [
+            1
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngen kurs i Signaler och system, grundkurs, 9 hp.",
@@ -585,7 +649,9 @@
         "semester": "H\u00f6sttermin 2022",
         "start_week": 35,
         "end_week": 43,
-        "period": 1,
+        "periods": [
+            1
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarad kurs i Transformteori, 6 hp och genomg\u00e5ngen kurs i Fysik- v\u00e5gor och energi, 6 hp.",
@@ -605,7 +671,9 @@
         "semester": "H\u00f6sttermin 2022",
         "start_week": 44,
         "end_week": 2,
-        "period": 2,
+        "periods": [
+            2
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser i Reglerteknik, grundkurs 6 hp och Signaler och system, grundkurs 9 hp samt genomg\u00e5ngen kurs i Signaler och system, forts\u00e4ttningskurs, 4 hp.",
@@ -617,7 +685,7 @@
         "start_year": 2022,
         "end_year": 2023,
         "course_duration": 11,
-        "is_double": true
+        "is_double": false
     },
     "ET2613": {
         "name": "Sensorsystem",
@@ -625,7 +693,9 @@
         "semester": "H\u00f6sttermin 2022",
         "start_week": 44,
         "end_week": 2,
-        "period": 2,
+        "periods": [
+            2
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarad kurs i Elektroteknik med till\u00e4mpningar inom m\u00e4tteknik, 6 hp samt genomg\u00e5ngna kurser i Elektromagnetisk f\u00e4ltteori, 6 hp, Reglerteknik, grundkurs, 6 hp och Signaler och system, forts\u00e4ttningskurs, 4 hp.",
@@ -637,7 +707,7 @@
         "start_year": 2022,
         "end_year": 2023,
         "course_duration": 11,
-        "is_double": true
+        "is_double": false
     },
     "ET2615": {
         "name": "Elkraft och energiteknik",
@@ -645,7 +715,9 @@
         "semester": "V\u00e5rtermin 2023",
         "start_week": 3,
         "end_week": 12,
-        "period": 3,
+        "periods": [
+            3
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarad kurs i Ell\u00e4ra, 6 hp och genomg\u00e5ngna kurser i Elektromagnetisk f\u00e4ltteori, 6 hp, Dynamik, 6 hp, Elektronik med till\u00e4mpningar inom m\u00e4tteknik, 6 hp och Reglerteknik 6 hp.",
@@ -665,7 +737,10 @@
         "semester": "V\u00e5rtermin 2023",
         "start_week": 3,
         "end_week": 22,
-        "period": 3,
+        "periods": [
+            3,
+            4
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarad Projektkurs 1 med produktutveckling och projektledning, 15 hp.",
@@ -685,7 +760,9 @@
         "semester": "V\u00e5rtermin 2023",
         "start_week": 3,
         "end_week": 12,
-        "period": 3,
+        "periods": [
+            3
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att f\u00f6ljande kurser \u00e4r genomg\u00e5ngna: Matlab med till\u00e4mpningar inom matematik och teknik, 4 hp, Str\u00f6mningsl\u00e4ra, 8 hp, Reglerteknik grundkurs, 6 hp och Marin konstruktion, 8 hp.",
@@ -705,7 +782,9 @@
         "semester": "V\u00e5rtermin 2023",
         "start_week": 13,
         "end_week": 22,
-        "period": 4,
+        "periods": [
+            4
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser i Marin konstruktion, 8 hp och Nautisk introduktion, 6 hp.",
@@ -725,7 +804,9 @@
         "semester": "H\u00f6sttermin 2023",
         "start_week": 35,
         "end_week": 43,
-        "period": 1,
+        "periods": [
+            1
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarad kurs i Fartygstillsyn och marina regelverk, 4 hp.",
@@ -745,7 +826,9 @@
         "semester": "H\u00f6sttermin 2023",
         "start_week": 35,
         "end_week": 43,
-        "period": 1,
+        "periods": [
+            1
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs minst 180 avklarade hp, varav 90 hp inom maskinteknik, industriell ekonomi eller n\u00e4rliggande tekniskt omr\u00e5de inklusive 5 hp datorst\u00f6d f\u00f6r ingenj\u00f6rsarbete.",
@@ -765,7 +848,9 @@
         "semester": "H\u00f6sttermin 2023",
         "start_week": 44,
         "end_week": 2,
-        "period": 2,
+        "periods": [
+            2
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser omfattande minst 120 hp varav minst 90 hp ska vara inom f\u00f6ljande omr\u00e5den: programvaruteknik, datavetenskap, informationssystem, datalogi, maskinteknik eller industriell ekonomi. Dessutom kr\u00e4vs en genomg\u00e5ngen kurs p\u00e5 minst 7,5 hp inom grundl\u00e4ggande Programvaruteknik eller Systemteknik alternativt en genomg\u00e5ngen projektkurs i grupp p\u00e5 minst 7,5 hp i Programvaruteknik eller Systemteknik.",
@@ -777,7 +862,7 @@
         "start_year": 2023,
         "end_year": 2024,
         "course_duration": 11,
-        "is_double": true
+        "is_double": false
     },
     "MT2521": {
         "name": "Forskningsmetodik med inriktning mot ingenj\u00f6rsvetenskap",
@@ -785,7 +870,9 @@
         "semester": "H\u00f6sttermin 2023",
         "start_week": 44,
         "end_week": 2,
-        "period": 2,
+        "periods": [
+            2
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "Avklarade studier om minst 180 hp inom omr\u00e5det teknik.",
@@ -797,7 +884,7 @@
         "start_year": 2023,
         "end_year": 2024,
         "course_duration": 11,
-        "is_double": true
+        "is_double": false
     },
     "TE2502": {
         "name": "Examensarbete f\u00f6r civilingenj\u00f6rer",
@@ -805,7 +892,10 @@
         "semester": "V\u00e5rtermin 2024",
         "start_week": 3,
         "end_week": 22,
-        "period": 3,
+        "periods": [
+            3,
+            4
+        ],
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att studenten har avklarat minst 240 hp som f\u00e5r ing\u00e5 i en civilingenj\u00f6rsexamen. Av dessa ska minst 30 hp vara avklarade kurser p\u00e5 avancerad niv\u00e5.",
@@ -827,6 +917,7 @@
                 "MT1512"
             ],
             "2": [
+                "MT1512",
                 "MA1448",
                 "ET1540"
             ]
@@ -838,6 +929,7 @@
                 "MT1502"
             ],
             "4": [
+                "MT1519",
                 "MT1515"
             ],
             "1": [
@@ -846,6 +938,7 @@
                 "SL1409"
             ],
             "2": [
+                "SL1409",
                 "FY1429",
                 "MA1447"
             ]
@@ -857,6 +950,7 @@
                 "MA1451"
             ],
             "4": [
+                "MT1516",
                 "TE1424",
                 "ET1538"
             ],
@@ -873,6 +967,10 @@
         "2022": {
             "3": [
                 "MT1540",
+                "ET1536",
+                "MT1517"
+            ],
+            "4": [
                 "ET1536",
                 "MT1517"
             ],
@@ -893,6 +991,7 @@
                 "MT2551"
             ],
             "4": [
+                "MT2552",
                 "MT1558"
             ],
             "1": [
@@ -906,6 +1005,9 @@
         },
         "2024": {
             "3": [
+                "TE2502"
+            ],
+            "4": [
                 "TE2502"
             ]
         }
