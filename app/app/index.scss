@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: var(--strong);
+}
+
+:root {
+    background-color: var(--background);
+
+    --header-height: 4rem;
+
+    --background: #f0f0f0;
+    --bottom: #eaeaea;
+    --middle: #dfdfdf;
+    --top: #bfbfbf;
+    
+    --strong: #1c1c1c;
+    --weak: #5c5c5c;
+    --muted: #9c9c9c;
+}
+
+@media screen and (prefers-color-scheme: dark) {
+    :root {
+        --background: #1c1c1c;
+        --bottom: #2c2c2c;
+        --middle: #3c3c3c;
+        --top: #4c4c4c;
+
+        --strong: #f0f0f0;
+        --weak: #bfbfbf;
+        --muted: #9c9c9c;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    :root {
+        --header-height: 3rem;
+    }
+}

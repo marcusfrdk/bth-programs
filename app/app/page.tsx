@@ -1,10 +1,7 @@
-import Image from "next/image";
-import styles from "./page.module.css";
-
 import {promises as fs} from "fs";
 import { cookies } from "next/headers";
-import SelectProgramButton from "@/components/SelectProgramButton";
 import DataProvider from "@/contexts/DataProvider";
+import App from "./App";
 
 const codeRegex = /^[A-Z]{5}\d{2}[vh]$/;
 
@@ -41,11 +38,8 @@ export default async function Home() {
   }
 
   return (
-    <main className={styles.main}>
-      <DataProvider data={indexData} initialSelection={selectedProgram}>
-        <SelectProgramButton program="DVAMI21h" />
-        <SelectProgramButton program="XXXXX24h" />
-      </DataProvider>
-    </main>
+    <DataProvider data={indexData} initialSelection={selectedProgram}>
+      <App/>
+    </DataProvider>
   );
 }

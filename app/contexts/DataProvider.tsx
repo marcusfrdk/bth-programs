@@ -5,6 +5,7 @@ import { createContext, useState, useContext } from "react";
 
 export type DataContextType = {
     data: any;
+    programName: string;
     selectedProgram: string;
     updateSelectedProgram: (program: string) => void;
 };
@@ -17,6 +18,7 @@ type DataProviderProps = {
 
 export const DataContext = createContext<DataContextType>({
     data: {},
+    programName: "Civilingenjör i AI och Maskininlärning",
     selectedProgram: "DVAMI21h",
     updateSelectedProgram: () => {},
 });
@@ -27,6 +29,7 @@ export function useData(){
 
 export default function DataProvider({children, data, initialSelection}: DataProviderProps){
     const [selectedProgram, setSelectedProgram] = useState(initialSelection);
+    const [programName, setProgramName] = useState("Civilingenjör i AI och Maskininlärning");
     
     function updateSelectedProgram(program: string){
         setSelectedProgram(program);
@@ -35,8 +38,9 @@ export default function DataProvider({children, data, initialSelection}: DataPro
 
     return (
         <DataContext.Provider value={{
-            data, 
-            selectedProgram, 
+            data,
+            programName,
+            selectedProgram,
             updateSelectedProgram
         }}>
             {children}
