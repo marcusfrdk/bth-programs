@@ -1,44 +1,37 @@
-import {promises as fs} from "fs";
+
 import { cookies } from "next/headers";
 import DataProvider from "@/contexts/DataProvider";
 import App from "./App";
-
-const codeRegex = /^[A-Z]{5}\d{2}[vh]$/;
+import readFile from "@/utils/readFile";
+import { codeRegex, semesterRegex } from "@/utils/splitProgram";
 
 export default async function Home() {
   // Read list of programs
-  const indexBuffer = await fs.readFile(process.cwd() + "/public/data/index.json");
-  const indexData = JSON.parse(indexBuffer.toString());
-  const indexKeys = Object.keys(indexData).sort();
+  const index = await readFile("index");
+  const names = await readFile("names");
+  const programs = Array.from(new Set(Object.keys(index)).intersection(new Set(Object.keys(names))));
 
-  const defaultCode = indexKeys[0];
-  const defaultProgram = defaultCode + indexData[defaultCode].sort()[0];
-  
-  // Get selected program from cookie
+  // Read cookies
   const cookieJar = cookies();
-  let selectedProgram = cookieJar.get("selectedProgram")?.value as string;
+  let selectedCode = cookieJar.get("selectedCode")?.value || "";
+  let selectedSemester = cookieJar.get("selectedSemester")?.value || "";
 
-  // Cookie exists
-  if(selectedProgram){
-    // Cookie is invalid
-    if(!codeRegex.test(selectedProgram)){
-      selectedProgram = defaultProgram;
-    } 
-    
-    // Check if program exists
-    else {
-      const programCode = selectedProgram.substring(0, 5);
-      const programSemester = selectedProgram.substring(5, 8);
+  // Set program code
+  if(!codeRegex.test(selectedCode) || !names.includes(selectedCode)){
+    selectedCode = programs[0];
+  };
 
-      // Program does not exist
-      if(!indexData[programCode] || !indexData[programCode].includes(programSemester)){
-        selectedProgram = defaultProgram;
-      };
-    }
+  // Set program semester
+  if(!semesterRegex.test(selectedSemester) || !index[selectedCode].includes(selectedSemester)){
+    selectedSemester = index[selectedCode].sort()[0];
   }
 
   return (
-    <DataProvider data={indexData} initialSelection={selectedProgram}>
+    <DataProvider names={names} data={index} initialProgram={{
+      name: names[selectedCode],
+      code: selectedCode,
+      semester: selectedSemester
+    }}>
       <App/>
     </DataProvider>
   );

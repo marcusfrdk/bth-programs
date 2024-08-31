@@ -1,25 +1,39 @@
 "use client";
 
+import splitProgram from "@/utils/splitProgram";
 import type { ReactNode } from "react";
 import { createContext, useState, useContext } from "react";
 
-export type DataContextType = {
-    data: any;
-    programName: string;
-    selectedProgram: string;
+type SelectedProgramType = {
+    name: string;
+    code: string;
+    semester: string;
+};
+
+const defaultProgram = {
+    name: "Civilingenjör i AI och Maskininlärning",
+    code: "DVAMI",
+    semester: "21h",
+};
+
+type DataContextType = {
+    names: Readonly<Record<string, string>>;
+    data: Readonly<Record<string, string[]>>;
+    selectedProgram: SelectedProgramType;
     updateSelectedProgram: (program: string) => void;
 };
 
 type DataProviderProps = {
     children: ReactNode;
-    data: any;
-    initialSelection: string;
+    names: Record<string, string>;
+    data: Record<string, string[]>;
+    initialProgram: SelectedProgramType;
 };
 
 export const DataContext = createContext<DataContextType>({
+    names: {},
     data: {},
-    programName: "Civilingenjör i AI och Maskininlärning",
-    selectedProgram: "DVAMI21h",
+    selectedProgram: defaultProgram,
     updateSelectedProgram: () => {},
 });
 
@@ -27,23 +41,41 @@ export function useData(){
     return useContext(DataContext);
 }
 
-export default function DataProvider({children, data, initialSelection}: DataProviderProps){
-    const [selectedProgram, setSelectedProgram] = useState(initialSelection);
-    const [programName, setProgramName] = useState("Civilingenjör i AI och Maskininlärning");
+export default function DataProvider({
+    children,
+    names,
+    data,
+    initialProgram
+}: DataProviderProps){
+    const [selectedProgram, setSelectedProgram] = useState<SelectedProgramType>(initialProgram);
     
     function updateSelectedProgram(program: string){
-        setSelectedProgram(program);
+        const {code, semester} = splitProgram(program);
+
+        if(!names[code] || Object.keys(names).includes(code)){
+            return;
+        }
+
+        const data: SelectedProgramType = {
+            name: names[code],
+            code,
+            semester
+        };
+
+        setSelectedProgram(data);
         document.cookie = `selectedProgram=${program}; SameSite=Strict; Path=/`;
     };
 
     return (
         <DataContext.Provider value={{
+            names,
             data,
-            programName,
             selectedProgram,
             updateSelectedProgram
         }}>
             {children}
+
+            <p>{JSON.stringify(selectedProgram)}</p>
         </DataContext.Provider>
     );
 }
