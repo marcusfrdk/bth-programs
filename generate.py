@@ -6,7 +6,6 @@ import re
 import requests
 import pandas as pd
 import os
-import shutil
 import json
 import threading as th
 import numpy as np
@@ -21,11 +20,13 @@ THREAD_COUNT = os.cpu_count() or 1
 # Regex
 excel_regex = re.compile(r"\.xlsx$")
 year_regex = re.compile(r"\d{4}")
+file_regex = re.compile(r"\w{5}\d{2}[vh]\.json")
 
 # Paths
 ROOT_PATH = os.path.abspath(os.path.dirname(__file__))
 DATA_PATH = os.path.join(ROOT_PATH, "app", "public", "data")
 INDEX_PATH = os.path.join(DATA_PATH, "index.json")
+NAMES_PATH = os.path.join(DATA_PATH, "names.json")
 
 async def get_html(url: str) -> str:
     """ Asyncronously fetches the HTML content of a webpage """
@@ -60,16 +61,7 @@ def process_program(urls: list[str]):
 
 def main() -> int:
     try:
-        # Remove existing data
-        prompt = "The program data already exists. Do you want to overwrite it?"
-        if os.path.exists(DATA_PATH):
-            if not confirm(prompt):
-                print("Exiting...")
-                return 0
-
-            shutil.rmtree(DATA_PATH)
-        
-        os.makedirs(DATA_PATH)
+        os.makedirs(DATA_PATH, exist_ok=True)
 
         # Get all programs
         base_url = "https://resources.bth.se/ProgrammeOverviews/Sv/"
@@ -92,12 +84,25 @@ def main() -> int:
         # Generate index
         indexes = defaultdict(list)
         for file in os.listdir(DATA_PATH):
-            code = file[:5].upper()
-            semester = file.split(".")[0][5:].lower()
-            indexes[code].append(semester)
+            if file_regex.match(file):
+                code = file[:5].upper()
+                semester = file.split(".")[0][5:].lower()
+                indexes[code].append(semester)
 
-        with open(INDEX_PATH, "w") as f:
+        with open(INDEX_PATH, "w", encoding="utf-8") as f:
             json.dump(indexes, f, indent=4)
+
+        # Get names
+        names = {}
+
+        for h2 in soup.find_all("h2"):
+            match = re.match(r"(\w{5}) - (.+)", h2.text)
+            if match:
+                code, name = match.groups()
+                names[code] = name
+
+        with open(NAMES_PATH, "w", encoding="utf-8") as f:
+            json.dump(names, f, indent=4)
 
         return 0
     except Exception as e:
