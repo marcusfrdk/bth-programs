@@ -4,6 +4,7 @@ import DataProvider from "@/contexts/DataProvider";
 import App from "./App";
 import readFile from "@/utils/readFile";
 import splitProgram, { codeRegex, semesterRegex } from "@/utils/splitProgram";
+import QueryProvider from "@/contexts/QueryProvider";
 
 export default async function Home() {
   // Read list of programs
@@ -50,17 +51,19 @@ export default async function Home() {
   });
 
   return (
-    <DataProvider 
-      names={names} 
-      data={index} 
-      initialComparedPrograms={comparedPrograms}
-      initialSelectedProgram={hasSelectedProgram ? {
-        name: names[selectedCode],
-        code: selectedCode,
-        semester: selectedSemester
-      } : null}
-    >
-      <App/>
-    </DataProvider>
+    <QueryProvider>
+      <DataProvider 
+        names={names} 
+        data={index} 
+        initialComparedPrograms={comparedPrograms}
+        initialSelectedProgram={hasSelectedProgram ? {
+          name: names[selectedCode],
+          code: selectedCode,
+          semester: selectedSemester
+        } : null}
+      >
+        <App/>
+      </DataProvider>
+    </QueryProvider>
   );
 }
