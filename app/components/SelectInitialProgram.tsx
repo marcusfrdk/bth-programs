@@ -7,7 +7,7 @@ import splitProgram from "@/utils/splitProgram";
 import Logo from "@/public/bth-logo.svg";
 
 export default function SelectInitialProgram(){
-    const {data, updateSelectedProgram} = useData();
+    const {programs, updateSelectedProgram} = useData();
 
     function handleSelection(e: ChangeEvent<HTMLSelectElement>){
         const {code, semester} = splitProgram(e.target.value);
@@ -16,8 +16,8 @@ export default function SelectInitialProgram(){
             !e.target.value || 
             !code || 
             !semester ||
-            !Object.keys(data).includes(code) ||
-            !data[code].includes(semester)
+            !Object.keys(programs).includes(code) ||
+            !programs[code].includes(semester)
         ) return;
 
         updateSelectedProgram(code + semester);
@@ -35,8 +35,9 @@ export default function SelectInitialProgram(){
             </div>
             <Select>
                 <p>Select your program</p>
-                <select onChange={handleSelection}>
-                    {Object.entries(data).sort().map(([code, semesters]) => {
+                <select defaultValue="default" onChange={handleSelection}>
+                    <option disabled value="default">Select from {Object.keys(programs).length} programs</option>
+                    {Object.entries(programs).sort().map(([code, semesters]) => {
                         return (
                             <optgroup key={code} label={code}>
                                 {semesters.sort().map(semester => {

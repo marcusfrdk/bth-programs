@@ -6,16 +6,16 @@ import { IoMdRemove as RemoveIcon } from "react-icons/io";
 import { FaPlus as AddIcon } from "react-icons/fa6";
 
 export default function MenuCompare(){
-    const {data, selectedProgram, comparedPrograms, addComparison, removeComparison} = useData();
+    const {programs, selectedProgram, comparedPrograms, addComparison, removeComparison} = useData();
 
     const disabledSelections = useMemo(() => {
-        if(!data || !selectedProgram) return [];
+        if(!programs || !selectedProgram) return [];
 
         const disabled: string[] = comparedPrograms.map(program => program.code + program.semester);
         disabled.push(selectedProgram.code + selectedProgram.semester);
 
         return disabled;
-    }, [data, selectedProgram, comparedPrograms]);
+    }, [programs, selectedProgram, comparedPrograms]);
 
     return (
         <Container>
@@ -43,8 +43,9 @@ export default function MenuCompare(){
                 <div>
                     <AddIcon size="1.5rem" fill="var(--muted)" />
                 </div>
-                <select onChange={(e) => addComparison(e.target.value)}>
-                    {Object.entries(data).sort().map(([code, semesters]) => {
+                <select defaultValue="default" onChange={(e) => addComparison(e.target.value)}>
+                    <option disabled value="default">Select from {Object.keys(programs).length} programs</option>
+                    {Object.entries(programs).sort().map(([code, semesters]) => {
                         return (
                             <optgroup key={code} label={code}>
                                 {semesters.sort().map(semester => {

@@ -10,9 +10,20 @@ type ProgramType = {
     semester: string;
 };
 
+type TeacherType = {
+    code: string,
+    name: string,
+    email: string,
+    phone: string,
+    room: string,
+    unit: string,
+    location: string
+};
+
 type DataContextType = {
     names: Readonly<Record<string, string>>;
-    data: Readonly<Record<string, string[]>>;
+    programs: Readonly<Record<string, string[]>>;
+    teachers: Readonly<Record<string, TeacherType>>;
     selectedProgram: ProgramType | null;
     comparedPrograms: ProgramType[];
     updateSelectedProgram: (program: string) => void;
@@ -23,14 +34,16 @@ type DataContextType = {
 type DataProviderProps = {
     children: ReactNode;
     names: Record<string, string>;
-    data: Record<string, string[]>;
+    programs: Record<string, string[]>;
+    teachers: Record<string, TeacherType>;
     initialSelectedProgram: ProgramType | null;
     initialComparedPrograms: ProgramType[];
 };
 
 export const DataContext = createContext<DataContextType>({
     names: {},
-    data: {},
+    programs: {},
+    teachers: {},
     comparedPrograms: [],
     selectedProgram: null,
     updateSelectedProgram: () => {},
@@ -45,7 +58,8 @@ export function useData(){
 export default function DataProvider({
     children,
     names,
-    data,
+    programs,
+    teachers,
     initialSelectedProgram,
     initialComparedPrograms
 }: DataProviderProps){
@@ -100,7 +114,8 @@ export default function DataProvider({
     return (
         <DataContext.Provider value={{
             names,
-            data,
+            programs,
+            teachers,
             selectedProgram,
             comparedPrograms,
             updateSelectedProgram,

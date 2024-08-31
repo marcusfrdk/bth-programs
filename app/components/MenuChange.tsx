@@ -5,7 +5,7 @@ import styled from "@emotion/styled";
 import {FaChevronDown as ChevronDown} from "react-icons/fa6"; 
 
 export default function MenuChange(){
-    const { selectedProgram, updateSelectedProgram, data } = useData();
+    const { selectedProgram, updateSelectedProgram, programs } = useData();
     
     return (
         <Container>
@@ -17,7 +17,7 @@ export default function MenuChange(){
                     <ChevronDown fill="var(--weak)" />
                 </div>
                 <select onChange={(e) => updateSelectedProgram(e.target.value)}>
-                    {Object.entries(data).sort().map(([code, semesters]) => {
+                    {Object.entries(programs).sort().map(([code, semesters]) => {
                         return (
                             <optgroup key={code} label={code}>
                                 {semesters.sort().map(semester => {

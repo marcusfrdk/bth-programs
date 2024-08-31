@@ -10,6 +10,7 @@ export default async function Home() {
   // Read list of programs
   const index = await readFile("index");
   const names = await readFile("names");
+  const teachers = await readFile("teachers");
   const programs = Array.from(new Set(Object.keys(index)).intersection(new Set(Object.keys(names)))); 
 
   // Read cookies
@@ -55,7 +56,8 @@ export default async function Home() {
     <QueryProvider>
       <DataProvider 
         names={names} 
-        data={index} 
+        programs={index}
+        teachers={teachers}
         initialComparedPrograms={comparedPrograms}
         initialSelectedProgram={hasSelectedProgram ? {
           name: names[selectedCode],
