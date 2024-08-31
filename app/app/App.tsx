@@ -7,9 +7,6 @@ export default function App(){
     return (
         <Container>
             <Header/>
-            <p>Hello world</p>
-            <p style={{color: "var(--weak)"}}>Hello world</p>
-            <p style={{color: "var(--muted)"}}>Hello world</p>
         </Container>
     );
 };

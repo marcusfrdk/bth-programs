@@ -10,7 +10,7 @@ import {RiMenu3Fill as MenuIconOpen} from "react-icons/ri";
 import {MdClose as MenuIconClose} from "react-icons/md";
 
 export default function Header(){
-    const { programName } = useData();
+    const { selectedProgram } = useData();
     
     const [isOpen, setIsOpen] = useState(false);
 
@@ -18,7 +18,7 @@ export default function Header(){
         <Container className={isOpen ? "open" : ""}>
             <Link href="/" onClick={() => setIsOpen(false)}>
                 <Image src="/bth-logo-40.png" height={40} width={40} alt="BTH Logo" />
-                <h1>{programName}</h1>
+                <h1>{selectedProgram.name}</h1>
             </Link>
             <button onClick={() => setIsOpen(v => !v)}>
                 {isOpen ? <MenuIconClose size="75%" /> : <MenuIconOpen size="60%" />}
@@ -39,11 +39,11 @@ const Container = styled.header`
     align-items: center;
     padding: 0 1rem;
     gap: 1rem;
-    background-color: var(--background);
+    background-color: var(--neutral-0);
     transition: background-color 512ms ease-in-out;
 
     &.open {
-        background-color: var(--bottom);
+        background-color: var(--neutral-1);
     }
 
     & > a {
@@ -92,7 +92,7 @@ const Container = styled.header`
 
         @media screen and (hover: hover){
             &:hover {
-                background-color: var(--bottom);
+                background-color: var(--neutral-1);
             }
         }
     }

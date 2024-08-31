@@ -6,14 +6,15 @@
 }
 
 :root {
-    background-color: var(--background);
+    background-color: var(--neutral-0);
 
     --header-height: 4rem;
 
-    --background: #f0f0f0;
-    --bottom: #eaeaea;
-    --middle: #dfdfdf;
-    --top: #bfbfbf;
+    --neutral-0: #f0f0f0;
+    --neutral-1: #eaeaea;
+    --neutral-2: #dfdfdf;
+    --neutral-3: #bfbfbf;
+    --neutral-4: #aaaaaa;
     
     --strong: #1c1c1c;
     --weak: #5c5c5c;
@@ -22,10 +23,11 @@
 
 @media screen and (prefers-color-scheme: dark) {
     :root {
-        --background: #1c1c1c;
-        --bottom: #2c2c2c;
-        --middle: #3c3c3c;
-        --top: #4c4c4c;
+        --neutral-0: #1c1c1c;
+        --neutral-1: #2c2c2c;
+        --neutral-2: #3c3c3c;
+        --neutral-3: #4c4c4c;
+        --neutral-4: #5c5c5c;
 
         --strong: #f0f0f0;
         --weak: #bfbfbf;
@@ -37,4 +39,11 @@
     :root {
         --header-height: 3rem;
     }
+}
+
+.ellipsis {
+    width: 100%;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
 }

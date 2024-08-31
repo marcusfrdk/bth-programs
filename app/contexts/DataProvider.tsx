@@ -145,19 +145,6 @@ export default function DataProvider({
             removeComparison
         }}>
             {children}
-
-            <p>{JSON.stringify(selectedProgram)}</p>
-
-            <button onClick={() => addComparison("DVAMI21h")}>Add DVAMI21h</button>
-            <button onClick={() => addComparison("DVACC21h")}>Add DVACC21h</button>
-            
-            <button onClick={() => removeComparison("DVAMI21h")}>Remove DVAMI21h</button>
-            <button onClick={() => removeComparison("DVACC21h")}>Remove DVACC21h</button>
-
-            <p>Compared:</p>
-            {comparedPrograms.map(program => (
-                <p key={program.code + program.semester}>{program.name}</p>
-            ))}
         </DataContext.Provider>
     );
 }
