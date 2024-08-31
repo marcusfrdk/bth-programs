@@ -1,74 +1,100 @@
-[
-    {
-        "code":"OM2543",
-        "name":"Specialistsjuksk\u00f6terskans profession och vetenskapliga f\u00f6rh\u00e5llningss\u00e4tt inom distriktssk\u00f6terskans verksamhetsomr\u00e5de",
-        "points":30.0,
-        "semester":"H\u00f6sttermin 2023",
-        "start_week":202335,
-        "end_week":202402,
-        "period":1,
-        "type":"Obligatorisk",
-        "focus":null,
-        "prerequisites":"F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs sjuksk\u00f6terskeexamen och kandidatexamen. Svensk legitimation som sjuksk\u00f6terska. Yrkeserfarenhet som sjuksk\u00f6terska motsvarande 6 m\u00e5naders heltidstj\u00e4nstg\u00f6ring.",
-        "teacher":"cbo",
-        "teacher_url":"https:\/\/www.bth.se\/?searchtype=employee&s=cbo",
-        "replacement":null,
-        "next_instance":null,
-        "syllabus_url":"https:\/\/edu.bth.se\/utbildning\/redirect.asp?KtAnmKod=B7LX4&KtTermin=20232&lang=sv",
-        "education_plan_url":"https:\/\/edu.bth.se\/utbildningsplaner\/OMADT_HT-23.pdf"
+{
+    "OM2543": {
+        "name": "Specialistsjuksk\u00f6terskans profession och vetenskapliga f\u00f6rh\u00e5llningss\u00e4tt inom distriktssk\u00f6terskans verksamhetsomr\u00e5de",
+        "points": 30.0,
+        "semester": "H\u00f6sttermin 2023",
+        "start_week": 35,
+        "end_week": 2,
+        "period": 1,
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs sjuksk\u00f6terskeexamen och kandidatexamen. Svensk legitimation som sjuksk\u00f6terska. Yrkeserfarenhet som sjuksk\u00f6terska motsvarande 6 m\u00e5naders heltidstj\u00e4nstg\u00f6ring.",
+        "teacher": "cbo",
+        "replacement": null,
+        "next_instance": null,
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=B7LX4&KtTermin=20232&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/OMADT_HT-23.pdf",
+        "start_year": 2023,
+        "end_year": 2024,
+        "course_duration": 20,
+        "is_double": true
     },
-    {
-        "code":"OM2544",
-        "name":"Farmakologi och f\u00f6rskrivningsr\u00e4tt f\u00f6r vissa l\u00e4kemedel, hj\u00e4lpmedel och f\u00f6rbrukningsartiklar inom distriktssk\u00f6terskans verksamhetsomr\u00e5de",
-        "points":15.0,
-        "semester":"V\u00e5rtermin 2024",
-        "start_week":202403,
-        "end_week":202412,
-        "period":3,
-        "type":"Obligatorisk",
-        "focus":null,
-        "prerequisites":"F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs sjuksk\u00f6terskeexamen och kandidatexamen i omv\u00e5rdnad\/v\u00e5rdvetenskap. Svensk legitimation som sjuksk\u00f6terska. Yrkeserfarenhet som sjuksk\u00f6terska motsvarande 6 m\u00e5naders heltidstj\u00e4nstg\u00f6ring.",
-        "teacher":"cbo",
-        "teacher_url":"https:\/\/www.bth.se\/?searchtype=employee&s=cbo",
-        "replacement":"OM2548",
-        "next_instance":"202445 (H5740)",
-        "syllabus_url":"https:\/\/edu.bth.se\/utbildning\/redirect.asp?KtAnmKod=B6WY9&KtTermin=20241&lang=sv",
-        "education_plan_url":"https:\/\/edu.bth.se\/utbildningsplaner\/OMADT_HT-23.pdf"
+    "OM2544": {
+        "name": "Farmakologi och f\u00f6rskrivningsr\u00e4tt f\u00f6r vissa l\u00e4kemedel, hj\u00e4lpmedel och f\u00f6rbrukningsartiklar inom distriktssk\u00f6terskans verksamhetsomr\u00e5de",
+        "points": 15.0,
+        "semester": "V\u00e5rtermin 2024",
+        "start_week": 3,
+        "end_week": 12,
+        "period": 3,
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs sjuksk\u00f6terskeexamen och kandidatexamen i omv\u00e5rdnad/v\u00e5rdvetenskap. Svensk legitimation som sjuksk\u00f6terska. Yrkeserfarenhet som sjuksk\u00f6terska motsvarande 6 m\u00e5naders heltidstj\u00e4nstg\u00f6ring.",
+        "teacher": "cbo",
+        "replacement": "OM2548",
+        "next_instance": "202445 (H5740)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=B6WY9&KtTermin=20241&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/OMADT_HT-23.pdf",
+        "start_year": 2024,
+        "end_year": 2024,
+        "course_duration": 10,
+        "is_double": false
     },
-    {
-        "code":"OM2545",
-        "name":"H\u00e4lsofr\u00e4mjande omv\u00e5rdnad ur ett livsloppsperspektiv",
-        "points":15.0,
-        "semester":"V\u00e5rtermin 2024",
-        "start_week":202413,
-        "end_week":202422,
-        "period":4,
-        "type":"Obligatorisk",
-        "focus":null,
-        "prerequisites":"Sjuksk\u00f6terskeexamen och kandidatexamen i omv\u00e5rdnad\/v\u00e5rdvetenskap. Svensk legitimation som sjuksk\u00f6terska. Yrkeserfarenhet som sjuksk\u00f6terska motsvarande 6 m\u00e5naders heltidstj\u00e4nstg\u00f6ring. D\u00e4rut\u00f6ver kr\u00e4vs minst 15 hp p\u00e5 niv\u00e5 A1N inom omv\u00e5rdnad.",
-        "teacher":"jtl",
-        "teacher_url":"https:\/\/www.bth.se\/?searchtype=employee&s=jtl",
-        "replacement":null,
-        "next_instance":null,
-        "syllabus_url":"https:\/\/edu.bth.se\/utbildning\/redirect.asp?KtAnmKod=BFN6Y&KtTermin=20241&lang=sv",
-        "education_plan_url":"https:\/\/edu.bth.se\/utbildningsplaner\/OMADT_HT-23.pdf"
+    "OM2545": {
+        "name": "H\u00e4lsofr\u00e4mjande omv\u00e5rdnad ur ett livsloppsperspektiv",
+        "points": 15.0,
+        "semester": "V\u00e5rtermin 2024",
+        "start_week": 13,
+        "end_week": 22,
+        "period": 4,
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "Sjuksk\u00f6terskeexamen och kandidatexamen i omv\u00e5rdnad/v\u00e5rdvetenskap. Svensk legitimation som sjuksk\u00f6terska. Yrkeserfarenhet som sjuksk\u00f6terska motsvarande 6 m\u00e5naders heltidstj\u00e4nstg\u00f6ring. D\u00e4rut\u00f6ver kr\u00e4vs minst 15 hp p\u00e5 niv\u00e5 A1N inom omv\u00e5rdnad.",
+        "teacher": "jtl",
+        "replacement": null,
+        "next_instance": null,
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BFN6Y&KtTermin=20241&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/OMADT_HT-23.pdf",
+        "start_year": 2024,
+        "end_year": 2024,
+        "course_duration": 10,
+        "is_double": false
     },
-    {
-        "code":"OM2531",
-        "name":"Examensarbete i omv\u00e5rdnad med inriktning mot distriktsk\u00f6terskans verksamhetsomr\u00e5de",
-        "points":15.0,
-        "semester":"H\u00f6sttermin 2024",
-        "start_week":202436,
-        "end_week":202445,
-        "period":1,
-        "type":"Obligatorisk",
-        "focus":null,
-        "prerequisites":"F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarad kurs Specialistsjuksk\u00f6terskans profession och vetenskapliga f\u00f6rh\u00e5llningss\u00e4tt inom distriktssk\u00f6terskans verksamhetsomr\u00e5de, 30 hp.",
-        "teacher":"cbo",
-        "teacher_url":"https:\/\/www.bth.se\/?searchtype=employee&s=cbo",
-        "replacement":null,
-        "next_instance":"202436 (BLUXF)",
-        "syllabus_url":"https:\/\/edu.bth.se\/utbildning\/redirect.asp?KtAnmKod=BLUXF&KtTermin=20242&lang=sv",
-        "education_plan_url":"https:\/\/edu.bth.se\/utbildningsplaner\/OMADT_HT-23.pdf"
+    "OM2531": {
+        "name": "Examensarbete i omv\u00e5rdnad med inriktning mot distriktsk\u00f6terskans verksamhetsomr\u00e5de",
+        "points": 15.0,
+        "semester": "H\u00f6sttermin 2024",
+        "start_week": 36,
+        "end_week": 45,
+        "period": 1,
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarad kurs Specialistsjuksk\u00f6terskans profession och vetenskapliga f\u00f6rh\u00e5llningss\u00e4tt inom distriktssk\u00f6terskans verksamhetsomr\u00e5de, 30 hp.",
+        "teacher": "cbo",
+        "replacement": null,
+        "next_instance": "202436 (BLUXF)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BLUXF&KtTermin=20242&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/OMADT_HT-23.pdf",
+        "start_year": 2024,
+        "end_year": 2024,
+        "course_duration": 10,
+        "is_double": false
+    },
+    "_groups": {
+        "2023": {
+            "1": [
+                "OM2543"
+            ]
+        },
+        "2024": {
+            "3": [
+                "OM2544"
+            ],
+            "4": [
+                "OM2545"
+            ],
+            "1": [
+                "OM2531"
+            ]
+        }
     }
-]
+}

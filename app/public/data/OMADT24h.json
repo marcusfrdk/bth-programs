@@ -1,110 +1,148 @@
-[
-    {
-        "code":"OM2549",
-        "name":"Specialistsjuksk\u00f6terskans profession, inriktning distriktssk\u00f6terska",
-        "points":7.0,
-        "semester":"H\u00f6sttermin 2024",
-        "start_week":202436,
-        "end_week":202445,
-        "period":1,
-        "type":"Obligatorisk",
-        "focus":null,
-        "prerequisites":"F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs sjuksk\u00f6terskeexamen och kandidatexamen i omv\u00e5rdnad\/v\u00e5rdvetenskap, svensk sjuksk\u00f6terskelegitimation och yrkeserfarenhet motsvarande 6 m\u00e5nader heltidstj\u00e4nstg\u00f6ring som sjuksk\u00f6terska.\n",
-        "teacher":"jtl",
-        "teacher_url":"https:\/\/www.bth.se\/?searchtype=employee&s=jtl",
-        "replacement":null,
-        "next_instance":"202436 (B7ND9)",
-        "syllabus_url":"https:\/\/bth.azure-api.net\/lindplan\/courseplanbycode?code=B7ND9&semester=20242&lang=sv",
-        "education_plan_url":"https:\/\/edu.bth.se\/utbildningsplaner\/OMADT_HT-24.pdf"
+{
+    "OM2549": {
+        "name": "Specialistsjuksk\u00f6terskans profession, inriktning distriktssk\u00f6terska",
+        "points": 7.0,
+        "semester": "H\u00f6sttermin 2024",
+        "start_week": 36,
+        "end_week": 45,
+        "period": 1,
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs sjuksk\u00f6terskeexamen och kandidatexamen i omv\u00e5rdnad/v\u00e5rdvetenskap, svensk sjuksk\u00f6terskelegitimation och yrkeserfarenhet motsvarande 6 m\u00e5nader heltidstj\u00e4nstg\u00f6ring som sjuksk\u00f6terska.\n",
+        "teacher": "jtl",
+        "replacement": null,
+        "next_instance": "202436 (B7ND9)",
+        "syllabus_url": "https://bth.azure-api.net/lindplan/courseplanbycode?code=B7ND9&semester=20242&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/OMADT_HT-24.pdf",
+        "start_year": 2024,
+        "end_year": 2024,
+        "course_duration": 10,
+        "is_double": false
     },
-    {
-        "code":"OM2548",
-        "name":"Farmakologi och f\u00f6rskrivningsr\u00e4tt av vissa l\u00e4kemedel, hj\u00e4lpmedel och f\u00f6rbrukningsartiklar",
-        "points":15.0,
-        "semester":"H\u00f6sttermin 2024",
-        "start_week":202446,
-        "end_week":202513,
-        "period":2,
-        "type":"Obligatorisk",
-        "focus":null,
-        "prerequisites":"F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs sjuksk\u00f6terskeexamen och kandidatexamen i omv\u00e5rdnad\/v\u00e5rdvetenskap, svensk sjuksk\u00f6terskelegitimation och yrkeserfarenhet motsvarande 6 m\u00e5nader heltidstj\u00e4nstg\u00f6ring som sjuksk\u00f6terska. Engelska 6.\n",
-        "teacher":"cbo",
-        "teacher_url":"https:\/\/www.bth.se\/?searchtype=employee&s=cbo",
-        "replacement":null,
-        "next_instance":"202445 (H5740)",
-        "syllabus_url":"https:\/\/bth.azure-api.net\/lindplan\/courseplanbycode?code=BJ3LH&semester=20242&lang=sv",
-        "education_plan_url":"https:\/\/edu.bth.se\/utbildningsplaner\/OMADT_HT-24.pdf"
+    "OM2548": {
+        "name": "Farmakologi och f\u00f6rskrivningsr\u00e4tt av vissa l\u00e4kemedel, hj\u00e4lpmedel och f\u00f6rbrukningsartiklar",
+        "points": 15.0,
+        "semester": "H\u00f6sttermin 2024",
+        "start_week": 46,
+        "end_week": 13,
+        "period": 2,
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs sjuksk\u00f6terskeexamen och kandidatexamen i omv\u00e5rdnad/v\u00e5rdvetenskap, svensk sjuksk\u00f6terskelegitimation och yrkeserfarenhet motsvarande 6 m\u00e5nader heltidstj\u00e4nstg\u00f6ring som sjuksk\u00f6terska. Engelska 6.\n",
+        "teacher": "cbo",
+        "replacement": null,
+        "next_instance": "202445 (H5740)",
+        "syllabus_url": "https://bth.azure-api.net/lindplan/courseplanbycode?code=BJ3LH&semester=20242&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/OMADT_HT-24.pdf",
+        "start_year": 2024,
+        "end_year": 2025,
+        "course_duration": 20,
+        "is_double": true
     },
-    {
-        "code":"OM2550",
-        "name":"H\u00e4lsofr\u00e4mjande omv\u00e5rdnad, inriktning mot barn och unga",
-        "points":15.0,
-        "semester":"V\u00e5rtermin 2025",
-        "start_week":202514,
-        "end_week":202544,
-        "period":4,
-        "type":"Obligatorisk",
-        "focus":null,
-        "prerequisites":"F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarad Specialistsjuksk\u00f6terskans profession inriktning distriktssk\u00f6terska 7,5 hp.\n",
-        "teacher":"jtl",
-        "teacher_url":"https:\/\/www.bth.se\/?searchtype=employee&s=jtl",
-        "replacement":null,
-        "next_instance":"202514 (BP6QR)",
-        "syllabus_url":"https:\/\/bth.azure-api.net\/lindplan\/courseplanbycode?code=BP6QR&semester=20251&lang=sv",
-        "education_plan_url":"https:\/\/edu.bth.se\/utbildningsplaner\/OMADT_HT-24.pdf"
+    "OM2550": {
+        "name": "H\u00e4lsofr\u00e4mjande omv\u00e5rdnad, inriktning mot barn och unga",
+        "points": 15.0,
+        "semester": "V\u00e5rtermin 2025",
+        "start_week": 14,
+        "end_week": 44,
+        "period": 4,
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarad Specialistsjuksk\u00f6terskans profession inriktning distriktssk\u00f6terska 7,5 hp.\n",
+        "teacher": "jtl",
+        "replacement": null,
+        "next_instance": "202514 (BP6QR)",
+        "syllabus_url": "https://bth.azure-api.net/lindplan/courseplanbycode?code=BP6QR&semester=20251&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/OMADT_HT-24.pdf",
+        "start_year": 2025,
+        "end_year": 2025,
+        "course_duration": 31,
+        "is_double": true
     },
-    {
-        "code":"OM2547",
-        "name":"Vetenskapliga teorier och metoder p\u00e5 avancerad niv\u00e5",
-        "points":7.0,
-        "semester":"H\u00f6sttermin 2025",
-        "start_week":202545,
-        "end_week":202603,
-        "period":2,
-        "type":"Obligatorisk",
-        "focus":null,
-        "prerequisites":"F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs sjuksk\u00f6terskeexamen och kandidatexamen i omv\u00e5rdnad\/v\u00e5rdvetenskap, svensk sjuksk\u00f6terskelegitimation och yrkeserfarenhet motsvarande 6 m\u00e5nader heltidstj\u00e4nstg\u00f6ring som sjuksk\u00f6terska. Engelska 6.\n",
-        "teacher":"jtl",
-        "teacher_url":"https:\/\/www.bth.se\/?searchtype=employee&s=jtl",
-        "replacement":null,
-        "next_instance":"202545 (BGQGN)",
-        "syllabus_url":"https:\/\/bth.azure-api.net\/lindplan\/courseplanbycode?code=BGQGN&semester=20252&lang=sv",
-        "education_plan_url":"https:\/\/edu.bth.se\/utbildningsplaner\/OMADT_HT-24.pdf"
+    "OM2547": {
+        "name": "Vetenskapliga teorier och metoder p\u00e5 avancerad niv\u00e5",
+        "points": 7.0,
+        "semester": "H\u00f6sttermin 2025",
+        "start_week": 45,
+        "end_week": 3,
+        "period": 2,
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs sjuksk\u00f6terskeexamen och kandidatexamen i omv\u00e5rdnad/v\u00e5rdvetenskap, svensk sjuksk\u00f6terskelegitimation och yrkeserfarenhet motsvarande 6 m\u00e5nader heltidstj\u00e4nstg\u00f6ring som sjuksk\u00f6terska. Engelska 6.\n",
+        "teacher": "jtl",
+        "replacement": null,
+        "next_instance": "202545 (BGQGN)",
+        "syllabus_url": "https://bth.azure-api.net/lindplan/courseplanbycode?code=BGQGN&semester=20252&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/OMADT_HT-24.pdf",
+        "start_year": 2025,
+        "end_year": 2026,
+        "course_duration": 11,
+        "is_double": true
     },
-    {
-        "code":"OM2551",
-        "name":"H\u00e4lsofr\u00e4mjande omv\u00e5rdnad, inriktning vuxna och \u00e4ldre",
-        "points":15.0,
-        "semester":"V\u00e5rtermin 2026",
-        "start_week":202604,
-        "end_week":202623,
-        "period":3,
-        "type":"Obligatorisk",
-        "focus":null,
-        "prerequisites":"F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarad Farmakologi och f\u00f6rskrivningsr\u00e4tt av vissa l\u00e4kemedel, hj\u00e4lpmedel och f\u00f6rbrukningsartiklar, 15 hp.\n",
-        "teacher":"cbo",
-        "teacher_url":"https:\/\/www.bth.se\/?searchtype=employee&s=cbo",
-        "replacement":null,
-        "next_instance":"202604 (BQDKN)",
-        "syllabus_url":"https:\/\/bth.azure-api.net\/lindplan\/courseplanbycode?code=BQDKN&semester=20261&lang=sv",
-        "education_plan_url":"https:\/\/edu.bth.se\/utbildningsplaner\/OMADT_HT-24.pdf"
+    "OM2551": {
+        "name": "H\u00e4lsofr\u00e4mjande omv\u00e5rdnad, inriktning vuxna och \u00e4ldre",
+        "points": 15.0,
+        "semester": "V\u00e5rtermin 2026",
+        "start_week": 4,
+        "end_week": 23,
+        "period": 3,
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarad Farmakologi och f\u00f6rskrivningsr\u00e4tt av vissa l\u00e4kemedel, hj\u00e4lpmedel och f\u00f6rbrukningsartiklar, 15 hp.\n",
+        "teacher": "cbo",
+        "replacement": null,
+        "next_instance": "202604 (BQDKN)",
+        "syllabus_url": "https://bth.azure-api.net/lindplan/courseplanbycode?code=BQDKN&semester=20261&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/OMADT_HT-24.pdf",
+        "start_year": 2026,
+        "end_year": 2026,
+        "course_duration": 20,
+        "is_double": true
     },
-    {
-        "code":"OM2552",
-        "name":"Sj\u00e4lvst\u00e4ndigt arbete i omv\u00e5rdnad - distriktssk\u00f6terskans verksamhetsomr\u00e5de",
-        "points":15.0,
-        "semester":"H\u00f6sttermin 2026",
-        "start_week":202636,
-        "end_week":202702,
-        "period":1,
-        "type":"Obligatorisk",
-        "focus":null,
-        "prerequisites":"F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs Specialistsjuksk\u00f6terskans profession, inriktning mot distriktssk\u00f6terska 7,5 hp och Vetenskapliga teorier och metoder p\u00e5 avancerad niv\u00e5 7,5 hp eller motsvarande.\n",
-        "teacher":"jtl",
-        "teacher_url":"https:\/\/www.bth.se\/?searchtype=employee&s=jtl",
-        "replacement":null,
-        "next_instance":"202636 (BH6AX)",
-        "syllabus_url":"https:\/\/bth.azure-api.net\/lindplan\/courseplanbycode?code=BH6AX&semester=20262&lang=sv",
-        "education_plan_url":"https:\/\/edu.bth.se\/utbildningsplaner\/OMADT_HT-24.pdf"
+    "OM2552": {
+        "name": "Sj\u00e4lvst\u00e4ndigt arbete i omv\u00e5rdnad - distriktssk\u00f6terskans verksamhetsomr\u00e5de",
+        "points": 15.0,
+        "semester": "H\u00f6sttermin 2026",
+        "start_week": 36,
+        "end_week": 2,
+        "period": 1,
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs Specialistsjuksk\u00f6terskans profession, inriktning mot distriktssk\u00f6terska 7,5 hp och Vetenskapliga teorier och metoder p\u00e5 avancerad niv\u00e5 7,5 hp eller motsvarande.\n",
+        "teacher": "jtl",
+        "replacement": null,
+        "next_instance": "202636 (BH6AX)",
+        "syllabus_url": "https://bth.azure-api.net/lindplan/courseplanbycode?code=BH6AX&semester=20262&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/OMADT_HT-24.pdf",
+        "start_year": 2026,
+        "end_year": 2027,
+        "course_duration": 19,
+        "is_double": true
+    },
+    "_groups": {
+        "2024": {
+            "1": [
+                "OM2549"
+            ],
+            "2": [
+                "OM2548"
+            ]
+        },
+        "2025": {
+            "4": [
+                "OM2550"
+            ],
+            "2": [
+                "OM2547"
+            ]
+        },
+        "2026": {
+            "3": [
+                "OM2551"
+            ],
+            "1": [
+                "OM2552"
+            ]
+        }
     }
-]
+}

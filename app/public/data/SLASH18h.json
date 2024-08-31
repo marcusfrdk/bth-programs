@@ -1,74 +1,98 @@
-[
-    {
-        "code":"SL2534",
-        "name":"Ledarskap i komplexitet",
-        "points":10.0,
-        "semester":"H\u00f6sttermin 2018",
-        "start_week":201836,
-        "end_week":201923,
-        "period":1,
-        "type":"Obligatorisk",
-        "focus":null,
-        "prerequisites":"Kandidatexamen eller yrkesexamen om 180 h\u00f6gskolepo\u00e4ng och Engelska B samt minst sex m\u00e5naders relevant yrkeslivserfarenhet, s\u00e5som arbete, praktikarbete, volont\u00e4rarbete, f\u00f6rtroendeuppdrag, eller motsvarande, p\u00e5 heltid eller deltid, som visar p\u00e5 erfarenhet av h\u00e5llbarhetsarbete.",
-        "teacher":"jya",
-        "teacher_url":"https:\/\/www.bth.se\/?searchtype=employee&s=jya",
-        "replacement":null,
-        "next_instance":"202436 (E2627)",
-        "syllabus_url":"https:\/\/edu.bth.se\/utbildning\/redirect.asp?KtAnmKod=RK434&KtTermin=20182&lang=sv",
-        "education_plan_url":"https:\/\/edu.bth.se\/utbildningsplaner\/SLASH_HT-18.pdf"
+{
+    "SL2534": {
+        "name": "Ledarskap i komplexitet",
+        "points": 10.0,
+        "semester": "H\u00f6sttermin 2018",
+        "start_week": 36,
+        "end_week": 23,
+        "period": 1,
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "Kandidatexamen eller yrkesexamen om 180 h\u00f6gskolepo\u00e4ng och Engelska B samt minst sex m\u00e5naders relevant yrkeslivserfarenhet, s\u00e5som arbete, praktikarbete, volont\u00e4rarbete, f\u00f6rtroendeuppdrag, eller motsvarande, p\u00e5 heltid eller deltid, som visar p\u00e5 erfarenhet av h\u00e5llbarhetsarbete.",
+        "teacher": "jya",
+        "replacement": null,
+        "next_instance": "202436 (E2627)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=RK434&KtTermin=20182&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/SLASH_HT-18.pdf",
+        "start_year": 2018,
+        "end_year": 2019,
+        "course_duration": 40,
+        "is_double": true
     },
-    {
-        "code":"SL2533",
-        "name":"Strategisk h\u00e5llbar utveckling",
-        "points":12.0,
-        "semester":"H\u00f6sttermin 2018",
-        "start_week":201836,
-        "end_week":201844,
-        "period":1,
-        "type":"Obligatorisk",
-        "focus":null,
-        "prerequisites":"Kandidatexamen eller yrkesexamen om 180 hp samt Engelska B.",
-        "teacher":"edy",
-        "teacher_url":"https:\/\/www.bth.se\/?searchtype=employee&s=edy",
-        "replacement":null,
-        "next_instance":"202436 (E2628)",
-        "syllabus_url":"https:\/\/edu.bth.se\/utbildning\/redirect.asp?KtAnmKod=RK565&KtTermin=20182&lang=sv",
-        "education_plan_url":"https:\/\/edu.bth.se\/utbildningsplaner\/SLASH_HT-18.pdf"
+    "SL2533": {
+        "name": "Strategisk h\u00e5llbar utveckling",
+        "points": 12.0,
+        "semester": "H\u00f6sttermin 2018",
+        "start_week": 36,
+        "end_week": 44,
+        "period": 1,
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "Kandidatexamen eller yrkesexamen om 180 hp samt Engelska B.",
+        "teacher": "edy",
+        "replacement": null,
+        "next_instance": "202436 (E2628)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=RK565&KtTermin=20182&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/SLASH_HT-18.pdf",
+        "start_year": 2018,
+        "end_year": 2018,
+        "course_duration": 9,
+        "is_double": false
     },
-    {
-        "code":"SL2540",
-        "name":"Innovation f\u00f6r h\u00e5llbarhet",
-        "points":5.0,
-        "semester":"H\u00f6sttermin 2018",
-        "start_week":201845,
-        "end_week":201903,
-        "period":2,
-        "type":"Obligatorisk",
-        "focus":null,
-        "prerequisites":"F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att 5 hp av kursen Strategisk h\u00e5llbar utveckling (12,5 hp) \u00e4r avklarade.",
-        "teacher":"pxj",
-        "teacher_url":"https:\/\/www.bth.se\/?searchtype=employee&s=pxj",
-        "replacement":null,
-        "next_instance":"202445 (E2637)",
-        "syllabus_url":"https:\/\/edu.bth.se\/utbildning\/redirect.asp?KtAnmKod=RK380&KtTermin=20182&lang=sv",
-        "education_plan_url":"https:\/\/edu.bth.se\/utbildningsplaner\/SLASH_HT-18.pdf"
+    "SL2540": {
+        "name": "Innovation f\u00f6r h\u00e5llbarhet",
+        "points": 5.0,
+        "semester": "H\u00f6sttermin 2018",
+        "start_week": 45,
+        "end_week": 3,
+        "period": 2,
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att 5 hp av kursen Strategisk h\u00e5llbar utveckling (12,5 hp) \u00e4r avklarade.",
+        "teacher": "pxj",
+        "replacement": null,
+        "next_instance": "202445 (E2637)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=RK380&KtTermin=20182&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/SLASH_HT-18.pdf",
+        "start_year": 2018,
+        "end_year": 2019,
+        "course_duration": 11,
+        "is_double": true
     },
-    {
-        "code":"SL2538",
-        "name":"Magisterarbete i strategiskt ledarskap f\u00f6r h\u00e5llbarhet",
-        "points":20.0,
-        "semester":"V\u00e5rtermin 2019",
-        "start_week":201904,
-        "end_week":201923,
-        "period":3,
-        "type":"Obligatorisk",
-        "focus":null,
-        "prerequisites":"F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser Strategisk h\u00e5llbar utveckling 12,5 hp och Innovation f\u00f6r h\u00e5llbarhet, 5 hp samt att 2,5 hp av kursen Ledarskap i komplexitet (10 hp) \u00e4r avklarade.",
-        "teacher":"mis",
-        "teacher_url":"https:\/\/www.bth.se\/?searchtype=employee&s=mis",
-        "replacement":null,
-        "next_instance":"202436 (1717P)",
-        "syllabus_url":"https:\/\/edu.bth.se\/utbildning\/redirect.asp?KtAnmKod=RQ523&KtTermin=20191&lang=sv",
-        "education_plan_url":"https:\/\/edu.bth.se\/utbildningsplaner\/SLASH_HT-18.pdf"
+    "SL2538": {
+        "name": "Magisterarbete i strategiskt ledarskap f\u00f6r h\u00e5llbarhet",
+        "points": 20.0,
+        "semester": "V\u00e5rtermin 2019",
+        "start_week": 4,
+        "end_week": 23,
+        "period": 3,
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser Strategisk h\u00e5llbar utveckling 12,5 hp och Innovation f\u00f6r h\u00e5llbarhet, 5 hp samt att 2,5 hp av kursen Ledarskap i komplexitet (10 hp) \u00e4r avklarade.",
+        "teacher": "mis",
+        "replacement": null,
+        "next_instance": "202436 (1717P)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=RQ523&KtTermin=20191&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/SLASH_HT-18.pdf",
+        "start_year": 2019,
+        "end_year": 2019,
+        "course_duration": 20,
+        "is_double": true
+    },
+    "_groups": {
+        "2018": {
+            "1": [
+                "SL2534",
+                "SL2533"
+            ],
+            "2": [
+                "SL2540"
+            ]
+        },
+        "2019": {
+            "3": [
+                "SL2538"
+            ]
+        }
     }
-]
+}

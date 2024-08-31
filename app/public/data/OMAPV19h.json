@@ -1,56 +1,77 @@
-[
-    {
-        "code":"OM2536",
-        "name":"Specialistsjuksk\u00f6terskans profession och vetenskapliga f\u00f6rh\u00e5llningss\u00e4tt inom psykiatrisk v\u00e5rd",
-        "points":30.0,
-        "semester":"H\u00f6sttermin 2019",
-        "start_week":201936,
-        "end_week":202003,
-        "period":1,
-        "type":"Obligatorisk",
-        "focus":null,
-        "prerequisites":"Sjuksk\u00f6terskeexamen och kandidatexamen i omv\u00e5rdnad\/v\u00e5rdvetenskap.\nSvensk legitimation som sjuksk\u00f6terska. \nYrkeserfarenhet som sjuksk\u00f6terska motsvarande 6 m\u00e5naders heltidstj\u00e4nstg\u00f6ring.",
-        "teacher":"sfk",
-        "teacher_url":"https:\/\/www.bth.se\/?searchtype=employee&s=sfk",
-        "replacement":null,
-        "next_instance":null,
-        "syllabus_url":"https:\/\/edu.bth.se\/utbildning\/redirect.asp?KtAnmKod=BJYF3&KtTermin=20192&lang=sv",
-        "education_plan_url":"https:\/\/edu.bth.se\/utbildningsplaner\/OMAPV_HT-19.pdf"
+{
+    "OM2536": {
+        "name": "Specialistsjuksk\u00f6terskans profession och vetenskapliga f\u00f6rh\u00e5llningss\u00e4tt inom psykiatrisk v\u00e5rd",
+        "points": 30.0,
+        "semester": "H\u00f6sttermin 2019",
+        "start_week": 36,
+        "end_week": 3,
+        "period": 1,
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "Sjuksk\u00f6terskeexamen och kandidatexamen i omv\u00e5rdnad/v\u00e5rdvetenskap.\nSvensk legitimation som sjuksk\u00f6terska. \nYrkeserfarenhet som sjuksk\u00f6terska motsvarande 6 m\u00e5naders heltidstj\u00e4nstg\u00f6ring.",
+        "teacher": "sfk",
+        "replacement": null,
+        "next_instance": null,
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BJYF3&KtTermin=20192&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/OMAPV_HT-19.pdf",
+        "start_year": 2019,
+        "end_year": 2020,
+        "course_duration": 20,
+        "is_double": true
     },
-    {
-        "code":"OM2537",
-        "name":"Specifik omv\u00e5rdnad inom psykiatrisk v\u00e5rd",
-        "points":15.0,
-        "semester":"V\u00e5rtermin 2020",
-        "start_week":202004,
-        "end_week":202013,
-        "period":3,
-        "type":"Obligatorisk",
-        "focus":null,
-        "prerequisites":"Sjuksk\u00f6terskeexamen och kandidatexamen i omv\u00e5rdnad\/v\u00e5rdvetenskap.\nSvensk legitimation som sjuksk\u00f6terska. \nYrkeserfarenhet som sjuksk\u00f6terska motsvarande 6 m\u00e5naders heltidstj\u00e4nstg\u00f6ring. D\u00e4rut\u00f6ver kr\u00e4vs minst 15 hp p\u00e5 niv\u00e5 A1N inom omv\u00e5rdnad.",
-        "teacher":"sfk",
-        "teacher_url":"https:\/\/www.bth.se\/?searchtype=employee&s=sfk",
-        "replacement":null,
-        "next_instance":null,
-        "syllabus_url":"https:\/\/edu.bth.se\/utbildning\/redirect.asp?KtAnmKod=BXXTC&KtTermin=20201&lang=sv",
-        "education_plan_url":"https:\/\/edu.bth.se\/utbildningsplaner\/OMAPV_HT-19.pdf"
+    "OM2537": {
+        "name": "Specifik omv\u00e5rdnad inom psykiatrisk v\u00e5rd",
+        "points": 15.0,
+        "semester": "V\u00e5rtermin 2020",
+        "start_week": 4,
+        "end_week": 13,
+        "period": 3,
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "Sjuksk\u00f6terskeexamen och kandidatexamen i omv\u00e5rdnad/v\u00e5rdvetenskap.\nSvensk legitimation som sjuksk\u00f6terska. \nYrkeserfarenhet som sjuksk\u00f6terska motsvarande 6 m\u00e5naders heltidstj\u00e4nstg\u00f6ring. D\u00e4rut\u00f6ver kr\u00e4vs minst 15 hp p\u00e5 niv\u00e5 A1N inom omv\u00e5rdnad.",
+        "teacher": "sfk",
+        "replacement": null,
+        "next_instance": null,
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BXXTC&KtTermin=20201&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/OMAPV_HT-19.pdf",
+        "start_year": 2020,
+        "end_year": 2020,
+        "course_duration": 10,
+        "is_double": false
     },
-    {
-        "code":"OM2538",
-        "name":"Examensarbete i omv\u00e5rdnad med inriktning mot psykiatrisk v\u00e5rd",
-        "points":15.0,
-        "semester":"V\u00e5rtermin 2020",
-        "start_week":202014,
-        "end_week":202023,
-        "period":4,
-        "type":"Obligatorisk",
-        "focus":null,
-        "prerequisites":"F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarad kurs Specialistsjuksk\u00f6terskans profession och vetenskapliga f\u00f6rh\u00e5llningss\u00e4tt inom psykiatrisk v\u00e5rd, 30 hp.",
-        "teacher":"jbb",
-        "teacher_url":"https:\/\/www.bth.se\/?searchtype=employee&s=jbb",
-        "replacement":null,
-        "next_instance":null,
-        "syllabus_url":"https:\/\/edu.bth.se\/utbildning\/redirect.asp?KtAnmKod=BH7YT&KtTermin=20201&lang=sv",
-        "education_plan_url":"https:\/\/edu.bth.se\/utbildningsplaner\/OMAPV_HT-19.pdf"
+    "OM2538": {
+        "name": "Examensarbete i omv\u00e5rdnad med inriktning mot psykiatrisk v\u00e5rd",
+        "points": 15.0,
+        "semester": "V\u00e5rtermin 2020",
+        "start_week": 14,
+        "end_week": 23,
+        "period": 4,
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarad kurs Specialistsjuksk\u00f6terskans profession och vetenskapliga f\u00f6rh\u00e5llningss\u00e4tt inom psykiatrisk v\u00e5rd, 30 hp.",
+        "teacher": "jbb",
+        "replacement": null,
+        "next_instance": null,
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BH7YT&KtTermin=20201&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/OMAPV_HT-19.pdf",
+        "start_year": 2020,
+        "end_year": 2020,
+        "course_duration": 10,
+        "is_double": false
+    },
+    "_groups": {
+        "2019": {
+            "1": [
+                "OM2536"
+            ]
+        },
+        "2020": {
+            "3": [
+                "OM2537"
+            ],
+            "4": [
+                "OM2538"
+            ]
+        }
     }
-]
+}

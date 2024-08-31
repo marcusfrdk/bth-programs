@@ -1,74 +1,100 @@
-[
-    {
-        "code":"MT1442",
-        "name":"Innovativ och h\u00e5llbar produktutveckling",
-        "points":7.0,
-        "semester":"H\u00f6sttermin 2020",
-        "start_week":202036,
-        "end_week":202044,
-        "period":1,
-        "type":"Obligatorisk",
-        "focus":null,
-        "prerequisites":"Erfarenhet av yrkesm\u00e4ssigt ingenj\u00f6rsarbete eller tidigare h\u00f6gskolestudier.",
-        "teacher":"abr",
-        "teacher_url":"https:\/\/www.bth.se\/?searchtype=employee&s=abr",
-        "replacement":null,
-        "next_instance":"202436 (P0287)",
-        "syllabus_url":"https:\/\/edu.bth.se\/utbildning\/redirect.asp?KtAnmKod=BRAHE&KtTermin=20202&lang=sv",
-        "education_plan_url":"https:\/\/edu.bth.se\/utbildningsplaner\/MTGPU_HT-17.pdf"
+{
+    "MT1442": {
+        "name": "Innovativ och h\u00e5llbar produktutveckling",
+        "points": 7.0,
+        "semester": "H\u00f6sttermin 2020",
+        "start_week": 36,
+        "end_week": 44,
+        "period": 1,
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "Erfarenhet av yrkesm\u00e4ssigt ingenj\u00f6rsarbete eller tidigare h\u00f6gskolestudier.",
+        "teacher": "abr",
+        "replacement": null,
+        "next_instance": "202436 (P0287)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BRAHE&KtTermin=20202&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/MTGPU_HT-17.pdf",
+        "start_year": 2020,
+        "end_year": 2020,
+        "course_duration": 9,
+        "is_double": false
     },
-    {
-        "code":"MT1440",
-        "name":"Datorst\u00f6d inom Konstruktion 2",
-        "points":7.0,
-        "semester":"H\u00f6sttermin 2020",
-        "start_week":202045,
-        "end_week":202102,
-        "period":2,
-        "type":"Obligatorisk",
-        "focus":null,
-        "prerequisites":"Grundl\u00e4ggande beh\u00f6righet och genomf\u00f6rd grundkurs, MT1101 Datorst\u00f6d inom Konstruktion 1 eller motsvarande.",
-        "teacher":"mzw",
-        "teacher_url":"https:\/\/www.bth.se\/?searchtype=employee&s=mzw",
-        "replacement":null,
-        "next_instance":"202504 (P0289)",
-        "syllabus_url":"https:\/\/edu.bth.se\/utbildning\/redirect.asp?KtAnmKod=BNGX3&KtTermin=20202&lang=sv",
-        "education_plan_url":"https:\/\/edu.bth.se\/utbildningsplaner\/MTGPU_HT-17.pdf"
+    "MT1440": {
+        "name": "Datorst\u00f6d inom Konstruktion 2",
+        "points": 7.0,
+        "semester": "H\u00f6sttermin 2020",
+        "start_week": 45,
+        "end_week": 2,
+        "period": 2,
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "Grundl\u00e4ggande beh\u00f6righet och genomf\u00f6rd grundkurs, MT1101 Datorst\u00f6d inom Konstruktion 1 eller motsvarande.",
+        "teacher": "mzw",
+        "replacement": null,
+        "next_instance": "202504 (P0289)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BNGX3&KtTermin=20202&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/MTGPU_HT-17.pdf",
+        "start_year": 2020,
+        "end_year": 2021,
+        "course_duration": 10,
+        "is_double": false
     },
-    {
-        "code":"MT1520",
-        "name":"Innovationsprojekt",
-        "points":7.0,
-        "semester":"V\u00e5rtermin 2021",
-        "start_week":202103,
-        "end_week":202112,
-        "period":3,
-        "type":"Obligatorisk",
-        "focus":null,
-        "prerequisites":"F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngna kurser Innovativ och H\u00e5llbar produktutveckling, 7,5 hp och Datorst\u00f6d inom Konstruktion 2, 7,5 hp.",
-        "teacher":"mzw",
-        "teacher_url":"https:\/\/www.bth.se\/?searchtype=employee&s=mzw",
-        "replacement":null,
-        "next_instance":"202445 (BG9CR)",
-        "syllabus_url":"https:\/\/edu.bth.se\/utbildning\/redirect.asp?KtAnmKod=BWPEJ&KtTermin=20211&lang=sv",
-        "education_plan_url":"https:\/\/edu.bth.se\/utbildningsplaner\/MTGPU_HT-17.pdf"
+    "MT1520": {
+        "name": "Innovationsprojekt",
+        "points": 7.0,
+        "semester": "V\u00e5rtermin 2021",
+        "start_week": 3,
+        "end_week": 12,
+        "period": 3,
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngna kurser Innovativ och H\u00e5llbar produktutveckling, 7,5 hp och Datorst\u00f6d inom Konstruktion 2, 7,5 hp.",
+        "teacher": "mzw",
+        "replacement": null,
+        "next_instance": "202445 (BG9CR)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BWPEJ&KtTermin=20211&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/MTGPU_HT-17.pdf",
+        "start_year": 2021,
+        "end_year": 2021,
+        "course_duration": 10,
+        "is_double": false
     },
-    {
-        "code":"MT1542",
-        "name":"Sj\u00e4lvst\u00e4ndigt arbete inom Produktutveckling",
-        "points":7.0,
-        "semester":"V\u00e5rtermin 2021",
-        "start_week":202113,
-        "end_week":202122,
-        "period":4,
-        "type":"Obligatorisk",
-        "focus":null,
-        "prerequisites":"F\u00f6r tilltr\u00e4de till kursen krav 90 hp avklarade fr\u00e5n en utbildning som ger h\u00f6gskoleexamen med inriktning mot maskinteknik.",
-        "teacher":"mzw",
-        "teacher_url":"https:\/\/www.bth.se\/?searchtype=employee&s=mzw",
-        "replacement":null,
-        "next_instance":"202436 (G5950)",
-        "syllabus_url":"https:\/\/edu.bth.se\/utbildning\/redirect.asp?KtAnmKod=B64LC&KtTermin=20211&lang=sv",
-        "education_plan_url":"https:\/\/edu.bth.se\/utbildningsplaner\/MTGPU_HT-17.pdf"
+    "MT1542": {
+        "name": "Sj\u00e4lvst\u00e4ndigt arbete inom Produktutveckling",
+        "points": 7.0,
+        "semester": "V\u00e5rtermin 2021",
+        "start_week": 13,
+        "end_week": 22,
+        "period": 4,
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen krav 90 hp avklarade fr\u00e5n en utbildning som ger h\u00f6gskoleexamen med inriktning mot maskinteknik.",
+        "teacher": "mzw",
+        "replacement": null,
+        "next_instance": "202436 (G5950)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=B64LC&KtTermin=20211&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/MTGPU_HT-17.pdf",
+        "start_year": 2021,
+        "end_year": 2021,
+        "course_duration": 10,
+        "is_double": false
+    },
+    "_groups": {
+        "2020": {
+            "1": [
+                "MT1442"
+            ],
+            "2": [
+                "MT1440"
+            ]
+        },
+        "2021": {
+            "3": [
+                "MT1520"
+            ],
+            "4": [
+                "MT1542"
+            ]
+        }
     }
-]
+}

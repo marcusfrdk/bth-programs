@@ -72,37 +72,82 @@ def get_program_code(url: str) -> str:
 
 def download_program(url: str) -> None:
     """ Downloads the program data """
-    code = get_program_code(url)
-    data = requests.get(url)
-    df = pd.read_excel(BytesIO(data.content))
+    try:
+        code = get_program_code(url)
+        data = requests.get(url)
+        df = pd.read_excel(BytesIO(data.content))
 
-    df = df.rename(columns={
-        "Kurskod": "code",
-        "Kurs": "name",
-        "Poäng": "points",
-        "Termin": "semester",
-        "Startvecka": "start_week",
-        "Slutvecka": "end_week",
-        "Läsperiod": "period",
-        "Typ": "type",
-        "Inriktning": "focus",
-        "Förkunskapskrav": "prerequisites",
-        "Kursansvarig": "teacher",
-        "Länk till kursansvarig": "teacher_url",
-        "Ersättande kurs": "replacement",
-        "Nästa kurstillfalle": "next_instance",
-        "Länk till kursplan": "syllabus_url",
-        "Länk till utbildningsplan": "education_plan_url",
-    })
-    
-    df["points"] = df["points"].str.extract(r"(\d+\.?\d*)").astype(float)
+        df = df.rename(columns={
+            "Kurskod": "code",
+            "Kurs": "name",
+            "Poäng": "points",
+            "Termin": "semester",
+            "Startvecka": "start_week",
+            "Slutvecka": "end_week",
+            "Läsperiod": "period",
+            "Typ": "type",
+            "Inriktning": "academic_focus",
+            "Förkunskapskrav": "prerequisites",
+            "Kursansvarig": "teacher",
+            "Länk till kursansvarig": "teacher_url",
+            "Ersättande kurs": "replacement",
+            "Nästa kurstillfalle": "next_instance",
+            "Länk till kursplan": "syllabus_url",
+            "Länk till utbildningsplan": "education_plan_url",
+        })
 
-    teacher_codes.update(df["teacher"].unique())
-    
-    file_path = os.path.join(DATA_PATH, f"{code}.json")
-    df.to_json(file_path, index=False, orient="records", indent=4)
-    print(f"Downloaded data for '{code}'")
+        df["code"] = df["code"].str.upper()        
+        df["points"] = df["points"].str.extract(r"(\d+\.?\d*)").astype(float)
 
+        # Reformat times
+        df["start_week"] = df["start_week"].astype(str)
+        df["end_week"] = df["end_week"].astype(str)
+
+        df[["start_year", "start_week"]] = df["start_week"].str.extract(r"(\d{4})(\d{2})")
+        df[["end_year", "end_week"]] = df["end_week"].str.extract(r"(\d{4})(\d{2})")
+        df[["start_year", "start_week", "end_year", "end_week"]] = df[["start_year", "start_week", "end_year", "end_week"]].astype(int)
+
+        df["course_duration"] = (df["end_year"] - df["start_year"]) * 52 + (df["end_week"] - df["start_week"]) + 1
+        df["is_double"] = df["course_duration"] > 10
+
+        teacher_codes.update(df["teacher"].unique())
+
+        # Remove
+        df = df.drop_duplicates(subset=["code"], keep="first")
+        df = df.drop(columns=["teacher_url"])
+
+        # Group courses by year and period for easier access
+        groups = {}
+        for _, row in df.iterrows():
+            year = str(row["start_year"])
+            
+            if year not in groups:
+                groups[year] = {}
+            if row["period"] not in groups[year]:
+                groups[year][row["period"]] = []
+            
+            groups[year][row["period"]].append(row["code"])
+
+        def replace_nan_with_none(obj):
+            if isinstance(obj, dict):
+                return {k: replace_nan_with_none(v) for k, v in obj.items()}
+            elif isinstance(obj, list):
+                return [replace_nan_with_none(elem) for elem in obj]
+            elif isinstance(obj, float) and np.isnan(obj):
+                return None
+            return obj
+
+        data = df.set_index("code").to_dict(orient="index")
+        data = replace_nan_with_none(data)
+        data["_groups"] = replace_nan_with_none(groups)
+
+        file_path = os.path.join(DATA_PATH, f"{code}.json")
+        with open(file_path, "w", encoding="utf-8") as f:
+            json.dump(data, f, indent=4, allow_nan=False)
+
+        print(f"Downloaded data for '{code}'")
+    except Exception as e:
+        print(f"Error downloading data for '{code}': {e}")
 
 def download_teacher(code: str) -> None:
     """ Fetches information about a teacher """
@@ -154,6 +199,8 @@ async def main() -> int:
     if os.path.exists(DATA_PATH) and not should_update:
         print("Data already exists. Use the -u flag to update.")
         return 0
+    
+    os.makedirs(DATA_PATH, exist_ok=True)
     
     # Get a list of urls
     html = await fetch(program_url)

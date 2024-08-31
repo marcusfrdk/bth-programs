@@ -1,74 +1,100 @@
-[
-    {
-        "code":"FM2602",
-        "name":"Introduktion till planering",
-        "points":15.0,
-        "semester":"H\u00f6sttermin 2018",
-        "start_week":201836,
-        "end_week":201844,
-        "period":1,
-        "type":"Obligatorisk",
-        "focus":null,
-        "prerequisites":"Grundl\u00e4ggande beh\u00f6righet (har en examen p\u00e5 grundniv\u00e5 som omfattar minst 180 h\u00f6gskolepo\u00e4ng) inom milj\u00f6vetenskap\/ekologi, lantm\u00e4teri, v\u00e4g och vattenbyggnad, trafikteknik, samh\u00e4llsplanering\/samh\u00e4llsbyggnad, landskapsingenj\u00f6r, bebyggelsev\u00e5rd, arkitektur, landskapsarkitektur, fysisk planering eller n\u00e4rliggande utbildningar. Engelska B\/Engelska 6",
-        "teacher":"jax",
-        "teacher_url":"https:\/\/www.bth.se\/?searchtype=employee&s=jax",
-        "replacement":null,
-        "next_instance":null,
-        "syllabus_url":"https:\/\/edu.bth.se\/utbildning\/redirect.asp?KtAnmKod=RK118&KtTermin=20182&lang=sv",
-        "education_plan_url":"https:\/\/edu.bth.se\/utbildningsplaner\/FMASG_HT-18.pdf"
+{
+    "FM2602": {
+        "name": "Introduktion till planering",
+        "points": 15.0,
+        "semester": "H\u00f6sttermin 2018",
+        "start_week": 36,
+        "end_week": 44,
+        "period": 1,
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "Grundl\u00e4ggande beh\u00f6righet (har en examen p\u00e5 grundniv\u00e5 som omfattar minst 180 h\u00f6gskolepo\u00e4ng) inom milj\u00f6vetenskap/ekologi, lantm\u00e4teri, v\u00e4g och vattenbyggnad, trafikteknik, samh\u00e4llsplanering/samh\u00e4llsbyggnad, landskapsingenj\u00f6r, bebyggelsev\u00e5rd, arkitektur, landskapsarkitektur, fysisk planering eller n\u00e4rliggande utbildningar. Engelska B/Engelska 6",
+        "teacher": "jax",
+        "replacement": null,
+        "next_instance": null,
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=RK118&KtTermin=20182&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/FMASG_HT-18.pdf",
+        "start_year": 2018,
+        "end_year": 2018,
+        "course_duration": 9,
+        "is_double": false
     },
-    {
-        "code":"FM2603",
-        "name":"Planeringens utmaningar",
-        "points":15.0,
-        "semester":"H\u00f6sttermin 2018",
-        "start_week":201845,
-        "end_week":201903,
-        "period":2,
-        "type":"Obligatorisk",
-        "focus":null,
-        "prerequisites":"Grundl\u00e4ggande beh\u00f6righet (har en examen p\u00e5 grundniv\u00e5 som omfattar minst 180 h\u00f6gskolepo\u00e4ng)inom milj\u00f6vetenskap\/ekologi, lantm\u00e4teri, v\u00e4g och vattenbyggnad, trafikteknik, samh\u00e4llsplanering\/samh\u00e4llsbyggnad, landskapsingenj\u00f6r, bebyggelsev\u00e5rd, arkitektur, landskapsarkitektur, fysisk planering eller n\u00e4rliggande utbildningar. Engelska B\/Engelska 6.",
-        "teacher":"jax",
-        "teacher_url":"https:\/\/www.bth.se\/?searchtype=employee&s=jax",
-        "replacement":null,
-        "next_instance":null,
-        "syllabus_url":"https:\/\/edu.bth.se\/utbildning\/redirect.asp?KtAnmKod=RK987&KtTermin=20182&lang=sv",
-        "education_plan_url":"https:\/\/edu.bth.se\/utbildningsplaner\/FMASG_HT-18.pdf"
+    "FM2603": {
+        "name": "Planeringens utmaningar",
+        "points": 15.0,
+        "semester": "H\u00f6sttermin 2018",
+        "start_week": 45,
+        "end_week": 3,
+        "period": 2,
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "Grundl\u00e4ggande beh\u00f6righet (har en examen p\u00e5 grundniv\u00e5 som omfattar minst 180 h\u00f6gskolepo\u00e4ng)inom milj\u00f6vetenskap/ekologi, lantm\u00e4teri, v\u00e4g och vattenbyggnad, trafikteknik, samh\u00e4llsplanering/samh\u00e4llsbyggnad, landskapsingenj\u00f6r, bebyggelsev\u00e5rd, arkitektur, landskapsarkitektur, fysisk planering eller n\u00e4rliggande utbildningar. Engelska B/Engelska 6.",
+        "teacher": "jax",
+        "replacement": null,
+        "next_instance": null,
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=RK987&KtTermin=20182&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/FMASG_HT-18.pdf",
+        "start_year": 2018,
+        "end_year": 2019,
+        "course_duration": 11,
+        "is_double": true
     },
-    {
-        "code":"FM2604",
-        "name":"Arbeta i ett multidisciplin\u00e4rt planeringsprojekt",
-        "points":15.0,
-        "semester":"V\u00e5rtermin 2019",
-        "start_week":201904,
-        "end_week":201913,
-        "period":3,
-        "type":"Obligatorisk",
-        "focus":null,
-        "prerequisites":"Deltagit i kurser motsvarande 30 hp inom magisterprogrammet i fysisk planering.",
-        "teacher":"jax",
-        "teacher_url":"https:\/\/www.bth.se\/?searchtype=employee&s=jax",
-        "replacement":null,
-        "next_instance":null,
-        "syllabus_url":"https:\/\/edu.bth.se\/utbildning\/redirect.asp?KtAnmKod=RQ655&KtTermin=20191&lang=sv",
-        "education_plan_url":"https:\/\/edu.bth.se\/utbildningsplaner\/FMASG_HT-18.pdf"
+    "FM2604": {
+        "name": "Arbeta i ett multidisciplin\u00e4rt planeringsprojekt",
+        "points": 15.0,
+        "semester": "V\u00e5rtermin 2019",
+        "start_week": 4,
+        "end_week": 13,
+        "period": 3,
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "Deltagit i kurser motsvarande 30 hp inom magisterprogrammet i fysisk planering.",
+        "teacher": "jax",
+        "replacement": null,
+        "next_instance": null,
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=RQ655&KtTermin=20191&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/FMASG_HT-18.pdf",
+        "start_year": 2019,
+        "end_year": 2019,
+        "course_duration": 10,
+        "is_double": false
     },
-    {
-        "code":"FM2605",
-        "name":"Magisterarbete",
-        "points":15.0,
-        "semester":"V\u00e5rtermin 2019",
-        "start_week":201914,
-        "end_week":201923,
-        "period":4,
-        "type":"Obligatorisk",
-        "focus":null,
-        "prerequisites":"Deltagit i kurser motsvarande 45 hp inom magisterprogrammet i fysisk planering.",
-        "teacher":"jax",
-        "teacher_url":"https:\/\/www.bth.se\/?searchtype=employee&s=jax",
-        "replacement":null,
-        "next_instance":null,
-        "syllabus_url":"https:\/\/edu.bth.se\/utbildning\/redirect.asp?KtAnmKod=RQ792&KtTermin=20191&lang=sv",
-        "education_plan_url":"https:\/\/edu.bth.se\/utbildningsplaner\/FMASG_HT-18.pdf"
+    "FM2605": {
+        "name": "Magisterarbete",
+        "points": 15.0,
+        "semester": "V\u00e5rtermin 2019",
+        "start_week": 14,
+        "end_week": 23,
+        "period": 4,
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "Deltagit i kurser motsvarande 45 hp inom magisterprogrammet i fysisk planering.",
+        "teacher": "jax",
+        "replacement": null,
+        "next_instance": null,
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=RQ792&KtTermin=20191&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/FMASG_HT-18.pdf",
+        "start_year": 2019,
+        "end_year": 2019,
+        "course_duration": 10,
+        "is_double": false
+    },
+    "_groups": {
+        "2018": {
+            "1": [
+                "FM2602"
+            ],
+            "2": [
+                "FM2603"
+            ]
+        },
+        "2019": {
+            "3": [
+                "FM2604"
+            ],
+            "4": [
+                "FM2605"
+            ]
+        }
     }
-]
+}
