@@ -21,7 +21,9 @@ export default function MenuCompare(){
         <Container>
             <h2>Compare</h2>
             <ul>
-                {comparedPrograms.map(program => {
+                {comparedPrograms.length === 0 ? 
+                <li className="empty">Nothing to compare</li>
+                : comparedPrograms.map(program => {
                     return (
                         <Added key={program.code + program.semester}>
                             <div>
@@ -78,6 +80,10 @@ const Container = styled.div`
         flex-direction: column;
         gap: 1rem;
         height: 100%;
+
+        & > li.empty {
+            color: var(--weak);
+        }
     }
 
 `;

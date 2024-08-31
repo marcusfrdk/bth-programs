@@ -28,7 +28,10 @@ export default function SelectInitialProgram(){
         <Container>
             <div>
                 <Logo/>
-                <h1>BTH Programs</h1>
+                <div>
+                    <h1>BTH Programs</h1>
+                    <p>Get an overview of your program's schedule.</p>
+                </div>
             </div>
             <Select>
                 <p>Select your program</p>
@@ -67,6 +70,10 @@ const Select = styled.div`
         pointer-events: none;
     }
 
+    & > p {
+        color: var(--weak);
+    }
+
     & > select {
         height: 100%;
         width: 100%;
@@ -101,8 +108,27 @@ const Container = styled.div`
 
         & > svg {
             fill: var(--strong);
-            height: 16rem;
-            width: 16rem;
+            height: 90vw;
+            width: 90vw;
+            max-width: 12rem;
+            max-height: 12rem;
+        }
+
+        & > div {
+            display: flex;
+            flex-direction: column;
+            gap: 0.25rem;
+            text-align: center;
+
+            & > h1 {
+                font-size: 1.5rem;
+                color: var(--strong);
+            }
+
+            & > p {
+                font-size: 1rem;
+                color: var(--weak);
+            }
         }
     }
 `;

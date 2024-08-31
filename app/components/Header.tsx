@@ -12,7 +12,7 @@ import {MdClose as MenuIconClose} from "react-icons/md";
 export default function Header(){
     const { selectedProgram } = useData();
     
-    const [isOpen, setIsOpen] = useState(true);
+    const [isOpen, setIsOpen] = useState(false);
 
     return (
         <Container className={isOpen ? "open" : ""}>
