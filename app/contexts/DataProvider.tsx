@@ -4,7 +4,7 @@ import splitProgram from "@/utils/splitProgram";
 import type { ReactNode } from "react";
 import { createContext, useState, useContext } from "react";
 
-type SelectedProgramType = {
+type ProgramType = {
     name: string;
     code: string;
     semester: string;
@@ -19,22 +19,29 @@ const defaultProgram = {
 type DataContextType = {
     names: Readonly<Record<string, string>>;
     data: Readonly<Record<string, string[]>>;
-    selectedProgram: SelectedProgramType;
+    selectedProgram: ProgramType;
+    comparedPrograms: ProgramType[];
     updateSelectedProgram: (program: string) => void;
+    addComparison: (program: string) => void,
+    removeComparison: (program: string) => void
 };
 
 type DataProviderProps = {
     children: ReactNode;
     names: Record<string, string>;
     data: Record<string, string[]>;
-    initialProgram: SelectedProgramType;
+    initialSelectedProgram: ProgramType;
+    initialComparedPrograms: ProgramType[];
 };
 
 export const DataContext = createContext<DataContextType>({
     names: {},
     data: {},
+    comparedPrograms: [],
     selectedProgram: defaultProgram,
     updateSelectedProgram: () => {},
+    addComparison: () => {},
+    removeComparison: () => {}
 });
 
 export function useData(){
@@ -45,10 +52,12 @@ export default function DataProvider({
     children,
     names,
     data,
-    initialProgram
+    initialSelectedProgram,
+    initialComparedPrograms
 }: DataProviderProps){
-    const [selectedProgram, setSelectedProgram] = useState<SelectedProgramType>(initialProgram);
-    
+    const [selectedProgram, setSelectedProgram] = useState<ProgramType>(initialSelectedProgram);
+    const [comparedPrograms, setComparedPrograms] = useState<ProgramType[]>(initialComparedPrograms);
+
     function updateSelectedProgram(program: string){
         const {code, semester} = splitProgram(program);
 
@@ -56,7 +65,7 @@ export default function DataProvider({
             return;
         }
 
-        const data: SelectedProgramType = {
+        const data: ProgramType = {
             name: names[code],
             code,
             semester
@@ -66,16 +75,89 @@ export default function DataProvider({
         document.cookie = `selectedProgram=${program}; SameSite=Strict; Path=/`;
     };
 
+    function addComparison(program: string){
+        const cookieValue = document.cookie.split(";").find(cookie => cookie.startsWith("comparedPrograms="))?.split("=")[1] || "";
+        const programs = cookieValue.split(",").filter(program => program !== "");
+        
+        const {code, semester} = splitProgram(program);
+
+        if(
+            !Object.keys(data).includes(code) || 
+            !data[code].includes(semester) ||
+            programs.includes(program)
+        ) return;
+
+        // Update cookie
+        programs.push(program);
+        document.cookie = `comparedPrograms=${programs.join(",")}; SameSite=Strict; Path=/`;
+
+        // Update state
+        setComparedPrograms(programs => {
+            const {code, semester} = splitProgram(program);
+
+            if(!names[code] || !data[code].includes(semester)){
+                return programs;
+            }
+
+            return [
+                ...programs,
+                {
+                    name: names[code],
+                    code,
+                    semester
+                }
+            ];
+        });
+    };
+
+    function removeComparison(program: string){
+        const cookieValue = document.cookie.split(";").find(cookie => cookie.startsWith("comparedPrograms="))?.split("=")[1] || "";
+        let programs = cookieValue.split(",").filter(program => program !== "");
+
+        // Update cookie
+        programs = programs.filter(p => p !== program);
+        document.cookie = `comparedPrograms=${programs.join(",")}; SameSite=Strict; Path=/`;
+
+        // Update state
+        setComparedPrograms(programs.map(program => {
+            const {code, semester} = splitProgram(program);
+
+            if(!names[code] || !data[code].includes(semester)){
+                return null;
+            }
+
+            return {
+                name: names[code],
+                code,
+                semester
+            };
+        }) as ProgramType[]);
+    }
+
     return (
         <DataContext.Provider value={{
             names,
             data,
             selectedProgram,
-            updateSelectedProgram
+            comparedPrograms,
+            updateSelectedProgram,
+            addComparison,
+            removeComparison
         }}>
             {children}
 
             <p>{JSON.stringify(selectedProgram)}</p>
+
+            <button onClick={() => addComparison("DVAMI21h")}>Add DVAMI21h</button>
+            <button onClick={() => addComparison("DVACC21h")}>Add DVACC21h</button>
+            
+            <button onClick={() => removeComparison("DVAMI21h")}>Remove DVAMI21h</button>
+            <button onClick={() => removeComparison("DVACC21h")}>Remove DVACC21h</button>
+
+            <p>Compared:</p>
+            {comparedPrograms.map(program => (
+                <p key={program.code + program.semester}>{program.name}</p>
+            ))}
         </DataContext.Provider>
     );
 }

@@ -3,7 +3,7 @@ import { cookies } from "next/headers";
 import DataProvider from "@/contexts/DataProvider";
 import App from "./App";
 import readFile from "@/utils/readFile";
-import { codeRegex, semesterRegex } from "@/utils/splitProgram";
+import splitProgram, { codeRegex, semesterRegex } from "@/utils/splitProgram";
 
 export default async function Home() {
   // Read list of programs
@@ -13,25 +13,47 @@ export default async function Home() {
 
   // Read cookies
   const cookieJar = cookies();
-  let selectedCode = cookieJar.get("selectedCode")?.value || "";
-  let selectedSemester = cookieJar.get("selectedSemester")?.value || "";
+  const selectedCodeCookie = cookieJar.get("selectedCode")?.value || "";
+  const selectedSemesterCookie = cookieJar.get("selectedSemester")?.value || "";
+  const comparedProgramsCookie = cookieJar.get("comparedPrograms")?.value || "";
+
+  let selectedCode = selectedCodeCookie;
+  let selectedSemester = selectedSemesterCookie;
+  let comparedPrograms = [];
 
   // Set program code
-  if(!codeRegex.test(selectedCode) || !names.includes(selectedCode)){
+  if(!codeRegex.test(selectedCodeCookie) || !names.includes(selectedCodeCookie)){
     selectedCode = programs[0];
   };
 
   // Set program semester
-  if(!semesterRegex.test(selectedSemester) || !index[selectedCode].includes(selectedSemester)){
+  if(
+    !semesterRegex.test(selectedSemesterCookie) || 
+    !index[selectedCode].includes(selectedSemesterCookie)
+  ){
     selectedSemester = index[selectedCode].sort()[0];
   }
 
+  // Get programs to compare with selected
+  comparedPrograms = comparedProgramsCookie.split(",").filter(program => {
+    const { code, semester } = splitProgram(program);
+    return codeRegex.test(code) && semesterRegex.test(semester) && programs.includes(code) && index[code].includes(semester);
+  }).map((program) => {
+    const { code, semester } = splitProgram(program);
+    return { name: names[code], code, semester };
+  });
+
   return (
-    <DataProvider names={names} data={index} initialProgram={{
-      name: names[selectedCode],
-      code: selectedCode,
-      semester: selectedSemester
-    }}>
+    <DataProvider 
+      names={names} 
+      data={index} 
+      initialComparedPrograms={comparedPrograms}
+      initialSelectedProgram={{
+        name: names[selectedCode],
+        code: selectedCode,
+        semester: selectedSemester
+      }}
+    >
       <App/>
     </DataProvider>
   );
