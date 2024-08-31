@@ -2,7 +2,7 @@
 
 import splitProgram from "@/utils/splitProgram";
 import type { ReactNode } from "react";
-import { createContext, useState, useContext } from "react";
+import { createContext, useState, useContext, useCallback } from "react";
 
 type ProgramType = {
     name: string;
@@ -10,16 +10,10 @@ type ProgramType = {
     semester: string;
 };
 
-const defaultProgram = {
-    name: "Civilingenjör i AI och Maskininlärning",
-    code: "DVAMI",
-    semester: "21h",
-};
-
 type DataContextType = {
     names: Readonly<Record<string, string>>;
     data: Readonly<Record<string, string[]>>;
-    selectedProgram: ProgramType;
+    selectedProgram: ProgramType | null;
     comparedPrograms: ProgramType[];
     updateSelectedProgram: (program: string) => void;
     addComparison: (program: string) => void,
@@ -30,7 +24,7 @@ type DataProviderProps = {
     children: ReactNode;
     names: Record<string, string>;
     data: Record<string, string[]>;
-    initialSelectedProgram: ProgramType;
+    initialSelectedProgram: ProgramType | null;
     initialComparedPrograms: ProgramType[];
 };
 
@@ -38,7 +32,7 @@ export const DataContext = createContext<DataContextType>({
     names: {},
     data: {},
     comparedPrograms: [],
-    selectedProgram: defaultProgram,
+    selectedProgram: null,
     updateSelectedProgram: () => {},
     addComparison: () => {},
     removeComparison: () => {}
@@ -55,13 +49,13 @@ export default function DataProvider({
     initialSelectedProgram,
     initialComparedPrograms
 }: DataProviderProps){
-    const [selectedProgram, setSelectedProgram] = useState<ProgramType>(initialSelectedProgram);
+    const [selectedProgram, setSelectedProgram] = useState<ProgramType | null>(initialSelectedProgram);
     const [comparedPrograms, setComparedPrograms] = useState<ProgramType[]>(initialComparedPrograms);
 
     function updateSelectedProgram(program: string){
         const {code, semester} = splitProgram(program);
 
-        if(!names[code] || Object.keys(names).includes(code)){
+        if(!Object.keys(names).includes(code)){
             return;
         }
 
@@ -72,66 +66,35 @@ export default function DataProvider({
         };
 
         setSelectedProgram(data);
-        document.cookie = `selectedProgram=${program}; SameSite=Strict; Path=/`;
+        setComparedPrograms(programs => programs.filter(f => f.code !== data.code && f.semester !== data.semester));
+        document.cookie = `selectedCode=${code}; SameSite=Strict; Path=/`;
+        document.cookie = `selectedSemester=${semester}; SameSite=Strict; Path=/`;
     };
 
-    function addComparison(program: string){
-        const cookieValue = document.cookie.split(";").find(cookie => cookie.startsWith("comparedPrograms="))?.split("=")[1] || "";
-        const programs = cookieValue.split(",").filter(program => program !== "");
-        
-        const {code, semester} = splitProgram(program);
-
-        if(
-            !Object.keys(data).includes(code) || 
-            !data[code].includes(semester) ||
-            programs.includes(program)
-        ) return;
-
-        // Update cookie
-        programs.push(program);
+    const addComparison = useCallback((program: string) => {
+        const programs = [...comparedPrograms.map(cp => cp.code + cp.semester), program];
         document.cookie = `comparedPrograms=${programs.join(",")}; SameSite=Strict; Path=/`;
-
-        // Update state
-        setComparedPrograms(programs => {
-            const {code, semester} = splitProgram(program);
-
-            if(!names[code] || !data[code].includes(semester)){
-                return programs;
-            }
-
-            return [
-                ...programs,
-                {
-                    name: names[code],
-                    code,
-                    semester
-                }
-            ];
-        });
-    };
-
-    function removeComparison(program: string){
-        const cookieValue = document.cookie.split(";").find(cookie => cookie.startsWith("comparedPrograms="))?.split("=")[1] || "";
-        let programs = cookieValue.split(",").filter(program => program !== "");
-
-        // Update cookie
-        programs = programs.filter(p => p !== program);
-        document.cookie = `comparedPrograms=${programs.join(",")}; SameSite=Strict; Path=/`;
-
-        // Update state
         setComparedPrograms(programs.map(program => {
             const {code, semester} = splitProgram(program);
-
-            if(!names[code] || !data[code].includes(semester)){
-                return null;
+            return {
+                name: names[code],
+                code,
+                semester
             }
+        }));
+    }, [comparedPrograms, names]);
 
+    function removeComparison(program: string){
+        const programs = comparedPrograms.filter(cp => cp.code + cp.semester !== program).map(cp => cp.code + cp.semester);
+        document.cookie = `comparedPrograms=${programs.join(",")}; SameSite=Strict; Path=/`;
+        setComparedPrograms(programs.map(program => {
+            const {code, semester} = splitProgram(program);
             return {
                 name: names[code],
                 code,
                 semester
             };
-        }) as ProgramType[]);
+        }));
     }
 
     return (

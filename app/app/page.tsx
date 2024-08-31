@@ -9,30 +9,36 @@ export default async function Home() {
   // Read list of programs
   const index = await readFile("index");
   const names = await readFile("names");
-  const programs = Array.from(new Set(Object.keys(index)).intersection(new Set(Object.keys(names))));
+  const programs = Array.from(new Set(Object.keys(index)).intersection(new Set(Object.keys(names)))); 
 
   // Read cookies
   const cookieJar = cookies();
   const selectedCodeCookie = cookieJar.get("selectedCode")?.value || "";
   const selectedSemesterCookie = cookieJar.get("selectedSemester")?.value || "";
   const comparedProgramsCookie = cookieJar.get("comparedPrograms")?.value || "";
+  let hasSelectedProgram = selectedCodeCookie !== "" && selectedSemesterCookie !== "";
 
   let selectedCode = selectedCodeCookie;
   let selectedSemester = selectedSemesterCookie;
   let comparedPrograms = [];
 
-  // Set program code
-  if(!codeRegex.test(selectedCodeCookie) || !names.includes(selectedCodeCookie)){
-    selectedCode = programs[0];
-  };
-
-  // Set program semester
-  if(
-    !semesterRegex.test(selectedSemesterCookie) || 
-    !index[selectedCode].includes(selectedSemesterCookie)
-  ){
-    selectedSemester = index[selectedCode].sort()[0];
+  if(hasSelectedProgram){
+    // Set program code
+    if(!codeRegex.test(selectedCodeCookie) || !Object.keys(names).includes(selectedCodeCookie)){
+      // selectedCode = programs[0];
+      hasSelectedProgram = false;
+    };
+    
+    // Set program semester
+    if(
+      !semesterRegex.test(selectedSemesterCookie) || 
+      !index[selectedCode].includes(selectedSemesterCookie)
+    ){
+      hasSelectedProgram = false;
+      // selectedSemester = index[selectedCode].sort()[0];
+    };
   }
+
 
   // Get programs to compare with selected
   comparedPrograms = comparedProgramsCookie.split(",").filter(program => {
@@ -48,11 +54,11 @@ export default async function Home() {
       names={names} 
       data={index} 
       initialComparedPrograms={comparedPrograms}
-      initialSelectedProgram={{
+      initialSelectedProgram={hasSelectedProgram ? {
         name: names[selectedCode],
         code: selectedCode,
         semester: selectedSemester
-      }}
+      } : null}
     >
       <App/>
     </DataProvider>

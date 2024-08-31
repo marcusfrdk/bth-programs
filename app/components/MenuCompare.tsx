@@ -19,22 +19,25 @@ export default function MenuCompare(){
 
     return (
         <Container>
-            {comparedPrograms.map(program => {
-                return (
-                    <Added key={program.code + program.semester}>
-                        <div>
-                            <p className="ellipsis">{program.code + program.semester}</p>
-                            <p className="ellipsis">{program.name}</p>
-                        </div>
-                        <button onClick={() => removeComparison(program.code + program.semester)}>
-                            <RemoveIcon size="60%" fill="var(--weak)" />
-                        </button>
-                    </Added>
-                );
-            })}
+            <h2>Compare</h2>
+            <ul>
+                {comparedPrograms.map(program => {
+                    return (
+                        <Added key={program.code + program.semester}>
+                            <div>
+                                <p className="ellipsis">{program.code + program.semester}</p>
+                                <p className="ellipsis">{program.name}</p>
+                            </div>
+                            <button onClick={() => removeComparison(program.code + program.semester)}>
+                                <RemoveIcon size="60%" fill="var(--weak)" />
+                            </button>
+                        </Added>
+                    );
+                })}
+            </ul>
 
             <New>
-                <p>Add comparison</p>
+                <p>Choose program</p>
                 <div>
                     <AddIcon size="1.5rem" fill="var(--muted)" />
                 </div>
@@ -42,7 +45,7 @@ export default function MenuCompare(){
                     {Object.entries(data).sort().map(([code, semesters]) => {
                         return (
                             <optgroup key={code} label={code}>
-                                {semesters.map(semester => {
+                                {semesters.sort().map(semester => {
                                     const isDisabled = disabledSelections.includes(code + semester);
 
                                     return (
@@ -60,11 +63,23 @@ export default function MenuCompare(){
     );
 }
 
-const Container = styled.ul`
+const Container = styled.div`
     display: flex;
     flex-direction: column;
     gap: 1rem;
-    list-style: none;
+    height: 100%;
+    position: relative;
+    overflow-y: auto;
+
+    & > ul {
+        list-style: none;
+        overflow-y: auto;
+        display: flex;
+        flex-direction: column;
+        gap: 1rem;
+        height: 100%;
+    }
+
 `;
 
 const Added = styled.li`
@@ -100,6 +115,8 @@ const Added = styled.li`
     & > button {
         height: 2.5rem;
         width: 2.5rem;
+        min-height: 2.5rem;
+        min-width: 2.5rem;
         font-size: 3rem;
         display: flex;
         align-items: center;
@@ -107,7 +124,6 @@ const Added = styled.li`
         background-color: var(--neutral-3);
         border-radius: 50%;
         border: none;
-        transition: background-color 32ms ease-in-out;
         cursor: pointer;
 
         @media screen and (hover: hover) {
@@ -119,24 +135,28 @@ const Added = styled.li`
 `;
 
 const New = styled.div`
-    padding: 1rem;
+    padding: 0.5rem 1rem;
     width: 100%;
     background-color: var(--neutral-2);
-    border-radius: 0.5rem;
+    border-radius: 0.25rem;
     cursor: pointer;
     position: relative;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    transition: background-color 64ms ease-in-out;
+
+    & > *:not(select) {
+        pointer-events: none;
+    }
 
     & > p {
         color: var(--weak);
+        font-size: 1rem;
     }
 
     & > div {
-        height: 2.5rem;
-        width: 2.5rem;
+        min-height: 2.5rem;
+        min-width: 2.5rem;
         display: flex;
         align-items: center;
         justify-content: center;
@@ -145,7 +165,6 @@ const New = styled.div`
     & > select {
         opacity: 0;
         border: none;
-        background-color: red;
         height: 100%;
         width: 100%;
         top: 0;

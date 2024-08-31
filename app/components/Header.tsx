@@ -12,13 +12,16 @@ import {MdClose as MenuIconClose} from "react-icons/md";
 export default function Header(){
     const { selectedProgram } = useData();
     
-    const [isOpen, setIsOpen] = useState(false);
+    const [isOpen, setIsOpen] = useState(true);
 
     return (
         <Container className={isOpen ? "open" : ""}>
             <Link href="/" onClick={() => setIsOpen(false)}>
                 <Image src="/bth-logo-40.png" height={40} width={40} alt="BTH Logo" />
-                <h1>{selectedProgram.name}</h1>
+                <div className="ellipsis">
+                    <h1 className="ellipsis">{selectedProgram?.name}</h1>
+                    <p className="ellipsis">{(selectedProgram?.code || "") + (selectedProgram?.semester || "")}</p>
+                </div>
             </Link>
             <button onClick={() => setIsOpen(v => !v)}>
                 {isOpen ? <MenuIconClose size="75%" /> : <MenuIconOpen size="60%" />}
@@ -40,7 +43,6 @@ const Container = styled.header`
     padding: 0 1rem;
     gap: 1rem;
     background-color: var(--neutral-0);
-    transition: background-color 512ms ease-in-out;
 
     &.open {
         background-color: var(--neutral-1);
@@ -59,19 +61,18 @@ const Container = styled.header`
             width: 2.5rem;
         }
         
-        & > h1 {
-            font-size: 1.125rem;
-            width: 100%;
-            overflow: hidden;
-            text-overflow: ellipsis;
-            white-space: nowrap;
-        }
+        & > div {
+            display: flex;
+            flex-direction: column;
+            gap: 0.125rem;
 
-        @media screen and (hover: hover) {
-            &:hover {
-                & > h1 {
-                    text-decoration: underline;
-                }
+            & > h1 {
+                font-size: 1.125rem;
+            }
+
+            & > p {
+                font-size: 0.875rem;
+                color: var(--weak);
             }
         }
     }
@@ -86,13 +87,21 @@ const Container = styled.header`
         align-items: center;
         background: none;
         border: none;
-        transition: background-color 64ms ease-in-out;
         cursor: pointer;
         border-radius: 0.25rem;
 
-        @media screen and (hover: hover){
+    }
+
+    @media screen and (hover: hover){
+        & > button {
             &:hover {
                 background-color: var(--neutral-1);
+            }
+        }
+
+        &.open > button {
+            &:hover {
+                background-color: var(--neutral-2);
             }
         }
     }
