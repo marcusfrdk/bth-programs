@@ -1,1 +1,56 @@
-{"Kurskod":{"0":"OM2536","1":"OM2537","2":"OM2538"},"Kurs":{"0":"Specialistsjuksk\u00f6terskans profession och vetenskapliga f\u00f6rh\u00e5llningss\u00e4tt inom psykiatrisk v\u00e5rd","1":"Specifik omv\u00e5rdnad inom psykiatrisk v\u00e5rd","2":"Examensarbete i omv\u00e5rdnad med inriktning mot psykiatrisk v\u00e5rd"},"Po\u00e4ng":{"0":"30 HP","1":"15 HP","2":"15 HP"},"Termin":{"0":"H\u00f6sttermin 2022","1":"H\u00f6sttermin 2023","2":"V\u00e5rtermin 2024"},"Startvecka":{"0":202235,"1":202335,"2":202403},"Slutvecka":{"0":202322,"1":202402,"2":202422},"L\u00e4speriod":{"0":1,"1":1,"2":3},"Typ":{"0":"Obligatorisk","1":"Obligatorisk","2":"Obligatorisk"},"Inriktning":{"0":null,"1":null,"2":null},"F\u00f6rkunskapskrav":{"0":"Sjuksk\u00f6terskeexamen och kandidatexamen i omv\u00e5rdnad\/v\u00e5rdvetenskap.\nSvensk legitimation som sjuksk\u00f6terska. \nYrkeserfarenhet som sjuksk\u00f6terska motsvarande 6 m\u00e5naders heltidstj\u00e4nstg\u00f6ring.","1":"Sjuksk\u00f6terskeexamen och kandidatexamen i omv\u00e5rdnad\/v\u00e5rdvetenskap.\nSvensk legitimation som sjuksk\u00f6terska. \nYrkeserfarenhet som sjuksk\u00f6terska motsvarande 6 m\u00e5naders heltidstj\u00e4nstg\u00f6ring. D\u00e4rut\u00f6ver kr\u00e4vs minst 15 hp p\u00e5 niv\u00e5 A1N inom omv\u00e5rdnad.","2":"F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarad kurs Specialistsjuksk\u00f6terskans profession och vetenskapliga f\u00f6rh\u00e5llningss\u00e4tt inom psykiatrisk v\u00e5rd, 30 hp."},"Kursansvarig":{"0":"sfk","1":"sfk","2":"jbb"},"L\u00e4nk till kursansvarig":{"0":"https:\/\/www.bth.se\/?searchtype=employee&s=sfk","1":"https:\/\/www.bth.se\/?searchtype=employee&s=sfk","2":"https:\/\/www.bth.se\/?searchtype=employee&s=jbb"},"Ers\u00e4ttande kurs":{"0":null,"1":null,"2":null},"N\u00e4sta kurstillfalle":{"0":null,"1":null,"2":null},"L\u00e4nk till kursplan":{"0":"https:\/\/edu.bth.se\/utbildning\/redirect.asp?KtAnmKod=BY67U&KtTermin=20222&lang=sv","1":"https:\/\/edu.bth.se\/utbildning\/redirect.asp?KtAnmKod=BT3PM&KtTermin=20232&lang=sv","2":"https:\/\/edu.bth.se\/utbildning\/redirect.asp?KtAnmKod=BFYLX&KtTermin=20241&lang=sv"},"L\u00e4nk till utbildningsplan":{"0":"https:\/\/edu.bth.se\/utbildningsplaner\/OMAPV_HT-22.pdf","1":"https:\/\/edu.bth.se\/utbildningsplaner\/OMAPV_HT-22.pdf","2":"https:\/\/edu.bth.se\/utbildningsplaner\/OMAPV_HT-22.pdf"}}
+[
+    {
+        "code":"OM2536",
+        "name":"Specialistsjuksk\u00f6terskans profession och vetenskapliga f\u00f6rh\u00e5llningss\u00e4tt inom psykiatrisk v\u00e5rd",
+        "points":30.0,
+        "semester":"H\u00f6sttermin 2022",
+        "start_week":202235,
+        "end_week":202322,
+        "period":1,
+        "type":"Obligatorisk",
+        "focus":null,
+        "prerequisites":"Sjuksk\u00f6terskeexamen och kandidatexamen i omv\u00e5rdnad\/v\u00e5rdvetenskap.\nSvensk legitimation som sjuksk\u00f6terska. \nYrkeserfarenhet som sjuksk\u00f6terska motsvarande 6 m\u00e5naders heltidstj\u00e4nstg\u00f6ring.",
+        "teacher":"sfk",
+        "teacher_url":"https:\/\/www.bth.se\/?searchtype=employee&s=sfk",
+        "replacement":null,
+        "next_instance":null,
+        "syllabus_url":"https:\/\/edu.bth.se\/utbildning\/redirect.asp?KtAnmKod=BY67U&KtTermin=20222&lang=sv",
+        "education_plan_url":"https:\/\/edu.bth.se\/utbildningsplaner\/OMAPV_HT-22.pdf"
+    },
+    {
+        "code":"OM2537",
+        "name":"Specifik omv\u00e5rdnad inom psykiatrisk v\u00e5rd",
+        "points":15.0,
+        "semester":"H\u00f6sttermin 2023",
+        "start_week":202335,
+        "end_week":202402,
+        "period":1,
+        "type":"Obligatorisk",
+        "focus":null,
+        "prerequisites":"Sjuksk\u00f6terskeexamen och kandidatexamen i omv\u00e5rdnad\/v\u00e5rdvetenskap.\nSvensk legitimation som sjuksk\u00f6terska. \nYrkeserfarenhet som sjuksk\u00f6terska motsvarande 6 m\u00e5naders heltidstj\u00e4nstg\u00f6ring. D\u00e4rut\u00f6ver kr\u00e4vs minst 15 hp p\u00e5 niv\u00e5 A1N inom omv\u00e5rdnad.",
+        "teacher":"sfk",
+        "teacher_url":"https:\/\/www.bth.se\/?searchtype=employee&s=sfk",
+        "replacement":null,
+        "next_instance":null,
+        "syllabus_url":"https:\/\/edu.bth.se\/utbildning\/redirect.asp?KtAnmKod=BT3PM&KtTermin=20232&lang=sv",
+        "education_plan_url":"https:\/\/edu.bth.se\/utbildningsplaner\/OMAPV_HT-22.pdf"
+    },
+    {
+        "code":"OM2538",
+        "name":"Examensarbete i omv\u00e5rdnad med inriktning mot psykiatrisk v\u00e5rd",
+        "points":15.0,
+        "semester":"V\u00e5rtermin 2024",
+        "start_week":202403,
+        "end_week":202422,
+        "period":3,
+        "type":"Obligatorisk",
+        "focus":null,
+        "prerequisites":"F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarad kurs Specialistsjuksk\u00f6terskans profession och vetenskapliga f\u00f6rh\u00e5llningss\u00e4tt inom psykiatrisk v\u00e5rd, 30 hp.",
+        "teacher":"jbb",
+        "teacher_url":"https:\/\/www.bth.se\/?searchtype=employee&s=jbb",
+        "replacement":null,
+        "next_instance":null,
+        "syllabus_url":"https:\/\/edu.bth.se\/utbildning\/redirect.asp?KtAnmKod=BFYLX&KtTermin=20241&lang=sv",
+        "education_plan_url":"https:\/\/edu.bth.se\/utbildningsplaner\/OMAPV_HT-22.pdf"
+    }
+]

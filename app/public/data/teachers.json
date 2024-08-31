@@ -1,0 +1,1676 @@
+[
+    {
+        "code":"lpx",
+        "name":"Lena Prinselaar",
+        "email":"lena.prinselaar@bth.se",
+        "phone":"0455-385538",
+        "room":"j3403",
+        "unit":"institutionen f\u00f6r maskinteknik",
+        "location":"karlskrona"
+    },
+    {
+        "code":"mbh",
+        "name":"Maryna Brychko",
+        "email":"maryna.brychko@bth.se",
+        "phone":"0455-385636",
+        "room":"j2418",
+        "unit":"institutionen f\u00f6r industriell ekonomi",
+        "location":"karlskrona"
+    },
+    {
+        "code":"lmt",
+        "name":"Linda Mattsson",
+        "email":"linda.mattsson@bth.se",
+        "phone":"0455-385456",
+        "room":"j3616",
+        "unit":"institutionen f\u00f6r matematik och naturvetenskap",
+        "location":"karlskrona"
+    },
+    {
+        "code":"wpa",
+        "name":"Wen Pan Fagerlin",
+        "email":"wen.pan.fagerlin@bth.se",
+        "phone":"0455-385618",
+        "room":"j2227",
+        "unit":"institutionen f\u00f6r industriell ekonomi",
+        "location":"karlskrona"
+    },
+    {
+        "code":"jch",
+        "name":"Johan Richter",
+        "email":"johan.richter@bth.se",
+        "phone":"0455-385545",
+        "room":"j3544",
+        "unit":"institutionen f\u00f6r matematik och naturvetenskap",
+        "location":"karlskrona"
+    },
+    {
+        "code":"mzw",
+        "name":"Markus Wejletorp",
+        "email":"markus.wejletorp@bth.se",
+        "phone":"0455-385566",
+        "room":"j3424",
+        "unit":"institutionen f\u00f6r maskinteknik",
+        "location":"karlskrona"
+    },
+    {
+        "code":"hqm",
+        "name":"Hanne M\u00e5nsson",
+        "email":"hanne.mansson@bth.se",
+        "phone":"0455-385572",
+        "room":"j3614",
+        "unit":"institutionen f\u00f6r matematik och naturvetenskap",
+        "location":"karlskrona"
+    },
+    {
+        "code":"cjh",
+        "name":"Conny Johansson",
+        "email":"conny.johansson@bth.se",
+        "phone":"0455-385824",
+        "room":"j2329",
+        "unit":"institutionen f\u00f6r programvaruteknik",
+        "location":"karlskrona"
+    },
+    {
+        "code":"gbr",
+        "name":"G\u00f6ran Broman",
+        "email":"goran.broman@bth.se",
+        "phone":"0455-385504",
+        "room":"h410a",
+        "unit":"institutionen f\u00f6r strategisk h\u00e5llbar utveckling",
+        "location":"karlskrona"
+    },
+    {
+        "code":"mew",
+        "name":"Majed Elwardy",
+        "email":"majed.elwardy@bth.se",
+        "phone":"0455-385801",
+        "room":"j3216",
+        "unit":"institutionen f\u00f6r datavetenskap",
+        "location":"karlskrona"
+    },
+    {
+        "code":"atb",
+        "name":"Anton Borg",
+        "email":"anton.borg@bth.se",
+        "phone":"0455-385854",
+        "room":"j3117",
+        "unit":"institutionen f\u00f6r datavetenskap",
+        "location":"karlskrona"
+    },
+    {
+        "code":"jsz",
+        "name":"Jenny Svensson",
+        "email":"jenny.svensson@bth.se",
+        "phone":"0455-385423",
+        "room":"h5101b",
+        "unit":"institutionen f\u00f6r h\u00e4lsa",
+        "location":"karlskrona"
+    },
+    {
+        "code":"jsg",
+        "name":"Jonas Svegland",
+        "email":"jonas.svegland@bth.se",
+        "phone":"0454-385929",
+        "room":"3-330",
+        "unit":"institutionen f\u00f6r teknik och estetik",
+        "location":"karlshamn"
+    },
+    {
+        "code":"wco",
+        "name":"William Cockayne",
+        "email":"william.cockayne@bth.se",
+        "phone":null,
+        "room":"j3415",
+        "unit":"institutionen f\u00f6r maskinteknik",
+        "location":"karlskrona"
+    },
+    {
+        "code":"tal",
+        "name":"Therese Aldinge",
+        "email":"therese.aldinge@bth.se",
+        "phone":"0455-385323",
+        "room":"c409",
+        "unit":"institutionen f\u00f6r fysisk planering",
+        "location":"karlskrona"
+    },
+    {
+        "code":"lhe",
+        "name":"Lawrence Henesey",
+        "email":"larry.henesey@bth.se",
+        "phone":"0454-385902",
+        "room":"k:hamn 3-308 k:na j3618",
+        "unit":"institutionen f\u00f6r datavetenskap",
+        "location":"karlshamn"
+    },
+    {
+        "code":"jax",
+        "name":"Jimmie Anders\u00e9n",
+        "email":"jimmie.andersen@bth.se",
+        "phone":"0455-385326",
+        "room":"c425b",
+        "unit":"institutionen f\u00f6r fysisk planering",
+        "location":"karlskrona"
+    },
+    {
+        "code":"vji",
+        "name":"Viroj Jienwatcharamongkhol",
+        "email":"viroj.jienwatcharamongkhol@bth.se",
+        "phone":"0455-385603",
+        "room":"j2403",
+        "unit":"institutionen f\u00f6r industriell ekonomi",
+        "location":"karlskrona"
+    },
+    {
+        "code":"joo",
+        "name":"Johan Hjortsberg",
+        "email":"johan.hjortsberg@bth.se",
+        "phone":"0455-385763",
+        "room":"j3614",
+        "unit":"institutionen f\u00f6r matematik och naturvetenskap",
+        "location":"karlskrona"
+    },
+    {
+        "code":"ndz",
+        "name":"Nina Dzamashvili Fogelstr\u00f6m",
+        "email":"nina.dzamashvili.fogelstrom@bth.se",
+        "phone":"0455-385865",
+        "room":"j2338",
+        "unit":"institutionen f\u00f6r programvaruteknik",
+        "location":"karlskrona"
+    },
+    {
+        "code":null,
+        "name":"Nan Huang",
+        "email":"nan.huang@bth.se",
+        "phone":"0455-385864",
+        "room":"j3331",
+        "unit":"institutionen f\u00f6r datavetenskap",
+        "location":"karlskrona"
+    },
+    {
+        "code":"lwo",
+        "name":"Lisa W\u00e4litalo",
+        "email":"lisa.walitalo@bth.se",
+        "phone":"0455-385534",
+        "room":"h453c",
+        "unit":"institutionen f\u00f6r strategisk h\u00e5llbar utveckling",
+        "location":"karlskrona"
+    },
+    {
+        "code":"fst",
+        "name":"Filippa Stenberg",
+        "email":"filippa.stenberg@bth.se",
+        "phone":"0455-385463",
+        "room":"h585b",
+        "unit":"institutionen f\u00f6r h\u00e4lsa",
+        "location":"karlskrona"
+    },
+    {
+        "code":"jeo",
+        "name":"Jesper Eriksson",
+        "email":"jesper.eriksson@bth.se",
+        "phone":null,
+        "room":"j3318",
+        "unit":"institutionen f\u00f6r datavetenskap",
+        "location":"karlskrona"
+    },
+    {
+        "code":"efo",
+        "name":"Emil Folino",
+        "email":"emil.folino@bth.se",
+        "phone":"0455-385732",
+        "room":"j3340",
+        "unit":"institutionen f\u00f6r datavetenskap",
+        "location":"karlskrona"
+    },
+    {
+        "code":"ctt",
+        "name":"Cecilia Bratt",
+        "email":"cecilia.bratt@bth.se",
+        "phone":"0455-385523",
+        "room":"h416b",
+        "unit":"institutionen f\u00f6r strategisk h\u00e5llbar utveckling",
+        "location":"karlskrona"
+    },
+    {
+        "code":"nmo",
+        "name":"Nurul Momen",
+        "email":"nurul.momen@bth.se",
+        "phone":"0455-385858",
+        "room":"j3128",
+        "unit":"institutionen f\u00f6r datavetenskap",
+        "location":"karlskrona"
+    },
+    {
+        "code":"ktt",
+        "name":"Kurt Tutschku",
+        "email":"kurt.tutschku@bth.se",
+        "phone":"0455-385872",
+        "room":"j3213",
+        "unit":"institutionen f\u00f6r datavetenskap",
+        "location":"karlskrona"
+    },
+    {
+        "code":"nal",
+        "name":"Nauman Ali",
+        "email":"nauman.ali@bth.se",
+        "phone":"0455-385541",
+        "room":"j2336",
+        "unit":"institutionen f\u00f6r programvaruteknik",
+        "location":"karlskrona"
+    },
+    {
+        "code":"hjz",
+        "name":"Hans-J\u00fcrgen Zepernick",
+        "email":"hans-jurgen.zepernick@bth.se",
+        "phone":"0455-385718",
+        "room":"j3222",
+        "unit":"institutionen f\u00f6r datavetenskap",
+        "location":"karlskrona"
+    },
+    {
+        "code":"vgr",
+        "name":"Valeria Garro",
+        "email":"valeria.garro@bth.se",
+        "phone":"0455-385807",
+        "room":"j3219",
+        "unit":"institutionen f\u00f6r datavetenskap",
+        "location":"karlskrona"
+    },
+    {
+        "code":"meo",
+        "name":"Mattias Eriksson",
+        "email":"mattias.eriksson@bth.se",
+        "phone":"0455-385705",
+        "room":"j3613",
+        "unit":"institutionen f\u00f6r matematik och naturvetenskap",
+        "location":"karlskrona"
+    },
+    {
+        "code":"xtp",
+        "name":"Tomas Petersson",
+        "email":"tomas.petersson@bth.se",
+        "phone":"0455-385561",
+        "room":"j3337",
+        "unit":"institutionen f\u00f6r matematik och naturvetenskap",
+        "location":"karlskrona"
+    },
+    {
+        "code":"bbe",
+        "name":"Betty Bergqvist",
+        "email":"betty.bergqvist@bth.se",
+        "phone":"0455-385827",
+        "room":"j3217",
+        "unit":"institutionen f\u00f6r datavetenskap",
+        "location":"karlskrona"
+    },
+    {
+        "code":"yiv",
+        "name":"Yevhen Ivanenko",
+        "email":"yevhen.ivanenko@bth.se",
+        "phone":"0455-385596",
+        "room":"j3549",
+        "unit":"institutionen f\u00f6r matematik och naturvetenskap",
+        "location":"karlskrona"
+    },
+    {
+        "code":null,
+        "name":"Nan Huang",
+        "email":"nan.huang@bth.se",
+        "phone":"0455-385864",
+        "room":"j3331",
+        "unit":"institutionen f\u00f6r datavetenskap",
+        "location":"karlskrona"
+    },
+    {
+        "code":"mji",
+        "name":"Saleh Javadi",
+        "email":"saleh.javadi@bth.se",
+        "phone":"0454-385920",
+        "room":"j3536",
+        "unit":"institutionen f\u00f6r matematik och naturvetenskap",
+        "location":"karlskrona"
+    },
+    {
+        "code":"dji",
+        "name":"Jianguo Ding",
+        "email":"jianguo.ding@bth.se",
+        "phone":"0455-385756",
+        "room":"j3621",
+        "unit":"institutionen f\u00f6r datavetenskap",
+        "location":"karlskrona"
+    },
+    {
+        "code":"oba",
+        "name":"Oleksii Baranovskyi",
+        "email":"oleksii.baranovskyi@bth.se",
+        "phone":"0455-385870",
+        "room":"j3130",
+        "unit":"institutionen f\u00f6r datavetenskap",
+        "location":"karlskrona"
+    },
+    {
+        "code":"kns",
+        "name":"Kristian Skytt",
+        "email":"kristian.skytt@bth.se",
+        "phone":"0455-385706",
+        "room":"3-333",
+        "unit":"institutionen f\u00f6r teknik och estetik",
+        "location":"karlshamn"
+    },
+    {
+        "code":"ppv",
+        "name":"Patrik Svensson",
+        "email":"patrik.svensson@bth.se",
+        "phone":"0455-385834",
+        "room":"j3226",
+        "unit":"institutionen f\u00f6r datavetenskap",
+        "location":"karlskrona"
+    },
+    {
+        "code":"mos",
+        "name":"Mikael Roos",
+        "email":"mikael.roos@bth.se",
+        "phone":"0455-385882",
+        "room":"j3338",
+        "unit":"institutionen f\u00f6r datavetenskap",
+        "location":"karlskrona"
+    },
+    {
+        "code":"pkt",
+        "name":"Patrik Klintenberg",
+        "email":"patrik.klintenberg@bth.se",
+        "phone":"0455-385341",
+        "room":"c425a",
+        "unit":"institutionen f\u00f6r fysisk planering",
+        "location":"karlskrona"
+    },
+    {
+        "code":"ako",
+        "name":"Ann-Kristin Olsson",
+        "email":"ann-kristin.olsson@bth.se",
+        "phone":"0455-385496",
+        "room":"h5119a",
+        "unit":"institutionen f\u00f6r h\u00e4lsa",
+        "location":"karlskrona"
+    },
+    {
+        "code":"ngh",
+        "name":"Ahmad Nauman Ghazi",
+        "email":"nauman.ghazi@bth.se",
+        "phone":"0455-385546",
+        "room":"j2337",
+        "unit":"institutionen f\u00f6r programvaruteknik",
+        "location":"karlskrona"
+    },
+    {
+        "code":"pdl",
+        "name":"Patricia Lagun Mesquita",
+        "email":"patricia.lagun.mesquita@bth.se",
+        "phone":"0455-385507",
+        "room":"h453f",
+        "unit":"institutionen f\u00f6r strategisk h\u00e5llbar utveckling",
+        "location":"karlskrona"
+    },
+    {
+        "code":"ane",
+        "name":"Anders Nelsson",
+        "email":"anders.nelsson@bth.se",
+        "phone":"0455-385665",
+        "room":"j3214",
+        "unit":"institutionen f\u00f6r datavetenskap",
+        "location":"karlskrona"
+    },
+    {
+        "code":"vli",
+        "name":"Vanja Lindberg",
+        "email":"vanja.lindberg@bth.se",
+        "phone":"0455-385438",
+        "room":"j3533",
+        "unit":"institutionen f\u00f6r matematik och naturvetenskap",
+        "location":"karlskrona"
+    },
+    {
+        "code":"sei",
+        "name":"Shahryar Eivazzadeh",
+        "email":"shahryar.eivazzadeh@bth.se",
+        "phone":"0455-385415",
+        "room":"j3619",
+        "unit":"institutionen f\u00f6r datavetenskap",
+        "location":"karlskrona"
+    },
+    {
+        "code":"nla",
+        "name":"Niklas Lavesson",
+        "email":"niklas.lavesson@bth.se",
+        "phone":"0455-385675",
+        "room":"j2333",
+        "unit":"institutionen f\u00f6r programvaruteknik",
+        "location":"karlskrona"
+    },
+    {
+        "code":"edy",
+        "name":"Elaine Daly",
+        "email":"elaine.daly@bth.se",
+        "phone":"0455-385522",
+        "room":"h438",
+        "unit":"institutionen f\u00f6r strategisk h\u00e5llbar utveckling",
+        "location":"karlskrona"
+    },
+    {
+        "code":"aas",
+        "name":"Anna Sv\u00e4rd Olsson",
+        "email":"anna.svard.olsson@bth.se",
+        "phone":"0455-385516",
+        "room":"j3603",
+        "unit":"institutionen f\u00f6r matematik och naturvetenskap",
+        "location":"karlskrona"
+    },
+    {
+        "code":"awr",
+        "name":"Anders Wrenne",
+        "email":"anders.wrenne@bth.se",
+        "phone":"0455-385621",
+        "room":"j2408",
+        "unit":"institutionen f\u00f6r industriell ekonomi",
+        "location":"karlskrona"
+    },
+    {
+        "code":null,
+        "name":"Nan Huang",
+        "email":"nan.huang@bth.se",
+        "phone":"0455-385864",
+        "room":"j3331",
+        "unit":"institutionen f\u00f6r datavetenskap",
+        "location":"karlskrona"
+    },
+    {
+        "code":"psx",
+        "name":"Peter Schlyter",
+        "email":"peter.schlyter@bth.se",
+        "phone":"0455-385321",
+        "room":"c523",
+        "unit":"institutionen f\u00f6r fysisk planering",
+        "location":"karlskrona"
+    },
+    {
+        "code":"tfr",
+        "name":"Torbj\u00f6rn Fridensk\u00f6ld",
+        "email":"torbjorn.fridenskold@bth.se",
+        "phone":"0455-385544",
+        "room":"j2330",
+        "unit":"institutionen f\u00f6r programvaruteknik",
+        "location":"karlskrona"
+    },
+    {
+        "code":"crm",
+        "name":"Charlotte Romare",
+        "email":"charlotte.romare@bth.se",
+        "phone":"0455-385431",
+        "room":"h560e",
+        "unit":"institutionen f\u00f6r h\u00e4lsa",
+        "location":"karlskrona"
+    },
+    {
+        "code":"juh",
+        "name":"Jumana Hamdani",
+        "email":"jumana.hamdani@bth.se",
+        "phone":"0455-385328",
+        "room":"c405",
+        "unit":"institutionen f\u00f6r fysisk planering",
+        "location":"karlskrona"
+    },
+    {
+        "code":"ige",
+        "name":"Irina Gertsovich",
+        "email":"irina.gertsovich@bth.se",
+        "phone":"0455-385580",
+        "room":"j3547",
+        "unit":"institutionen f\u00f6r matematik och naturvetenskap",
+        "location":"karlskrona"
+    },
+    {
+        "code":"sfk",
+        "name":"Sandra Falksk\u00e4r",
+        "email":"sandra.falkskar@bth.se",
+        "phone":"0455-385417",
+        "room":"h5109e",
+        "unit":"institutionen f\u00f6r h\u00e4lsa",
+        "location":"karlskrona"
+    },
+    {
+        "code":"mas",
+        "name":"Mikael \u00c5sman",
+        "email":"mikael.asman@bth.se",
+        "phone":"0455-385720",
+        "room":"j3542",
+        "unit":"institutionen f\u00f6r matematik och naturvetenskap",
+        "location":"karlskrona"
+    },
+    {
+        "code":"pgr",
+        "name":"Per Gralvik",
+        "email":"per.gralvik@bth.se",
+        "phone":"0455-385690",
+        "room":"j3615",
+        "unit":"institutionen f\u00f6r matematik och naturvetenskap",
+        "location":"karlskrona"
+    },
+    {
+        "code":"deb",
+        "name":"Deepika Badampudi",
+        "email":"deepika.badampudi@bth.se",
+        "phone":"0455-385884",
+        "room":"j2618",
+        "unit":"institutionen f\u00f6r programvaruteknik",
+        "location":"karlskrona"
+    },
+    {
+        "code":"mts",
+        "name":"Martin Svensson",
+        "email":"martin.svensson@bth.se",
+        "phone":"0455-385354",
+        "room":"j2412",
+        "unit":"institutionen f\u00f6r industriell ekonomi",
+        "location":"karlskrona"
+    },
+    {
+        "code":"pcr",
+        "name":"Paul Carlsson",
+        "email":"paul.carlsson@bth.se",
+        "phone":"0454-385915",
+        "room":"3-330",
+        "unit":"institutionen f\u00f6r teknik och estetik",
+        "location":"karlshamn"
+    },
+    {
+        "code":"bxp",
+        "name":"Bruna Palm",
+        "email":"bruna.palm@bth.se",
+        "phone":"0455-385583",
+        "room":"j3543",
+        "unit":"institutionen f\u00f6r matematik och naturvetenskap",
+        "location":"karlskrona"
+    },
+    {
+        "code":"dil",
+        "name":"Dragos Ilie",
+        "email":"dragos.ilie@bth.se",
+        "phone":"0455-385871",
+        "room":"j3124",
+        "unit":"institutionen f\u00f6r datavetenskap",
+        "location":"karlskrona"
+    },
+    {
+        "code":"jya",
+        "name":"James Ayers",
+        "email":"james.ayers@bth.se",
+        "phone":"0455-385582",
+        "room":"h451",
+        "unit":"institutionen f\u00f6r strategisk h\u00e5llbar utveckling",
+        "location":"karlskrona"
+    },
+    {
+        "code":"ubn",
+        "name":"Ulrika Bernow Johansson",
+        "email":"ulrika.bernow.johansson@bth.se",
+        "phone":"0455-385426",
+        "room":"h5109d",
+        "unit":"institutionen f\u00f6r h\u00e4lsa",
+        "location":"karlskrona"
+    },
+    {
+        "code":"jsb",
+        "name":"Josef Str\u00f6m Bartunek",
+        "email":"josef.strombartunek@bth.se",
+        "phone":"0455-385585",
+        "room":"j3530",
+        "unit":"institutionen f\u00f6r matematik och naturvetenskap",
+        "location":"karlskrona"
+    },
+    {
+        "code":"lhx",
+        "name":"Liselotte Heimdahl",
+        "email":"liselotte.heimdahl@bth.se",
+        "phone":"0454-385909",
+        "room":"3-330",
+        "unit":"institutionen f\u00f6r teknik och estetik",
+        "location":"karlshamn"
+    },
+    {
+        "code":"hgr",
+        "name":"H\u00e5kan Grahn",
+        "email":"hakan.grahn@bth.se",
+        "phone":"0455-385804",
+        "room":"j3121",
+        "unit":"institutionen f\u00f6r datavetenskap",
+        "location":"karlskrona"
+    },
+    {
+        "code":"aun",
+        "name":"Anupama Unnikrishnan",
+        "email":"anupama.unnikrishnan@bth.se",
+        "phone":"0455-385605",
+        "room":"j2416",
+        "unit":"institutionen f\u00f6r industriell ekonomi",
+        "location":"karlskrona"
+    },
+    {
+        "code":"vtv",
+        "name":"Viet Thuy Vu",
+        "email":"viet.thuy.vu@bth.se",
+        "phone":"0455-385579",
+        "room":"j3607",
+        "unit":"institutionen f\u00f6r matematik och naturvetenskap",
+        "location":"karlskrona"
+    },
+    {
+        "code":"sii",
+        "name":"Simon Hall\u00f6sta",
+        "email":"simon.hallosta@bth.se",
+        "phone":"0454-385903",
+        "room":"3-306",
+        "unit":"institutionen f\u00f6r matematik och naturvetenskap",
+        "location":"karlshamn"
+    },
+    {
+        "code":"cno",
+        "name":"Christian Nordahl",
+        "email":"christian.nordahl@bth.se",
+        "phone":"0455-385897",
+        "room":"j3110",
+        "unit":"institutionen f\u00f6r datavetenskap",
+        "location":"karlskrona"
+    },
+    {
+        "code":"stw",
+        "name":"Stefan Wagner",
+        "email":"stefan.wagner@bth.se",
+        "phone":"0455-385557",
+        "room":"j3531",
+        "unit":"institutionen f\u00f6r matematik och naturvetenskap",
+        "location":"karlskrona"
+    },
+    {
+        "code":"rny",
+        "name":"Robert Nyqvist",
+        "email":"robert.nyqvist@bth.se",
+        "phone":"0455-385418",
+        "room":"j3538",
+        "unit":"institutionen f\u00f6r matematik och naturvetenskap",
+        "location":"karlskrona"
+    },
+    {
+        "code":"mit",
+        "name":"Mikael Keskitalo",
+        "email":"mikael.keskitalo@bth.se",
+        "phone":"0455-385639",
+        "room":"j2223",
+        "unit":"institutionen f\u00f6r industriell ekonomi",
+        "location":"karlskrona"
+    },
+    {
+        "code":"prg",
+        "name":"Prashant Goswami",
+        "email":"prashant.goswami@bth.se",
+        "phone":"0455-385826",
+        "room":"j3624",
+        "unit":"institutionen f\u00f6r datavetenskap",
+        "location":"karlskrona"
+    },
+    {
+        "code":"wka",
+        "name":"Wlodek Kulesza",
+        "email":"wlodek.kulesza@bth.se",
+        "phone":"0455-385898",
+        "room":"j3626",
+        "unit":"institutionen f\u00f6r matematik och naturvetenskap",
+        "location":"karlskrona"
+    },
+    {
+        "code":"dcv",
+        "name":"Denny Carolina Villamil Velasquez",
+        "email":"denny.carolina.villamil.velasquez@bth.se",
+        "phone":"0455-385569",
+        "room":"h453e",
+        "unit":"institutionen f\u00f6r strategisk h\u00e5llbar utveckling",
+        "location":"karlskrona"
+    },
+    {
+        "code":"pro",
+        "name":"Philippe Rouchy",
+        "email":"philippe.rouchy@bth.se",
+        "phone":"0455-385379",
+        "room":"j2411",
+        "unit":"institutionen f\u00f6r industriell ekonomi",
+        "location":"karlskrona"
+    },
+    {
+        "code":"pat",
+        "name":"Patric Karlsson",
+        "email":"patric.karlsson@bth.se",
+        "phone":"0455-385322",
+        "room":"c410",
+        "unit":"institutionen f\u00f6r fysisk planering",
+        "location":"karlskrona"
+    },
+    {
+        "code":"lbl",
+        "name":"Lina Blom",
+        "email":"lina.blom@bth.se",
+        "phone":"0455-385435",
+        "room":"h5109f",
+        "unit":"institutionen f\u00f6r h\u00e4lsa",
+        "location":"karlskrona"
+    },
+    {
+        "code":"moh",
+        "name":"Mojtaba Hosseini",
+        "email":"mojtaba.hosseini@bth.se",
+        "phone":"0455-385616",
+        "room":"j2225",
+        "unit":"institutionen f\u00f6r industriell ekonomi",
+        "location":"karlskrona"
+    },
+    {
+        "code":"sab",
+        "name":"Shahrooz Abghari",
+        "email":"shahrooz.abghari@bth.se",
+        "phone":"0455-385875",
+        "room":"j3126",
+        "unit":"institutionen f\u00f6r datavetenskap",
+        "location":"karlskrona"
+    },
+    {
+        "code":"cbd",
+        "name":"Catrin Berglund-Johansson",
+        "email":"catrin.berglund-johansson@bth.se",
+        "phone":"0455-385432",
+        "room":"h5123b",
+        "unit":"institutionen f\u00f6r h\u00e4lsa",
+        "location":"karlskrona"
+    },
+    {
+        "code":"cnl",
+        "name":"Carina Nilsson",
+        "email":"carina.nilsson@bth.se",
+        "phone":"0455-385662",
+        "room":"j3111",
+        "unit":"institutionen f\u00f6r datavetenskap",
+        "location":"karlskrona"
+    },
+    {
+        "code":"ara",
+        "name":"Aron Aspenstr\u00f6m",
+        "email":"aron.aspenstrom@bth.se",
+        "phone":null,
+        "room":"c429",
+        "unit":"institutionen f\u00f6r fysisk planering",
+        "location":"karlskrona"
+    },
+    {
+        "code":"syk",
+        "name":"Sze Yin Kwok",
+        "email":"sze.yin.kwok@bth.se",
+        "phone":"0455-385503",
+        "room":"h453d",
+        "unit":"institutionen f\u00f6r strategisk h\u00e5llbar utveckling",
+        "location":"karlskrona"
+    },
+    {
+        "code":"jtr",
+        "name":"Johanna T\u00f6rnqvist Krasemann",
+        "email":"johanna.tornquist.krasemann@bth.se",
+        "phone":"0455-385881",
+        "room":"k:na j2226, k:hamn 3-307",
+        "unit":"institutionen f\u00f6r industriell ekonomi",
+        "location":"karlskrona"
+    },
+    {
+        "code":"inl",
+        "name":"Ida Nilsson",
+        "email":"ida.nilsson@bth.se",
+        "phone":"0455-385324",
+        "room":"c509",
+        "unit":"institutionen f\u00f6r fysisk planering",
+        "location":"karlskrona"
+    },
+    {
+        "code":null,
+        "name":"Nan Huang",
+        "email":"nan.huang@bth.se",
+        "phone":"0455-385864",
+        "room":"j3331",
+        "unit":"institutionen f\u00f6r datavetenskap",
+        "location":"karlskrona"
+    },
+    {
+        "code":"bpe",
+        "name":"Bo Peterson",
+        "email":"bo.peterson@bth.se",
+        "phone":"0455-385755",
+        "room":"j3114",
+        "unit":"institutionen f\u00f6r datavetenskap",
+        "location":"karlskrona"
+    },
+    {
+        "code":"jwl",
+        "name":"Johan Wall",
+        "email":"johan.wall@bth.se",
+        "phone":"0455-385509",
+        "room":"j3414",
+        "unit":"institutionen f\u00f6r maskinteknik",
+        "location":"karlskrona"
+    },
+    {
+        "code":null,
+        "name":"Nan Huang",
+        "email":"nan.huang@bth.se",
+        "phone":"0455-385864",
+        "room":"j3331",
+        "unit":"institutionen f\u00f6r datavetenskap",
+        "location":"karlskrona"
+    },
+    {
+        "code":"pal",
+        "name":"Patrik Arlos",
+        "email":"patrik.arlos@bth.se",
+        "phone":"0455-385444",
+        "room":"j3620",
+        "unit":"institutionen f\u00f6r datavetenskap",
+        "location":"karlskrona"
+    },
+    {
+        "code":"krw",
+        "name":"Krzysztof Wnuk",
+        "email":"krzysztof.wnuk@bth.se",
+        "phone":"0455-385812",
+        "room":"j2615",
+        "unit":"institutionen f\u00f6r programvaruteknik",
+        "location":"karlskrona"
+    },
+    {
+        "code":"mbp",
+        "name":"Malin Altenby Larsen",
+        "email":"malin.altenby.larsen@bth.se",
+        "phone":"0455-385305",
+        "room":"c509",
+        "unit":"institutionen f\u00f6r fysisk planering",
+        "location":"karlskrona"
+    },
+    {
+        "code":"dna",
+        "name":"Diego Navarro",
+        "email":"diego.navarro@bth.se",
+        "phone":"0455-385809",
+        "room":"j3225",
+        "unit":"institutionen f\u00f6r datavetenskap",
+        "location":"karlskrona"
+    },
+    {
+        "code":"mun",
+        "name":"Michael Unterkalmsteiner",
+        "email":"michael.unterkalmsteiner@bth.se",
+        "phone":"0455-385815",
+        "room":"j2616",
+        "unit":"institutionen f\u00f6r programvaruteknik",
+        "location":"karlskrona"
+    },
+    {
+        "code":"jbb",
+        "name":"Jessica Berner",
+        "email":"jessica.berner@bth.se",
+        "phone":"0455-385481",
+        "room":"h560c",
+        "unit":"institutionen f\u00f6r h\u00e4lsa",
+        "location":"karlskrona"
+    },
+    {
+        "code":"squ",
+        "name":"Shahiduzzaman Quoreshi",
+        "email":"shahiduzzaman.quoreshi@bth.se",
+        "phone":"0455-385638",
+        "room":"j2409",
+        "unit":"institutionen f\u00f6r industriell ekonomi",
+        "location":"karlskrona"
+    },
+    {
+        "code":"abd",
+        "name":"Abdellah Abarkan",
+        "email":"abdellah.abarkan@bth.se",
+        "phone":"0455-385355",
+        "room":"c423",
+        "unit":"institutionen f\u00f6r fysisk planering",
+        "location":"karlskrona"
+    },
+    {
+        "code":"fzi",
+        "name":"Franz Zieris",
+        "email":"franz.zieris@bth.se",
+        "phone":"0455-385831",
+        "room":"j2327",
+        "unit":"institutionen f\u00f6r programvaruteknik",
+        "location":"karlskrona"
+    },
+    {
+        "code":"una",
+        "name":"Usman Nasir",
+        "email":"usman.nasir@bth.se",
+        "phone":"0455-385816",
+        "room":"j2605",
+        "unit":"institutionen f\u00f6r programvaruteknik",
+        "location":"karlskrona"
+    },
+    {
+        "code":"tri",
+        "name":"Terese Lindberg",
+        "email":"terese.lindberg@bth.se",
+        "phone":"0455-385477",
+        "room":"h585a",
+        "unit":"institutionen f\u00f6r h\u00e4lsa",
+        "location":"karlskrona"
+    },
+    {
+        "code":"tas",
+        "name":"Trudy-Ann Stone",
+        "email":"trudy-ann.stone@bth.se",
+        "phone":"0455-385624",
+        "room":"j2423",
+        "unit":"institutionen f\u00f6r industriell ekonomi",
+        "location":"karlskrona"
+    },
+    {
+        "code":"ber",
+        "name":"Marco Bertoni",
+        "email":"marco.bertoni@bth.se",
+        "phone":"0455-385533",
+        "room":"j3410",
+        "unit":"institutionen f\u00f6r maskinteknik",
+        "location":"unknown"
+    },
+    {
+        "code":"ekx",
+        "name":"Eriks Klotins",
+        "email":"eriks.klotins@bth.se",
+        "phone":"0455-385840",
+        "room":"j2617",
+        "unit":"institutionen f\u00f6r programvaruteknik",
+        "location":"karlskrona"
+    },
+    {
+        "code":"aca",
+        "name":"Anders Carlsson",
+        "email":"anders.carlsson@bth.se",
+        "phone":"0455-385828",
+        "room":"j3131",
+        "unit":"institutionen f\u00f6r datavetenskap",
+        "location":"karlskrona"
+    },
+    {
+        "code":"abv",
+        "name":"\u00c5sa Bejdevi",
+        "email":"asa.bejdevi@bth.se",
+        "phone":"0455-385607",
+        "room":"3-333",
+        "unit":"institutionen f\u00f6r teknik och estetik",
+        "location":"karlshamn"
+    },
+    {
+        "code":"pin",
+        "name":"Peter Nilsson",
+        "email":"peter.nilsson@bth.se",
+        "phone":"0455-385895",
+        "room":"j3113",
+        "unit":"institutionen f\u00f6r datavetenskap",
+        "location":"karlskrona"
+    },
+    {
+        "code":"eal",
+        "name":"Emil Al\u00e9groth",
+        "email":"emil.alegroth@bth.se",
+        "phone":"0455-385562",
+        "room":null,
+        "unit":"institutionen f\u00f6r programvaruteknik",
+        "location":"karlskrona"
+    },
+    {
+        "code":"aar",
+        "name":"Andreas Arnesson",
+        "email":"andreas.arnesson@bth.se",
+        "phone":"0455-385803",
+        "room":"j3337",
+        "unit":"institutionen f\u00f6r datavetenskap",
+        "location":"karlskrona"
+    },
+    {
+        "code":"ebr",
+        "name":"Evangelos Bourelos",
+        "email":"evangelos.bourelos@bth.se",
+        "phone":"0455-385606",
+        "room":"j2404",
+        "unit":"institutionen f\u00f6r industriell ekonomi",
+        "location":"karlskrona"
+    },
+    {
+        "code":"mdm",
+        "name":"Shafiqul Islam",
+        "email":"shafiqul.islam@bth.se",
+        "phone":"0455-385505",
+        "room":"j3413",
+        "unit":"institutionen f\u00f6r maskinteknik",
+        "location":"karlskrona"
+    },
+    {
+        "code":"sbn",
+        "name":"Sven Bor\u00e9n",
+        "email":"sven.boren@bth.se",
+        "phone":"0455-385723",
+        "room":"h455",
+        "unit":"institutionen f\u00f6r strategisk h\u00e5llbar utveckling",
+        "location":"karlskrona"
+    },
+    {
+        "code":null,
+        "name":"Nan Huang",
+        "email":"nan.huang@bth.se",
+        "phone":"0455-385864",
+        "room":"j3331",
+        "unit":"institutionen f\u00f6r datavetenskap",
+        "location":"karlskrona"
+    },
+    {
+        "code":"sci",
+        "name":"Sadi Alawadi",
+        "email":"sadi.alawadi@bth.se",
+        "phone":"0455-385880",
+        "room":"j3342",
+        "unit":"institutionen f\u00f6r datavetenskap",
+        "location":"karlskrona"
+    },
+    {
+        "code":"mmg",
+        "name":"Martin Magnevall",
+        "email":"martin.magnevall@bth.se",
+        "phone":"0455-385531",
+        "room":"j3425",
+        "unit":"institutionen f\u00f6r maskinteknik",
+        "location":"karlskrona"
+    },
+    {
+        "code":"emc",
+        "name":"Emiliano Casalicchio",
+        "email":"emiliano.casalicchio@bth.se",
+        "phone":"0455-385878",
+        "room":"j3129",
+        "unit":"institutionen f\u00f6r datavetenskap",
+        "location":"karlskrona"
+    },
+    {
+        "code":"mbu",
+        "name":"Manda Bensk\u00f6ld",
+        "email":"manda.benskold@bth.se",
+        "phone":"0455-385306",
+        "room":"c508",
+        "unit":"institutionen f\u00f6r fysisk planering",
+        "location":"karlskrona"
+    },
+    {
+        "code":"enu",
+        "name":"Emil Numminen",
+        "email":"emil.numminen@bth.se",
+        "phone":"0455-385601",
+        "room":"j2402",
+        "unit":"institutionen f\u00f6r industriell ekonomi",
+        "location":"karlskrona"
+    },
+    {
+        "code":"dnl",
+        "name":"Daniel Nilsson",
+        "email":"daniel.nilsson@bth.se",
+        "phone":"0454-385911",
+        "room":"3-330",
+        "unit":"institutionen f\u00f6r teknik och estetik",
+        "location":"karlshamn"
+    },
+    {
+        "code":"hed",
+        "name":"Henry Edison",
+        "email":"henry.edison@bth.se",
+        "phone":"0455-385734",
+        "room":"j2624",
+        "unit":"institutionen f\u00f6r programvaruteknik",
+        "location":"karlskrona"
+    },
+    {
+        "code":"rgo",
+        "name":"Rachael Gould",
+        "email":"rachael.gould@bth.se",
+        "phone":"0455-385563",
+        "room":"h453a",
+        "unit":"institutionen f\u00f6r strategisk h\u00e5llbar utveckling",
+        "location":"karlskrona"
+    },
+    {
+        "code":"sfl",
+        "name":"Sabrina Fredin",
+        "email":"sabrina.fredin@bth.se",
+        "phone":"0455-385319",
+        "room":"c426",
+        "unit":"institutionen f\u00f6r fysisk planering",
+        "location":"karlskrona"
+    },
+    {
+        "code":"jbf",
+        "name":"Johanna B\u00f6rrefors",
+        "email":"johanna.borrefors@bth.se",
+        "phone":"0455-385681",
+        "room":"j2413",
+        "unit":"institutionen f\u00f6r industriell ekonomi",
+        "location":"karlskrona"
+    },
+    {
+        "code":"mis",
+        "name":"Merlina Missimer",
+        "email":"merlina.missimer@bth.se",
+        "phone":"0455-385680",
+        "room":"h437",
+        "unit":"institutionen f\u00f6r strategisk h\u00e5llbar utveckling",
+        "location":"karlskrona"
+    },
+    {
+        "code":"gkn",
+        "name":"Gunilla \u00c5kesson Nilsson",
+        "email":"gunilla.akesson.nilsson@bth.se",
+        "phone":"0455-385686",
+        "room":"j3327",
+        "unit":"institutionen f\u00f6r matematik och naturvetenskap",
+        "location":"karlskrona"
+    },
+    {
+        "code":"jet",
+        "name":"Jonas Ekestubbe",
+        "email":"jonas.ekestubbe@bth.se",
+        "phone":"0455-385439",
+        "room":"h5122c",
+        "unit":"institutionen f\u00f6r h\u00e4lsa",
+        "location":"karlskrona"
+    },
+    {
+        "code":"vsu",
+        "name":"Veronica Sundstedt",
+        "email":"veronica.sundstedt@bth.se",
+        "phone":"0455-385850",
+        "room":"j3324",
+        "unit":"institutionen f\u00f6r datavetenskap",
+        "location":"karlskrona"
+    },
+    {
+        "code":"yhx",
+        "name":"Yan Hu",
+        "email":"yan.hu@bth.se",
+        "phone":"0455-385829",
+        "room":"j3218",
+        "unit":"institutionen f\u00f6r datavetenskap",
+        "location":"karlskrona"
+    },
+    {
+        "code":"shp",
+        "name":"Sebastian Hastrup",
+        "email":"sebastian.hastrup@bth.se",
+        "phone":"0454-385927",
+        "room":"3-330",
+        "unit":"institutionen f\u00f6r teknik och estetik",
+        "location":"karlshamn"
+    },
+    {
+        "code":"ake",
+        "name":"\u00c5ke Nystr\u00f6m",
+        "email":"ake.nystrom@bth.se",
+        "phone":null,
+        "room":null,
+        "unit":"institutionen f\u00f6r matematik och naturvetenskap",
+        "location":"karlskrona"
+    },
+    {
+        "code":"bem",
+        "name":"Bertil Malmstr\u00f6m",
+        "email":"bertil.malmstrom@bth.se",
+        "phone":"0455-385303",
+        "room":"c530",
+        "unit":"institutionen f\u00f6r fysisk planering",
+        "location":"karlskrona"
+    },
+    {
+        "code":"gws",
+        "name":"Giulia Wally Scurati",
+        "email":"giulia.wally.scurati@bth.se",
+        "phone":"0455-385549",
+        "room":"j3425",
+        "unit":"institutionen f\u00f6r maskinteknik",
+        "location":"karlskrona"
+    },
+    {
+        "code":"dxg",
+        "name":"Dana Bergman",
+        "email":"dana.bergman@bth.se",
+        "phone":"0455-385542",
+        "room":"h415b",
+        "unit":"institutionen f\u00f6r strategisk h\u00e5llbar utveckling",
+        "location":"karlskrona"
+    },
+    {
+        "code":"ldp",
+        "name":"Linus de Petris",
+        "email":"linus.de.petris@bth.se",
+        "phone":"0454-385919",
+        "room":"234",
+        "unit":"institutionen f\u00f6r teknik och estetik",
+        "location":"karlshamn"
+    },
+    {
+        "code":"elo",
+        "name":"Eva L\u00f6vst\u00e5l",
+        "email":"eva.lovstal@bth.se",
+        "phone":"0455-385604",
+        "room":"j2222",
+        "unit":"institutionen f\u00f6r industriell ekonomi",
+        "location":"karlskrona"
+    },
+    {
+        "code":"jpm",
+        "name":"Jonas M\u00e5nsson",
+        "email":"jonas.p.mansson@bth.se",
+        "phone":"0455-385612",
+        "room":"j2415",
+        "unit":"institutionen f\u00f6r industriell ekonomi",
+        "location":"karlskrona"
+    },
+    {
+        "code":"cat",
+        "name":"Carl Toller Mel\u00e9n",
+        "email":"carl.toller.melen@bth.se",
+        "phone":"0455-385571",
+        "room":"j3405",
+        "unit":"institutionen f\u00f6r maskinteknik",
+        "location":"karlskrona"
+    },
+    {
+        "code":"vvk",
+        "name":"Victor Kebande",
+        "email":"victor.kebande@bth.se",
+        "phone":"0455-385659",
+        "room":"j3119",
+        "unit":"institutionen f\u00f6r datavetenskap",
+        "location":"karlskrona"
+    },
+    {
+        "code":"mqb",
+        "name":"Malin Bernelf",
+        "email":"malin.bernelf@bth.se",
+        "phone":"0455-385524",
+        "room":"j3537",
+        "unit":"institutionen f\u00f6r matematik och naturvetenskap",
+        "location":"karlskrona"
+    },
+    {
+        "code":"msu",
+        "name":"Martin Stockhaus",
+        "email":"martin.stockhaus@bth.se",
+        "phone":null,
+        "room":null,
+        "unit":"institutionen f\u00f6r teknik och estetik",
+        "location":"karlshamn"
+    },
+    {
+        "code":"skk",
+        "name":"Siamak Khatibi",
+        "email":"siamak.khatibi@bth.se",
+        "phone":"0455-385591",
+        "room":"g503",
+        "unit":"institutionen f\u00f6r teknik och estetik",
+        "location":"karlskrona"
+    },
+    {
+        "code":"msv",
+        "name":"Mikael Svahnberg",
+        "email":"mikael.svahnberg@bth.se",
+        "phone":"0455-385811",
+        "room":"j2607",
+        "unit":"institutionen f\u00f6r programvaruteknik",
+        "location":"karlskrona"
+    },
+    {
+        "code":"jys",
+        "name":"Jesko Schulte",
+        "email":"jesko.schulte@bth.se",
+        "phone":"0455-385519",
+        "room":"h416a",
+        "unit":"institutionen f\u00f6r strategisk h\u00e5llbar utveckling",
+        "location":"karlskrona"
+    },
+    {
+        "code":"mnc",
+        "name":"Majed Nabha",
+        "email":"majed.nabha@bth.se",
+        "phone":null,
+        "room":null,
+        "unit":"institutionen f\u00f6r maskinteknik",
+        "location":"karlskrona"
+    },
+    {
+        "code":"abe",
+        "name":"Ansel Berghuvud",
+        "email":"ansel.berghuvud@bth.se",
+        "phone":"0455-385510",
+        "room":"j3420",
+        "unit":"institutionen f\u00f6r maskinteknik",
+        "location":"karlskrona"
+    },
+    {
+        "code":"abr",
+        "name":"Alessandro Bertoni",
+        "email":"alessandro.bertoni@bth.se",
+        "phone":"0455-385502",
+        "room":"j3402",
+        "unit":"institutionen f\u00f6r maskinteknik",
+        "location":"karlskrona"
+    },
+    {
+        "code":"hku",
+        "name":"Huseyin Kusetogullari",
+        "email":"huseyin.kusetogullari@bth.se",
+        "phone":"0455-385876",
+        "room":"j3127",
+        "unit":"institutionen f\u00f6r datavetenskap",
+        "location":"karlskrona"
+    },
+    {
+        "code":"mbo",
+        "name":"Martin Boldt",
+        "email":"martin.boldt@bth.se",
+        "phone":"0455-385837",
+        "room":"j3120",
+        "unit":"institutionen f\u00f6r datavetenskap",
+        "location":"karlskrona"
+    },
+    {
+        "code":"scm",
+        "name":"Suejb Memeti",
+        "email":"suejb.memeti@bth.se",
+        "phone":"0455-385886",
+        "room":"j3215",
+        "unit":"institutionen f\u00f6r datavetenskap",
+        "location":"karlskrona"
+    },
+    {
+        "code":null,
+        "name":"Nan Huang",
+        "email":"nan.huang@bth.se",
+        "phone":"0455-385864",
+        "room":"j3331",
+        "unit":"institutionen f\u00f6r datavetenskap",
+        "location":"karlskrona"
+    },
+    {
+        "code":"abc",
+        "name":"Abbas Cheddad",
+        "email":"abbas.cheddad@bth.se",
+        "phone":"0455-385863",
+        "room":"j3112",
+        "unit":"institutionen f\u00f6r datavetenskap",
+        "location":"karlskrona"
+    },
+    {
+        "code":null,
+        "name":"Nan Huang",
+        "email":"nan.huang@bth.se",
+        "phone":"0455-385864",
+        "room":"j3331",
+        "unit":"institutionen f\u00f6r datavetenskap",
+        "location":"karlskrona"
+    },
+    {
+        "code":"jgh",
+        "name":"Javier Gonzalez Huerta",
+        "email":"javier.gonzalez.huerta@bth.se",
+        "phone":"0455-385558",
+        "room":"j2625",
+        "unit":"institutionen f\u00f6r programvaruteknik",
+        "location":"karlskrona"
+    },
+    {
+        "code":"law",
+        "name":"Andrea Nordwall",
+        "email":"andrea.nordwall@bth.se",
+        "phone":"0454-385906",
+        "room":"3-330",
+        "unit":"institutionen f\u00f6r teknik och estetik",
+        "location":"karlshamn"
+    },
+    {
+        "code":"mfi",
+        "name":"Markus Fiedler",
+        "email":"markus.fiedler@bth.se",
+        "phone":"0454-385923",
+        "room":"3-336",
+        "unit":"institutionen f\u00f6r teknik och estetik",
+        "location":"karlshamn"
+    },
+    {
+        "code":"muu",
+        "name":"Muhammad Usman",
+        "email":"muhammad.usman@bth.se",
+        "phone":"0455-385821",
+        "room":"j2328",
+        "unit":"institutionen f\u00f6r programvaruteknik",
+        "location":"karlskrona"
+    },
+    {
+        "code":"pep",
+        "name":"Philip Berglund",
+        "email":"philip.berglund@bth.se",
+        "phone":"0455-385713",
+        "room":"j3226",
+        "unit":"institutionen f\u00f6r datavetenskap",
+        "location":"karlskrona"
+    },
+    {
+        "code":"ola",
+        "name":"Oleksandr Adamov",
+        "email":"oleksandr.adamov@bth.se",
+        "phone":"0455-385896",
+        "room":"j2617",
+        "unit":"institutionen f\u00f6r programvaruteknik",
+        "location":"karlskrona"
+    },
+    {
+        "code":"cbo",
+        "name":"Christel Borg",
+        "email":"christel.borg@bth.se",
+        "phone":"0455-385424",
+        "room":"h5128",
+        "unit":"institutionen f\u00f6r h\u00e4lsa",
+        "location":"karlskrona"
+    },
+    {
+        "code":"hsa",
+        "name":"Henrik S\u00e4llberg",
+        "email":"henrik.sallberg@bth.se",
+        "phone":"0455-385613",
+        "room":"j2410",
+        "unit":"institutionen f\u00f6r industriell ekonomi",
+        "location":"karlskrona"
+    },
+    {
+        "code":"cmj",
+        "name":"Christian Johansson Askling",
+        "email":"christian.johansson.askling@bth.se",
+        "phone":"0455-385576",
+        "room":"j3409",
+        "unit":"institutionen f\u00f6r maskinteknik",
+        "location":"karlskrona"
+    },
+    {
+        "code":"che",
+        "name":"Claes Hedberg",
+        "email":"claes.hedberg@bth.se",
+        "phone":"0455-385513",
+        "room":"j3540",
+        "unit":"institutionen f\u00f6r matematik och naturvetenskap",
+        "location":"karlskrona"
+    },
+    {
+        "code":"klw",
+        "name":"Kenneth Lewenhagen",
+        "email":"kenneth.lewenhagen@bth.se",
+        "phone":"0455-385873",
+        "room":"j3339",
+        "unit":"institutionen f\u00f6r datavetenskap",
+        "location":"karlskrona"
+    },
+    {
+        "code":"agm",
+        "name":"Amanda Glinghammar",
+        "email":"amanda.glinghammar@bth.se",
+        "phone":"0455-385420",
+        "room":"h5101a",
+        "unit":"institutionen f\u00f6r h\u00e4lsa",
+        "location":"karlskrona"
+    },
+    {
+        "code":"pxj",
+        "name":"Pierre Johnson",
+        "email":"pierre.johnson@bth.se",
+        "phone":"0455-385536",
+        "room":"h414b",
+        "unit":"institutionen f\u00f6r strategisk h\u00e5llbar utveckling",
+        "location":"karlskrona"
+    },
+    {
+        "code":"msc",
+        "name":"Mattias Schertell",
+        "email":"mattias.schertell@bth.se",
+        "phone":"0454-385914",
+        "room":"3-330",
+        "unit":"institutionen f\u00f6r teknik och estetik",
+        "location":"karlshamn"
+    },
+    {
+        "code":"mfq",
+        "name":"Malin Forsbrand",
+        "email":"malin.forsbrand@bth.se",
+        "phone":"0455-385466",
+        "room":"h560a",
+        "unit":"institutionen f\u00f6r h\u00e4lsa",
+        "location":"karlskrona"
+    },
+    {
+        "code":"srx",
+        "name":"Sara Sandin",
+        "email":"sara.sandin@bth.se",
+        "phone":"0455-385446",
+        "room":"h530g",
+        "unit":"institutionen f\u00f6r h\u00e4lsa",
+        "location":"karlskrona"
+    },
+    {
+        "code":"grm",
+        "name":"Marie Grahn",
+        "email":"marie.grahn@bth.se",
+        "phone":"0455-385885",
+        "room":"j3336",
+        "unit":"institutionen f\u00f6r datavetenskap",
+        "location":"karlskrona"
+    },
+    {
+        "code":"mrl",
+        "name":"Martin Lillqvist",
+        "email":"martin.lillqvist@bth.se",
+        "phone":"0455-385849",
+        "room":"j3228",
+        "unit":"institutionen f\u00f6r datavetenskap",
+        "location":"karlskrona"
+    },
+    {
+        "code":"jtl",
+        "name":"Johanna Tell",
+        "email":"johanna.tell@bth.se",
+        "phone":"0455-385464",
+        "room":"h530d",
+        "unit":"institutionen f\u00f6r h\u00e4lsa",
+        "location":"karlskrona"
+    },
+    {
+        "code":"vbx",
+        "name":"Veselka Boeva",
+        "email":"veselka.boeva@bth.se",
+        "phone":"0455-385805",
+        "room":"j3123",
+        "unit":"institutionen f\u00f6r datavetenskap",
+        "location":"karlskrona"
+    },
+    {
+        "code":"sjo",
+        "name":"Sven Johansson",
+        "email":"sven.johansson@bth.se",
+        "phone":"0455-385710",
+        "room":"j3535",
+        "unit":"institutionen f\u00f6r teknik och estetik",
+        "location":"karlskrona"
+    },
+    {
+        "code":"dfu",
+        "name":"Davide Fucci",
+        "email":"davide.fucci@bth.se",
+        "phone":"0455-385708",
+        "room":"j2623",
+        "unit":"institutionen f\u00f6r programvaruteknik",
+        "location":"karlskrona"
+    },
+    {
+        "code":"cbg",
+        "name":"Carolina Bergeling",
+        "email":"carolina.bergeling@bth.se",
+        "phone":"0455-385586",
+        "room":"j3606",
+        "unit":"institutionen f\u00f6r matematik och naturvetenskap",
+        "location":"karlskrona"
+    },
+    {
+        "code":"aob",
+        "name":"Annika Olofsdotter Bergstr\u00f6m",
+        "email":"annika.olofsdotter.bergstrom@bth.se",
+        "phone":"0454-385908",
+        "room":"3-330",
+        "unit":"institutionen f\u00f6r teknik och estetik",
+        "location":"unknown"
+    },
+    {
+        "code":"dmz",
+        "name":"Daniel Mendez Fernandez",
+        "email":"daniel.mendez@bth.se",
+        "phone":"0455-385712",
+        "room":"j2621",
+        "unit":"institutionen f\u00f6r programvaruteknik",
+        "location":"karlskrona"
+    },
+    {
+        "code":"pej",
+        "name":"Pedher Johansson",
+        "email":"pedher.johansson@bth.se",
+        "phone":"0455-385317",
+        "room":"j4221",
+        "unit":"enheten f\u00f6r utbildningsutveckling",
+        "location":"karlskrona"
+    },
+    {
+        "code":"kba",
+        "name":"Kristin Magnusson",
+        "email":"kristin.magnusson@bth.se",
+        "phone":"0455-385448",
+        "room":"h529d",
+        "unit":"institutionen f\u00f6r h\u00e4lsa",
+        "location":"karlskrona"
+    }
+]

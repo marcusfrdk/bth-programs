@@ -1,41 +1,67 @@
-""" Generate program data from BTH's website """
-
+import argparse
 import asyncio
+import os
 import sys
 import re
 import requests
-import pandas as pd
-import os
 import json
-import threading as th
 import numpy as np
+import pandas as pd
+import multiprocessing as mp
 from collections import defaultdict
-from bs4 import BeautifulSoup
 from io import BytesIO
-from pyppeteer import launch
+from bs4 import BeautifulSoup
+from pyppeteer import launch, errors
+from concurrent.futures import ThreadPoolExecutor, ProcessPoolExecutor
 
-# Config
-THREAD_COUNT = os.cpu_count() or 1
+# Mutex
+process_lock = mp.Lock()
 
-# Regex
-excel_regex = re.compile(r"\.xlsx$")
-year_regex = re.compile(r"\d{4}")
-file_regex = re.compile(r"\w{5}\d{2}[vh]\.json")
+# URLs
+program_url = "https://resources.bth.se/ProgrammeOverviews/Sv/"
+teacher_url = "https://www.bth.se/?s=%s&searchtype=employee"
 
 # Paths
 ROOT_PATH = os.path.abspath(os.path.dirname(__file__))
 DATA_PATH = os.path.join(ROOT_PATH, "app", "public", "data")
+TEACHER_CSV = os.path.join(DATA_PATH, "teachers.csv")
+TEACHER_JSON = os.path.join(DATA_PATH, "teachers.json")
 INDEX_PATH = os.path.join(DATA_PATH, "index.json")
 NAMES_PATH = os.path.join(DATA_PATH, "names.json")
 
-async def get_html(url: str) -> str:
-    """ Asyncronously fetches the HTML content of a webpage """
-    browser = await launch()
-    page = await browser.newPage()
-    await page.goto(url)
-    html = await page.content()
-    await browser.close()
-    return html
+# Regex
+excel_regex = re.compile(r"\.xlsx$")
+year_regex = re.compile(r"\d{4}")
+program_regex = re.compile(r"\w{5}\d{2}[vh]\.json")
+
+# CLI
+parser = argparse.ArgumentParser(description="Generate data for the app")
+parser.add_argument("-u", "--update", action="store_true", help="Updates the data")
+args = vars(parser.parse_args())
+
+# Global
+teacher_codes = set()
+
+async def fetch(url: str, retries: int = 5) -> str:
+    """ Asynchronously fetches the HTML content of a webpage with retry logic """
+    for attempt in range(retries):
+        try:
+            browser = await launch()
+            page = await browser.newPage()
+            await page.goto(url)
+            html = await page.content()
+            await browser.close()
+            return html
+        except errors.NetworkError as e:
+            print(f"NetworkError on attempt {attempt + 1}: {e}")
+            if attempt == retries - 1:
+                raise
+            await asyncio.sleep(2)
+        except Exception as e:
+            print(f"Error on attempt {attempt + 1}: {e}")
+            if attempt == retries - 1:
+                raise
+            await asyncio.sleep(2)
 
 def get_program_code(url: str) -> str:
     """ Parses the url to get the program code """
@@ -44,70 +70,137 @@ def get_program_code(url: str) -> str:
     semester = "h" if "Höst" in url else "v" 
     return f"{code[:5]}{year[-1][-2:]}{semester}"
 
-def confirm(prompt: str) -> bool:
-    """ Prompts the user for confirmation """
-    response = input(f"{prompt} [y/n]: ")
-    return response.lower() == "y"
+def download_program(url: str) -> None:
+    """ Downloads the program data """
+    code = get_program_code(url)
+    data = requests.get(url)
+    df = pd.read_excel(BytesIO(data.content))
 
-def process_program(urls: list[str]):
-    """ Processes a list of program urls """
-    for url in urls:
-        code = get_program_code(url)
-        data = requests.get(url)
-        df = pd.read_excel(BytesIO(data.content))
-        file_path = os.path.join(DATA_PATH, f"{code}.json")
-        df.to_json(file_path, index=False)
-        print(f"Saved data for '{code}'")
+    df = df.rename(columns={
+        "Kurskod": "code",
+        "Kurs": "name",
+        "Poäng": "points",
+        "Termin": "semester",
+        "Startvecka": "start_week",
+        "Slutvecka": "end_week",
+        "Läsperiod": "period",
+        "Typ": "type",
+        "Inriktning": "focus",
+        "Förkunskapskrav": "prerequisites",
+        "Kursansvarig": "teacher",
+        "Länk till kursansvarig": "teacher_url",
+        "Ersättande kurs": "replacement",
+        "Nästa kurstillfalle": "next_instance",
+        "Länk till kursplan": "syllabus_url",
+        "Länk till utbildningsplan": "education_plan_url",
+    })
+    
+    df["points"] = df["points"].str.extract(r"(\d+\.?\d*)").astype(float)
 
-def main() -> int:
-    try:
-        os.makedirs(DATA_PATH, exist_ok=True)
+    teacher_codes.update(df["teacher"].unique())
+    
+    file_path = os.path.join(DATA_PATH, f"{code}.json")
+    df.to_json(file_path, index=False, orient="records", indent=4)
+    print(f"Downloaded data for '{code}'")
 
-        # Get all programs
-        base_url = "https://resources.bth.se/ProgrammeOverviews/Sv/"
-        html = asyncio.run(get_html(base_url))
-        soup = BeautifulSoup(html, "html.parser")
-        urls = [base_url + re.sub(r"^\.\/", "", a["href"]) for a in soup.find_all("a", href=excel_regex)]
-        
-        # Read excel files
-        chunks = np.array_split(urls, THREAD_COUNT)
-        threads = []
 
-        for chunk in chunks:
-            thread = th.Thread(target=process_program, args=(chunk,))
-            thread.start()
-            threads.append(thread)
+def download_teacher(code: str) -> None:
+    """ Fetches information about a teacher """
+    search_url = teacher_url % code
+    html = asyncio.run(fetch(search_url))
+    soup = BeautifulSoup(html, "html.parser")
 
-        for thread in threads:
-            thread.join()
+    result = soup.find(attrs={"class": "Search-result"})
+    ul = result.find("div", attrs={"class": "SearchItem-text"})
 
-        # Generate index
-        indexes = defaultdict(list)
-        for file in os.listdir(DATA_PATH):
-            if file_regex.match(file):
-                code = file[:5].upper()
-                semester = file.split(".")[0][5:].lower()
-                indexes[code].append(semester)
+    if ul is None:
+        print(f"Could not find data for '{code}'")
+        return
 
-        with open(INDEX_PATH, "w", encoding="utf-8") as f:
-            json.dump(indexes, f, indent=4)
+    ul = ul.find_all("li")
 
-        # Get names
-        names = {}
+    name = " ".join(reversed(result.find("h3").text.strip().split(", ")))
+    email = ""
+    room = ""
+    phone = ""
+    unit = ""
+    location = ""
 
-        for h2 in soup.find_all("h2"):
-            match = re.match(r"(\w{5}) - (.+)", h2.text)
-            if match:
-                code, name = match.groups()
-                names[code] = name
+    for li in ul:
+        text = li.text.strip().lower()
+        if "e-post" in text:
+            email = text.split(": ")[1]
+        elif "rum" in text:
+            room = text.split(": ")[1]
+        elif "telefon" in text:
+            phone = text.split(": ")[1]
+        elif "enhet" in text:
+            unit = text.split(": ")[1]
+        elif "jänsteställe" in text:
+            location = text.split(": ")[1]
 
-        with open(NAMES_PATH, "w", encoding="utf-8") as f:
-            json.dump(names, f, indent=4)
+    with process_lock:
+        with open(TEACHER_CSV, "a", encoding="utf-8") as f:
+            f.write(f"{code};{name};{email};{phone};{room};{unit};{location}\n")
 
+    print(f"Downloaded data for '{code}'")
+
+
+async def main() -> int:
+    """ Main function """
+    should_update = args.get("update")
+
+    # Check if the data exists
+    if os.path.exists(DATA_PATH) and not should_update:
+        print("Data already exists. Use the -u flag to update.")
         return 0
-    except Exception as e:
-        print(e)
-        return 1
+    
+    # Get a list of urls
+    html = await fetch(program_url)
+    soup = BeautifulSoup(html, "html.parser")
+    urls = [program_url + re.sub(r"^\.\/", "", a["href"]) for a in soup.find_all("a", href=excel_regex)]
+
+    # Download program data
+    with ThreadPoolExecutor() as executor:
+        await asyncio.gather(*[asyncio.to_thread(executor.submit, download_program, url) for url in urls])
+
+    # Download teacher data
+    with open(TEACHER_CSV, "w", encoding="utf-8") as f:
+        f.write("code;name;email;phone;room;unit;location\n")
+
+    with ProcessPoolExecutor() as executor:
+        await asyncio.gather(*[asyncio.to_thread(executor.submit, download_teacher, code) for code in teacher_codes])
+
+    with open(TEACHER_CSV, "r", encoding="utf-8") as f:
+        df = pd.read_csv(f, delimiter=";")
+        df.to_json(TEACHER_JSON, orient="records", indent=4)
+
+    os.remove(TEACHER_CSV)
+
+    # Generate index
+    indexes = defaultdict(list)
+    for file in os.listdir(DATA_PATH):
+        if program_regex.match(file):
+            code = file[:5].upper()
+            semester = file.split(".")[0][5:].lower()
+            indexes[code].append(semester)
+
+    with open(INDEX_PATH, "w", encoding="utf-8") as f:
+        json.dump(indexes, f, indent=4)
+
+    # Get names
+    names = {}
+
+    for h2 in soup.find_all("h2"):
+        match = re.match(r"(\w{5}) - (.+)", h2.text)
+        if match:
+            code, name = match.groups()
+            names[code] = name
+
+    with open(NAMES_PATH, "w", encoding="utf-8") as f:
+        json.dump(names, f, indent=4)
+
+    return 0
 
 if __name__ == "__main__":
-    sys.exit(main())
+    sys.exit(asyncio.run(main()))

@@ -9,8 +9,7 @@ import Schedule from "@/components/Schedule";
 export default function App(){
     const {selectedProgram} = useData();
 
-
-    if(!selectedProgram) return <SelectInitialProgram/>;
+    if(selectedProgram === null) return <SelectInitialProgram/>;
 
     return (
         <Container>

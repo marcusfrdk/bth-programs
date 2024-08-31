@@ -32,6 +32,7 @@ export default async function Home() {
     
     // Set program semester
     if(
+      !Object.keys(index).includes(selectedCode) ||
       !semesterRegex.test(selectedSemesterCookie) || 
       !index[selectedCode].includes(selectedSemesterCookie)
     ){

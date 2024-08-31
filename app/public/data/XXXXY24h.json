@@ -1,1 +1,38 @@
-{"Kurskod":{"0":"IY2611","1":"DV2621"},"Kurs":{"0":"Ekonomisk analys av teknologi och innovation","1":"S\u00e4kerhet i webbsystem"},"Po\u00e4ng":{"0":"7,5 HP","1":"7,5 HP"},"Termin":{"0":"H\u00f6sttermin 2024","1":"H\u00f6sttermin 2024"},"Startvecka":{"0":202436,"1":202445},"Slutvecka":{"0":202444,"1":202503},"L\u00e4speriod":{"0":1,"1":2},"Typ":{"0":"Obligatorisk","1":"Obligatorisk"},"Inriktning":{"0":null,"1":null},"F\u00f6rkunskapskrav":{"0":"F\u00f6r tilltr\u00e4det till kursen kr\u00e4vs h\u00f6gskoleingenj\u00f6rsexamen, 180 hp, inom teknik inklusive ett sj\u00e4lvst\u00e4ndigt arbete, 7,5 hp, matematik\/till\u00e4mpad matematik p\u00e5 grundniv\u00e5\/avancerad niv\u00e5, 15 hp samt, industriell ekonomi och organisation,  f\u00f6retagsekonomi, 5 hp. D\u00e4rut\u00f6ver kr\u00e4vs Engelska 6 samt 2 \u00e5rs arbetslivserfarenhet.","1":"F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs 90 hp varav 40 hp inom det tekniska omr\u00e5det varav en avklarad kurs p\u00e5 minst 6 hp ska vara inom programmering i C, C++, PHP eller Python samt en avklarad kurs p\u00e5 minst 4 hp inom n\u00e4tverkss\u00e4kerhet, datakommunikation, n\u00e4tverksteknologier och en avklarad kurs p\u00e5 minst 4 hp inom webbteknologier eller databaser eller minst 120 hp varav minst 90 hp inom det tekniska omr\u00e5det samt minst 2 \u00e5rs yrkeserfarenhet inom omr\u00e5de som \u00e4r relaterat till mjukvaruintensiv produkt och\/eller tj\u00e4nsteutveckling (visas exempelvis genom intyg fr\u00e5n arbetsgivare)."},"Kursansvarig":{"0":"vji","1":"oba"},"L\u00e4nk till kursansvarig":{"0":"https:\/\/www.bth.se\/?searchtype=employee&s=vji","1":"https:\/\/www.bth.se\/?searchtype=employee&s=oba"},"Ers\u00e4ttande kurs":{"0":null,"1":null},"N\u00e4sta kurstillfalle":{"0":"202436 (BATW9)","1":"202445 (E2668)"},"L\u00e4nk till kursplan":{"0":"https:\/\/edu.bth.se\/utbildning\/redirect.asp?KtAnmKod=BATW9&KtTermin=20242&lang=sv","1":"https:\/\/edu.bth.se\/utbildning\/redirect.asp?KtAnmKod=BWUMW&KtTermin=20242&lang=sv"},"L\u00e4nk till utbildningsplan":{"0":"https:\/\/edu.bth.se\/utbildningsplaner\/TESTX_HT-24.pdf","1":"https:\/\/edu.bth.se\/utbildningsplaner\/TESTX_HT-24.pdf"}}
+[
+    {
+        "code":"IY2611",
+        "name":"Ekonomisk analys av teknologi och innovation",
+        "points":7.0,
+        "semester":"H\u00f6sttermin 2024",
+        "start_week":202436,
+        "end_week":202444,
+        "period":1,
+        "type":"Obligatorisk",
+        "focus":null,
+        "prerequisites":"F\u00f6r tilltr\u00e4det till kursen kr\u00e4vs h\u00f6gskoleingenj\u00f6rsexamen, 180 hp, inom teknik inklusive ett sj\u00e4lvst\u00e4ndigt arbete, 7,5 hp, matematik\/till\u00e4mpad matematik p\u00e5 grundniv\u00e5\/avancerad niv\u00e5, 15 hp samt, industriell ekonomi och organisation,  f\u00f6retagsekonomi, 5 hp. D\u00e4rut\u00f6ver kr\u00e4vs Engelska 6 samt 2 \u00e5rs arbetslivserfarenhet.",
+        "teacher":"vji",
+        "teacher_url":"https:\/\/www.bth.se\/?searchtype=employee&s=vji",
+        "replacement":null,
+        "next_instance":"202436 (BATW9)",
+        "syllabus_url":"https:\/\/edu.bth.se\/utbildning\/redirect.asp?KtAnmKod=BATW9&KtTermin=20242&lang=sv",
+        "education_plan_url":"https:\/\/edu.bth.se\/utbildningsplaner\/TESTX_HT-24.pdf"
+    },
+    {
+        "code":"DV2621",
+        "name":"S\u00e4kerhet i webbsystem",
+        "points":7.0,
+        "semester":"H\u00f6sttermin 2024",
+        "start_week":202445,
+        "end_week":202503,
+        "period":2,
+        "type":"Obligatorisk",
+        "focus":null,
+        "prerequisites":"F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs 90 hp varav 40 hp inom det tekniska omr\u00e5det varav en avklarad kurs p\u00e5 minst 6 hp ska vara inom programmering i C, C++, PHP eller Python samt en avklarad kurs p\u00e5 minst 4 hp inom n\u00e4tverkss\u00e4kerhet, datakommunikation, n\u00e4tverksteknologier och en avklarad kurs p\u00e5 minst 4 hp inom webbteknologier eller databaser eller minst 120 hp varav minst 90 hp inom det tekniska omr\u00e5det samt minst 2 \u00e5rs yrkeserfarenhet inom omr\u00e5de som \u00e4r relaterat till mjukvaruintensiv produkt och\/eller tj\u00e4nsteutveckling (visas exempelvis genom intyg fr\u00e5n arbetsgivare).",
+        "teacher":"oba",
+        "teacher_url":"https:\/\/www.bth.se\/?searchtype=employee&s=oba",
+        "replacement":null,
+        "next_instance":"202445 (E2668)",
+        "syllabus_url":"https:\/\/edu.bth.se\/utbildning\/redirect.asp?KtAnmKod=BWUMW&KtTermin=20242&lang=sv",
+        "education_plan_url":"https:\/\/edu.bth.se\/utbildningsplaner\/TESTX_HT-24.pdf"
+    }
+]
