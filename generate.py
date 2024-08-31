@@ -220,9 +220,8 @@ async def main() -> int:
 
     with open(TEACHER_CSV, "r", encoding="utf-8") as f:
         df = pd.read_csv(f, delimiter=";")
+        df.loc[df["name"] == "Nan Huang", "code"] = "nan" # Fun edge case, since the code is "nan", pandas believes it's NaN
         df.to_json(TEACHER_JSON, orient="records", indent=4)
-
-    os.remove(TEACHER_CSV)
 
     # Generate index
     indexes = defaultdict(list)
@@ -250,4 +249,6 @@ async def main() -> int:
     return 0
 
 if __name__ == "__main__":
-    sys.exit(asyncio.run(main()))
+    exit_code = asyncio.run(main())
+    os.remove(TEACHER_CSV)
+    sys.exit(exit_code)
