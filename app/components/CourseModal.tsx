@@ -39,7 +39,7 @@ export default function CourseModal({
         }
 
         return () => window.removeEventListener("keydown", onKeydown);
-    }, [isOpen]);
+    }, [isOpen, setIsOpen]);
 
     return createPortal(
         <Container className={isOpen ? "open" : ""}>

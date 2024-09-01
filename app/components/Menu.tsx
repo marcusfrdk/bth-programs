@@ -26,7 +26,7 @@ export default function Menu({isOpen, setIsOpen}: Props){
         }
 
         return () => window.removeEventListener("keydown", onKeydown);
-    }, [isOpen]);
+    }, [isOpen, setIsOpen]);
 
     return (
         <>

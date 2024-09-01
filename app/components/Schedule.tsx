@@ -158,7 +158,7 @@ export default function Schedule(){
 
     useEffect(() => {
         calculateTargetOffset();
-    }, [data, isLoading, isError]);
+    }, [data, isLoading, isError, calculateTargetOffset]);
 
     if(!selectedProgram || !comparedPrograms || isLoading) return <ScheduleLoading/>;
     if(!data || isError) return <ScheduleError/>;
