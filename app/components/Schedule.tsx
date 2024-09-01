@@ -196,7 +196,9 @@ export default function Schedule(){
                                                                         code = "code";
                                                                     }
 
-                                                                    const hasPrerequisites = course.prerequisites && (course.prerequisites.includes("avklar") || course.prerequisites.includes("genom"));
+                                                                    const prerequisites = course ? course.prerequisites.toLowerCase() : "";
+                                                                    const keywords = ["avkl"];
+                                                                    const hasPrerequisites = prerequisites && keywords.some(keyword => prerequisites.includes(keyword));
 
                                                                     return (
                                                                         <li 
