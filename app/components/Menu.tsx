@@ -32,9 +32,9 @@ export default function Menu({isOpen, setIsOpen}: Props){
         <>
             <Container className={isOpen ? "open" : ""}>
                 <CloseContainer>
-                    <div>
+                    <div className="ellipsis">
                         <p className="ellipsis">{selectedProgram?.name}</p>
-                        <p>{(selectedProgram?.code || "") + selectedProgram?.semester}</p>
+                        <p className="ellipsis">{(selectedProgram?.code || "") + selectedProgram?.semester}</p>
                     </div>
                     <div onClick={() => setIsOpen(false)}>
                         <MenuIconClose size="75%" fill="var(--muted)" />

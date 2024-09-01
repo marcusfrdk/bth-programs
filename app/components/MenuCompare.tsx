@@ -43,8 +43,7 @@ export default function MenuCompare(){
                 <div>
                     <AddIcon size="1.25rem" fill="var(--muted)" />
                 </div>
-                <select defaultValue="default" onChange={(e) => addComparison(e.target.value)}>
-                    <option disabled value="default">Select from {Object.keys(programs).length} programs</option>
+                <select defaultChecked defaultValue={selectedProgram ? selectedProgram?.code + selectedProgram?.semester : ""} onChange={(e) => addComparison(e.target.value)}>
                     {Object.entries(programs).sort().map(([code, semesters]) => {
                         return (
                             <optgroup key={code} label={code}>

@@ -12,11 +12,11 @@ export default function MenuChange(){
             <h2>Ändra Program</h2>
 
             <Select>
-                <p>{selectedProgram !== null ? selectedProgram.code + selectedProgram.semester : "Select program"}</p>
+                <p>{selectedProgram !== null ? selectedProgram.code + selectedProgram.semester : "Välj program"}</p>
                 <div>
                     <ChevronDown fill="var(--weak)" />
                 </div>
-                <select onChange={(e) => updateSelectedProgram(e.target.value)}>
+                <select defaultValue={selectedProgram ? selectedProgram?.code + selectedProgram?.semester : ""} onChange={(e) => updateSelectedProgram(e.target.value)}>
                     {Object.entries(programs).sort().map(([code, semesters]) => {
                         return (
                             <optgroup key={code} label={code}>

@@ -35,7 +35,7 @@ export default function SelectInitialProgram(){
             </div>
             <Select>
                 <p>Välj ditt program</p>
-                <select defaultValue="default" onChange={handleSelection}>
+                <select defaultChecked defaultValue="default" onChange={handleSelection}>
                     <option disabled value="default">Välj bland {Object.keys(programs).length} program</option>
                     {Object.entries(programs).sort().map(([code, semesters]) => {
                         return (
