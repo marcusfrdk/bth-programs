@@ -12,7 +12,10 @@ export default async function Home() {
   const index = await readFile("index");
   const names = await readFile("names");
   const teachers: TeachersType = await readFile("teachers");
-  const programs = Array.from(new Set(Object.keys(index)).intersection(new Set(Object.keys(names)))); 
+
+  const indexKeys = new Set(Object.keys(index));
+  const namesKeys = new Set(Object.keys(names));
+  const programs = Array.from(indexKeys).filter(key => namesKeys.has(key));
 
   // Read cookies
   const cookieJar = cookies();
