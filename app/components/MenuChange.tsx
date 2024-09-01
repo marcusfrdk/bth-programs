@@ -9,7 +9,7 @@ export default function MenuChange(){
     
     return (
         <Container>
-            <h2>Change</h2>
+            <h2>Ändra Program</h2>
 
             <Select>
                 <p>{selectedProgram !== null ? selectedProgram.code + selectedProgram.semester : "Select program"}</p>

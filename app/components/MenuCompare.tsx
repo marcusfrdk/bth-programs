@@ -19,10 +19,10 @@ export default function MenuCompare(){
 
     return (
         <Container>
-            <h2>Compare</h2>
+            <h2>Jämför Program</h2>
             <ul>
                 {comparedPrograms.length === 0 ? 
-                <li className="empty">Nothing to compare</li>
+                <li className="empty">Inget att jämföra med</li>
                 : comparedPrograms.map(program => {
                     return (
                         <Added key={program.code + program.semester}>
@@ -39,7 +39,7 @@ export default function MenuCompare(){
             </ul>
 
             <New>
-                <p>Choose program</p>
+                <p>Välj program</p>
                 <div>
                     <AddIcon size="1.25rem" fill="var(--muted)" />
                 </div>
