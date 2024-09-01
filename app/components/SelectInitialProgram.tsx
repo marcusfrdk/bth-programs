@@ -29,14 +29,14 @@ export default function SelectInitialProgram(){
             <div>
                 <Logo/>
                 <div>
-                    <h1>BTH Programs</h1>
-                    <p>Get an overview of your program&apos;s schedule.</p>
+                    <h1>BTH Program</h1>
+                    <p>Få en överblick över ditt programs kurser och jämför med andra.</p>
                 </div>
             </div>
             <Select>
-                <p>Select your program</p>
+                <p>Välj ditt program</p>
                 <select defaultValue="default" onChange={handleSelection}>
-                    <option disabled value="default">Select from {Object.keys(programs).length} programs</option>
+                    <option disabled value="default">Välj bland {Object.keys(programs).length} program</option>
                     {Object.entries(programs).sort().map(([code, semesters]) => {
                         return (
                             <optgroup key={code} label={code}>
