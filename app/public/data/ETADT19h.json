@@ -19,7 +19,8 @@
         "start_year": 2020,
         "end_year": 2020,
         "course_duration": 10,
-        "is_double": false
+        "is_double": false,
+        "color": "#a61555"
     },
     "ET2619": {
         "name": "Forskningsmetodik i elektroteknik med inriktning mot telekommunikationssystem",
@@ -41,7 +42,8 @@
         "start_year": 2020,
         "end_year": 2020,
         "course_duration": 10,
-        "is_double": false
+        "is_double": false,
+        "color": "#a61555"
     },
     "ET2594": {
         "name": "Kapacitetsanalys",
@@ -63,7 +65,8 @@
         "start_year": 2020,
         "end_year": 2020,
         "course_duration": 10,
-        "is_double": false
+        "is_double": false,
+        "color": "#a61555"
     },
     "MS1411": {
         "name": "Matematisk statistik",
@@ -85,7 +88,8 @@
         "start_year": 2020,
         "end_year": 2020,
         "course_duration": 10,
-        "is_double": false
+        "is_double": false,
+        "color": "#4d95e5"
     },
     "ET2598": {
         "name": "Drift av n\u00e4tverk och n\u00e4tverkstj\u00e4nster",
@@ -107,7 +111,8 @@
         "start_year": 2020,
         "end_year": 2020,
         "course_duration": 9,
-        "is_double": false
+        "is_double": false,
+        "color": "#a61555"
     },
     "ET2596": {
         "name": "Simulering",
@@ -129,7 +134,8 @@
         "start_year": 2020,
         "end_year": 2020,
         "course_duration": 9,
-        "is_double": false
+        "is_double": false,
+        "color": "#a61555"
     },
     "ET2620": {
         "name": "F\u00f6rdjupningskurs i telekommunikationssystem",
@@ -151,7 +157,8 @@
         "start_year": 2020,
         "end_year": 2021,
         "course_duration": 10,
-        "is_double": false
+        "is_double": false,
+        "color": "#a61555"
     },
     "ET2601": {
         "name": "Upplevd kvalitet i n\u00e4tverksbaserade tj\u00e4nster",
@@ -173,7 +180,8 @@
         "start_year": 2020,
         "end_year": 2021,
         "course_duration": 10,
-        "is_double": false
+        "is_double": false,
+        "color": "#a61555"
     },
     "ET2605": {
         "name": "Avancerade tr\u00e5dl\u00f6sa kommunikationssystem",
@@ -195,7 +203,8 @@
         "start_year": 2020,
         "end_year": 2021,
         "course_duration": 10,
-        "is_double": false
+        "is_double": false,
+        "color": "#a61555"
     },
     "ET2599": {
         "name": "Mjukvarubaserade n\u00e4tverk",
@@ -217,7 +226,8 @@
         "start_year": 2020,
         "end_year": 2021,
         "course_duration": 10,
-        "is_double": false
+        "is_double": false,
+        "color": "#a61555"
     },
     "ET2606": {
         "name": "Masterarbete i elektroteknik med inriktning mot telekommunikationssystem",
@@ -240,7 +250,8 @@
         "start_year": 2021,
         "end_year": 2021,
         "course_duration": 20,
-        "is_double": true
+        "is_double": true,
+        "color": "#a61555"
     },
     "_groups": {
         "2020": {

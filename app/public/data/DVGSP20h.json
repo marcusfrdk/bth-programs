@@ -19,7 +19,8 @@
         "start_year": 2020,
         "end_year": 2020,
         "course_duration": 10,
-        "is_double": false
+        "is_double": false,
+        "color": "#f00558"
     },
     "MA1484": {
         "name": "Diskret matematik",
@@ -41,7 +42,8 @@
         "start_year": 2020,
         "end_year": 2021,
         "course_duration": 10,
-        "is_double": false
+        "is_double": false,
+        "color": "#f00558"
     },
     "DV1619": {
         "name": "Datorkommunikation",
@@ -63,7 +65,8 @@
         "start_year": 2021,
         "end_year": 2021,
         "course_duration": 10,
-        "is_double": false
+        "is_double": false,
+        "color": "#3df6d4"
     },
     "UD1452": {
         "name": "Grunder i spelutveckling f\u00f6r spelprogrammering",
@@ -85,7 +88,8 @@
         "start_year": 2021,
         "end_year": 2021,
         "course_duration": 10,
-        "is_double": false
+        "is_double": false,
+        "color": "#402db6"
     },
     "PA1458": {
         "name": "Programvarudesign",
@@ -107,7 +111,8 @@
         "start_year": 2021,
         "end_year": 2021,
         "course_duration": 10,
-        "is_double": false
+        "is_double": false,
+        "color": "#86a7f4"
     },
     "DV1538": {
         "name": "Algoritmer och datastrukturer",
@@ -129,7 +134,8 @@
         "start_year": 2021,
         "end_year": 2021,
         "course_duration": 10,
-        "is_double": false
+        "is_double": false,
+        "color": "#3df6d4"
     },
     "DV1569": {
         "name": "Artificiell intelligens f\u00f6r spel",
@@ -151,7 +157,8 @@
         "start_year": 2021,
         "end_year": 2021,
         "course_duration": 9,
-        "is_double": false
+        "is_double": false,
+        "color": "#3df6d4"
     },
     "MA1485": {
         "name": "Linj\u00e4r algebra",
@@ -173,7 +180,8 @@
         "start_year": 2021,
         "end_year": 2021,
         "course_duration": 9,
-        "is_double": false
+        "is_double": false,
+        "color": "#f00558"
     },
     "DV1628": {
         "name": "Operativsystem",
@@ -195,7 +203,8 @@
         "start_year": 2021,
         "end_year": 2022,
         "course_duration": 11,
-        "is_double": false
+        "is_double": false,
+        "color": "#3df6d4"
     },
     "DV1568": {
         "name": "3D-Programmering",
@@ -218,7 +227,8 @@
         "start_year": 2021,
         "end_year": 2022,
         "course_duration": 21,
-        "is_double": true
+        "is_double": true,
+        "color": "#3df6d4"
     },
     "FY1426": {
         "name": "Till\u00e4mpad realtidsfysik",
@@ -240,7 +250,8 @@
         "start_year": 2022,
         "end_year": 2022,
         "course_duration": 10,
-        "is_double": false
+        "is_double": false,
+        "color": "#939342"
     },
     "DV1521": {
         "name": "Forskningsorientering inom spel- och programvaruteknik",
@@ -262,7 +273,8 @@
         "start_year": 2022,
         "end_year": 2022,
         "course_duration": 10,
-        "is_double": false
+        "is_double": false,
+        "color": "#3df6d4"
     },
     "DV1570": {
         "name": "Skripting och andra spr\u00e5k",
@@ -284,7 +296,8 @@
         "start_year": 2022,
         "end_year": 2022,
         "course_duration": 10,
-        "is_double": false
+        "is_double": false,
+        "color": "#3df6d4"
     },
     "DV1572": {
         "name": "Litet spelprojekt f\u00f6r Spelprogrammering",
@@ -306,7 +319,8 @@
         "start_year": 2022,
         "end_year": 2022,
         "course_duration": 10,
-        "is_double": false
+        "is_double": false,
+        "color": "#3df6d4"
     },
     "DV1567": {
         "name": "Prestandaoptimering",
@@ -328,7 +342,8 @@
         "start_year": 2022,
         "end_year": 2022,
         "course_duration": 9,
-        "is_double": false
+        "is_double": false,
+        "color": "#3df6d4"
     },
     "DV1573": {
         "name": "Stort spelutvecklingsprojekt i grupp med agil metodik",
@@ -351,7 +366,8 @@
         "start_year": 2022,
         "end_year": 2023,
         "course_duration": 20,
-        "is_double": true
+        "is_double": true,
+        "color": "#3df6d4"
     },
     "DV2556": {
         "name": "Forskningsmetodik i spel- och programvaruteknik",
@@ -373,7 +389,8 @@
         "start_year": 2023,
         "end_year": 2023,
         "course_duration": 10,
-        "is_double": false
+        "is_double": false,
+        "color": "#3df6d4"
     },
     "DV1557": {
         "name": "Anv\u00e4ndbarhet och interaktionsdesign",
@@ -395,7 +412,8 @@
         "start_year": 2023,
         "end_year": 2023,
         "course_duration": 10,
-        "is_double": false
+        "is_double": false,
+        "color": "#3df6d4"
     },
     "DV1656": {
         "name": "Kompilator- och \u00f6vers\u00e4ttarteknik",
@@ -417,7 +435,8 @@
         "start_year": 2023,
         "end_year": 2023,
         "course_duration": 10,
-        "is_double": false
+        "is_double": false,
+        "color": "#3df6d4"
     },
     "DV1478": {
         "name": "Kandidatarbete i datavetenskap",
@@ -439,7 +458,8 @@
         "start_year": 2023,
         "end_year": 2023,
         "course_duration": 10,
-        "is_double": false
+        "is_double": false,
+        "color": "#3df6d4"
     },
     "_groups": {
         "2020": {

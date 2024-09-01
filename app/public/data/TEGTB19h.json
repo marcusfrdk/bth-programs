@@ -20,7 +20,8 @@
         "start_year": 2019,
         "end_year": 2020,
         "course_duration": 21,
-        "is_double": true
+        "is_double": true,
+        "color": "#f00558"
     },
     "FY0003": {
         "name": "Fysik alfa",
@@ -43,7 +44,8 @@
         "start_year": 2019,
         "end_year": 2020,
         "course_duration": 20,
-        "is_double": true
+        "is_double": true,
+        "color": "#939342"
     },
     "NO0003": {
         "name": "Ingenj\u00f6rsorientering",
@@ -66,7 +68,8 @@
         "start_year": 2019,
         "end_year": 2020,
         "course_duration": 21,
-        "is_double": true
+        "is_double": true,
+        "color": "#23794d"
     },
     "KE0002": {
         "name": "Kemi alfa",
@@ -89,7 +92,8 @@
         "start_year": 2020,
         "end_year": 2020,
         "course_duration": 20,
-        "is_double": true
+        "is_double": true,
+        "color": "#b5e22f"
     },
     "FY0004": {
         "name": "Fysik beta",
@@ -112,7 +116,8 @@
         "start_year": 2020,
         "end_year": 2020,
         "course_duration": 20,
-        "is_double": true
+        "is_double": true,
+        "color": "#939342"
     },
     "MA0004": {
         "name": "Matematik delta",
@@ -135,7 +140,8 @@
         "start_year": 2020,
         "end_year": 2020,
         "course_duration": 20,
-        "is_double": true
+        "is_double": true,
+        "color": "#f00558"
     },
     "_groups": {
         "2019": {

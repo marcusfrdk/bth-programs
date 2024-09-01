@@ -20,7 +20,8 @@
         "start_year": 2017,
         "end_year": 2018,
         "course_duration": 20,
-        "is_double": true
+        "is_double": true,
+        "color": "#dc72da"
     },
     "FM1458": {
         "name": "Grannskap",
@@ -43,7 +44,8 @@
         "start_year": 2017,
         "end_year": 2018,
         "course_duration": 20,
-        "is_double": true
+        "is_double": true,
+        "color": "#dc72da"
     },
     "FM1459": {
         "name": "Detaljplanering och plangenomf\u00f6rande",
@@ -66,7 +68,8 @@
         "start_year": 2018,
         "end_year": 2018,
         "course_duration": 20,
-        "is_double": true
+        "is_double": true,
+        "color": "#dc72da"
     },
     "FM1460": {
         "name": "Geografiska informationssystem",
@@ -89,7 +92,8 @@
         "start_year": 2018,
         "end_year": 2018,
         "course_duration": 20,
-        "is_double": true
+        "is_double": true,
+        "color": "#dc72da"
     },
     "FM1461": {
         "name": "\u00d6versiktsplanering",
@@ -112,7 +116,8 @@
         "start_year": 2018,
         "end_year": 2018,
         "course_duration": 20,
-        "is_double": true
+        "is_double": true,
+        "color": "#dc72da"
     },
     "FM1462": {
         "name": "Milj\u00f6konsekvensbed\u00f6mning",
@@ -135,7 +140,8 @@
         "start_year": 2018,
         "end_year": 2018,
         "course_duration": 20,
-        "is_double": true
+        "is_double": true,
+        "color": "#dc72da"
     },
     "FM1477": {
         "name": "Infrastruktur och mobilitet",
@@ -157,7 +163,8 @@
         "start_year": 2018,
         "end_year": 2019,
         "course_duration": 11,
-        "is_double": false
+        "is_double": false,
+        "color": "#dc72da"
     },
     "FM1476": {
         "name": "Planeringsteori",
@@ -179,7 +186,8 @@
         "start_year": 2019,
         "end_year": 2019,
         "course_duration": 5,
-        "is_double": false
+        "is_double": false,
+        "color": "#dc72da"
     },
     "FM1465": {
         "name": "Planering och h\u00e5llbarhet",
@@ -201,7 +209,8 @@
         "start_year": 2019,
         "end_year": 2019,
         "course_duration": 5,
-        "is_double": false
+        "is_double": false,
+        "color": "#dc72da"
     },
     "FM1468": {
         "name": "Planering och medborgardeltagande",
@@ -223,7 +232,8 @@
         "start_year": 2019,
         "end_year": 2019,
         "course_duration": 5,
-        "is_double": false
+        "is_double": false,
+        "color": "#dc72da"
     },
     "FM1478": {
         "name": "Komplexa stadsbyggnadsprojekt",
@@ -245,7 +255,8 @@
         "start_year": 2019,
         "end_year": 2019,
         "course_duration": 9,
-        "is_double": false
+        "is_double": false,
+        "color": "#dc72da"
     },
     "FM1498": {
         "name": "Arkitektur och offentliga rum",
@@ -267,7 +278,8 @@
         "start_year": 2019,
         "end_year": 2019,
         "course_duration": 5,
-        "is_double": false
+        "is_double": false,
+        "color": "#dc72da"
     },
     "_groups": {
         "2017": {

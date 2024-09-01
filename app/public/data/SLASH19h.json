@@ -20,7 +20,8 @@
         "start_year": 2019,
         "end_year": 2020,
         "course_duration": 40,
-        "is_double": true
+        "is_double": true,
+        "color": "#fabdf4"
     },
     "SL2533": {
         "name": "Strategisk h\u00e5llbar utveckling",
@@ -42,7 +43,8 @@
         "start_year": 2019,
         "end_year": 2019,
         "course_duration": 9,
-        "is_double": false
+        "is_double": false,
+        "color": "#fabdf4"
     },
     "SL2540": {
         "name": "Innovation f\u00f6r h\u00e5llbarhet",
@@ -64,7 +66,8 @@
         "start_year": 2019,
         "end_year": 2019,
         "course_duration": 3,
-        "is_double": false
+        "is_double": false,
+        "color": "#fabdf4"
     },
     "SL2536": {
         "name": "Strategisk planering f\u00f6r h\u00e5llbarhet",
@@ -86,7 +89,8 @@
         "start_year": 2019,
         "end_year": 2020,
         "course_duration": 14,
-        "is_double": false
+        "is_double": false,
+        "color": "#fabdf4"
     },
     "SL2537": {
         "name": "Forskningsmetodik f\u00f6r h\u00e5llbarhet",
@@ -109,7 +113,8 @@
         "start_year": 2019,
         "end_year": 2020,
         "course_duration": 25,
-        "is_double": true
+        "is_double": true,
+        "color": "#fabdf4"
     },
     "SL2538": {
         "name": "Magisterarbete i strategiskt ledarskap f\u00f6r h\u00e5llbarhet",
@@ -132,7 +137,8 @@
         "start_year": 2020,
         "end_year": 2020,
         "course_duration": 20,
-        "is_double": true
+        "is_double": true,
+        "color": "#fabdf4"
     },
     "_groups": {
         "2019": {

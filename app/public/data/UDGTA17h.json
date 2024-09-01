@@ -20,7 +20,8 @@
         "start_year": 2017,
         "end_year": 2018,
         "course_duration": 20,
-        "is_double": true
+        "is_double": true,
+        "color": "#402db6"
     },
     "UD1440": {
         "name": "Spelgrafik - anatomi, skissteknik och spelmilj\u00f6er",
@@ -43,7 +44,8 @@
         "start_year": 2017,
         "end_year": 2018,
         "course_duration": 40,
-        "is_double": true
+        "is_double": true,
+        "color": "#402db6"
     },
     "UD1441": {
         "name": "Grunder i spelgrafik",
@@ -66,7 +68,8 @@
         "start_year": 2017,
         "end_year": 2018,
         "course_duration": 20,
-        "is_double": true
+        "is_double": true,
+        "color": "#402db6"
     },
     "DV1552": {
         "name": "Inledande programmering i C",
@@ -89,7 +92,8 @@
         "start_year": 2017,
         "end_year": 2018,
         "course_duration": 20,
-        "is_double": true
+        "is_double": true,
+        "color": "#3df6d4"
     },
     "DV1519": {
         "name": "Programmering i C++",
@@ -112,7 +116,8 @@
         "start_year": 2018,
         "end_year": 2018,
         "course_duration": 20,
-        "is_double": true
+        "is_double": true,
+        "color": "#3df6d4"
     },
     "UD1443": {
         "name": "Spelprototyptillverkning",
@@ -135,7 +140,8 @@
         "start_year": 2018,
         "end_year": 2018,
         "course_duration": 20,
-        "is_double": true
+        "is_double": true,
+        "color": "#402db6"
     },
     "UD1444": {
         "name": "Plugin-konstruktion och skriptspr\u00e5k",
@@ -158,7 +164,8 @@
         "start_year": 2018,
         "end_year": 2018,
         "course_duration": 20,
-        "is_double": true
+        "is_double": true,
+        "color": "#402db6"
     },
     "MA1433": {
         "name": "Matematik f\u00f6r Technical Artist",
@@ -180,7 +187,8 @@
         "start_year": 2018,
         "end_year": 2018,
         "course_duration": 9,
-        "is_double": false
+        "is_double": false,
+        "color": "#f00558"
     },
     "UD1442": {
         "name": "Digital skulptering och optimering",
@@ -202,7 +210,8 @@
         "start_year": 2018,
         "end_year": 2018,
         "course_duration": 9,
-        "is_double": false
+        "is_double": false,
+        "color": "#402db6"
     },
     "DV1568": {
         "name": "3D-Programmering",
@@ -225,7 +234,8 @@
         "start_year": 2018,
         "end_year": 2019,
         "course_duration": 21,
-        "is_double": true
+        "is_double": true,
+        "color": "#3df6d4"
     },
     "UD1439": {
         "name": "Till\u00e4mpade animationstekniker",
@@ -248,7 +258,8 @@
         "start_year": 2018,
         "end_year": 2019,
         "course_duration": 21,
-        "is_double": true
+        "is_double": true,
+        "color": "#402db6"
     },
     "UD1446": {
         "name": "Litet spelprojekt f\u00f6r Technical Artist",
@@ -270,7 +281,8 @@
         "start_year": 2019,
         "end_year": 2019,
         "course_duration": 10,
-        "is_double": false
+        "is_double": false,
+        "color": "#402db6"
     },
     "UD1448": {
         "name": "Stort spelutvecklingsprojekt f\u00f6r Technical Artist",
@@ -293,7 +305,8 @@
         "start_year": 2019,
         "end_year": 2020,
         "course_duration": 20,
-        "is_double": true
+        "is_double": true,
+        "color": "#402db6"
     },
     "UD1447": {
         "name": "Konstruktion av spelteknikverktyg",
@@ -315,7 +328,8 @@
         "start_year": 2019,
         "end_year": 2019,
         "course_duration": 9,
-        "is_double": false
+        "is_double": false,
+        "color": "#402db6"
     },
     "DV2556": {
         "name": "Forskningsmetodik i spel- och programvaruteknik",
@@ -337,7 +351,8 @@
         "start_year": 2020,
         "end_year": 2020,
         "course_duration": 10,
-        "is_double": false
+        "is_double": false,
+        "color": "#3df6d4"
     },
     "UD1449": {
         "name": "Kandidatarbete i Utveckling av digitala spel",
@@ -359,7 +374,8 @@
         "start_year": 2020,
         "end_year": 2020,
         "course_duration": 10,
-        "is_double": false
+        "is_double": false,
+        "color": "#402db6"
     },
     "_groups": {
         "2017": {

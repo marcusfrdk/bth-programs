@@ -5,6 +5,7 @@ import sys
 import re
 import requests
 import json
+import hashlib
 import numpy as np
 import pandas as pd
 import multiprocessing as mp
@@ -123,7 +124,12 @@ def download_program(url: str) -> None:
                 return [2, 3] if is_double else [2]
 
         df["periods"] = df.apply(fix_period, axis=1)
-        # df["periods"] = df["periods"].astype(int)
+
+        # Color
+        def generate_color(course_code: str):
+            return f"#{hashlib.sha256(course_code[:2].encode()).hexdigest()[:6]}"
+
+        df["color"] = df["code"].apply(generate_color)
 
         teacher_codes.update(df["teacher"].unique())
 
@@ -131,17 +137,6 @@ def download_program(url: str) -> None:
         df = df.drop_duplicates(subset=["code"], keep="first")
         df = df.drop(columns=["teacher_url"])
 
-        # Group courses by year and periods for easier access
-        # groups = {}
-        # for _, row in df.iterrows():
-        #     year = str(row["start_year"])
-            
-        #     if year not in groups:
-        #         groups[year] = {}
-        #     if row["periods"] not in groups[year]:
-        #         groups[year][row["periods"]] = []
-            
-        #     groups[year][row["periods"]].append(row["code"])
         groups = {}
         for _, row in df.iterrows():
             year = str(row["start_year"])

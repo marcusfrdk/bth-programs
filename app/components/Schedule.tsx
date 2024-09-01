@@ -4,9 +4,8 @@ import { useData } from "@/contexts/DataProvider";
 import { CourseType } from "@/types/Program";
 import styled from "@emotion/styled";
 import { useQuery } from "@tanstack/react-query";
-import { useState } from "react";
 
-type DataType = Record<string, Record<string, Record<string, CourseType>>>;
+type DataType = Record<string, Record<string, CourseType>>;
 type ScheduleType = Record<number, Record<number, Record<string, string[]>>>;
 
 const periodOrder = ["3", "4", "1", "2"];
@@ -54,6 +53,16 @@ export default function Schedule(){
                 });
             });
 
+            // Loop through schedule and remove periods whata the programs has empty arrays
+            Object.entries(schedule).forEach(([year, periods]) => {
+                Object.entries(periods).forEach(([period, programs]) => {
+                    const hasCourses = Object.values(programs).some(courses => courses.length > 0);
+                    if(!hasCourses){
+                        delete schedule[year as any][period as any];
+                    }
+                });
+            });
+
             return [programs, schedule];
         },
         enabled: !!selectedProgram && !!comparedPrograms
@@ -64,29 +73,34 @@ export default function Schedule(){
 
     return (
         <Container className={Object.keys(data[0]).length > 1 ? "multiple" : "single"}>
-            <h2>Schedule</h2>
+            {/* <h2>Schedule</h2> */}
             <ul>
                 {Object.entries(data[1]).map(([year, periods]) => {
                     return (
-                        <li key={year}>
-                            <p className="schedule-year">{year}</p>
+                        <li key={year} className="year">
+                            <p>{year}</p>
                             <ul>
                                 {Object.entries(periods)
                                 .sort(([a], [b]) => periodOrder.indexOf(a) - periodOrder.indexOf(b))
                                 .map(([period, programs], i) => {
                                     return (
-                                        <li key={i}>
-                                            <p className="schedule-period">{period}</p>
+                                        <li key={i} className="period">
+                                            <p>{[1, 2].includes(i + 1) ? "Spring" : "Fall"} (LP {period})</p>
                                             <ul>
                                                 {Object.entries(programs).map(([program, courses], i) => {
                                                     return (
-                                                        <li key={i}>
-                                                            <h3 className="schedule-program">{program}</h3>
+                                                        <li key={i} className="program">
                                                             <ul>
-                                                                {courses.map((course, i) => {
+                                                                {courses.sort().map((code, i) => {
+                                                                    const course = data[0][program][code];
+
                                                                     return (
-                                                                        <li key={i}>
-                                                                            {course}
+                                                                        <li 
+                                                                            key={i} 
+                                                                            className="course"
+                                                                            style={{borderLeftColor: course.color}}
+                                                                        >
+                                                                            {code}
                                                                         </li>
                                                                     )
                                                                 })}
@@ -95,6 +109,8 @@ export default function Schedule(){
                                                     )
                                                 })}
                                             </ul>
+                                            {/* {i === 3 && <p style={{width: "100%", backgroundColor: "red"}}>EXAMS</p>}
+                                            {i === 1 && <p>EXAMS</p>} */}
                                         </li>
                                     )
                                 })}
@@ -109,7 +125,6 @@ export default function Schedule(){
 
 const Container = styled.main`
     &.single {
-        background-color: red;
         .schedule-program {
             display: none;
         }
@@ -117,40 +132,75 @@ const Container = styled.main`
 
     /* Year */
     & > ul {
-        /* background-color: red; */
-    
         & > li {
+
+            & > p {
+                /* Year */
+                font-size: 1.5rem;
+                font-weight: bold;
+                position: sticky;
+                top: var(--header-height);
+                background-color: var(--neutral-0);
+                height: 3rem;
+                display: flex;
+                align-items: center;
+                z-index: 99;
+                padding: 0 1rem;
+            }
+            
             /* Period */
             & > ul {
-                /* background-color: orange; */
-
                 & > li {
+                    display: flex;
+                    flex-direction: column;
+                    gap: 1rem;
+                    padding: 0 1rem 1rem 1rem;
+
+                    & > p {
+                        /* Period */
+                        font-size: 1.25rem;
+                        font-weight: bold;
+                        background-color: var(--neutral-0);
+                        position: sticky;
+                        top: calc(var(--header-height) + 3rem);
+                        height: 2rem;
+                        z-index: 98;
+                        display: flex;
+                        align-items: center;
+                        border-bottom: 1px solid var(--neutral-2);
+                        color: var(--weak);
+                    }
+
                     /* Program */
                     & > ul {
                         display: flex;
                         gap: 1rem;
                         width: 100%;
                         
-                        /* background-color: green; */
-                        
                         & > li {
-                            /* Course */
                             width: 100%;
-                            
-                            /* background-color: var(--neutral-2); */
-                            /* background-color: blue; */
-                            background-color: green;
+                            display: flex;
+                            flex-direction: column;
+
+                            /* Course */
+                            & > ul {
+                                display: flex;
+                                flex-direction: column;
+                                gap: 0.5rem;
+                                height: 100%;
+                                
+                                & > li {
+                                    background-color: var(--neutral-1);
+                                    padding: 0.25rem 0.5rem;
+                                    border-radius: 0.25rem;
+                                    font-size: 0.875rem;
+                                    border-left: 0.125rem solid;
+                                }
+                            }
                         }
                     }
                 }
             }
         }
-    }
-
-    &.single {
-    
-    }
-
-    &.multiple {
     }
 `;

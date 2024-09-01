@@ -20,7 +20,8 @@
         "start_year": 2022,
         "end_year": 2023,
         "course_duration": 40,
-        "is_double": true
+        "is_double": true,
+        "color": "#746936"
     },
     "OM2537": {
         "name": "Specifik omv\u00e5rdnad inom psykiatrisk v\u00e5rd",
@@ -43,7 +44,8 @@
         "start_year": 2023,
         "end_year": 2024,
         "course_duration": 20,
-        "is_double": true
+        "is_double": true,
+        "color": "#746936"
     },
     "OM2538": {
         "name": "Examensarbete i omv\u00e5rdnad med inriktning mot psykiatrisk v\u00e5rd",
@@ -66,7 +68,8 @@
         "start_year": 2024,
         "end_year": 2024,
         "course_duration": 20,
-        "is_double": true
+        "is_double": true,
+        "color": "#746936"
     },
     "_groups": {
         "2022": {

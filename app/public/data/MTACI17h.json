@@ -19,7 +19,8 @@
         "start_year": 2019,
         "end_year": 2019,
         "course_duration": 9,
-        "is_double": false
+        "is_double": false,
+        "color": "#4d95e5"
     },
     "MT1530": {
         "name": "Innovativ och h\u00e5llbar produktutveckling 1",
@@ -41,7 +42,8 @@
         "start_year": 2019,
         "end_year": 2019,
         "course_duration": 9,
-        "is_double": false
+        "is_double": false,
+        "color": "#409521"
     },
     "MT1529": {
         "name": "H\u00e5llfasthetsl\u00e4ra forts\u00e4ttningskurs",
@@ -64,7 +66,8 @@
         "start_year": 2019,
         "end_year": 2020,
         "course_duration": 20,
-        "is_double": true
+        "is_double": true,
+        "color": "#409521"
     },
     "IY1402": {
         "name": "Industriell ekonomi, \u00f6versiktskurs",
@@ -86,7 +89,8 @@
         "start_year": 2019,
         "end_year": 2020,
         "course_duration": 11,
-        "is_double": false
+        "is_double": false,
+        "color": "#aaa660"
     },
     "MT1454": {
         "name": "Innovativ och h\u00e5llbar produktutveckling 2",
@@ -108,7 +112,8 @@
         "start_year": 2019,
         "end_year": 2020,
         "course_duration": 11,
-        "is_double": false
+        "is_double": false,
+        "color": "#409521"
     },
     "_groups": {
         "2019": {

@@ -19,7 +19,8 @@
         "start_year": 2019,
         "end_year": 2019,
         "course_duration": 9,
-        "is_double": false
+        "is_double": false,
+        "color": "#3df6d4"
     },
     "DV2557": {
         "name": "Till\u00e4mpad artificiell intelligens",
@@ -41,7 +42,8 @@
         "start_year": 2019,
         "end_year": 2019,
         "course_duration": 9,
-        "is_double": false
+        "is_double": false,
+        "color": "#3df6d4"
     },
     "DV1566": {
         "name": "Introduktion till Cloud Computing",
@@ -63,7 +65,8 @@
         "start_year": 2019,
         "end_year": 2020,
         "course_duration": 11,
-        "is_double": false
+        "is_double": false,
+        "color": "#3df6d4"
     },
     "DV2546": {
         "name": "Programvarus\u00e4kerhet",
@@ -85,7 +88,8 @@
         "start_year": 2019,
         "end_year": 2020,
         "course_duration": 11,
-        "is_double": false
+        "is_double": false,
+        "color": "#3df6d4"
     },
     "PA2554": {
         "name": "Forskningsmetodik i Programvaruteknik och Datavetenskap",
@@ -107,7 +111,8 @@
         "start_year": 2020,
         "end_year": 2020,
         "course_duration": 10,
-        "is_double": false
+        "is_double": false,
+        "color": "#86a7f4"
     },
     "DV1584": {
         "name": "Kompilator- och \u00f6vers\u00e4ttarteknik",
@@ -129,7 +134,8 @@
         "start_year": 2020,
         "end_year": 2020,
         "course_duration": 10,
-        "is_double": false
+        "is_double": false,
+        "color": "#3df6d4"
     },
     "PA2562": {
         "name": "S\u00e4ker mjukvaruutveckling",
@@ -151,7 +157,8 @@
         "start_year": 2020,
         "end_year": 2020,
         "course_duration": 10,
-        "is_double": false
+        "is_double": false,
+        "color": "#86a7f4"
     },
     "DV1557": {
         "name": "Anv\u00e4ndbarhet och interaktionsdesign",
@@ -173,7 +180,8 @@
         "start_year": 2020,
         "end_year": 2020,
         "course_duration": 10,
-        "is_double": false
+        "is_double": false,
+        "color": "#3df6d4"
     },
     "DV2573": {
         "name": "Beslutsst\u00f6djande system",
@@ -195,7 +203,8 @@
         "start_year": 2020,
         "end_year": 2020,
         "course_duration": 10,
-        "is_double": false
+        "is_double": false,
+        "color": "#3df6d4"
     },
     "DV2544": {
         "name": "Multiprocessorsystem",
@@ -217,7 +226,8 @@
         "start_year": 2020,
         "end_year": 2020,
         "course_duration": 10,
-        "is_double": false
+        "is_double": false,
+        "color": "#3df6d4"
     },
     "MS1411": {
         "name": "Matematisk statistik",
@@ -239,7 +249,8 @@
         "start_year": 2020,
         "end_year": 2020,
         "course_duration": 10,
-        "is_double": false
+        "is_double": false,
+        "color": "#4d95e5"
     },
     "DV2582": {
         "name": "Analys av illasinnad programvara (malware)",
@@ -261,7 +272,8 @@
         "start_year": 2020,
         "end_year": 2020,
         "course_duration": 9,
-        "is_double": false
+        "is_double": false,
+        "color": "#3df6d4"
     },
     "ET2596": {
         "name": "Simulering",
@@ -283,7 +295,8 @@
         "start_year": 2020,
         "end_year": 2020,
         "course_duration": 9,
-        "is_double": false
+        "is_double": false,
+        "color": "#a61555"
     },
     "DV1567": {
         "name": "Prestandaoptimering",
@@ -305,7 +318,8 @@
         "start_year": 2020,
         "end_year": 2020,
         "course_duration": 9,
-        "is_double": false
+        "is_double": false,
+        "color": "#3df6d4"
     },
     "DV2581": {
         "name": "Avancerad multicoreprogrammering",
@@ -327,7 +341,8 @@
         "start_year": 2020,
         "end_year": 2021,
         "course_duration": 10,
-        "is_double": false
+        "is_double": false,
+        "color": "#3df6d4"
     },
     "DV2545": {
         "name": "F\u00f6rdjupningskurs i Datavetenskap och kommunikation",
@@ -349,7 +364,8 @@
         "start_year": 2020,
         "end_year": 2021,
         "course_duration": 10,
-        "is_double": false
+        "is_double": false,
+        "color": "#3df6d4"
     },
     "DV2578": {
         "name": "Maskininl\u00e4rning",
@@ -371,7 +387,8 @@
         "start_year": 2020,
         "end_year": 2021,
         "course_duration": 10,
-        "is_double": false
+        "is_double": false,
+        "color": "#3df6d4"
     },
     "ET2595": {
         "name": "N\u00e4tverks- och systems\u00e4kerhet",
@@ -393,7 +410,8 @@
         "start_year": 2020,
         "end_year": 2021,
         "course_duration": 10,
-        "is_double": false
+        "is_double": false,
+        "color": "#a61555"
     },
     "DV2572": {
         "name": "Masterarbete i datavetenskap",
@@ -416,7 +434,8 @@
         "start_year": 2021,
         "end_year": 2021,
         "course_duration": 20,
-        "is_double": true
+        "is_double": true,
+        "color": "#3df6d4"
     },
     "_groups": {
         "2019": {

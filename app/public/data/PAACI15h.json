@@ -20,7 +20,8 @@
         "start_year": 2015,
         "end_year": 2016,
         "course_duration": 19,
-        "is_double": true
+        "is_double": true,
+        "color": "#f00558"
     },
     "MA1472": {
         "name": "Matematik grundkurs",
@@ -43,7 +44,8 @@
         "start_year": 2015,
         "end_year": 2016,
         "course_duration": 19,
-        "is_double": true
+        "is_double": true,
+        "color": "#f00558"
     },
     "MA1475": {
         "name": "Grunder i LaTeX",
@@ -66,7 +68,8 @@
         "start_year": 2015,
         "end_year": 2016,
         "course_duration": 19,
-        "is_double": true
+        "is_double": true,
+        "color": "#f00558"
     },
     "UD1438": {
         "name": "Grunder i spelutveckling",
@@ -89,7 +92,8 @@
         "start_year": 2015,
         "end_year": 2016,
         "course_duration": 19,
-        "is_double": true
+        "is_double": true,
+        "color": "#402db6"
     },
     "DV1521": {
         "name": "Forskningsorientering inom spel- och programvaruteknik",
@@ -112,7 +116,8 @@
         "start_year": 2015,
         "end_year": 2016,
         "course_duration": 19,
-        "is_double": true
+        "is_double": true,
+        "color": "#3df6d4"
     },
     "DV1550": {
         "name": "Inledande programmering i C",
@@ -135,7 +140,8 @@
         "start_year": 2015,
         "end_year": 2016,
         "course_duration": 19,
-        "is_double": true
+        "is_double": true,
+        "color": "#3df6d4"
     },
     "DV1497": {
         "name": "Programmering i C++",
@@ -158,7 +164,8 @@
         "start_year": 2016,
         "end_year": 2016,
         "course_duration": 20,
-        "is_double": true
+        "is_double": true,
+        "color": "#3df6d4"
     },
     "SV1406": {
         "name": "Teknisk kommunikation",
@@ -181,7 +188,8 @@
         "start_year": 2016,
         "end_year": 2016,
         "course_duration": 20,
-        "is_double": true
+        "is_double": true,
+        "color": "#a4cd8b"
     },
     "MA1445": {
         "name": "Analys 2",
@@ -204,7 +212,8 @@
         "start_year": 2016,
         "end_year": 2016,
         "course_duration": 20,
-        "is_double": true
+        "is_double": true,
+        "color": "#f00558"
     },
     "MA1446": {
         "name": "Diskret matematik",
@@ -227,7 +236,8 @@
         "start_year": 2016,
         "end_year": 2016,
         "course_duration": 20,
-        "is_double": true
+        "is_double": true,
+        "color": "#f00558"
     },
     "DV1490": {
         "name": "Algoritmer och datastrukturer",
@@ -250,7 +260,8 @@
         "start_year": 2016,
         "end_year": 2016,
         "course_duration": 20,
-        "is_double": true
+        "is_double": true,
+        "color": "#3df6d4"
     },
     "MA1448": {
         "name": "Linj\u00e4r algebra 1",
@@ -273,7 +284,8 @@
         "start_year": 2016,
         "end_year": 2017,
         "course_duration": 20,
-        "is_double": true
+        "is_double": true,
+        "color": "#f00558"
     },
     "IY1402": {
         "name": "Industriell ekonomi, \u00f6versiktskurs",
@@ -296,7 +308,8 @@
         "start_year": 2016,
         "end_year": 2017,
         "course_duration": 20,
-        "is_double": true
+        "is_double": true,
+        "color": "#aaa660"
     },
     "MS1405": {
         "name": "Matematisk statistik",
@@ -319,7 +332,8 @@
         "start_year": 2016,
         "end_year": 2017,
         "course_duration": 20,
-        "is_double": true
+        "is_double": true,
+        "color": "#4d95e5"
     },
     "DV1542": {
         "name": "3D-Programmering f\u00f6r civilingenj\u00f6rer",
@@ -342,7 +356,8 @@
         "start_year": 2016,
         "end_year": 2017,
         "course_duration": 40,
-        "is_double": true
+        "is_double": true,
+        "color": "#3df6d4"
     },
     "FY1420": {
         "name": "Fysik grundkurs",
@@ -365,7 +380,8 @@
         "start_year": 2016,
         "end_year": 2017,
         "course_duration": 20,
-        "is_double": true
+        "is_double": true,
+        "color": "#939342"
     },
     "ET1486": {
         "name": "Till\u00e4mpad datorkommunikation",
@@ -388,7 +404,8 @@
         "start_year": 2017,
         "end_year": 2017,
         "course_duration": 20,
-        "is_double": true
+        "is_double": true,
+        "color": "#a61555"
     },
     "PA1435": {
         "name": "Objektorienterad design",
@@ -411,7 +428,8 @@
         "start_year": 2017,
         "end_year": 2017,
         "course_duration": 20,
-        "is_double": true
+        "is_double": true,
+        "color": "#86a7f4"
     },
     "MA1478": {
         "name": "Linj\u00e4r algebra 2",
@@ -434,7 +452,8 @@
         "start_year": 2017,
         "end_year": 2017,
         "course_duration": 20,
-        "is_double": true
+        "is_double": true,
+        "color": "#f00558"
     },
     "DV1536": {
         "name": "Databasteknik",
@@ -457,7 +476,8 @@
         "start_year": 2017,
         "end_year": 2017,
         "course_duration": 20,
-        "is_double": true
+        "is_double": true,
+        "color": "#3df6d4"
     },
     "DV1493": {
         "name": "Datorteknik",
@@ -480,7 +500,8 @@
         "start_year": 2017,
         "end_year": 2017,
         "course_duration": 20,
-        "is_double": true
+        "is_double": true,
+        "color": "#3df6d4"
     },
     "SL1404": {
         "name": "Milj\u00f6strategi och h\u00e5llbar utveckling",
@@ -503,7 +524,8 @@
         "start_year": 2017,
         "end_year": 2018,
         "course_duration": 20,
-        "is_double": true
+        "is_double": true,
+        "color": "#fabdf4"
     },
     "FY1412": {
         "name": "Fysik f\u00f6r spelteknik",
@@ -526,7 +548,8 @@
         "start_year": 2017,
         "end_year": 2018,
         "course_duration": 20,
-        "is_double": true
+        "is_double": true,
+        "color": "#939342"
     },
     "PA1454": {
         "name": "Programvaruarkitektur och kvalitet",
@@ -549,7 +572,8 @@
         "start_year": 2017,
         "end_year": 2018,
         "course_duration": 20,
-        "is_double": true
+        "is_double": true,
+        "color": "#86a7f4"
     },
     "DV1506": {
         "name": "Spelteknik f\u00f6r webben",
@@ -572,7 +596,8 @@
         "start_year": 2017,
         "end_year": 2018,
         "course_duration": 20,
-        "is_double": true
+        "is_double": true,
+        "color": "#3df6d4"
     },
     "DV1492": {
         "name": "Realtid- och operativsystem",
@@ -595,7 +620,8 @@
         "start_year": 2017,
         "end_year": 2018,
         "course_duration": 20,
-        "is_double": true
+        "is_double": true,
+        "color": "#3df6d4"
     },
     "DV1504": {
         "name": "Litet spelprojekt",
@@ -618,7 +644,8 @@
         "start_year": 2018,
         "end_year": 2018,
         "course_duration": 20,
-        "is_double": true
+        "is_double": true,
+        "color": "#3df6d4"
     },
     "HI1402": {
         "name": "Teknikhistoria och samh\u00e4llsutveckling",
@@ -641,7 +668,8 @@
         "start_year": 2018,
         "end_year": 2018,
         "course_duration": 20,
-        "is_double": true
+        "is_double": true,
+        "color": "#cd6f68"
     },
     "IY1424": {
         "name": "Ledarskap och projektverksamhet",
@@ -664,7 +692,8 @@
         "start_year": 2018,
         "end_year": 2018,
         "course_duration": 20,
-        "is_double": true
+        "is_double": true,
+        "color": "#aaa660"
     },
     "MA1454": {
         "name": "Numerisk analys",
@@ -687,7 +716,8 @@
         "start_year": 2018,
         "end_year": 2018,
         "course_duration": 20,
-        "is_double": true
+        "is_double": true,
+        "color": "#f00558"
     },
     "DV1564": {
         "name": "Scripting och interpretatorteknik",
@@ -710,7 +740,8 @@
         "start_year": 2018,
         "end_year": 2018,
         "course_duration": 20,
-        "is_double": true
+        "is_double": true,
+        "color": "#3df6d4"
     },
     "IY2539": {
         "name": "Entrepren\u00f6rskap och det innovativa f\u00f6retaget",
@@ -732,7 +763,8 @@
         "start_year": 2018,
         "end_year": 2018,
         "course_duration": 9,
-        "is_double": false
+        "is_double": false,
+        "color": "#aaa660"
     },
     "DV2557": {
         "name": "Till\u00e4mpad artificiell intelligens",
@@ -754,7 +786,8 @@
         "start_year": 2018,
         "end_year": 2018,
         "course_duration": 9,
-        "is_double": false
+        "is_double": false,
+        "color": "#3df6d4"
     },
     "PA2555": {
         "name": "Agile och Lean Mjukvaruutveckling",
@@ -776,7 +809,8 @@
         "start_year": 2018,
         "end_year": 2018,
         "course_duration": 9,
-        "is_double": false
+        "is_double": false,
+        "color": "#86a7f4"
     },
     "DV1567": {
         "name": "Prestandaoptimering",
@@ -798,7 +832,8 @@
         "start_year": 2018,
         "end_year": 2018,
         "course_duration": 9,
-        "is_double": false
+        "is_double": false,
+        "color": "#3df6d4"
     },
     "DV2581": {
         "name": "Avancerad multicoreprogrammering",
@@ -820,7 +855,8 @@
         "start_year": 2018,
         "end_year": 2019,
         "course_duration": 11,
-        "is_double": false
+        "is_double": false,
+        "color": "#3df6d4"
     },
     "DV2578": {
         "name": "Maskininl\u00e4rning",
@@ -842,7 +878,8 @@
         "start_year": 2018,
         "end_year": 2019,
         "course_duration": 11,
-        "is_double": false
+        "is_double": false,
+        "color": "#3df6d4"
     },
     "DV1472": {
         "name": "Artificiell intelligens f\u00f6r spel",
@@ -864,7 +901,8 @@
         "start_year": 2018,
         "end_year": 2019,
         "course_duration": 11,
-        "is_double": false
+        "is_double": false,
+        "color": "#3df6d4"
     },
     "DV2556": {
         "name": "Forskningsmetodik i spel- och programvaruteknik",
@@ -887,7 +925,8 @@
         "start_year": 2019,
         "end_year": 2019,
         "course_duration": 20,
-        "is_double": true
+        "is_double": true,
+        "color": "#3df6d4"
     },
     "DV2551": {
         "name": "3D-programmering lll",
@@ -909,7 +948,8 @@
         "start_year": 2019,
         "end_year": 2019,
         "course_duration": 10,
-        "is_double": false
+        "is_double": false,
+        "color": "#3df6d4"
     },
     "PA2552": {
         "name": "Mjukvarutestning",
@@ -931,7 +971,8 @@
         "start_year": 2019,
         "end_year": 2019,
         "course_duration": 10,
-        "is_double": false
+        "is_double": false,
+        "color": "#86a7f4"
     },
     "DV1508": {
         "name": "Gr\u00e4nssnitt f\u00f6r spelredigeringsverktyg",
@@ -953,7 +994,8 @@
         "start_year": 2019,
         "end_year": 2019,
         "course_duration": 10,
-        "is_double": false
+        "is_double": false,
+        "color": "#3df6d4"
     },
     "DV1509": {
         "name": "Till\u00e4mpad ljudteknik",
@@ -975,7 +1017,8 @@
         "start_year": 2019,
         "end_year": 2019,
         "course_duration": 10,
-        "is_double": false
+        "is_double": false,
+        "color": "#3df6d4"
     },
     "PA2526": {
         "name": "Stort spelprojekt",
@@ -998,7 +1041,8 @@
         "start_year": 2019,
         "end_year": 2020,
         "course_duration": 20,
-        "is_double": true
+        "is_double": true,
+        "color": "#86a7f4"
     },
     "TE2502": {
         "name": "Examensarbete f\u00f6r civilingenj\u00f6rer",
@@ -1021,7 +1065,8 @@
         "start_year": 2020,
         "end_year": 2020,
         "course_duration": 20,
-        "is_double": true
+        "is_double": true,
+        "color": "#4aa7f5"
     },
     "_groups": {
         "2015": {

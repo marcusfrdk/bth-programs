@@ -20,7 +20,8 @@
         "start_year": 2021,
         "end_year": 2021,
         "course_duration": 20,
-        "is_double": true
+        "is_double": true,
+        "color": "#86a7f4"
     },
     "PA2579": {
         "name": "Adaptiv Lean Programvarutestning",
@@ -43,7 +44,8 @@
         "start_year": 2021,
         "end_year": 2021,
         "course_duration": 20,
-        "is_double": true
+        "is_double": true,
+        "color": "#86a7f4"
     },
     "PA2577": {
         "name": "Till\u00e4mpad Cloud Computing och Big Data",
@@ -66,7 +68,8 @@
         "start_year": 2021,
         "end_year": 2022,
         "course_duration": 20,
-        "is_double": true
+        "is_double": true,
+        "color": "#86a7f4"
     },
     "PA2580": {
         "name": "Agil och Lean utveckling av mjukvaruintensiva produkter",
@@ -89,7 +92,8 @@
         "start_year": 2021,
         "end_year": 2022,
         "course_duration": 20,
-        "is_double": true
+        "is_double": true,
+        "color": "#86a7f4"
     },
     "PA2584": {
         "name": "Forskningsmetodik och magisterarbete i programvaruteknik f\u00f6r yrkesverksamma",
@@ -112,7 +116,8 @@
         "start_year": 2022,
         "end_year": 2023,
         "course_duration": 52,
-        "is_double": true
+        "is_double": true,
+        "color": "#86a7f4"
     },
     "DV2612": {
         "name": "Maskininl\u00e4rning och s\u00e4kerhet",
@@ -135,7 +140,8 @@
         "start_year": 2022,
         "end_year": 2022,
         "course_duration": 20,
-        "is_double": true
+        "is_double": true,
+        "color": "#3df6d4"
     },
     "PA2585": {
         "name": "Introduktion till s\u00e4kerhet f\u00f6r mjukvaruutveckling",
@@ -158,7 +164,8 @@
         "start_year": 2022,
         "end_year": 2022,
         "course_duration": 20,
-        "is_double": true
+        "is_double": true,
+        "color": "#86a7f4"
     },
     "_groups": {
         "2021": {

@@ -19,7 +19,8 @@
         "start_year": 2018,
         "end_year": 2018,
         "course_duration": 9,
-        "is_double": false
+        "is_double": false,
+        "color": "#dc72da"
     },
     "FM2591": {
         "name": "Studio I - strukturer",
@@ -41,7 +42,8 @@
         "start_year": 2018,
         "end_year": 2019,
         "course_duration": 11,
-        "is_double": false
+        "is_double": false,
+        "color": "#dc72da"
     },
     "FM2597": {
         "name": "Vetenskapligt arbete: teoretiska utg\u00e5ngspunkter och unders\u00f6kningsmetoder",
@@ -63,7 +65,8 @@
         "start_year": 2019,
         "end_year": 2019,
         "course_duration": 5,
-        "is_double": false
+        "is_double": false,
+        "color": "#dc72da"
     },
     "FM2598": {
         "name": "Samh\u00e4llsorganisation och styrformer",
@@ -85,7 +88,8 @@
         "start_year": 2019,
         "end_year": 2019,
         "course_duration": 5,
-        "is_double": false
+        "is_double": false,
+        "color": "#dc72da"
     },
     "FM2592": {
         "name": "Studio II - situationer",
@@ -107,7 +111,8 @@
         "start_year": 2019,
         "end_year": 2019,
         "course_duration": 10,
-        "is_double": false
+        "is_double": false,
+        "color": "#dc72da"
     },
     "FM2587": {
         "name": "Infrastruktur och h\u00e5llbarhet",
@@ -129,7 +134,8 @@
         "start_year": 2019,
         "end_year": 2019,
         "course_duration": 5,
-        "is_double": false
+        "is_double": false,
+        "color": "#dc72da"
     },
     "FM2590": {
         "name": "Urbanteori",
@@ -151,7 +157,8 @@
         "start_year": 2019,
         "end_year": 2019,
         "course_duration": 5,
-        "is_double": false
+        "is_double": false,
+        "color": "#dc72da"
     },
     "FM2593": {
         "name": "Studio III - komplexiteter",
@@ -173,7 +180,8 @@
         "start_year": 2019,
         "end_year": 2020,
         "course_duration": 11,
-        "is_double": false
+        "is_double": false,
+        "color": "#dc72da"
     },
     "FM2594": {
         "name": "Masterarbete i fysisk planering",
@@ -196,7 +204,8 @@
         "start_year": 2020,
         "end_year": 2020,
         "course_duration": 20,
-        "is_double": true
+        "is_double": true,
+        "color": "#dc72da"
     },
     "_groups": {
         "2018": {

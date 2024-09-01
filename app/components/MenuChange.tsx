@@ -56,7 +56,6 @@ const Select = styled.div`
 
     & > p {
         font-size: 1rem;
-        font-weight: bold;
     }
 
     & > div {

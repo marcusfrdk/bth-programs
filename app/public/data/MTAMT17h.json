@@ -20,7 +20,8 @@
         "start_year": 2017,
         "end_year": 2018,
         "course_duration": 20,
-        "is_double": true
+        "is_double": true,
+        "color": "#f00558"
     },
     "MT1472": {
         "name": "Mekanisk systemdynamik",
@@ -43,7 +44,8 @@
         "start_year": 2017,
         "end_year": 2018,
         "course_duration": 20,
-        "is_double": true
+        "is_double": true,
+        "color": "#409521"
     },
     "SL2531": {
         "name": "Introduktion till Strategisk H\u00e5llbar Utveckling",
@@ -66,7 +68,8 @@
         "start_year": 2017,
         "end_year": 2018,
         "course_duration": 20,
-        "is_double": true
+        "is_double": true,
+        "color": "#fabdf4"
     },
     "ET1468": {
         "name": "Signalbehandling I",
@@ -89,7 +92,8 @@
         "start_year": 2017,
         "end_year": 2018,
         "course_duration": 20,
-        "is_double": true
+        "is_double": true,
+        "color": "#a61555"
     },
     "MT2526": {
         "name": "Mekanikens approximativa ber\u00e4kningsmetoder 1",
@@ -112,7 +116,8 @@
         "start_year": 2018,
         "end_year": 2018,
         "course_duration": 20,
-        "is_double": true
+        "is_double": true,
+        "color": "#409521"
     },
     "MT2529": {
         "name": "Strukturanalys",
@@ -135,7 +140,8 @@
         "start_year": 2018,
         "end_year": 2018,
         "course_duration": 20,
-        "is_double": true
+        "is_double": true,
+        "color": "#409521"
     },
     "MT2522": {
         "name": "Brottmekanik",
@@ -158,7 +164,8 @@
         "start_year": 2018,
         "end_year": 2018,
         "course_duration": 20,
-        "is_double": true
+        "is_double": true,
+        "color": "#409521"
     },
     "ET2545": {
         "name": "Ljud- och vibrationsanalys",
@@ -181,7 +188,8 @@
         "start_year": 2018,
         "end_year": 2018,
         "course_duration": 20,
-        "is_double": true
+        "is_double": true,
+        "color": "#a61555"
     },
     "ET2544": {
         "name": "Experimentell modalanalys",
@@ -203,7 +211,8 @@
         "start_year": 2018,
         "end_year": 2018,
         "course_duration": 9,
-        "is_double": false
+        "is_double": false,
+        "color": "#a61555"
     },
     "MT2560": {
         "name": "Mekanikens approximativa ber\u00e4kningsmetoder 2:1",
@@ -225,7 +234,8 @@
         "start_year": 2018,
         "end_year": 2018,
         "course_duration": 9,
-        "is_double": false
+        "is_double": false,
+        "color": "#409521"
     },
     "MT2521": {
         "name": "Forskningsmetodik med inriktning mot ingenj\u00f6rsvetenskap",
@@ -247,7 +257,8 @@
         "start_year": 2018,
         "end_year": 2019,
         "course_duration": 11,
-        "is_double": false
+        "is_double": false,
+        "color": "#409521"
     },
     "MT2553": {
         "name": "Fysikalisk akustik",
@@ -269,7 +280,8 @@
         "start_year": 2018,
         "end_year": 2019,
         "course_duration": 11,
-        "is_double": false
+        "is_double": false,
+        "color": "#409521"
     },
     "MT2559": {
         "name": "Simuleringsdriven produktutveckling",
@@ -291,7 +303,8 @@
         "start_year": 2018,
         "end_year": 2019,
         "course_duration": 11,
-        "is_double": false
+        "is_double": false,
+        "color": "#409521"
     },
     "MT2565": {
         "name": "Masterarbete i maskinteknik med inriktning mot strukturmekanik",
@@ -314,7 +327,8 @@
         "start_year": 2019,
         "end_year": 2019,
         "course_duration": 20,
-        "is_double": true
+        "is_double": true,
+        "color": "#409521"
     },
     "_groups": {
         "2017": {

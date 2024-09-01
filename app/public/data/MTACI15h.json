@@ -19,7 +19,8 @@
         "start_year": 2018,
         "end_year": 2018,
         "course_duration": 9,
-        "is_double": false
+        "is_double": false,
+        "color": "#f00558"
     },
     "MT2554": {
         "name": "V\u00e4rdeinnovation",
@@ -41,7 +42,8 @@
         "start_year": 2018,
         "end_year": 2018,
         "course_duration": 9,
-        "is_double": false
+        "is_double": false,
+        "color": "#409521"
     },
     "MT1528": {
         "name": "Produktionssystem",
@@ -63,7 +65,8 @@
         "start_year": 2018,
         "end_year": 2018,
         "course_duration": 9,
-        "is_double": false
+        "is_double": false,
+        "color": "#409521"
     },
     "MT1531": {
         "name": "Dimensioneringsmetodik",
@@ -85,7 +88,8 @@
         "start_year": 2018,
         "end_year": 2018,
         "course_duration": 9,
-        "is_double": false
+        "is_double": false,
+        "color": "#409521"
     },
     "MT1535": {
         "name": "Tillverkningsanpassad konstruktion",
@@ -107,7 +111,8 @@
         "start_year": 2018,
         "end_year": 2018,
         "course_duration": 9,
-        "is_double": false
+        "is_double": false,
+        "color": "#409521"
     },
     "MT1533": {
         "name": "Mekanisk systemdynamik",
@@ -129,7 +134,8 @@
         "start_year": 2018,
         "end_year": 2019,
         "course_duration": 11,
-        "is_double": false
+        "is_double": false,
+        "color": "#409521"
     },
     "ET1539": {
         "name": "Signalbehandling",
@@ -151,7 +157,8 @@
         "start_year": 2018,
         "end_year": 2019,
         "course_duration": 11,
-        "is_double": false
+        "is_double": false,
+        "color": "#a61555"
     },
     "MT2543": {
         "name": "Metoder f\u00f6r h\u00e5llbar produkt- och tj\u00e4nstesystemutveckling",
@@ -173,7 +180,8 @@
         "start_year": 2019,
         "end_year": 2019,
         "course_duration": 10,
-        "is_double": false
+        "is_double": false,
+        "color": "#409521"
     },
     "MT2562": {
         "name": "Strukturanalys",
@@ -195,7 +203,8 @@
         "start_year": 2019,
         "end_year": 2019,
         "course_duration": 10,
-        "is_double": false
+        "is_double": false,
+        "color": "#409521"
     },
     "MT1527": {
         "name": "Finita Elementmetoden, grundkurs",
@@ -217,7 +226,8 @@
         "start_year": 2019,
         "end_year": 2019,
         "course_duration": 10,
-        "is_double": false
+        "is_double": false,
+        "color": "#409521"
     },
     "MT1444": {
         "name": "Lean Produktion",
@@ -239,7 +249,8 @@
         "start_year": 2019,
         "end_year": 2019,
         "course_duration": 10,
-        "is_double": false
+        "is_double": false,
+        "color": "#409521"
     },
     "MT2558": {
         "name": "Mekanikens approximativa ber\u00e4kningsmetoder 1",
@@ -261,7 +272,8 @@
         "start_year": 2019,
         "end_year": 2019,
         "course_duration": 10,
-        "is_double": false
+        "is_double": false,
+        "color": "#409521"
     },
     "ET2545": {
         "name": "Ljud- och vibrationsanalys",
@@ -283,7 +295,8 @@
         "start_year": 2019,
         "end_year": 2019,
         "course_duration": 10,
-        "is_double": false
+        "is_double": false,
+        "color": "#a61555"
     },
     "MT2563": {
         "name": "Systems Engineering",
@@ -305,7 +318,8 @@
         "start_year": 2019,
         "end_year": 2019,
         "course_duration": 10,
-        "is_double": false
+        "is_double": false,
+        "color": "#409521"
     },
     "MT1541": {
         "name": "Industriell design",
@@ -327,7 +341,8 @@
         "start_year": 2019,
         "end_year": 2019,
         "course_duration": 10,
-        "is_double": false
+        "is_double": false,
+        "color": "#409521"
     },
     "MT2564": {
         "name": "Design Thinking",
@@ -349,7 +364,8 @@
         "start_year": 2019,
         "end_year": 2019,
         "course_duration": 10,
-        "is_double": false
+        "is_double": false,
+        "color": "#409521"
     },
     "MT2560": {
         "name": "Mekanikens approximativa ber\u00e4kningsmetoder 2:1",
@@ -371,7 +387,8 @@
         "start_year": 2019,
         "end_year": 2019,
         "course_duration": 9,
-        "is_double": false
+        "is_double": false,
+        "color": "#409521"
     },
     "ET2544": {
         "name": "Experimentell modalanalys",
@@ -393,7 +410,8 @@
         "start_year": 2019,
         "end_year": 2019,
         "course_duration": 9,
-        "is_double": false
+        "is_double": false,
+        "color": "#a61555"
     },
     "MT2546": {
         "name": "Kreativitet f\u00f6r produkt- och tj\u00e4nsteutveckling",
@@ -415,7 +433,8 @@
         "start_year": 2019,
         "end_year": 2019,
         "course_duration": 9,
-        "is_double": false
+        "is_double": false,
+        "color": "#409521"
     },
     "MT1448": {
         "name": "Kvalitetsutveckling",
@@ -437,7 +456,8 @@
         "start_year": 2019,
         "end_year": 2020,
         "course_duration": 11,
-        "is_double": false
+        "is_double": false,
+        "color": "#409521"
     },
     "MT2559": {
         "name": "Simuleringsdriven produktutveckling",
@@ -459,7 +479,8 @@
         "start_year": 2019,
         "end_year": 2020,
         "course_duration": 11,
-        "is_double": false
+        "is_double": false,
+        "color": "#409521"
     },
     "MT2521": {
         "name": "Forskningsmetodik med inriktning mot ingenj\u00f6rsvetenskap",
@@ -481,7 +502,8 @@
         "start_year": 2019,
         "end_year": 2020,
         "course_duration": 11,
-        "is_double": false
+        "is_double": false,
+        "color": "#409521"
     },
     "MT2553": {
         "name": "Fysikalisk akustik",
@@ -503,7 +525,8 @@
         "start_year": 2019,
         "end_year": 2020,
         "course_duration": 11,
-        "is_double": false
+        "is_double": false,
+        "color": "#409521"
     },
     "MT2557": {
         "name": "Knowledge Enabled Engineering",
@@ -525,7 +548,8 @@
         "start_year": 2019,
         "end_year": 2020,
         "course_duration": 11,
-        "is_double": false
+        "is_double": false,
+        "color": "#409521"
     },
     "MT2555": {
         "name": "Produkt- och tj\u00e4nstesystemforskning",
@@ -547,7 +571,8 @@
         "start_year": 2019,
         "end_year": 2020,
         "course_duration": 11,
-        "is_double": false
+        "is_double": false,
+        "color": "#409521"
     },
     "TE2502": {
         "name": "Examensarbete f\u00f6r civilingenj\u00f6rer",
@@ -570,7 +595,8 @@
         "start_year": 2020,
         "end_year": 2020,
         "course_duration": 20,
-        "is_double": true
+        "is_double": true,
+        "color": "#4aa7f5"
     },
     "_groups": {
         "2018": {

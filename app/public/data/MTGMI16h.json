@@ -20,7 +20,8 @@
         "start_year": 2016,
         "end_year": 2017,
         "course_duration": 21,
-        "is_double": true
+        "is_double": true,
+        "color": "#f00558"
     },
     "MA1448": {
         "name": "Linj\u00e4r algebra 1",
@@ -43,7 +44,8 @@
         "start_year": 2016,
         "end_year": 2017,
         "course_duration": 20,
-        "is_double": true
+        "is_double": true,
+        "color": "#f00558"
     },
     "MT1503": {
         "name": "Teknisk introduktionskurs i maskinteknik f\u00f6r h\u00f6gskoleingenj\u00f6rer",
@@ -66,7 +68,8 @@
         "start_year": 2016,
         "end_year": 2017,
         "course_duration": 20,
-        "is_double": true
+        "is_double": true,
+        "color": "#409521"
     },
     "SL1404": {
         "name": "Milj\u00f6strategi och h\u00e5llbar utveckling",
@@ -89,7 +92,8 @@
         "start_year": 2016,
         "end_year": 2017,
         "course_duration": 20,
-        "is_double": true
+        "is_double": true,
+        "color": "#fabdf4"
     },
     "FY1420": {
         "name": "Fysik grundkurs",
@@ -112,7 +116,8 @@
         "start_year": 2016,
         "end_year": 2017,
         "course_duration": 20,
-        "is_double": true
+        "is_double": true,
+        "color": "#939342"
     },
     "SV1406": {
         "name": "Teknisk kommunikation",
@@ -135,7 +140,8 @@
         "start_year": 2017,
         "end_year": 2017,
         "course_duration": 20,
-        "is_double": true
+        "is_double": true,
+        "color": "#a4cd8b"
     },
     "MT1502": {
         "name": "Dynamik",
@@ -158,7 +164,8 @@
         "start_year": 2017,
         "end_year": 2017,
         "course_duration": 20,
-        "is_double": true
+        "is_double": true,
+        "color": "#409521"
     },
     "MA1444": {
         "name": "Analys 1",
@@ -181,7 +188,8 @@
         "start_year": 2017,
         "end_year": 2017,
         "course_duration": 20,
-        "is_double": true
+        "is_double": true,
+        "color": "#f00558"
     },
     "MT1449": {
         "name": "Datorst\u00f6d f\u00f6r ingenj\u00f6rsarbete",
@@ -204,7 +212,8 @@
         "start_year": 2017,
         "end_year": 2017,
         "course_duration": 20,
-        "is_double": true
+        "is_double": true,
+        "color": "#409521"
     },
     "MT1462": {
         "name": "Tillverkningsteknik",
@@ -227,7 +236,8 @@
         "start_year": 2017,
         "end_year": 2017,
         "course_duration": 20,
-        "is_double": true
+        "is_double": true,
+        "color": "#409521"
     },
     "MT1492": {
         "name": "Systemdynamik",
@@ -250,7 +260,8 @@
         "start_year": 2017,
         "end_year": 2018,
         "course_duration": 20,
-        "is_double": true
+        "is_double": true,
+        "color": "#409521"
     },
     "MA1445": {
         "name": "Analys 2",
@@ -273,7 +284,8 @@
         "start_year": 2017,
         "end_year": 2018,
         "course_duration": 20,
-        "is_double": true
+        "is_double": true,
+        "color": "#f00558"
     },
     "MT1497": {
         "name": "Matlab med maskintekniska till\u00e4mpningar",
@@ -296,7 +308,8 @@
         "start_year": 2017,
         "end_year": 2018,
         "course_duration": 20,
-        "is_double": true
+        "is_double": true,
+        "color": "#409521"
     },
     "FY1411": {
         "name": "Fysik forts\u00e4ttningskurs",
@@ -319,7 +332,8 @@
         "start_year": 2017,
         "end_year": 2018,
         "course_duration": 20,
-        "is_double": true
+        "is_double": true,
+        "color": "#939342"
     },
     "MT1506": {
         "name": "H\u00e5llfasthetsl\u00e4ra grundkurs",
@@ -342,7 +356,8 @@
         "start_year": 2017,
         "end_year": 2018,
         "course_duration": 20,
-        "is_double": true
+        "is_double": true,
+        "color": "#409521"
     },
     "ET1472": {
         "name": "Ell\u00e4ra",
@@ -365,7 +380,8 @@
         "start_year": 2018,
         "end_year": 2018,
         "course_duration": 20,
-        "is_double": true
+        "is_double": true,
+        "color": "#a61555"
     },
     "IY1424": {
         "name": "Ledarskap och projektverksamhet",
@@ -388,7 +404,8 @@
         "start_year": 2018,
         "end_year": 2018,
         "course_duration": 20,
-        "is_double": true
+        "is_double": true,
+        "color": "#aaa660"
     },
     "MT1455": {
         "name": "Maskinelement",
@@ -411,7 +428,8 @@
         "start_year": 2018,
         "end_year": 2018,
         "course_duration": 20,
-        "is_double": true
+        "is_double": true,
+        "color": "#409521"
     },
     "MT1505": {
         "name": "Materiall\u00e4ra",
@@ -434,7 +452,8 @@
         "start_year": 2018,
         "end_year": 2018,
         "course_duration": 20,
-        "is_double": true
+        "is_double": true,
+        "color": "#409521"
     },
     "MT1529": {
         "name": "H\u00e5llfasthetsl\u00e4ra forts\u00e4ttningskurs",
@@ -457,7 +476,8 @@
         "start_year": 2018,
         "end_year": 2019,
         "course_duration": 20,
-        "is_double": true
+        "is_double": true,
+        "color": "#409521"
     },
     "MS1405": {
         "name": "Matematisk statistik",
@@ -479,7 +499,8 @@
         "start_year": 2018,
         "end_year": 2018,
         "course_duration": 9,
-        "is_double": false
+        "is_double": false,
+        "color": "#4d95e5"
     },
     "MT1530": {
         "name": "Innovativ och h\u00e5llbar produktutveckling 1",
@@ -501,7 +522,8 @@
         "start_year": 2018,
         "end_year": 2018,
         "course_duration": 9,
-        "is_double": false
+        "is_double": false,
+        "color": "#409521"
     },
     "MT1475": {
         "name": "Examensarbete f\u00f6r h\u00f6gskoleingenj\u00f6r i maskinteknik",
@@ -524,7 +546,8 @@
         "start_year": 2018,
         "end_year": 2019,
         "course_duration": 31,
-        "is_double": true
+        "is_double": true,
+        "color": "#409521"
     },
     "MT1454": {
         "name": "Innovativ och h\u00e5llbar produktutveckling 2",
@@ -546,7 +569,8 @@
         "start_year": 2018,
         "end_year": 2019,
         "course_duration": 11,
-        "is_double": false
+        "is_double": false,
+        "color": "#409521"
     },
     "MT1540": {
         "name": "Termodynamik",
@@ -568,7 +592,8 @@
         "start_year": 2019,
         "end_year": 2019,
         "course_duration": 10,
-        "is_double": false
+        "is_double": false,
+        "color": "#409521"
     },
     "MT1526": {
         "name": "Finita Elementmetoden, grundkurs",
@@ -590,7 +615,8 @@
         "start_year": 2019,
         "end_year": 2019,
         "course_duration": 10,
-        "is_double": false
+        "is_double": false,
+        "color": "#409521"
     },
     "ET1528": {
         "name": "Automation",
@@ -612,7 +638,8 @@
         "start_year": 2019,
         "end_year": 2019,
         "course_duration": 10,
-        "is_double": false
+        "is_double": false,
+        "color": "#a61555"
     },
     "_groups": {
         "2016": {

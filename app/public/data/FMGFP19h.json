@@ -19,7 +19,8 @@
         "start_year": 2019,
         "end_year": 2019,
         "course_duration": 10,
-        "is_double": false
+        "is_double": false,
+        "color": "#dc72da"
     },
     "FM1481": {
         "name": "Rum 1",
@@ -41,7 +42,8 @@
         "start_year": 2019,
         "end_year": 2019,
         "course_duration": 5,
-        "is_double": false
+        "is_double": false,
+        "color": "#dc72da"
     },
     "FM1480": {
         "name": "Stadsbyggnadshistoria",
@@ -63,7 +65,8 @@
         "start_year": 2019,
         "end_year": 2020,
         "course_duration": 7,
-        "is_double": false
+        "is_double": false,
+        "color": "#dc72da"
     },
     "FM1484": {
         "name": "Vetenskapsteorins grunder",
@@ -85,7 +88,8 @@
         "start_year": 2020,
         "end_year": 2020,
         "course_duration": 5,
-        "is_double": false
+        "is_double": false,
+        "color": "#dc72da"
     },
     "FM1482": {
         "name": "\u00d6versiktlig planering och detaljplanering",
@@ -107,7 +111,8 @@
         "start_year": 2020,
         "end_year": 2020,
         "course_duration": 10,
-        "is_double": false
+        "is_double": false,
+        "color": "#dc72da"
     },
     "FM1485": {
         "name": "Naturresurser och landskap",
@@ -129,7 +134,8 @@
         "start_year": 2020,
         "end_year": 2020,
         "course_duration": 9,
-        "is_double": false
+        "is_double": false,
+        "color": "#dc72da"
     },
     "FM1486": {
         "name": "Planeringsteori",
@@ -151,7 +157,8 @@
         "start_year": 2020,
         "end_year": 2020,
         "course_duration": 5,
-        "is_double": false
+        "is_double": false,
+        "color": "#dc72da"
     },
     "FM1487": {
         "name": "Planeringsekonomi och genomf\u00f6rande",
@@ -173,7 +180,8 @@
         "start_year": 2020,
         "end_year": 2021,
         "course_duration": 6,
-        "is_double": false
+        "is_double": false,
+        "color": "#dc72da"
     },
     "FM1488": {
         "name": "Plan- och milj\u00f6r\u00e4tt",
@@ -195,7 +203,8 @@
         "start_year": 2021,
         "end_year": 2021,
         "course_duration": 5,
-        "is_double": false
+        "is_double": false,
+        "color": "#dc72da"
     },
     "FM1489": {
         "name": "Rum 2",
@@ -217,7 +226,8 @@
         "start_year": 2021,
         "end_year": 2021,
         "course_duration": 5,
-        "is_double": false
+        "is_double": false,
+        "color": "#dc72da"
     },
     "FM1490": {
         "name": "Infrastruktur och mobilitet",
@@ -239,7 +249,8 @@
         "start_year": 2021,
         "end_year": 2021,
         "course_duration": 10,
-        "is_double": false
+        "is_double": false,
+        "color": "#dc72da"
     },
     "FM1491": {
         "name": "Strategisk planering",
@@ -261,7 +272,8 @@
         "start_year": 2021,
         "end_year": 2021,
         "course_duration": 9,
-        "is_double": false
+        "is_double": false,
+        "color": "#dc72da"
     },
     "FM1492": {
         "name": "Komplexa stadsbyggnadsprojekt",
@@ -283,7 +295,8 @@
         "start_year": 2021,
         "end_year": 2022,
         "course_duration": 11,
-        "is_double": false
+        "is_double": false,
+        "color": "#dc72da"
     },
     "FM1493": {
         "name": "Tematisk litteraturkurs",
@@ -305,7 +318,8 @@
         "start_year": 2022,
         "end_year": 2022,
         "course_duration": 5,
-        "is_double": false
+        "is_double": false,
+        "color": "#dc72da"
     },
     "FM1494": {
         "name": "Vetenskapliga metoder",
@@ -327,7 +341,8 @@
         "start_year": 2022,
         "end_year": 2022,
         "course_duration": 5,
-        "is_double": false
+        "is_double": false,
+        "color": "#dc72da"
     },
     "FM1495": {
         "name": "Planeringens metoder",
@@ -349,7 +364,8 @@
         "start_year": 2022,
         "end_year": 2022,
         "course_duration": 5,
-        "is_double": false
+        "is_double": false,
+        "color": "#dc72da"
     },
     "FM1496": {
         "name": "Kandidatarbete, vetenskaplig uppsats",
@@ -371,7 +387,8 @@
         "start_year": 2022,
         "end_year": 2022,
         "course_duration": 10,
-        "is_double": false
+        "is_double": false,
+        "color": "#dc72da"
     },
     "FM1497": {
         "name": "Kandidatarbete, planeringsprojekt",
@@ -393,7 +410,8 @@
         "start_year": 2022,
         "end_year": 2022,
         "course_duration": 10,
-        "is_double": false
+        "is_double": false,
+        "color": "#dc72da"
     },
     "_groups": {
         "2019": {

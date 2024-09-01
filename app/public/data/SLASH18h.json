@@ -20,7 +20,8 @@
         "start_year": 2018,
         "end_year": 2019,
         "course_duration": 40,
-        "is_double": true
+        "is_double": true,
+        "color": "#fabdf4"
     },
     "SL2533": {
         "name": "Strategisk h\u00e5llbar utveckling",
@@ -42,7 +43,8 @@
         "start_year": 2018,
         "end_year": 2018,
         "course_duration": 9,
-        "is_double": false
+        "is_double": false,
+        "color": "#fabdf4"
     },
     "SL2540": {
         "name": "Innovation f\u00f6r h\u00e5llbarhet",
@@ -64,7 +66,8 @@
         "start_year": 2018,
         "end_year": 2019,
         "course_duration": 11,
-        "is_double": false
+        "is_double": false,
+        "color": "#fabdf4"
     },
     "SL2538": {
         "name": "Magisterarbete i strategiskt ledarskap f\u00f6r h\u00e5llbarhet",
@@ -87,7 +90,8 @@
         "start_year": 2019,
         "end_year": 2019,
         "course_duration": 20,
-        "is_double": true
+        "is_double": true,
+        "color": "#fabdf4"
     },
     "_groups": {
         "2018": {

@@ -19,7 +19,8 @@
         "start_year": 2020,
         "end_year": 2020,
         "course_duration": 9,
-        "is_double": false
+        "is_double": false,
+        "color": "#f00558"
     },
     "FY1431": {
         "name": "Fysik grundkurs",
@@ -41,7 +42,8 @@
         "start_year": 2020,
         "end_year": 2020,
         "course_duration": 9,
-        "is_double": false
+        "is_double": false,
+        "color": "#939342"
     },
     "MT1552": {
         "name": "Teknisk introduktionskurs i maskinteknik f\u00f6r h\u00f6gskoleingenj\u00f6rer",
@@ -64,7 +66,8 @@
         "start_year": 2020,
         "end_year": 2021,
         "course_duration": 19,
-        "is_double": true
+        "is_double": true,
+        "color": "#409521"
     },
     "DV1574": {
         "name": "Programmering och probleml\u00f6sning med Python",
@@ -86,7 +89,8 @@
         "start_year": 2020,
         "end_year": 2021,
         "course_duration": 10,
-        "is_double": false
+        "is_double": false,
+        "color": "#3df6d4"
     },
     "MA1448": {
         "name": "Linj\u00e4r algebra 1",
@@ -108,7 +112,8 @@
         "start_year": 2020,
         "end_year": 2021,
         "course_duration": 10,
-        "is_double": false
+        "is_double": false,
+        "color": "#f00558"
     },
     "MT1549": {
         "name": "Datorst\u00f6d f\u00f6r ingenj\u00f6rsarbete 1",
@@ -131,7 +136,8 @@
         "start_year": 2021,
         "end_year": 2021,
         "course_duration": 20,
-        "is_double": true
+        "is_double": true,
+        "color": "#409521"
     },
     "MA1444": {
         "name": "Analys 1",
@@ -153,7 +159,8 @@
         "start_year": 2021,
         "end_year": 2021,
         "course_duration": 10,
-        "is_double": false
+        "is_double": false,
+        "color": "#f00558"
     },
     "FY1433": {
         "name": "Fysik - v\u00e5gor och energi",
@@ -175,7 +182,8 @@
         "start_year": 2021,
         "end_year": 2021,
         "course_duration": 10,
-        "is_double": false
+        "is_double": false,
+        "color": "#939342"
     },
     "MT1462": {
         "name": "Tillverkningsteknik",
@@ -197,7 +205,8 @@
         "start_year": 2021,
         "end_year": 2021,
         "course_duration": 10,
-        "is_double": false
+        "is_double": false,
+        "color": "#409521"
     },
     "ET1549": {
         "name": "Matlab med till\u00e4mpningar inom matematik och teknik",
@@ -219,7 +228,8 @@
         "start_year": 2021,
         "end_year": 2021,
         "course_duration": 10,
-        "is_double": false
+        "is_double": false,
+        "color": "#a61555"
     },
     "MT1506": {
         "name": "H\u00e5llfasthetsl\u00e4ra grundkurs",
@@ -241,7 +251,8 @@
         "start_year": 2021,
         "end_year": 2021,
         "course_duration": 9,
-        "is_double": false
+        "is_double": false,
+        "color": "#409521"
     },
     "MA1494": {
         "name": "Analys 2",
@@ -263,7 +274,8 @@
         "start_year": 2021,
         "end_year": 2021,
         "course_duration": 9,
-        "is_double": false
+        "is_double": false,
+        "color": "#f00558"
     },
     "SL1409": {
         "name": "H\u00e5llbarhetsgrunder",
@@ -286,7 +298,8 @@
         "start_year": 2021,
         "end_year": 2022,
         "course_duration": 20,
-        "is_double": true
+        "is_double": true,
+        "color": "#fabdf4"
     },
     "IY1402": {
         "name": "Industriell ekonomi, \u00f6versiktskurs",
@@ -308,7 +321,8 @@
         "start_year": 2021,
         "end_year": 2022,
         "course_duration": 11,
-        "is_double": false
+        "is_double": false,
+        "color": "#aaa660"
     },
     "MT1502": {
         "name": "Dynamik",
@@ -330,7 +344,8 @@
         "start_year": 2021,
         "end_year": 2022,
         "course_duration": 11,
-        "is_double": false
+        "is_double": false,
+        "color": "#409521"
     },
     "MT1550": {
         "name": "Datorst\u00f6d f\u00f6r ingenj\u00f6rsarbete 2",
@@ -352,7 +367,8 @@
         "start_year": 2022,
         "end_year": 2022,
         "course_duration": 10,
-        "is_double": false
+        "is_double": false,
+        "color": "#409521"
     },
     "MT1544": {
         "name": "Materiall\u00e4ra",
@@ -374,7 +390,8 @@
         "start_year": 2022,
         "end_year": 2022,
         "course_duration": 10,
-        "is_double": false
+        "is_double": false,
+        "color": "#409521"
     },
     "MT1538": {
         "name": "Projektkurs 1",
@@ -397,7 +414,8 @@
         "start_year": 2022,
         "end_year": 2022,
         "course_duration": 20,
-        "is_double": true
+        "is_double": true,
+        "color": "#409521"
     },
     "ET1538": {
         "name": "Ell\u00e4ra, grundkurs",
@@ -419,7 +437,8 @@
         "start_year": 2022,
         "end_year": 2022,
         "course_duration": 10,
-        "is_double": false
+        "is_double": false,
+        "color": "#a61555"
     },
     "MT1537": {
         "name": "Maskinelement",
@@ -441,7 +460,8 @@
         "start_year": 2022,
         "end_year": 2022,
         "course_duration": 10,
-        "is_double": false
+        "is_double": false,
+        "color": "#409521"
     },
     "MT1529": {
         "name": "H\u00e5llfasthetsl\u00e4ra forts\u00e4ttningskurs",
@@ -464,7 +484,8 @@
         "start_year": 2022,
         "end_year": 2023,
         "course_duration": 20,
-        "is_double": true
+        "is_double": true,
+        "color": "#409521"
     },
     "MT1556": {
         "name": "Innovativ och h\u00e5llbar produktutveckling 1",
@@ -486,7 +507,8 @@
         "start_year": 2022,
         "end_year": 2022,
         "course_duration": 9,
-        "is_double": false
+        "is_double": false,
+        "color": "#409521"
     },
     "MS1413": {
         "name": "Matematisk\u00a0statistik\u00a0med\u00a0programvara",
@@ -508,7 +530,8 @@
         "start_year": 2022,
         "end_year": 2022,
         "course_duration": 9,
-        "is_double": false
+        "is_double": false,
+        "color": "#4d95e5"
     },
     "MT1475": {
         "name": "Examensarbete f\u00f6r h\u00f6gskoleingenj\u00f6r i maskinteknik",
@@ -531,7 +554,8 @@
         "start_year": 2022,
         "end_year": 2023,
         "course_duration": 31,
-        "is_double": true
+        "is_double": true,
+        "color": "#409521"
     },
     "MT1454": {
         "name": "Innovativ och h\u00e5llbar produktutveckling 2",
@@ -553,7 +577,8 @@
         "start_year": 2022,
         "end_year": 2023,
         "course_duration": 11,
-        "is_double": false
+        "is_double": false,
+        "color": "#409521"
     },
     "MT1540": {
         "name": "Termodynamik",
@@ -575,7 +600,8 @@
         "start_year": 2023,
         "end_year": 2023,
         "course_duration": 10,
-        "is_double": false
+        "is_double": false,
+        "color": "#409521"
     },
     "MT1546": {
         "name": "Lean Produktion",
@@ -597,7 +623,8 @@
         "start_year": 2023,
         "end_year": 2023,
         "course_duration": 10,
-        "is_double": false
+        "is_double": false,
+        "color": "#409521"
     },
     "ET1528": {
         "name": "Automation",
@@ -619,7 +646,8 @@
         "start_year": 2023,
         "end_year": 2023,
         "course_duration": 10,
-        "is_double": false
+        "is_double": false,
+        "color": "#a61555"
     },
     "_groups": {
         "2020": {

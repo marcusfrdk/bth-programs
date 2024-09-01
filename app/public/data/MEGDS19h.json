@@ -19,7 +19,8 @@
         "start_year": 2019,
         "end_year": 2019,
         "course_duration": 10,
-        "is_double": false
+        "is_double": false,
+        "color": "#7021db"
     },
     "ME1607": {
         "name": "Grunder i digitala spel",
@@ -41,7 +42,8 @@
         "start_year": 2019,
         "end_year": 2020,
         "course_duration": 11,
-        "is_double": false
+        "is_double": false,
+        "color": "#7021db"
     },
     "ME1609": {
         "name": "Gestaltande speldesign",
@@ -63,7 +65,8 @@
         "start_year": 2020,
         "end_year": 2020,
         "course_duration": 10,
-        "is_double": false
+        "is_double": false,
+        "color": "#7021db"
     },
     "ME1608": {
         "name": "Ber\u00e4ttande genom spel",
@@ -85,7 +88,8 @@
         "start_year": 2020,
         "end_year": 2020,
         "course_duration": 10,
-        "is_double": false
+        "is_double": false,
+        "color": "#7021db"
     },
     "ME1619": {
         "name": "Visuell estetik",
@@ -107,7 +111,8 @@
         "start_year": 2020,
         "end_year": 2020,
         "course_duration": 9,
-        "is_double": false
+        "is_double": false,
+        "color": "#7021db"
     },
     "ME1625": {
         "name": "Medieteknisk prototyputveckling",
@@ -129,7 +134,8 @@
         "start_year": 2020,
         "end_year": 2021,
         "course_duration": 10,
-        "is_double": false
+        "is_double": false,
+        "color": "#7021db"
     },
     "ME1612": {
         "name": "Till\u00e4mpad spelutveckling",
@@ -151,7 +157,8 @@
         "start_year": 2021,
         "end_year": 2021,
         "course_duration": 5,
-        "is_double": false
+        "is_double": false,
+        "color": "#7021db"
     },
     "ME1613": {
         "name": "Interaktivt ber\u00e4ttande",
@@ -173,7 +180,8 @@
         "start_year": 2021,
         "end_year": 2021,
         "course_duration": 5,
-        "is_double": false
+        "is_double": false,
+        "color": "#7021db"
     },
     "ME1616": {
         "name": "Design i samverkan",
@@ -195,7 +203,8 @@
         "start_year": 2021,
         "end_year": 2021,
         "course_duration": 10,
-        "is_double": false
+        "is_double": false,
+        "color": "#7021db"
     },
     "ME1592": {
         "name": "Designperspektiv\u00a0-\u00a0och\u00a0metoder\u00a0f\u00f6r\u00a0medieteknik",
@@ -217,7 +226,8 @@
         "start_year": 2021,
         "end_year": 2021,
         "course_duration": 9,
-        "is_double": false
+        "is_double": false,
+        "color": "#7021db"
     },
     "ME1644": {
         "name": "Forskningsintroduktion medieteknik",
@@ -239,7 +249,8 @@
         "start_year": 2021,
         "end_year": 2021,
         "course_duration": 5,
-        "is_double": false
+        "is_double": false,
+        "color": "#7021db"
     },
     "ME1593": {
         "name": "Till\u00e4mpad unders\u00f6kningsmetodik f\u00f6r medieteknik",
@@ -261,7 +272,8 @@
         "start_year": 2021,
         "end_year": 2022,
         "course_duration": 6,
-        "is_double": false
+        "is_double": false,
+        "color": "#7021db"
     },
     "ME1603": {
         "name": "Kandidatarbete i medieteknik",
@@ -284,7 +296,8 @@
         "start_year": 2022,
         "end_year": 2022,
         "course_duration": 20,
-        "is_double": true
+        "is_double": true,
+        "color": "#7021db"
     },
     "_groups": {
         "2019": {

@@ -19,7 +19,8 @@
         "start_year": 2023,
         "end_year": 2023,
         "course_duration": 9,
-        "is_double": false
+        "is_double": false,
+        "color": "#aaa660"
     },
     "IY2612": {
         "name": "Ekonomisk analys av marknader, f\u00f6retag och branscher",
@@ -41,7 +42,8 @@
         "start_year": 2023,
         "end_year": 2023,
         "course_duration": 9,
-        "is_double": false
+        "is_double": false,
+        "color": "#aaa660"
     },
     "IY2615": {
         "name": "Statistik och ekonometri",
@@ -63,7 +65,8 @@
         "start_year": 2023,
         "end_year": 2024,
         "course_duration": 11,
-        "is_double": false
+        "is_double": false,
+        "color": "#aaa660"
     },
     "IY2613": {
         "name": "Globalisering, digitalisering och internationaliseringsstrategier",
@@ -85,7 +88,8 @@
         "start_year": 2023,
         "end_year": 2024,
         "course_duration": 11,
-        "is_double": false
+        "is_double": false,
+        "color": "#aaa660"
     },
     "IY2618": {
         "name": "Finansiering och investeringsanalys",
@@ -107,7 +111,8 @@
         "start_year": 2024,
         "end_year": 2024,
         "course_duration": 10,
-        "is_double": false
+        "is_double": false,
+        "color": "#aaa660"
     },
     "IY2614": {
         "name": "Ekonomisk analys av teknologi, teknologisk f\u00f6r\u00e4ndring och strategi",
@@ -129,7 +134,8 @@
         "start_year": 2024,
         "end_year": 2024,
         "course_duration": 10,
-        "is_double": false
+        "is_double": false,
+        "color": "#aaa660"
     },
     "IY2619": {
         "name": "Avancerad forskningsmetod och design",
@@ -151,7 +157,8 @@
         "start_year": 2024,
         "end_year": 2024,
         "course_duration": 10,
-        "is_double": false
+        "is_double": false,
+        "color": "#aaa660"
     },
     "IY2616": {
         "name": "Innovation och aff\u00e4rsutveckling",
@@ -173,7 +180,8 @@
         "start_year": 2024,
         "end_year": 2024,
         "course_duration": 10,
-        "is_double": false
+        "is_double": false,
+        "color": "#aaa660"
     },
     "IY2631": {
         "name": "Investeringar, risk och os\u00e4kerhet",
@@ -195,7 +203,8 @@
         "start_year": 2024,
         "end_year": 2024,
         "course_duration": 9,
-        "is_double": false
+        "is_double": false,
+        "color": "#aaa660"
     },
     "IY2632": {
         "name": "Kommersialisering av produkter, tj\u00e4nster och innovationer",
@@ -217,7 +226,8 @@
         "start_year": 2024,
         "end_year": 2024,
         "course_duration": 9,
-        "is_double": false
+        "is_double": false,
+        "color": "#aaa660"
     },
     "IY2621": {
         "name": "Till\u00e4mpad produktionsekonomi",
@@ -239,7 +249,8 @@
         "start_year": 2024,
         "end_year": 2024,
         "course_duration": 9,
-        "is_double": false
+        "is_double": false,
+        "color": "#aaa660"
     },
     "IY2624": {
         "name": "Entrepren\u00f6rskap och strategi",
@@ -261,7 +272,8 @@
         "start_year": 2024,
         "end_year": 2024,
         "course_duration": 9,
-        "is_double": false
+        "is_double": false,
+        "color": "#aaa660"
     },
     "IY2620": {
         "name": "Till\u00e4mpad konkurrens- och marknadsanalys",
@@ -283,7 +295,8 @@
         "start_year": 2024,
         "end_year": 2025,
         "course_duration": 11,
-        "is_double": false
+        "is_double": false,
+        "color": "#aaa660"
     },
     "IY2626": {
         "name": "Strategi f\u00f6r mjukvaruutvecklande f\u00f6retag",
@@ -305,7 +318,8 @@
         "start_year": 2024,
         "end_year": 2025,
         "course_duration": 11,
-        "is_double": false
+        "is_double": false,
+        "color": "#aaa660"
     },
     "IY2623": {
         "name": "Till\u00e4mpad investeringsanalys",
@@ -327,7 +341,8 @@
         "start_year": 2024,
         "end_year": 2025,
         "course_duration": 11,
-        "is_double": false
+        "is_double": false,
+        "color": "#aaa660"
     },
     "IY2627": {
         "name": "Masterarbete i industriell ekonomi och management",
@@ -350,7 +365,8 @@
         "start_year": 2025,
         "end_year": 2025,
         "course_duration": 20,
-        "is_double": true
+        "is_double": true,
+        "color": "#aaa660"
     },
     "_groups": {
         "2023": {

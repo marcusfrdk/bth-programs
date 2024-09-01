@@ -19,7 +19,8 @@
         "start_year": 2022,
         "end_year": 2022,
         "course_duration": 9,
-        "is_double": false
+        "is_double": false,
+        "color": "#dc72da"
     },
     "FM2606": {
         "name": "Framtidsbilder",
@@ -41,7 +42,8 @@
         "start_year": 2022,
         "end_year": 2023,
         "course_duration": 11,
-        "is_double": false
+        "is_double": false,
+        "color": "#dc72da"
     },
     "FM2597": {
         "name": "Vetenskapligt arbete: teoretiska utg\u00e5ngspunkter och unders\u00f6kningsmetoder",
@@ -63,7 +65,8 @@
         "start_year": 2023,
         "end_year": 2023,
         "course_duration": 5,
-        "is_double": false
+        "is_double": false,
+        "color": "#dc72da"
     },
     "FM2598": {
         "name": "Samh\u00e4llsorganisation och styrformer",
@@ -85,7 +88,8 @@
         "start_year": 2023,
         "end_year": 2023,
         "course_duration": 5,
-        "is_double": false
+        "is_double": false,
+        "color": "#dc72da"
     },
     "FM2607": {
         "name": "Planeringsteori",
@@ -107,7 +111,8 @@
         "start_year": 2023,
         "end_year": 2023,
         "course_duration": 5,
-        "is_double": false
+        "is_double": false,
+        "color": "#dc72da"
     },
     "FM2599": {
         "name": "Tematiska studier",
@@ -129,7 +134,8 @@
         "start_year": 2023,
         "end_year": 2023,
         "course_duration": 5,
-        "is_double": false
+        "is_double": false,
+        "color": "#dc72da"
     },
     "FM2609": {
         "name": "Projektarbete i strategisk fysisk planering",
@@ -152,7 +158,8 @@
         "start_year": 2023,
         "end_year": 2024,
         "course_duration": 21,
-        "is_double": true
+        "is_double": true,
+        "color": "#dc72da"
     },
     "FM2608": {
         "name": "Regional planering med internationella perspektiv",
@@ -174,7 +181,8 @@
         "start_year": 2023,
         "end_year": 2023,
         "course_duration": 9,
-        "is_double": false
+        "is_double": false,
+        "color": "#dc72da"
     },
     "FM2612": {
         "name": "Masterarbete i fysisk planering",
@@ -197,7 +205,8 @@
         "start_year": 2024,
         "end_year": 2024,
         "course_duration": 20,
-        "is_double": true
+        "is_double": true,
+        "color": "#dc72da"
     },
     "_groups": {
         "2022": {

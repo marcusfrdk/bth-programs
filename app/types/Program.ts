@@ -23,6 +23,7 @@ export type CourseType = {
     end_year: number;
     course_duration: number;
     is_double: boolean;
+    color: string;
 };
 
 export type CodeType = string; // ABCDE

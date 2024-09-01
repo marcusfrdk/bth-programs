@@ -19,7 +19,8 @@
         "start_year": 2024,
         "end_year": 2024,
         "course_duration": 10,
-        "is_double": false
+        "is_double": false,
+        "color": "#f00558"
     },
     "FY1435": {
         "name": "Mekanik",
@@ -41,7 +42,8 @@
         "start_year": 2024,
         "end_year": 2024,
         "course_duration": 9,
-        "is_double": false
+        "is_double": false,
+        "color": "#939342"
     },
     "MT1567": {
         "name": "Teknisk introduktionskurs i maskinteknik",
@@ -64,7 +66,8 @@
         "start_year": 2024,
         "end_year": 2025,
         "course_duration": 20,
-        "is_double": true
+        "is_double": true,
+        "color": "#409521"
     },
     "MA1499": {
         "name": "Envariabelanalys 1: funktioner och differentialkalkyl",
@@ -86,7 +89,8 @@
         "start_year": 2024,
         "end_year": 2025,
         "course_duration": 11,
-        "is_double": false
+        "is_double": false,
+        "color": "#f00558"
     },
     "DV1574": {
         "name": "Programmering och probleml\u00f6sning med Python",
@@ -108,7 +112,8 @@
         "start_year": 2024,
         "end_year": 2025,
         "course_duration": 11,
-        "is_double": false
+        "is_double": false,
+        "color": "#3df6d4"
     },
     "MT1549": {
         "name": "Datorst\u00f6d f\u00f6r ingenj\u00f6rsarbete 1",
@@ -131,7 +136,8 @@
         "start_year": 2025,
         "end_year": 2025,
         "course_duration": 20,
-        "is_double": true
+        "is_double": true,
+        "color": "#409521"
     },
     "MA1500": {
         "name": "Envariabelanalys 2: differentialekvationer och integralkalkyl",
@@ -153,7 +159,8 @@
         "start_year": 2025,
         "end_year": 2025,
         "course_duration": 10,
-        "is_double": false
+        "is_double": false,
+        "color": "#f00558"
     },
     "ET1549": {
         "name": "Matlab med till\u00e4mpningar inom matematik och teknik",
@@ -175,7 +182,8 @@
         "start_year": 2025,
         "end_year": 2025,
         "course_duration": 10,
-        "is_double": false
+        "is_double": false,
+        "color": "#a61555"
     },
     "MT1565": {
         "name": "H\u00e5llfasthetsl\u00e4ra, grundkurs",
@@ -197,7 +205,8 @@
         "start_year": 2025,
         "end_year": 2025,
         "course_duration": 10,
-        "is_double": false
+        "is_double": false,
+        "color": "#409521"
     },
     "MT1557": {
         "name": "Nautisk introduktion",
@@ -219,7 +228,8 @@
         "start_year": 2025,
         "end_year": 2025,
         "course_duration": 10,
-        "is_double": false
+        "is_double": false,
+        "color": "#409521"
     },
     "SL1419": {
         "name": "Etik och h\u00e5llbarhet f\u00f6r maskinteknik",
@@ -242,7 +252,8 @@
         "start_year": 2025,
         "end_year": 2026,
         "course_duration": 20,
-        "is_double": true
+        "is_double": true,
+        "color": "#fabdf4"
     },
     "MA1501": {
         "name": "Flervariabelanalys",
@@ -264,7 +275,8 @@
         "start_year": 2025,
         "end_year": 2025,
         "course_duration": 9,
-        "is_double": false
+        "is_double": false,
+        "color": "#f00558"
     },
     "MT1573": {
         "name": "Mekanik: dynamik",
@@ -286,7 +298,8 @@
         "start_year": 2025,
         "end_year": 2025,
         "course_duration": 9,
-        "is_double": false
+        "is_double": false,
+        "color": "#409521"
     },
     "MT1580": {
         "name": "Teknikutveckling; marin teknik, h\u00e5llbarhet och samh\u00e4llsutveckling",
@@ -308,7 +321,8 @@
         "start_year": 2025,
         "end_year": 2026,
         "course_duration": 11,
-        "is_double": false
+        "is_double": false,
+        "color": "#409521"
     },
     "FY1437": {
         "name": "V\u00e5gfysik",
@@ -330,7 +344,8 @@
         "start_year": 2025,
         "end_year": 2026,
         "course_duration": 11,
-        "is_double": false
+        "is_double": false,
+        "color": "#939342"
     },
     "MA1503": {
         "name": "Vektoranalys",
@@ -352,7 +367,8 @@
         "start_year": 2026,
         "end_year": 2026,
         "course_duration": 10,
-        "is_double": false
+        "is_double": false,
+        "color": "#f00558"
     },
     "ET1559": {
         "name": "Marinteknisk projektkurs med produktutveckling och projektledning",
@@ -375,7 +391,8 @@
         "start_year": 2026,
         "end_year": 2026,
         "course_duration": 20,
-        "is_double": true
+        "is_double": true,
+        "color": "#a61555"
     },
     "MT1572": {
         "name": "Materiall\u00e4ra",
@@ -397,7 +414,8 @@
         "start_year": 2026,
         "end_year": 2026,
         "course_duration": 10,
-        "is_double": false
+        "is_double": false,
+        "color": "#409521"
     },
     "ET1538": {
         "name": "Ell\u00e4ra, grundkurs",
@@ -419,7 +437,8 @@
         "start_year": 2026,
         "end_year": 2026,
         "course_duration": 10,
-        "is_double": false
+        "is_double": false,
+        "color": "#a61555"
     },
     "MT1574": {
         "name": "Termodynamik",
@@ -441,7 +460,8 @@
         "start_year": 2026,
         "end_year": 2026,
         "course_duration": 10,
-        "is_double": false
+        "is_double": false,
+        "color": "#409521"
     },
     "ET1535": {
         "name": "Elektronik med till\u00e4mpningar inom m\u00e4tteknik",
@@ -464,7 +484,8 @@
         "start_year": 2026,
         "end_year": 2027,
         "course_duration": 19,
-        "is_double": true
+        "is_double": true,
+        "color": "#a61555"
     },
     "MT1563": {
         "name": "Str\u00f6mningsl\u00e4ra",
@@ -486,7 +507,8 @@
         "start_year": 2026,
         "end_year": 2026,
         "course_duration": 9,
-        "is_double": false
+        "is_double": false,
+        "color": "#409521"
     },
     "MT1562": {
         "name": "Oceanografi",
@@ -508,7 +530,8 @@
         "start_year": 2026,
         "end_year": 2026,
         "course_duration": 9,
-        "is_double": false
+        "is_double": false,
+        "color": "#409521"
     },
     "MS1416": {
         "name": "Matematisk statistik",
@@ -530,7 +553,8 @@
         "start_year": 2026,
         "end_year": 2027,
         "course_duration": 10,
-        "is_double": false
+        "is_double": false,
+        "color": "#4d95e5"
     },
     "MT1561": {
         "name": "Marin konstruktion",
@@ -552,7 +576,8 @@
         "start_year": 2026,
         "end_year": 2027,
         "course_duration": 10,
-        "is_double": false
+        "is_double": false,
+        "color": "#409521"
     },
     "TE1434": {
         "name": "Kandidatarbete i teknik f\u00f6r marin teknik",
@@ -575,7 +600,8 @@
         "start_year": 2027,
         "end_year": 2027,
         "course_duration": 20,
-        "is_double": true
+        "is_double": true,
+        "color": "#4aa7f5"
     },
     "MA1506": {
         "name": "Transformteori",
@@ -597,7 +623,8 @@
         "start_year": 2027,
         "end_year": 2027,
         "course_duration": 10,
-        "is_double": false
+        "is_double": false,
+        "color": "#f00558"
     },
     "ET1561": {
         "name": "Reglerteknik, grundkurs",
@@ -619,7 +646,8 @@
         "start_year": 2027,
         "end_year": 2027,
         "course_duration": 10,
-        "is_double": false
+        "is_double": false,
+        "color": "#a61555"
     },
     "MT1560": {
         "name": "Fartygstillsyn och marina regelverk",
@@ -642,7 +670,8 @@
         "start_year": 2027,
         "end_year": 2028,
         "course_duration": 20,
-        "is_double": true
+        "is_double": true,
+        "color": "#409521"
     },
     "ET1557": {
         "name": "Signaler och system, grundkurs",
@@ -664,7 +693,8 @@
         "start_year": 2027,
         "end_year": 2027,
         "course_duration": 9,
-        "is_double": false
+        "is_double": false,
+        "color": "#a61555"
     },
     "FY2503": {
         "name": "Elektromagnetisk f\u00e4ltteori",
@@ -686,7 +716,8 @@
         "start_year": 2027,
         "end_year": 2027,
         "course_duration": 9,
-        "is_double": false
+        "is_double": false,
+        "color": "#939342"
     },
     "ET2626": {
         "name": "Signaler och system, forts\u00e4ttningskurs",
@@ -708,7 +739,8 @@
         "start_year": 2027,
         "end_year": 2028,
         "course_duration": 11,
-        "is_double": false
+        "is_double": false,
+        "color": "#a61555"
     },
     "ET2615": {
         "name": "Elkraft och energiteknik",
@@ -730,7 +762,8 @@
         "start_year": 2027,
         "end_year": 2028,
         "course_duration": 11,
-        "is_double": false
+        "is_double": false,
+        "color": "#a61555"
     },
     "ET2632": {
         "name": "Marinteknisk projektkurs med industriell ekonomi och aff\u00e4rsplanering",
@@ -753,7 +786,8 @@
         "start_year": 2028,
         "end_year": 2028,
         "course_duration": 20,
-        "is_double": true
+        "is_double": true,
+        "color": "#a61555"
     },
     "FY2504": {
         "name": "Hydroakustik",
@@ -776,7 +810,8 @@
         "start_year": 2028,
         "end_year": 2028,
         "course_duration": 20,
-        "is_double": true
+        "is_double": true,
+        "color": "#939342"
     },
     "MT2581": {
         "name": "Undervattensteknik",
@@ -798,7 +833,8 @@
         "start_year": 2028,
         "end_year": 2028,
         "course_duration": 10,
-        "is_double": false
+        "is_double": false,
+        "color": "#409521"
     },
     "ET2630": {
         "name": "Reglerteknik, forts\u00e4ttningskurs",
@@ -820,7 +856,8 @@
         "start_year": 2028,
         "end_year": 2028,
         "course_duration": 10,
-        "is_double": false
+        "is_double": false,
+        "color": "#a61555"
     },
     "MT2585": {
         "name": "Forskningsmetodik f\u00f6r maskinteknik",
@@ -842,7 +879,8 @@
         "start_year": 2028,
         "end_year": 2028,
         "course_duration": 9,
-        "is_double": false
+        "is_double": false,
+        "color": "#409521"
     },
     "ET2628": {
         "name": "Sensorsystem",
@@ -864,7 +902,8 @@
         "start_year": 2028,
         "end_year": 2028,
         "course_duration": 9,
-        "is_double": false
+        "is_double": false,
+        "color": "#a61555"
     },
     "MT2601": {
         "name": "Milj\u00f6konsekvensbed\u00f6mning och milj\u00f6konsekvensbeskrivning",
@@ -887,7 +926,8 @@
         "start_year": 2028,
         "end_year": 2029,
         "course_duration": 20,
-        "is_double": true
+        "is_double": true,
+        "color": "#409521"
     },
     "MT2580": {
         "name": "S\u00e4kerhet, ergonomi och m\u00e4nniska-system-interaktion",
@@ -909,7 +949,8 @@
         "start_year": 2028,
         "end_year": 2029,
         "course_duration": 11,
-        "is_double": false
+        "is_double": false,
+        "color": "#409521"
     },
     "ET2629": {
         "name": "Mekatronik med robotik",
@@ -931,7 +972,8 @@
         "start_year": 2028,
         "end_year": 2029,
         "course_duration": 11,
-        "is_double": false
+        "is_double": false,
+        "color": "#a61555"
     },
     "ET2631": {
         "name": "Masterarbete i elektroteknik",
@@ -954,7 +996,8 @@
         "start_year": 2029,
         "end_year": 2029,
         "course_duration": 20,
-        "is_double": true
+        "is_double": true,
+        "color": "#a61555"
     },
     "MT2600": {
         "name": "Masterarbete i maskinteknik",
@@ -977,7 +1020,8 @@
         "start_year": 2029,
         "end_year": 2029,
         "course_duration": 20,
-        "is_double": true
+        "is_double": true,
+        "color": "#409521"
     },
     "_groups": {
         "2024": {

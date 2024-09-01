@@ -19,7 +19,8 @@
         "start_year": 2023,
         "end_year": 2023,
         "course_duration": 9,
-        "is_double": false
+        "is_double": false,
+        "color": "#3df6d4"
     },
     "DV2618": {
         "name": "Till\u00e4mpad artificiell intelligens",
@@ -41,7 +42,8 @@
         "start_year": 2023,
         "end_year": 2023,
         "course_duration": 9,
-        "is_double": false
+        "is_double": false,
+        "color": "#3df6d4"
     },
     "DV1566": {
         "name": "Introduktion till Cloud Computing",
@@ -63,7 +65,8 @@
         "start_year": 2023,
         "end_year": 2024,
         "course_duration": 11,
-        "is_double": false
+        "is_double": false,
+        "color": "#3df6d4"
     },
     "DV2626": {
         "name": "Maskininl\u00e4rning",
@@ -85,7 +88,8 @@
         "start_year": 2023,
         "end_year": 2024,
         "course_duration": 11,
-        "is_double": false
+        "is_double": false,
+        "color": "#3df6d4"
     },
     "DV2631": {
         "name": "Forskningsmetodik i datavetenskap",
@@ -107,7 +111,8 @@
         "start_year": 2024,
         "end_year": 2024,
         "course_duration": 10,
-        "is_double": false
+        "is_double": false,
+        "color": "#3df6d4"
     },
     "DV1557": {
         "name": "Anv\u00e4ndbarhet och interaktionsdesign",
@@ -129,7 +134,8 @@
         "start_year": 2024,
         "end_year": 2024,
         "course_duration": 10,
-        "is_double": false
+        "is_double": false,
+        "color": "#3df6d4"
     },
     "DV2601": {
         "name": "Avancerad n\u00e4tverksteknik",
@@ -151,7 +157,8 @@
         "start_year": 2024,
         "end_year": 2024,
         "course_duration": 10,
-        "is_double": false
+        "is_double": false,
+        "color": "#3df6d4"
     },
     "PA2562": {
         "name": "S\u00e4ker mjukvaruutveckling",
@@ -173,7 +180,8 @@
         "start_year": 2024,
         "end_year": 2024,
         "course_duration": 10,
-        "is_double": false
+        "is_double": false,
+        "color": "#86a7f4"
     },
     "DV2627": {
         "name": "Avancerad maskininl\u00e4rning",
@@ -195,7 +203,8 @@
         "start_year": 2024,
         "end_year": 2024,
         "course_duration": 10,
-        "is_double": false
+        "is_double": false,
+        "color": "#3df6d4"
     },
     "DV2602": {
         "name": "Drift av n\u00e4tverk och n\u00e4tverkstj\u00e4nster",
@@ -217,7 +226,8 @@
         "start_year": 2024,
         "end_year": 2024,
         "course_duration": 10,
-        "is_double": false
+        "is_double": false,
+        "color": "#3df6d4"
     },
     "PA2559": {
         "name": "M\u00e4tningar av programvara",
@@ -239,7 +249,8 @@
         "start_year": 2024,
         "end_year": 2024,
         "course_duration": 10,
-        "is_double": false
+        "is_double": false,
+        "color": "#86a7f4"
     },
     "DV2586": {
         "name": "Djup maskininl\u00e4rning",
@@ -261,7 +272,8 @@
         "start_year": 2024,
         "end_year": 2024,
         "course_duration": 10,
-        "is_double": false
+        "is_double": false,
+        "color": "#3df6d4"
     },
     "MS1411": {
         "name": "Matematisk statistik",
@@ -283,7 +295,8 @@
         "start_year": 2024,
         "end_year": 2024,
         "course_duration": 10,
-        "is_double": false
+        "is_double": false,
+        "color": "#4d95e5"
     },
     "DV2573": {
         "name": "Beslutsst\u00f6djande system",
@@ -305,7 +318,8 @@
         "start_year": 2024,
         "end_year": 2024,
         "course_duration": 10,
-        "is_double": false
+        "is_double": false,
+        "color": "#3df6d4"
     },
     "DV2604": {
         "name": "Kapacitetsanalys",
@@ -327,7 +341,8 @@
         "start_year": 2024,
         "end_year": 2024,
         "course_duration": 9,
-        "is_double": false
+        "is_double": false,
+        "color": "#3df6d4"
     },
     "DV2582": {
         "name": "Analys av illasinnad programvara (malware)",
@@ -349,7 +364,8 @@
         "start_year": 2024,
         "end_year": 2024,
         "course_duration": 9,
-        "is_double": false
+        "is_double": false,
+        "color": "#3df6d4"
     },
     "DV1674": {
         "name": "Prestandaoptimering",
@@ -371,7 +387,8 @@
         "start_year": 2024,
         "end_year": 2024,
         "course_duration": 9,
-        "is_double": false
+        "is_double": false,
+        "color": "#3df6d4"
     },
     "DV2635": {
         "name": "F\u00f6rdjupningskurs i datavetenskap och kommunikation",
@@ -393,7 +410,8 @@
         "start_year": 2024,
         "end_year": 2025,
         "course_duration": 11,
-        "is_double": false
+        "is_double": false,
+        "color": "#3df6d4"
     },
     "DV2620": {
         "name": "Programvarus\u00e4kerhet",
@@ -415,7 +433,8 @@
         "start_year": 2024,
         "end_year": 2025,
         "course_duration": 11,
-        "is_double": false
+        "is_double": false,
+        "color": "#3df6d4"
     },
     "DV2597": {
         "name": "Multiprocessorprogrammering",
@@ -437,7 +456,8 @@
         "start_year": 2024,
         "end_year": 2025,
         "course_duration": 11,
-        "is_double": false
+        "is_double": false,
+        "color": "#3df6d4"
     },
     "PA2577": {
         "name": "Till\u00e4mpad Cloud Computing och Big Data",
@@ -459,7 +479,8 @@
         "start_year": 2024,
         "end_year": 2025,
         "course_duration": 11,
-        "is_double": false
+        "is_double": false,
+        "color": "#86a7f4"
     },
     "DV2572": {
         "name": "Masterarbete i datavetenskap",
@@ -482,7 +503,8 @@
         "start_year": 2025,
         "end_year": 2025,
         "course_duration": 20,
-        "is_double": true
+        "is_double": true,
+        "color": "#3df6d4"
     },
     "_groups": {
         "2023": {

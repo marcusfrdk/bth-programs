@@ -20,7 +20,8 @@
         "start_year": 2023,
         "end_year": 2024,
         "course_duration": 40,
-        "is_double": true
+        "is_double": true,
+        "color": "#fabdf4"
     },
     "SL2533": {
         "name": "Strategisk h\u00e5llbar utveckling",
@@ -42,7 +43,8 @@
         "start_year": 2023,
         "end_year": 2023,
         "course_duration": 9,
-        "is_double": false
+        "is_double": false,
+        "color": "#fabdf4"
     },
     "SL2540": {
         "name": "Innovation f\u00f6r h\u00e5llbarhet",
@@ -64,7 +66,8 @@
         "start_year": 2023,
         "end_year": 2023,
         "course_duration": 5,
-        "is_double": false
+        "is_double": false,
+        "color": "#fabdf4"
     },
     "SL2537": {
         "name": "Forskningsmetodik f\u00f6r h\u00e5llbarhet",
@@ -87,7 +90,8 @@
         "start_year": 2023,
         "end_year": 2024,
         "course_duration": 26,
-        "is_double": true
+        "is_double": true,
+        "color": "#fabdf4"
     },
     "SL2550": {
         "name": "Strategisk planering f\u00f6r h\u00e5llbarhet",
@@ -110,7 +114,8 @@
         "start_year": 2023,
         "end_year": 2024,
         "course_duration": 16,
-        "is_double": true
+        "is_double": true,
+        "color": "#fabdf4"
     },
     "SL2538": {
         "name": "Magisterarbete i strategiskt ledarskap f\u00f6r h\u00e5llbarhet",
@@ -133,7 +138,8 @@
         "start_year": 2024,
         "end_year": 2024,
         "course_duration": 20,
-        "is_double": true
+        "is_double": true,
+        "color": "#fabdf4"
     },
     "_groups": {
         "2023": {

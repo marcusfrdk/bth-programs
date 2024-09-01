@@ -26,7 +26,7 @@ export default function Header(){
             <button onClick={() => setIsOpen(v => !v)}>
                 {isOpen ? <MenuIconClose size="75%" /> : <MenuIconOpen size="60%" />}
             </button>
-            <Menu isOpen={isOpen} />
+            <Menu isOpen={isOpen} setIsOpen={setIsOpen} />
         </Container>
     );
 };
@@ -43,10 +43,7 @@ const Container = styled.header`
     padding: 0 1rem;
     gap: 1rem;
     background-color: var(--neutral-0);
-
-    &.open {
-        background-color: var(--neutral-1);
-    }
+    z-index: 100;
 
     & > a {
         text-decoration: none;

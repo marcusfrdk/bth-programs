@@ -19,7 +19,8 @@
         "start_year": 2019,
         "end_year": 2019,
         "course_duration": 6,
-        "is_double": false
+        "is_double": false,
+        "color": "#746936"
     },
     "OM1444": {
         "name": "Sjuksk\u00f6terskeprofessionen och samh\u00e4llet",
@@ -41,7 +42,8 @@
         "start_year": 2019,
         "end_year": 2019,
         "course_duration": 9,
-        "is_double": false
+        "is_double": false,
+        "color": "#746936"
     },
     "OM1442": {
         "name": "Verksamhetsf\u00f6rlagd utbildning (VFU), M\u00f6tet med m\u00e4nniskor",
@@ -63,7 +65,8 @@
         "start_year": 2019,
         "end_year": 2019,
         "course_duration": 4,
-        "is_double": false
+        "is_double": false,
+        "color": "#746936"
     },
     "KM1412": {
         "name": "Medicin I",
@@ -85,7 +88,8 @@
         "start_year": 2019,
         "end_year": 2019,
         "course_duration": 5,
-        "is_double": false
+        "is_double": false,
+        "color": "#f2087a"
     },
     "OM1463": {
         "name": "Verksamhetsf\u00f6rlagd utbildning (VFU), M\u00e4nniskan och omv\u00e5rdnaden",
@@ -107,7 +111,8 @@
         "start_year": 2019,
         "end_year": 2019,
         "course_duration": 5,
-        "is_double": false
+        "is_double": false,
+        "color": "#746936"
     },
     "KM1418": {
         "name": "Medicin II",
@@ -129,7 +134,8 @@
         "start_year": 2019,
         "end_year": 2019,
         "course_duration": 5,
-        "is_double": false
+        "is_double": false,
+        "color": "#f2087a"
     },
     "KM1419": {
         "name": "Medicin III",
@@ -151,7 +157,8 @@
         "start_year": 2019,
         "end_year": 2020,
         "course_duration": 6,
-        "is_double": false
+        "is_double": false,
+        "color": "#f2087a"
     },
     "OM1485": {
         "name": "Omv\u00e5rdnad vid oh\u00e4lsa",
@@ -173,7 +180,8 @@
         "start_year": 2020,
         "end_year": 2020,
         "course_duration": 10,
-        "is_double": false
+        "is_double": false,
+        "color": "#746936"
     },
     "OM1486": {
         "name": "eH\u00e4lsa inom omv\u00e5rdnad I",
@@ -195,7 +203,8 @@
         "start_year": 2020,
         "end_year": 2020,
         "course_duration": 3,
-        "is_double": false
+        "is_double": false,
+        "color": "#746936"
     },
     "OM1528": {
         "name": "Verksamhetsf\u00f6rlagd utbildning (VFU) inriktad mot prim\u00e4r v\u00e5rd (Termin 3)",
@@ -217,7 +226,8 @@
         "start_year": 2020,
         "end_year": 2020,
         "course_duration": 7,
-        "is_double": false
+        "is_double": false,
+        "color": "#746936"
     },
     "OM1490": {
         "name": "Verksamhetsf\u00f6rlagd utbildning (VFU) inriktad mot somatisk v\u00e5rd (Termin 3)",
@@ -239,7 +249,8 @@
         "start_year": 2020,
         "end_year": 2020,
         "course_duration": 7,
-        "is_double": false
+        "is_double": false,
+        "color": "#746936"
     },
     "OM1489": {
         "name": "Verksamhetsf\u00f6rlagd utbildning (VFU) inriktad mot psykiatrisk omv\u00e5rdnad och demensv\u00e5rd (Termin 3)",
@@ -261,7 +272,8 @@
         "start_year": 2020,
         "end_year": 2020,
         "course_duration": 7,
-        "is_double": false
+        "is_double": false,
+        "color": "#746936"
     },
     "OM1494": {
         "name": "Verksamhetsf\u00f6rlagd utbildning (VFU) inriktad mot somatisk v\u00e5rd (Termin 4)",
@@ -283,7 +295,8 @@
         "start_year": 2020,
         "end_year": 2020,
         "course_duration": 7,
-        "is_double": false
+        "is_double": false,
+        "color": "#746936"
     },
     "OM1493": {
         "name": "Verksamhetsf\u00f6rlagd utbildning (VFU) inriktad mot psykiatrisk omv\u00e5rdnad och demensv\u00e5rd (Termin 4)",
@@ -305,7 +318,8 @@
         "start_year": 2020,
         "end_year": 2020,
         "course_duration": 7,
-        "is_double": false
+        "is_double": false,
+        "color": "#746936"
     },
     "OM1529": {
         "name": "Verksamhetsf\u00f6rlagd utbildning (VFU) inriktad mot prim\u00e4r v\u00e5rd (Termin 4)",
@@ -327,7 +341,8 @@
         "start_year": 2020,
         "end_year": 2020,
         "course_duration": 7,
-        "is_double": false
+        "is_double": false,
+        "color": "#746936"
     },
     "OM1495": {
         "name": "Verksamhetsf\u00f6rlagd utbildning (VFU) inriktad mot somatisk v\u00e5rd, f\u00f6rdjupning",
@@ -349,7 +364,8 @@
         "start_year": 2020,
         "end_year": 2020,
         "course_duration": 7,
-        "is_double": false
+        "is_double": false,
+        "color": "#746936"
     },
     "OM1530": {
         "name": "Verksamhetsf\u00f6rlagd utbildning (VFU) inriktad mot prim\u00e4r v\u00e5rd, f\u00f6rdjupning",
@@ -371,7 +387,8 @@
         "start_year": 2020,
         "end_year": 2020,
         "course_duration": 7,
-        "is_double": false
+        "is_double": false,
+        "color": "#746936"
     },
     "OM1491": {
         "name": "Omv\u00e5rdnad, vetenskapliga teorier och metoder",
@@ -393,7 +410,8 @@
         "start_year": 2020,
         "end_year": 2021,
         "course_duration": 6,
-        "is_double": false
+        "is_double": false,
+        "color": "#746936"
     },
     "OM1498": {
         "name": "Sjuksk\u00f6terskan som ledare",
@@ -415,7 +433,8 @@
         "start_year": 2021,
         "end_year": 2021,
         "course_duration": 5,
-        "is_double": false
+        "is_double": false,
+        "color": "#746936"
     },
     "OM1501": {
         "name": "Omv\u00e5rdnad vid palliativ v\u00e5rd",
@@ -437,7 +456,8 @@
         "start_year": 2021,
         "end_year": 2021,
         "course_duration": 5,
-        "is_double": false
+        "is_double": false,
+        "color": "#746936"
     },
     "OM1487": {
         "name": "eH\u00e4lsa inom omv\u00e5rdnad II",
@@ -459,7 +479,8 @@
         "start_year": 2021,
         "end_year": 2021,
         "course_duration": 5,
-        "is_double": false
+        "is_double": false,
+        "color": "#746936"
     },
     "OM1502": {
         "name": "Omv\u00e5rdnad vid neurologisk oh\u00e4lsa",
@@ -481,7 +502,8 @@
         "start_year": 2021,
         "end_year": 2021,
         "course_duration": 5,
-        "is_double": false
+        "is_double": false,
+        "color": "#746936"
     },
     "OM1503": {
         "name": "Omv\u00e5rdnad vid kardiologisk oh\u00e4lsa",
@@ -503,7 +525,8 @@
         "start_year": 2021,
         "end_year": 2021,
         "course_duration": 5,
-        "is_double": false
+        "is_double": false,
+        "color": "#746936"
     },
     "OM1512": {
         "name": "Examensarbete i omv\u00e5rdnad",
@@ -525,7 +548,8 @@
         "start_year": 2021,
         "end_year": 2021,
         "course_duration": 10,
-        "is_double": false
+        "is_double": false,
+        "color": "#746936"
     },
     "OM1506": {
         "name": "Verksamhetsf\u00f6rlagd utbildning (VFU), Sjuksk\u00f6terskans profession i verksamheten",
@@ -548,7 +572,8 @@
         "start_year": 2021,
         "end_year": 2022,
         "course_duration": 20,
-        "is_double": true
+        "is_double": true,
+        "color": "#746936"
     },
     "OM1526": {
         "name": "Omv\u00e5rdnad vid akuta situationer och komplexa oh\u00e4lsotillst\u00e5nd",
@@ -571,7 +596,8 @@
         "start_year": 2021,
         "end_year": 2022,
         "course_duration": 21,
-        "is_double": true
+        "is_double": true,
+        "color": "#746936"
     },
     "_groups": {
         "2019": {

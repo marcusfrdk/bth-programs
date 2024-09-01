@@ -19,7 +19,8 @@
         "start_year": 2024,
         "end_year": 2024,
         "course_duration": 10,
-        "is_double": false
+        "is_double": false,
+        "color": "#f00558"
     },
     "IY1418": {
         "name": "Grunderna i industriell ekonomi",
@@ -41,7 +42,8 @@
         "start_year": 2024,
         "end_year": 2024,
         "course_duration": 9,
-        "is_double": false
+        "is_double": false,
+        "color": "#aaa660"
     },
     "IY1445": {
         "name": "Introduktion till ingenj\u00f6rsrollen",
@@ -64,7 +66,8 @@
         "start_year": 2024,
         "end_year": 2025,
         "course_duration": 20,
-        "is_double": true
+        "is_double": true,
+        "color": "#aaa660"
     },
     "MA1499": {
         "name": "Envariabelanalys 1: funktioner och differentialkalkyl",
@@ -86,7 +89,8 @@
         "start_year": 2024,
         "end_year": 2025,
         "course_duration": 11,
-        "is_double": false
+        "is_double": false,
+        "color": "#f00558"
     },
     "DV1574": {
         "name": "Programmering och probleml\u00f6sning med Python",
@@ -108,7 +112,8 @@
         "start_year": 2024,
         "end_year": 2025,
         "course_duration": 11,
-        "is_double": false
+        "is_double": false,
+        "color": "#3df6d4"
     },
     "FY1435": {
         "name": "Mekanik",
@@ -130,7 +135,8 @@
         "start_year": 2025,
         "end_year": 2025,
         "course_duration": 10,
-        "is_double": false
+        "is_double": false,
+        "color": "#939342"
     },
     "SL1418": {
         "name": "Grundkurs i h\u00e5llbar utveckling",
@@ -153,7 +159,8 @@
         "start_year": 2025,
         "end_year": 2025,
         "course_duration": 20,
-        "is_double": true
+        "is_double": true,
+        "color": "#fabdf4"
     },
     "MA1500": {
         "name": "Envariabelanalys 2: differentialekvationer och integralkalkyl",
@@ -175,7 +182,8 @@
         "start_year": 2025,
         "end_year": 2025,
         "course_duration": 10,
-        "is_double": false
+        "is_double": false,
+        "color": "#f00558"
     },
     "IY1451": {
         "name": "Industriell verksamhetsstyrning",
@@ -197,7 +205,8 @@
         "start_year": 2025,
         "end_year": 2025,
         "course_duration": 10,
-        "is_double": false
+        "is_double": false,
+        "color": "#aaa660"
     },
     "IY1447": {
         "name": "Makroekonomi",
@@ -219,7 +228,8 @@
         "start_year": 2025,
         "end_year": 2025,
         "course_duration": 10,
-        "is_double": false
+        "is_double": false,
+        "color": "#aaa660"
     },
     "IY1446": {
         "name": "Mikroekonomi f\u00f6r beslutsfattare",
@@ -241,7 +251,8 @@
         "start_year": 2025,
         "end_year": 2025,
         "course_duration": 9,
-        "is_double": false
+        "is_double": false,
+        "color": "#aaa660"
     },
     "MA1501": {
         "name": "Flervariabelanalys",
@@ -263,7 +274,8 @@
         "start_year": 2025,
         "end_year": 2025,
         "course_duration": 9,
-        "is_double": false
+        "is_double": false,
+        "color": "#f00558"
     },
     "IY1444": {
         "name": "Digitalisering och aff\u00e4rsutveckling",
@@ -286,7 +298,8 @@
         "start_year": 2025,
         "end_year": 2026,
         "course_duration": 20,
-        "is_double": true
+        "is_double": true,
+        "color": "#aaa660"
     },
     "MS1416": {
         "name": "Matematisk statistik",
@@ -308,7 +321,8 @@
         "start_year": 2025,
         "end_year": 2026,
         "course_duration": 11,
-        "is_double": false
+        "is_double": false,
+        "color": "#4d95e5"
     },
     "FY1437": {
         "name": "V\u00e5gfysik",
@@ -330,7 +344,8 @@
         "start_year": 2025,
         "end_year": 2026,
         "course_duration": 11,
-        "is_double": false
+        "is_double": false,
+        "color": "#939342"
     },
     "MA1502": {
         "name": "Optimering",
@@ -352,7 +367,8 @@
         "start_year": 2026,
         "end_year": 2026,
         "course_duration": 10,
-        "is_double": false
+        "is_double": false,
+        "color": "#f00558"
     },
     "DV1582": {
         "name": "Programmering i Python, forts\u00e4ttningskurs",
@@ -374,7 +390,8 @@
         "start_year": 2026,
         "end_year": 2026,
         "course_duration": 10,
-        "is_double": false
+        "is_double": false,
+        "color": "#3df6d4"
     },
     "IY1454": {
         "name": "Beslutsfattande i organisationer",
@@ -397,7 +414,8 @@
         "start_year": 2026,
         "end_year": 2026,
         "course_duration": 20,
-        "is_double": true
+        "is_double": true,
+        "color": "#aaa660"
     },
     "IY1453": {
         "name": "Supply chain management",
@@ -419,7 +437,8 @@
         "start_year": 2026,
         "end_year": 2026,
         "course_duration": 10,
-        "is_double": false
+        "is_double": false,
+        "color": "#aaa660"
     },
     "IY1456": {
         "name": "Grundl\u00e4ggande ekonometri",
@@ -441,7 +460,8 @@
         "start_year": 2026,
         "end_year": 2026,
         "course_duration": 10,
-        "is_double": false
+        "is_double": false,
+        "color": "#aaa660"
     },
     "ET1558": {
         "name": "Dynamiska system och \u00e5terkoppling",
@@ -463,7 +483,8 @@
         "start_year": 2026,
         "end_year": 2026,
         "course_duration": 9,
-        "is_double": false
+        "is_double": false,
+        "color": "#a61555"
     },
     "PA1484": {
         "name": "Programvaruutveckling",
@@ -486,7 +507,8 @@
         "start_year": 2026,
         "end_year": 2027,
         "course_duration": 19,
-        "is_double": true
+        "is_double": true,
+        "color": "#86a7f4"
     },
     "IY1452": {
         "name": "Till\u00e4mpad operationsanalys",
@@ -508,7 +530,8 @@
         "start_year": 2026,
         "end_year": 2026,
         "course_duration": 9,
-        "is_double": false
+        "is_double": false,
+        "color": "#aaa660"
     },
     "IY1457": {
         "name": "Finansiell ekonomi",
@@ -530,7 +553,8 @@
         "start_year": 2026,
         "end_year": 2027,
         "course_duration": 10,
-        "is_double": false
+        "is_double": false,
+        "color": "#aaa660"
     },
     "IY1448": {
         "name": "Ekonomisk analys f\u00f6r strategiskt beslutsfattande",
@@ -552,7 +576,8 @@
         "start_year": 2026,
         "end_year": 2027,
         "course_duration": 10,
-        "is_double": false
+        "is_double": false,
+        "color": "#aaa660"
     },
     "IY1455": {
         "name": "F\u00f6retag, organisation och marknad",
@@ -574,7 +599,8 @@
         "start_year": 2027,
         "end_year": 2027,
         "course_duration": 10,
-        "is_double": false
+        "is_double": false,
+        "color": "#aaa660"
     },
     "TE1432": {
         "name": "Kandidatarbete i teknik f\u00f6r industriell ekonomi och management",
@@ -597,7 +623,8 @@
         "start_year": 2027,
         "end_year": 2027,
         "course_duration": 20,
-        "is_double": true
+        "is_double": true,
+        "color": "#4aa7f5"
     },
     "DV1663": {
         "name": "Databasteknik",
@@ -619,7 +646,8 @@
         "start_year": 2027,
         "end_year": 2027,
         "course_duration": 10,
-        "is_double": false
+        "is_double": false,
+        "color": "#3df6d4"
     },
     "IY2653": {
         "name": "Ledarskap i h\u00f6gteknologiska och kunskapsintensiva organisationer",
@@ -642,7 +670,8 @@
         "start_year": 2027,
         "end_year": 2028,
         "course_duration": 20,
-        "is_double": true
+        "is_double": true,
+        "color": "#aaa660"
     },
     "IY2640": {
         "name": "Business Analytics",
@@ -664,7 +693,8 @@
         "start_year": 2027,
         "end_year": 2027,
         "course_duration": 9,
-        "is_double": false
+        "is_double": false,
+        "color": "#aaa660"
     },
     "IY2649": {
         "name": "Technology venture 1: innovation och aff\u00e4rsutveckling",
@@ -686,7 +716,8 @@
         "start_year": 2027,
         "end_year": 2027,
         "course_duration": 9,
-        "is_double": false
+        "is_double": false,
+        "color": "#aaa660"
     },
     "IY2650": {
         "name": "Technology venture 2: kommersialisering av innovationer",
@@ -708,7 +739,8 @@
         "start_year": 2027,
         "end_year": 2028,
         "course_duration": 11,
-        "is_double": false
+        "is_double": false,
+        "color": "#aaa660"
     },
     "IY2634": {
         "name": "Industriell organisation",
@@ -730,7 +762,8 @@
         "start_year": 2027,
         "end_year": 2028,
         "course_duration": 11,
-        "is_double": false
+        "is_double": false,
+        "color": "#aaa660"
     },
     "IY2647": {
         "name": "M\u00e5l- och prestationsstyrning inom industriell verksamhet",
@@ -752,7 +785,8 @@
         "start_year": 2028,
         "end_year": 2028,
         "course_duration": 10,
-        "is_double": false
+        "is_double": false,
+        "color": "#aaa660"
     },
     "IY2646": {
         "name": "Industriell projektledning inom Business Analytics",
@@ -775,7 +809,8 @@
         "start_year": 2028,
         "end_year": 2028,
         "course_duration": 20,
-        "is_double": true
+        "is_double": true,
+        "color": "#aaa660"
     },
     "IY2637": {
         "name": "Avancerad ekonometri",
@@ -797,7 +832,8 @@
         "start_year": 2028,
         "end_year": 2028,
         "course_duration": 10,
-        "is_double": false
+        "is_double": false,
+        "color": "#aaa660"
     },
     "DV1682": {
         "name": "Datastrukturer och algoritmer",
@@ -819,7 +855,8 @@
         "start_year": 2028,
         "end_year": 2028,
         "course_duration": 10,
-        "is_double": false
+        "is_double": false,
+        "color": "#3df6d4"
     },
     "IY2648": {
         "name": "Till\u00e4mpad konkurrens- och marknadsanalys",
@@ -841,7 +878,8 @@
         "start_year": 2028,
         "end_year": 2028,
         "course_duration": 10,
-        "is_double": false
+        "is_double": false,
+        "color": "#aaa660"
     },
     "DV2619": {
         "name": "Till\u00e4mpad artificiell intelligens",
@@ -863,7 +901,8 @@
         "start_year": 2028,
         "end_year": 2028,
         "course_duration": 9,
-        "is_double": false
+        "is_double": false,
+        "color": "#3df6d4"
     },
     "IY2639": {
         "name": "Produktivitet och teknikskiften",
@@ -886,7 +925,8 @@
         "start_year": 2028,
         "end_year": 2029,
         "course_duration": 20,
-        "is_double": true
+        "is_double": true,
+        "color": "#aaa660"
     },
     "IY2638": {
         "name": "Avancerad forskningsmetod och design",
@@ -908,7 +948,8 @@
         "start_year": 2028,
         "end_year": 2028,
         "course_duration": 9,
-        "is_double": false
+        "is_double": false,
+        "color": "#aaa660"
     },
     "IY2642": {
         "name": "Finansiell modellering",
@@ -930,7 +971,8 @@
         "start_year": 2028,
         "end_year": 2029,
         "course_duration": 11,
-        "is_double": false
+        "is_double": false,
+        "color": "#aaa660"
     },
     "IY2643": {
         "name": "F\u00f6retagsv\u00e4rdering och analys",
@@ -952,7 +994,8 @@
         "start_year": 2028,
         "end_year": 2029,
         "course_duration": 11,
-        "is_double": false
+        "is_double": false,
+        "color": "#aaa660"
     },
     "IY2651": {
         "name": "Masterarbete i industriell ekonomi och management",
@@ -975,7 +1018,8 @@
         "start_year": 2029,
         "end_year": 2029,
         "course_duration": 20,
-        "is_double": true
+        "is_double": true,
+        "color": "#aaa660"
     },
     "_groups": {
         "2024": {

@@ -19,7 +19,8 @@
         "start_year": 2023,
         "end_year": 2023,
         "course_duration": 10,
-        "is_double": false
+        "is_double": false,
+        "color": "#7021db"
     },
     "ME1597": {
         "name": "Grunder\u00a0i\u00a0digital\u00a0ljudproduktion",
@@ -41,7 +42,8 @@
         "start_year": 2023,
         "end_year": 2024,
         "course_duration": 11,
-        "is_double": false
+        "is_double": false,
+        "color": "#7021db"
     },
     "ME1590": {
         "name": "Modul\u00e4r ljuddesign",
@@ -63,7 +65,8 @@
         "start_year": 2024,
         "end_year": 2024,
         "course_duration": 10,
-        "is_double": false
+        "is_double": false,
+        "color": "#7021db"
     },
     "ET1492": {
         "name": "Akustik f\u00f6r ljud- och musikproduktion",
@@ -85,7 +88,8 @@
         "start_year": 2024,
         "end_year": 2024,
         "course_duration": 10,
-        "is_double": false
+        "is_double": false,
+        "color": "#a61555"
     },
     "ME1610": {
         "name": "Spatialiserat ljud",
@@ -107,7 +111,8 @@
         "start_year": 2024,
         "end_year": 2024,
         "course_duration": 10,
-        "is_double": false
+        "is_double": false,
+        "color": "#7021db"
     },
     "ME1642": {
         "name": "Till\u00e4mpad ljuddesign",
@@ -129,7 +134,8 @@
         "start_year": 2024,
         "end_year": 2024,
         "course_duration": 9,
-        "is_double": false
+        "is_double": false,
+        "color": "#7021db"
     },
     "ME1652": {
         "name": "Digifysisk gestaltning",
@@ -151,7 +157,8 @@
         "start_year": 2024,
         "end_year": 2024,
         "course_duration": 5,
-        "is_double": false
+        "is_double": false,
+        "color": "#7021db"
     },
     "ME1638": {
         "name": "Gr\u00e4nssnitt med immersiva tekniker",
@@ -173,7 +180,8 @@
         "start_year": 2024,
         "end_year": 2025,
         "course_duration": 6,
-        "is_double": false
+        "is_double": false,
+        "color": "#7021db"
     },
     "ME1655": {
         "name": "Utst\u00e4llningsteknik",
@@ -195,7 +203,8 @@
         "start_year": 2025,
         "end_year": 2025,
         "course_duration": 10,
-        "is_double": false
+        "is_double": false,
+        "color": "#7021db"
     },
     "ME1614": {
         "name": "Ljudsyntes",
@@ -217,7 +226,8 @@
         "start_year": 2025,
         "end_year": 2025,
         "course_duration": 10,
-        "is_double": false
+        "is_double": false,
+        "color": "#7021db"
     },
     "ME1657": {
         "name": "Design i samverkan",
@@ -239,7 +249,8 @@
         "start_year": 2025,
         "end_year": 2025,
         "course_duration": 10,
-        "is_double": false
+        "is_double": false,
+        "color": "#7021db"
     },
     "ME1656": {
         "name": "Responsiva h\u00e5llbara milj\u00f6er",
@@ -261,7 +272,8 @@
         "start_year": 2025,
         "end_year": 2025,
         "course_duration": 9,
-        "is_double": false
+        "is_double": false,
+        "color": "#7021db"
     },
     "ME1654": {
         "name": "Virtuell produktion",
@@ -283,7 +295,8 @@
         "start_year": 2025,
         "end_year": 2026,
         "course_duration": 11,
-        "is_double": false
+        "is_double": false,
+        "color": "#7021db"
     },
     "ME1644": {
         "name": "Forskningsintroduktion medieteknik",
@@ -305,7 +318,8 @@
         "start_year": 2025,
         "end_year": 2026,
         "course_duration": 11,
-        "is_double": false
+        "is_double": false,
+        "color": "#7021db"
     },
     "ME1659": {
         "name": "Kandidatarbete i medieteknik",
@@ -328,7 +342,8 @@
         "start_year": 2026,
         "end_year": 2026,
         "course_duration": 20,
-        "is_double": true
+        "is_double": true,
+        "color": "#7021db"
     },
     "_groups": {
         "2023": {
