@@ -1,0 +1,297 @@
+{
+    "ET2597": {
+        "code": "ET2597",
+        "name": "Avancerad n\u00e4tverksteknik",
+        "points": 7.0,
+        "semester": "V\u00e5rtermin 2020",
+        "start_week": 4,
+        "end_week": 13,
+        "periods": [
+            3
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": "JNTU Kakinada",
+        "prerequisites": "Avklarad kurs i Datakommunikation 7,5 hp och Objektorienterad programmering 7,5 hp",
+        "teacher": "ktt",
+        "replacement": "DV2601",
+        "next_instance": "202504 (BEQLW)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BRX4P&KtTermin=20201&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/ETADT_HT-19.pdf",
+        "start_year": 2020,
+        "end_year": 2020,
+        "course_duration": 10,
+        "is_double": false,
+        "color": "#a61555"
+    },
+    "ET2619": {
+        "code": "ET2619",
+        "name": "Forskningsmetodik i elektroteknik med inriktning mot telekommunikationssystem",
+        "points": 7.0,
+        "semester": "V\u00e5rtermin 2020",
+        "start_week": 4,
+        "end_week": 13,
+        "periods": [
+            3
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": "JNTU Kakinada",
+        "prerequisites": "Kandidatexamen med n\u00e5got av huvudomr\u00e5dena elektroteknik, datavetenskap, programvaruteknik, informationssystem eller datorteknik. Kandidatexamen ska omfatta minst 15 hp i matematik, minst 7,5 hp datorkommunikation/telekommunikation, objektorienterad programmering.",
+        "teacher": "prg",
+        "replacement": null,
+        "next_instance": null,
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=B4FYC&KtTermin=20201&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/ETADT_HT-19.pdf",
+        "start_year": 2020,
+        "end_year": 2020,
+        "course_duration": 10,
+        "is_double": false,
+        "color": "#a61555"
+    },
+    "ET2594": {
+        "code": "ET2594",
+        "name": "Kapacitetsanalys",
+        "points": 7.0,
+        "semester": "V\u00e5rtermin 2020",
+        "start_week": 14,
+        "end_week": 23,
+        "periods": [
+            4
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": "JNTU Kakinada",
+        "prerequisites": "Avklarad kurs i Matematik, forts\u00e4ttningskurs 7,5 hp och Datakommunikation 7,5 hp. Genomg\u00e5ngen kurs i Matematisk statistik 7,5 hp.",
+        "teacher": null,
+        "replacement": null,
+        "next_instance": null,
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BKFJD&KtTermin=20201&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/ETADT_HT-19.pdf",
+        "start_year": 2020,
+        "end_year": 2020,
+        "course_duration": 10,
+        "is_double": false,
+        "color": "#a61555"
+    },
+    "MS1411": {
+        "code": "MS1411",
+        "name": "Matematisk statistik",
+        "points": 7.0,
+        "semester": "V\u00e5rtermin 2020",
+        "start_week": 14,
+        "end_week": 23,
+        "periods": [
+            4
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": "JNTU Kakinada",
+        "prerequisites": "15 hp matematik avklarat.",
+        "teacher": "bxp",
+        "replacement": null,
+        "next_instance": "202514 (BUEHY)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BJDWP&KtTermin=20201&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/ETADT_HT-19.pdf",
+        "start_year": 2020,
+        "end_year": 2020,
+        "course_duration": 10,
+        "is_double": false,
+        "color": "#4d95e5"
+    },
+    "ET2598": {
+        "code": "ET2598",
+        "name": "Drift av n\u00e4tverk och n\u00e4tverkstj\u00e4nster",
+        "points": 7.0,
+        "semester": "H\u00f6sttermin 2020",
+        "start_week": 36,
+        "end_week": 44,
+        "periods": [
+            1
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": "JNTU Kakinada",
+        "prerequisites": "Avklarad kurs i Datakommunikation 7,5 hp och Objektorienterad programmering 7,5 hp",
+        "teacher": "pal",
+        "replacement": "DV2602",
+        "next_instance": "202514 (BHUDW)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=B4JJT&KtTermin=20202&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/ETADT_HT-19.pdf",
+        "start_year": 2020,
+        "end_year": 2020,
+        "course_duration": 9,
+        "is_double": false,
+        "color": "#a61555"
+    },
+    "ET2596": {
+        "code": "ET2596",
+        "name": "Simulering",
+        "points": 7.0,
+        "semester": "H\u00f6sttermin 2020",
+        "start_week": 36,
+        "end_week": 44,
+        "periods": [
+            1
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": "JNTU Kakinada",
+        "prerequisites": "Avklarad kurs i Objektorienterad programmering, 7,5 hp. Genomg\u00e5ngen kurs i Matematisk statistik 7,5 hp",
+        "teacher": null,
+        "replacement": null,
+        "next_instance": null,
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BKKLA&KtTermin=20202&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/ETADT_HT-19.pdf",
+        "start_year": 2020,
+        "end_year": 2020,
+        "course_duration": 9,
+        "is_double": false,
+        "color": "#a61555"
+    },
+    "ET2620": {
+        "code": "ET2620",
+        "name": "F\u00f6rdjupningskurs i telekommunikationssystem",
+        "points": 7.0,
+        "semester": "H\u00f6sttermin 2020",
+        "start_week": 45,
+        "end_week": 2,
+        "periods": [
+            2
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": "JNTU Kakinada",
+        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs 30 hp avklarade kurser p\u00e5 avancerad niv\u00e5, inklusive avklarad kurs i Forskningsmetodik i elektroteknik med inriktning mot telekommunikationssystem 7,5 hp.",
+        "teacher": "yhx",
+        "replacement": null,
+        "next_instance": null,
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=B4KUP&KtTermin=20202&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/ETADT_HT-19.pdf",
+        "start_year": 2020,
+        "end_year": 2021,
+        "course_duration": 10,
+        "is_double": false,
+        "color": "#a61555"
+    },
+    "ET2601": {
+        "code": "ET2601",
+        "name": "Upplevd kvalitet i n\u00e4tverksbaserade tj\u00e4nster",
+        "points": 7.0,
+        "semester": "H\u00f6sttermin 2020",
+        "start_week": 45,
+        "end_week": 2,
+        "periods": [
+            2
+        ],
+        "type": "Valbar",
+        "academic_focus": "JNTU Kakinada",
+        "prerequisites": "Avklarad kurs i Datakommunikation 7,5 hp och Matematisk statistik 7,5 hp.",
+        "teacher": "mfi",
+        "replacement": null,
+        "next_instance": "202445 (BLQPF)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BJRC3&KtTermin=20202&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/ETADT_HT-19.pdf",
+        "start_year": 2020,
+        "end_year": 2021,
+        "course_duration": 10,
+        "is_double": false,
+        "color": "#a61555"
+    },
+    "ET2605": {
+        "code": "ET2605",
+        "name": "Avancerade tr\u00e5dl\u00f6sa kommunikationssystem",
+        "points": 7.0,
+        "semester": "H\u00f6sttermin 2020",
+        "start_week": 45,
+        "end_week": 2,
+        "periods": [
+            2
+        ],
+        "type": "Valbar",
+        "academic_focus": "JNTU Kakinada",
+        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarad kurser Kapacitetsanalys 7,5 hp och Avancerad n\u00e4tverksteknik 7,5 hp.",
+        "teacher": "hjz",
+        "replacement": null,
+        "next_instance": null,
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BKD6A&KtTermin=20202&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/ETADT_HT-19.pdf",
+        "start_year": 2020,
+        "end_year": 2021,
+        "course_duration": 10,
+        "is_double": false,
+        "color": "#a61555"
+    },
+    "ET2599": {
+        "code": "ET2599",
+        "name": "Mjukvarubaserade n\u00e4tverk",
+        "points": 7.0,
+        "semester": "H\u00f6sttermin 2020",
+        "start_week": 45,
+        "end_week": 2,
+        "periods": [
+            2
+        ],
+        "type": "Valbar",
+        "academic_focus": "JNTU Kakinada",
+        "prerequisites": "Genomg\u00e5ngen kurs i Avancerad n\u00e4tverksteknik 7,5 hp",
+        "teacher": "ktt",
+        "replacement": null,
+        "next_instance": null,
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BPNRE&KtTermin=20202&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/ETADT_HT-19.pdf",
+        "start_year": 2020,
+        "end_year": 2021,
+        "course_duration": 10,
+        "is_double": false,
+        "color": "#a61555"
+    },
+    "ET2606": {
+        "code": "ET2606",
+        "name": "Masterarbete i elektroteknik med inriktning mot telekommunikationssystem",
+        "points": 30.0,
+        "semester": "V\u00e5rtermin 2021",
+        "start_week": 3,
+        "end_week": 22,
+        "periods": [
+            3,
+            4
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": "JNTU Kakinada",
+        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs minst 90 h\u00f6gskolepo\u00e4ng inom huvudomr\u00e5det elektroteknik, varav minst 30 h\u00f6gskolepo\u00e4ng p\u00e5 avancerad niv\u00e5. Avklarat kurs i forskningsmetodik med inriktning mot elektroteknik om 7,5 h\u00f6gskolepo\u00e4ng. Genomg\u00e5ngen f\u00f6rdjupningskurs i telekommunikationssystem 7,5 hp",
+        "teacher": null,
+        "replacement": null,
+        "next_instance": "202504 (BRR9Q)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=B6PN3&KtTermin=20211&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/ETADT_HT-19.pdf",
+        "start_year": 2021,
+        "end_year": 2021,
+        "course_duration": 20,
+        "is_double": true,
+        "color": "#a61555"
+    },
+    "_groups": {
+        "2020": {
+            "3": [
+                "ET2597",
+                "ET2619"
+            ],
+            "4": [
+                "ET2594",
+                "MS1411"
+            ],
+            "1": [
+                "ET2598",
+                "ET2596"
+            ],
+            "2": [
+                "ET2620",
+                "ET2601",
+                "ET2605",
+                "ET2599"
+            ]
+        },
+        "2021": {
+            "3": [
+                "ET2606"
+            ],
+            "4": [
+                "ET2606"
+            ]
+        }
+    }
+}

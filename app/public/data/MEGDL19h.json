@@ -1,0 +1,388 @@
+{
+    "ME1605": {
+        "code": "ME1605",
+        "name": "Introduktion i medieteknik med inriktning mot digital ljudproduktion",
+        "points": 15.0,
+        "semester": "H\u00f6sttermin 2019",
+        "start_week": 35,
+        "end_week": 44,
+        "periods": [
+            1
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "Grundl\u00e4ggande beh\u00f6righet samt Matematik 2a alt 2b alt 2c.",
+        "teacher": "dnl",
+        "replacement": null,
+        "next_instance": "202436 (D5953)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BGGYF&KtTermin=20192&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/MEGDL_HT-19.pdf",
+        "start_year": 2019,
+        "end_year": 2019,
+        "course_duration": 10,
+        "is_double": false,
+        "color": "#7021db"
+    },
+    "ME1597": {
+        "code": "ME1597",
+        "name": "Grunder\u00a0i\u00a0digital\u00a0ljudproduktion",
+        "points": 15.0,
+        "semester": "H\u00f6sttermin 2019",
+        "start_week": 45,
+        "end_week": 3,
+        "periods": [
+            2
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "Grundl\u00e4ggande beh\u00f6righet samt Matematik 2a alt 2b alt 2c.",
+        "teacher": "dnl",
+        "replacement": null,
+        "next_instance": "202445 (D5950)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BUD76&KtTermin=20192&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/MEGDL_HT-19.pdf",
+        "start_year": 2019,
+        "end_year": 2020,
+        "course_duration": 11,
+        "is_double": false,
+        "color": "#7021db"
+    },
+    "ME1590": {
+        "code": "ME1590",
+        "name": "Modul\u00e4r ljuddesign",
+        "points": 7.0,
+        "semester": "V\u00e5rtermin 2020",
+        "start_week": 4,
+        "end_week": 13,
+        "periods": [
+            3
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngen kurs ME1569 Grunder i digital ljudproduktion.",
+        "teacher": "dnl",
+        "replacement": null,
+        "next_instance": null,
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BLRL6&KtTermin=20201&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/MEGDL_HT-19.pdf",
+        "start_year": 2020,
+        "end_year": 2020,
+        "course_duration": 10,
+        "is_double": false,
+        "color": "#7021db"
+    },
+    "ET1492": {
+        "code": "ET1492",
+        "name": "Akustik f\u00f6r ljud- och musikproduktion",
+        "points": 7.0,
+        "semester": "V\u00e5rtermin 2020",
+        "start_week": 4,
+        "end_week": 13,
+        "periods": [
+            3
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "Grundl\u00e4ggande beh\u00f6righet.",
+        "teacher": "sjo",
+        "replacement": null,
+        "next_instance": null,
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BT76C&KtTermin=20201&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/MEGDL_HT-19.pdf",
+        "start_year": 2020,
+        "end_year": 2020,
+        "course_duration": 10,
+        "is_double": false,
+        "color": "#a61555"
+    },
+    "ME1610": {
+        "code": "ME1610",
+        "name": "Spatialiserat ljud",
+        "points": 15.0,
+        "semester": "V\u00e5rtermin 2020",
+        "start_week": 14,
+        "end_week": 23,
+        "periods": [
+            4
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngen kurs Akustik f\u00f6r ljud- och musikproduktion, 7,5 hp.",
+        "teacher": "dnl",
+        "replacement": null,
+        "next_instance": null,
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=B93FW&KtTermin=20201&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/MEGDL_HT-19.pdf",
+        "start_year": 2020,
+        "end_year": 2020,
+        "course_duration": 10,
+        "is_double": false,
+        "color": "#7021db"
+    },
+    "ME1598": {
+        "code": "ME1598",
+        "name": "Till\u00e4mpad\u00a0ljuddesign",
+        "points": 15.0,
+        "semester": "H\u00f6sttermin 2020",
+        "start_week": 36,
+        "end_week": 44,
+        "periods": [
+            1
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarad kurs Grunder i digital ljudproduktion, 15 hp.",
+        "teacher": "shp",
+        "replacement": "ME1642",
+        "next_instance": "202436 (BUR4J)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BGGHA&KtTermin=20202&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/MEGDL_HT-19.pdf",
+        "start_year": 2020,
+        "end_year": 2020,
+        "course_duration": 9,
+        "is_double": false,
+        "color": "#7021db"
+    },
+    "ME1625": {
+        "code": "ME1625",
+        "name": "Medieteknisk prototyputveckling",
+        "points": 15.0,
+        "semester": "H\u00f6sttermin 2020",
+        "start_week": 45,
+        "end_week": 2,
+        "periods": [
+            2
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att n\u00e5gon av f\u00f6ljande kurser \u00e4r genomg\u00e5ngen: Grunder i digitala spel 15 hp, Grunder i digital ljudproduktion 15 hp, Grunder i digital bildproduktion 15 hp.",
+        "teacher": "jsg",
+        "replacement": null,
+        "next_instance": "202445 (BXKAQ)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=B3FJY&KtTermin=20202&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/MEGDL_HT-19.pdf",
+        "start_year": 2020,
+        "end_year": 2021,
+        "course_duration": 10,
+        "is_double": false,
+        "color": "#7021db"
+    },
+    "ME1614": {
+        "code": "ME1614",
+        "name": "Ljudsyntes",
+        "points": 7.0,
+        "semester": "V\u00e5rtermin 2021",
+        "start_week": 3,
+        "end_week": 7,
+        "periods": [
+            3
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "Grundl\u00e4ggande beh\u00f6righet.",
+        "teacher": "shp",
+        "replacement": null,
+        "next_instance": "202504 (D5975)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=B6CP7&KtTermin=20211&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/MEGDL_HT-19.pdf",
+        "start_year": 2021,
+        "end_year": 2021,
+        "course_duration": 5,
+        "is_double": false,
+        "color": "#7021db"
+    },
+    "ME1613": {
+        "code": "ME1613",
+        "name": "Interaktivt ber\u00e4ttande",
+        "points": 7.0,
+        "semester": "V\u00e5rtermin 2021",
+        "start_week": 8,
+        "end_week": 12,
+        "periods": [
+            3
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngen kurs Medieteknisk prototyputveckling, 15 hp.",
+        "teacher": "msc",
+        "replacement": "ME1674",
+        "next_instance": "202509 (BHP9F)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BWTGQ&KtTermin=20211&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/MEGDL_HT-19.pdf",
+        "start_year": 2021,
+        "end_year": 2021,
+        "course_duration": 5,
+        "is_double": false,
+        "color": "#7021db"
+    },
+    "ME1616": {
+        "code": "ME1616",
+        "name": "Design i samverkan",
+        "points": 15.0,
+        "semester": "V\u00e5rtermin 2021",
+        "start_week": 13,
+        "end_week": 22,
+        "periods": [
+            4
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngen kurs Interaktivt ber\u00e4ttande, 7,5 hp.",
+        "teacher": "pcr",
+        "replacement": "ME1657",
+        "next_instance": "202514 (BMQRM)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BWGPX&KtTermin=20211&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/MEGDL_HT-19.pdf",
+        "start_year": 2021,
+        "end_year": 2021,
+        "course_duration": 10,
+        "is_double": false,
+        "color": "#7021db"
+    },
+    "ME1592": {
+        "code": "ME1592",
+        "name": "Designperspektiv\u00a0-\u00a0och\u00a0metoder\u00a0f\u00f6r\u00a0medieteknik",
+        "points": 15.0,
+        "semester": "H\u00f6sttermin 2021",
+        "start_week": 35,
+        "end_week": 43,
+        "periods": [
+            1
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs 90 hp avklarade i huvudomr\u00e5det medieteknik.",
+        "teacher": "pcr",
+        "replacement": null,
+        "next_instance": "202436 (BTNDH)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BUCN3&KtTermin=20212&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/MEGDL_HT-19.pdf",
+        "start_year": 2021,
+        "end_year": 2021,
+        "course_duration": 9,
+        "is_double": false,
+        "color": "#7021db"
+    },
+    "ME1644": {
+        "code": "ME1644",
+        "name": "Forskningsintroduktion medieteknik",
+        "points": 7.0,
+        "semester": "H\u00f6sttermin 2021",
+        "start_week": 44,
+        "end_week": 48,
+        "periods": [
+            2
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs 60 hp avklarade i huvudomr\u00e5det medieteknik.",
+        "teacher": "mfi",
+        "replacement": null,
+        "next_instance": "202445 (BTAEK)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BKTYJ&KtTermin=20212&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/MEGDL_HT-19.pdf",
+        "start_year": 2021,
+        "end_year": 2021,
+        "course_duration": 5,
+        "is_double": false,
+        "color": "#7021db"
+    },
+    "ME1593": {
+        "code": "ME1593",
+        "name": "Till\u00e4mpad unders\u00f6kningsmetodik f\u00f6r medieteknik",
+        "points": 7.0,
+        "semester": "H\u00f6sttermin 2021",
+        "start_week": 49,
+        "end_week": 2,
+        "periods": [
+            2
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs 90 hp avklarade i huvudomr\u00e5det medieteknik.",
+        "teacher": "mfi",
+        "replacement": null,
+        "next_instance": "202450 (BXQPQ)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=B9QED&KtTermin=20212&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/MEGDL_HT-19.pdf",
+        "start_year": 2021,
+        "end_year": 2022,
+        "course_duration": 6,
+        "is_double": false,
+        "color": "#7021db"
+    },
+    "ME1603": {
+        "code": "ME1603",
+        "name": "Kandidatarbete i medieteknik",
+        "points": 30.0,
+        "semester": "V\u00e5rtermin 2022",
+        "start_week": 3,
+        "end_week": 22,
+        "periods": [
+            3,
+            4
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs minst 90 hp genomg\u00e5nget inom huvudomr\u00e5det medieteknik samt genomg\u00e5ngen kurs Forskningsmetodik f\u00f6r medieteknik.",
+        "teacher": "aob",
+        "replacement": null,
+        "next_instance": null,
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=B9EGX&KtTermin=20221&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/MEGDL_HT-19.pdf",
+        "start_year": 2022,
+        "end_year": 2022,
+        "course_duration": 20,
+        "is_double": true,
+        "color": "#7021db"
+    },
+    "_groups": {
+        "2019": {
+            "1": [
+                "ME1605"
+            ],
+            "2": [
+                "ME1597"
+            ]
+        },
+        "2020": {
+            "3": [
+                "ME1590",
+                "ET1492"
+            ],
+            "4": [
+                "ME1610"
+            ],
+            "1": [
+                "ME1598"
+            ],
+            "2": [
+                "ME1625"
+            ]
+        },
+        "2021": {
+            "3": [
+                "ME1614",
+                "ME1613"
+            ],
+            "4": [
+                "ME1616"
+            ],
+            "1": [
+                "ME1592"
+            ],
+            "2": [
+                "ME1644",
+                "ME1593"
+            ]
+        },
+        "2022": {
+            "3": [
+                "ME1603"
+            ],
+            "4": [
+                "ME1603"
+            ]
+        }
+    }
+}

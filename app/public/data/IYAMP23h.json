@@ -1,0 +1,203 @@
+{
+    "IY2630": {
+        "code": "IY2630",
+        "name": "Perspektiv p\u00e5 ledarskap",
+        "points": 7.0,
+        "semester": "H\u00f6sttermin 2023",
+        "start_week": 35,
+        "end_week": 43,
+        "periods": [
+            1
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs h\u00f6gskoleingenj\u00f6rsexamen om 180 hp alternativt kandidatexamen inom tekniskt\nomr\u00e5de, inklusive ett sj\u00e4lvst\u00e4ndigt arbete. Vidare kr\u00e4vs 5 h\u00f6gskolepo\u00e4ng inom industriell ekonomi, f\u00f6retagsekonomi eller motsvarande. Tv\u00e5 \u00e5rs arbetslivserfarenhet inom tekniskt/ ingenj\u00f6rsm\u00e4ssigt verksamhetsomr\u00e5de, som relaterar till ledarskap och management. Engelska 6.",
+        "teacher": "jbf",
+        "replacement": null,
+        "next_instance": "202436 (BLEXG)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BHK3K&KtTermin=20232&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/IYAMP_HT-23.pdf",
+        "start_year": 2023,
+        "end_year": 2023,
+        "course_duration": 9,
+        "is_double": false,
+        "color": "#aaa660"
+    },
+    "IY2633": {
+        "code": "IY2633",
+        "name": "Finansiering och investering",
+        "points": 7.0,
+        "semester": "H\u00f6sttermin 2023",
+        "start_week": 44,
+        "end_week": 2,
+        "periods": [
+            2
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "H\u00f6gskoleingenj\u00f6rsexamen eller kandidatexamen inom ett tekniskt omr\u00e5de, inklusive ett sj\u00e4lvst\u00e4ndigt arbete.  Vidare kr\u00e4vs 15 h\u00f6gskolepo\u00e4ng matematik/till\u00e4mpad matematik, 5 h\u00f6gskolepo\u00e4ng industriell ekonomi, f\u00f6retagsekonomi eller motsvarande samt tv\u00e5 \u00e5rs arbetslivserfarenhet efter examen. Engelska 6.",
+        "teacher": "mit",
+        "replacement": null,
+        "next_instance": "202445 (BTAW4)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=B9XR9&KtTermin=20232&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/IYAMP_HT-23.pdf",
+        "start_year": 2023,
+        "end_year": 2024,
+        "course_duration": 11,
+        "is_double": false,
+        "color": "#aaa660"
+    },
+    "IY2593": {
+        "code": "IY2593",
+        "name": "Mikroekonomi f\u00f6r beslutsfattare",
+        "points": 7.0,
+        "semester": "V\u00e5rtermin 2024",
+        "start_week": 3,
+        "end_week": 12,
+        "periods": [
+            3
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "H\u00f6gskoleingenj\u00f6rsexamen om 180 hp inom teknik inklusive ett sj\u00e4lvst\u00e4ndigt arbete om 7,5 hp, 15 hp matematik/till\u00e4mpad matematik p\u00e5 grundniv\u00e5/avancerad niv\u00e5, 5 hp industriell ekonomi och organisation, f\u00f6retagsekonomi eller motsvarande, Engelska B samt 2 \u00e5rs arbetslivserfarenhet.",
+        "teacher": "mbh",
+        "replacement": null,
+        "next_instance": "202504 (BTTN9)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=B6QLQ&KtTermin=20241&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/IYAMP_HT-23.pdf",
+        "start_year": 2024,
+        "end_year": 2024,
+        "course_duration": 10,
+        "is_double": false,
+        "color": "#aaa660"
+    },
+    "IY2610": {
+        "code": "IY2610",
+        "name": "Strategi och styrning",
+        "points": 7.0,
+        "semester": "V\u00e5rtermin 2024",
+        "start_week": 13,
+        "end_week": 22,
+        "periods": [
+            4
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs h\u00f6gskoleingenj\u00f6rsexamen om 180 hp inom teknik inklusive ett sj\u00e4lvst\u00e4ndigt arbete om 7,5 hp. D\u00e4rut\u00f6ver kr\u00e4vs 15 hp i matematik/till\u00e4mpad matematik p\u00e5 grundniv\u00e5/avancerad niv\u00e5, 5 hp  i industriell ekonomi och organisation eller f\u00f6retagsekonomi samt Engelska 6 och 2 \u00e5rs arbetslivserfarenhet.",
+        "teacher": "vji",
+        "replacement": null,
+        "next_instance": "202514 (BJEFY)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BMTTX&KtTermin=20241&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/IYAMP_HT-23.pdf",
+        "start_year": 2024,
+        "end_year": 2024,
+        "course_duration": 10,
+        "is_double": false,
+        "color": "#aaa660"
+    },
+    "IY2611": {
+        "code": "IY2611",
+        "name": "Ekonomisk analys av teknologi och innovation",
+        "points": 7.0,
+        "semester": "H\u00f6sttermin 2024",
+        "start_week": 36,
+        "end_week": 44,
+        "periods": [
+            1
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "F\u00f6r tilltr\u00e4det till kursen kr\u00e4vs h\u00f6gskoleingenj\u00f6rsexamen, 180 hp, inom teknik inklusive ett sj\u00e4lvst\u00e4ndigt arbete, 7,5 hp, matematik/till\u00e4mpad matematik p\u00e5 grundniv\u00e5/avancerad niv\u00e5, 15 hp samt, industriell ekonomi och organisation,  f\u00f6retagsekonomi, 5 hp. D\u00e4rut\u00f6ver kr\u00e4vs Engelska 6 samt 2 \u00e5rs arbetslivserfarenhet.",
+        "teacher": "vji",
+        "replacement": null,
+        "next_instance": "202436 (BATW9)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BATW9&KtTermin=20242&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/IYAMP_HT-23.pdf",
+        "start_year": 2024,
+        "end_year": 2024,
+        "course_duration": 9,
+        "is_double": false,
+        "color": "#aaa660"
+    },
+    "IY2596": {
+        "code": "IY2596",
+        "name": "Forskningsmetodik i industriell ekonomi",
+        "points": 7.0,
+        "semester": "H\u00f6sttermin 2024",
+        "start_week": 45,
+        "end_week": 3,
+        "periods": [
+            2
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "H\u00f6gskoleingenj\u00f6rsexamen om 180 hp inom teknik inklusive ett sj\u00e4lvst\u00e4ndigt arbete om 7,5 hp, 15 hp matematik/till\u00e4mpad matematik p\u00e5 grundniv\u00e5/avancerad niv\u00e5, 5 hp industriell ekonomi och organisation, f\u00f6retagsekonomi eller motsvarande, Engelska B samt 2 \u00e5rs arbetslivserfarenhet.",
+        "teacher": "moh",
+        "replacement": null,
+        "next_instance": "202445 (BT4GH)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BT4GH&KtTermin=20242&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/IYAMP_HT-23.pdf",
+        "start_year": 2024,
+        "end_year": 2025,
+        "course_duration": 11,
+        "is_double": false,
+        "color": "#aaa660"
+    },
+    "IY2594": {
+        "code": "IY2594",
+        "name": "Magisterarbete MBA",
+        "points": 15.0,
+        "semester": "V\u00e5rtermin 2025",
+        "start_week": 4,
+        "end_week": 23,
+        "periods": [
+            3,
+            4
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "H\u00f6gskoleingenj\u00f6rsexamen om 180 hp inom teknik inklusive ett sj\u00e4lvst\u00e4ndigt arbete om 7,5 hp, 15 hp matematik/till\u00e4mpad matematik p\u00e5 grundniv\u00e5/avancerad niv\u00e5, 5 hp industriell ekonomi och organisation, f\u00f6retagsekonomi eller motsvarande, Engelska B samt 2 \u00e5rs arbetslivserfarenhet, 45 hp genomg\u00e5gna vid MBA-programmet vid BTH varav 35 hp avklarade.",
+        "teacher": "jbf",
+        "replacement": "IY2656",
+        "next_instance": null,
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BKQUU&KtTermin=20251&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/IYAMP_HT-23.pdf",
+        "start_year": 2025,
+        "end_year": 2025,
+        "course_duration": 20,
+        "is_double": true,
+        "color": "#aaa660"
+    },
+    "_groups": {
+        "2023": {
+            "1": [
+                "IY2630"
+            ],
+            "2": [
+                "IY2633"
+            ]
+        },
+        "2024": {
+            "3": [
+                "IY2593"
+            ],
+            "4": [
+                "IY2610"
+            ],
+            "1": [
+                "IY2611"
+            ],
+            "2": [
+                "IY2596"
+            ]
+        },
+        "2025": {
+            "3": [
+                "IY2594"
+            ],
+            "4": [
+                "IY2594"
+            ]
+        }
+    }
+}

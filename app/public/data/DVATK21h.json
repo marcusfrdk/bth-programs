@@ -1,0 +1,403 @@
+{
+    "DV1457": {
+        "code": "DV1457",
+        "name": "Programmering i UNIX-milj\u00f6",
+        "points": 7.0,
+        "semester": "H\u00f6sttermin 2021",
+        "start_week": 35,
+        "end_week": 43,
+        "periods": [
+            1
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att den studerande har avklarat kurser i programmering, 15 hp, algoritmer och datastrukturer, 6 hp, operativsystem, 6hp och datakommunikation alt lokala n\u00e4tverk, 4 hp.",
+        "teacher": "dna",
+        "replacement": "DV1578",
+        "next_instance": "202436 (BFHMJ)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BHEEE&KtTermin=20212&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/DVATK_HT-21.pdf",
+        "start_year": 2021,
+        "end_year": 2021,
+        "course_duration": 9,
+        "is_double": false,
+        "color": "#3df6d4"
+    },
+    "DV1619": {
+        "code": "DV1619",
+        "name": "Datorkommunikation",
+        "points": 7.0,
+        "semester": "H\u00f6sttermin 2021",
+        "start_week": 35,
+        "end_week": 43,
+        "periods": [
+            1
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att 5 hp i C/C++ programmering \u00e4r avklarat alternativt 15 hp avklarat i n\u00e5got annat programmeringsspr\u00e5k.",
+        "teacher": "pal",
+        "replacement": null,
+        "next_instance": "202436 (E2647)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BYMMG&KtTermin=20212&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/DVATK_HT-21.pdf",
+        "start_year": 2021,
+        "end_year": 2021,
+        "course_duration": 9,
+        "is_double": false,
+        "color": "#3df6d4"
+    },
+    "ET2595": {
+        "code": "ET2595",
+        "name": "N\u00e4tverks- och systems\u00e4kerhet",
+        "points": 7.0,
+        "semester": "H\u00f6sttermin 2021",
+        "start_week": 44,
+        "end_week": 2,
+        "periods": [
+            2
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "Avklarad kurs i Datakommunikation 7,5 hp och Objektorienterad programmering 7,5 hp",
+        "teacher": "dil",
+        "replacement": "DV2636",
+        "next_instance": "202445 (E2677)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BXNGF&KtTermin=20212&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/DVATK_HT-21.pdf",
+        "start_year": 2021,
+        "end_year": 2022,
+        "course_duration": 11,
+        "is_double": false,
+        "color": "#a61555"
+    },
+    "DV1566": {
+        "code": "DV1566",
+        "name": "Introduktion till Cloud Computing",
+        "points": 7.0,
+        "semester": "H\u00f6sttermin 2021",
+        "start_week": 44,
+        "end_week": 2,
+        "periods": [
+            2
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att den studerande har avklarat: programmering 15 hp, algoritmer och datastrukturer 6 hp  och  operativsystem 6 hp.",
+        "teacher": null,
+        "replacement": null,
+        "next_instance": "202445 (E2626)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BLR4C&KtTermin=20212&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/DVATK_HT-21.pdf",
+        "start_year": 2021,
+        "end_year": 2022,
+        "course_duration": 11,
+        "is_double": false,
+        "color": "#3df6d4"
+    },
+    "PA2554": {
+        "code": "PA2554",
+        "name": "Forskningsmetodik i Programvaruteknik och Datavetenskap",
+        "points": 7.0,
+        "semester": "V\u00e5rtermin 2022",
+        "start_week": 3,
+        "end_week": 12,
+        "periods": [
+            3
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "Avklarade kurser omfattande minst 120 hp varav minst 90 hp vara inom f\u00f6ljande omr\u00e5den: Programvaruteknik, Datavetenskap, eller Datalogi. Minst 30 hp ska vara  inom ett eller flera av f\u00f6ljande omr\u00e5den: Programmering, Objektorienterad systemutveckling, Programvarudesign, Datastrukturer och algoritmer, Databasteknik, Datakommunikation, Realtidssystem, Operativsystem. Dessutom kr\u00e4vs  15 hp avklarade kurser inom Matematik.",
+        "teacher": "ngh",
+        "replacement": null,
+        "next_instance": "202504 (BFPFX)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BAC4L&KtTermin=20221&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/DVATK_HT-21.pdf",
+        "start_year": 2022,
+        "end_year": 2022,
+        "course_duration": 10,
+        "is_double": false,
+        "color": "#86a7f4"
+    },
+    "DV2601": {
+        "code": "DV2601",
+        "name": "Avancerad n\u00e4tverksteknik",
+        "points": 7.0,
+        "semester": "V\u00e5rtermin 2022",
+        "start_week": 3,
+        "end_week": 12,
+        "periods": [
+            3
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs minst 7,5 hp avklarade i datakommunikation och minst 7,5 hp avklarade i objektorienterad programmering, 7,5 hp.",
+        "teacher": "ktt",
+        "replacement": null,
+        "next_instance": "202504 (BEQLW)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BQDJL&KtTermin=20221&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/DVATK_HT-21.pdf",
+        "start_year": 2022,
+        "end_year": 2022,
+        "course_duration": 10,
+        "is_double": false,
+        "color": "#3df6d4"
+    },
+    "DV2602": {
+        "code": "DV2602",
+        "name": "Drift av n\u00e4tverk och n\u00e4tverkstj\u00e4nster",
+        "points": 7.0,
+        "semester": "V\u00e5rtermin 2022",
+        "start_week": 13,
+        "end_week": 22,
+        "periods": [
+            4
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs minst 7,5 hp avklarade i datakommunikation och minst 7,5 hp avklarade i objektorienterad programmering, 7,5 hp.",
+        "teacher": "pal",
+        "replacement": null,
+        "next_instance": "202514 (BHUDW)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BREXX&KtTermin=20221&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/DVATK_HT-21.pdf",
+        "start_year": 2022,
+        "end_year": 2022,
+        "course_duration": 10,
+        "is_double": false,
+        "color": "#3df6d4"
+    },
+    "MS1411": {
+        "code": "MS1411",
+        "name": "Matematisk statistik",
+        "points": 7.0,
+        "semester": "V\u00e5rtermin 2022",
+        "start_week": 13,
+        "end_week": 22,
+        "periods": [
+            4
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "15 hp matematik avklarat.",
+        "teacher": "bxp",
+        "replacement": null,
+        "next_instance": "202514 (BUEHY)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BCL49&KtTermin=20221&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/DVATK_HT-21.pdf",
+        "start_year": 2022,
+        "end_year": 2022,
+        "course_duration": 10,
+        "is_double": false,
+        "color": "#4d95e5"
+    },
+    "DV2618": {
+        "code": "DV2618",
+        "name": "Till\u00e4mpad artificiell intelligens",
+        "points": 7.0,
+        "semester": "H\u00f6sttermin 2022",
+        "start_week": 35,
+        "end_week": 43,
+        "periods": [
+            1
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs 12 avklarade hp fr\u00e5n moment i programmeringskurser (Python eller dylikt) samt 6 avklarade hp i datastrukturer och algoritmer.",
+        "teacher": "hku",
+        "replacement": null,
+        "next_instance": "202436 (E2670)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BY3D9&KtTermin=20222&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/DVATK_HT-21.pdf",
+        "start_year": 2022,
+        "end_year": 2022,
+        "course_duration": 9,
+        "is_double": false,
+        "color": "#3df6d4"
+    },
+    "DV2604": {
+        "code": "DV2604",
+        "name": "Kapacitetsanalys",
+        "points": 7.0,
+        "semester": "H\u00f6sttermin 2022",
+        "start_week": 35,
+        "end_week": 43,
+        "periods": [
+            1
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarad kurs Matematik, forts\u00e4ttningskurs, 7,5 hp samt genomg\u00e5ngen kurs i Matematisk statistik 7,5 hp.",
+        "teacher": "skk",
+        "replacement": null,
+        "next_instance": "202436 (BTHNU)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BRAFJ&KtTermin=20222&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/DVATK_HT-21.pdf",
+        "start_year": 2022,
+        "end_year": 2022,
+        "course_duration": 9,
+        "is_double": false,
+        "color": "#3df6d4"
+    },
+    "DV2545": {
+        "code": "DV2545",
+        "name": "F\u00f6rdjupningskurs i Datavetenskap och kommunikation",
+        "points": 7.0,
+        "semester": "H\u00f6sttermin 2022",
+        "start_week": 44,
+        "end_week": 2,
+        "periods": [
+            2
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att studenten har 90 h\u00f6gskolepo\u00e4ng i programvaruteknik eller datavetenskap samt minst 30 h\u00f6gskolepo\u00e4ng p\u00e5 masterniv\u00e5 inom dessa omr\u00e5den.",
+        "teacher": "yhx",
+        "replacement": "DV2635",
+        "next_instance": "202445 (BPL7K)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BYRAK&KtTermin=20222&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/DVATK_HT-21.pdf",
+        "start_year": 2022,
+        "end_year": 2023,
+        "course_duration": 11,
+        "is_double": false,
+        "color": "#3df6d4"
+    },
+    "DV2578": {
+        "code": "DV2578",
+        "name": "Maskininl\u00e4rning",
+        "points": 7.0,
+        "semester": "H\u00f6sttermin 2022",
+        "start_week": 44,
+        "end_week": 2,
+        "periods": [
+            2
+        ],
+        "type": "Valbar",
+        "academic_focus": null,
+        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngen kurs i Till\u00e4mpad artificiell intelligens, 7,5 hp.",
+        "teacher": "vbx",
+        "replacement": "DV2626",
+        "next_instance": "202445 (B7UDJ)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=B6CCD&KtTermin=20222&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/DVATK_HT-21.pdf",
+        "start_year": 2022,
+        "end_year": 2023,
+        "course_duration": 11,
+        "is_double": false,
+        "color": "#3df6d4"
+    },
+    "ET2601": {
+        "code": "ET2601",
+        "name": "Upplevd kvalitet i n\u00e4tverksbaserade tj\u00e4nster",
+        "points": 7.0,
+        "semester": "H\u00f6sttermin 2022",
+        "start_week": 44,
+        "end_week": 2,
+        "periods": [
+            2
+        ],
+        "type": "Valbar",
+        "academic_focus": null,
+        "prerequisites": "Avklarad kurs i Datakommunikation 7,5 hp och Matematisk statistik 7,5 hp.",
+        "teacher": "mfi",
+        "replacement": null,
+        "next_instance": "202445 (BLQPF)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BPT7N&KtTermin=20222&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/DVATK_HT-21.pdf",
+        "start_year": 2022,
+        "end_year": 2023,
+        "course_duration": 11,
+        "is_double": false,
+        "color": "#a61555"
+    },
+    "DV2603": {
+        "code": "DV2603",
+        "name": "Mjukvarubaserade n\u00e4tverk",
+        "points": 7.0,
+        "semester": "H\u00f6sttermin 2022",
+        "start_week": 44,
+        "end_week": 2,
+        "periods": [
+            2
+        ],
+        "type": "Valbar",
+        "academic_focus": null,
+        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngen kurs Avancerad n\u00e4tverksteknik 7,5 hp.",
+        "teacher": "ktt",
+        "replacement": null,
+        "next_instance": "202445 (E2661)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=B9GGY&KtTermin=20222&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/DVATK_HT-21.pdf",
+        "start_year": 2022,
+        "end_year": 2023,
+        "course_duration": 11,
+        "is_double": false,
+        "color": "#3df6d4"
+    },
+    "DV2572": {
+        "code": "DV2572",
+        "name": "Masterarbete i datavetenskap",
+        "points": 30.0,
+        "semester": "V\u00e5rtermin 2023",
+        "start_week": 3,
+        "end_week": 22,
+        "periods": [
+            3,
+            4
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs minst 90 h\u00f6gskolepo\u00e4ng inom huvudomr\u00e5det datavetenskap, varav minst 30 h\u00f6gskolepo\u00e4ng p\u00e5 avancerad niv\u00e5. Dessutom kr\u00e4vs att den studerande har avklarat en kurs i forskningsmetodik i programvaruteknik och/eller datavetenskap om 7.5 h\u00f6gskolepo\u00e4ng.",
+        "teacher": null,
+        "replacement": null,
+        "next_instance": "202504 (BAKGG)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BR4M9&KtTermin=20231&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/DVATK_HT-21.pdf",
+        "start_year": 2023,
+        "end_year": 2023,
+        "course_duration": 20,
+        "is_double": true,
+        "color": "#3df6d4"
+    },
+    "_groups": {
+        "2021": {
+            "1": [
+                "DV1457",
+                "DV1619"
+            ],
+            "2": [
+                "ET2595",
+                "DV1566"
+            ]
+        },
+        "2022": {
+            "3": [
+                "PA2554",
+                "DV2601"
+            ],
+            "4": [
+                "DV2602",
+                "MS1411"
+            ],
+            "1": [
+                "DV2618",
+                "DV2604"
+            ],
+            "2": [
+                "DV2545",
+                "DV2578",
+                "ET2601",
+                "DV2603"
+            ]
+        },
+        "2023": {
+            "3": [
+                "DV2572"
+            ],
+            "4": [
+                "DV2572"
+            ]
+        }
+    }
+}

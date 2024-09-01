@@ -1,0 +1,428 @@
+{
+    "IY2617": {
+        "code": "IY2617",
+        "name": "Ledning och organisering av teknik- och kunskapsintensiva projekt och f\u00f6retag",
+        "points": 7.0,
+        "semester": "H\u00f6sttermin 2023",
+        "start_week": 35,
+        "end_week": 43,
+        "periods": [
+            1
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "Kandidatexamen eller H\u00f6gskoleingenj\u00f6rsexamen, 180 h\u00f6gskolepo\u00e4ng, inom ett tekniskt omr\u00e5de exklusive industriell ekonomi. Matematik/till\u00e4mpad matematik/matematisk statistik 30 h\u00f6gskolepo\u00e4ng. Engelska 6",
+        "teacher": "wpa",
+        "replacement": null,
+        "next_instance": "202436 (B3HUH)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BNYXK&KtTermin=20232&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/IYAIM_HT-23.pdf",
+        "start_year": 2023,
+        "end_year": 2023,
+        "course_duration": 9,
+        "is_double": false,
+        "color": "#aaa660"
+    },
+    "IY2612": {
+        "code": "IY2612",
+        "name": "Ekonomisk analys av marknader, f\u00f6retag och branscher",
+        "points": 7.0,
+        "semester": "H\u00f6sttermin 2023",
+        "start_week": 35,
+        "end_week": 43,
+        "periods": [
+            1
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "Kandidatexamen eller H\u00f6gskoleingenj\u00f6rsexamen, 180 h\u00f6gskolepo\u00e4ng, inom ett tekniskt omr\u00e5de exklusive industriell ekonomi. Matematik/till\u00e4mpad matematik/matematisk statistik 30 h\u00f6gskolepo\u00e4ng. Engelska 6",
+        "teacher": "squ",
+        "replacement": null,
+        "next_instance": "202436 (BFXWL)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BRQPN&KtTermin=20232&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/IYAIM_HT-23.pdf",
+        "start_year": 2023,
+        "end_year": 2023,
+        "course_duration": 9,
+        "is_double": false,
+        "color": "#aaa660"
+    },
+    "IY2615": {
+        "code": "IY2615",
+        "name": "Statistik och ekonometri",
+        "points": 7.0,
+        "semester": "H\u00f6sttermin 2023",
+        "start_week": 44,
+        "end_week": 2,
+        "periods": [
+            2
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "F\u00f6r tilltr\u00e4det till kursen kr\u00e4vs genomg\u00e5ngen kurs i Ekonomisk analys av marknader, f\u00f6retag och branscher 7,5 hp.",
+        "teacher": "aun",
+        "replacement": null,
+        "next_instance": "202445 (BRPX4)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BWM4R&KtTermin=20232&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/IYAIM_HT-23.pdf",
+        "start_year": 2023,
+        "end_year": 2024,
+        "course_duration": 11,
+        "is_double": false,
+        "color": "#aaa660"
+    },
+    "IY2613": {
+        "code": "IY2613",
+        "name": "Globalisering, digitalisering och internationaliseringsstrategier",
+        "points": 7.0,
+        "semester": "H\u00f6sttermin 2023",
+        "start_week": 44,
+        "end_week": 2,
+        "periods": [
+            2
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "F\u00f6r tilltr\u00e4det till kursen kr\u00e4vs genomg\u00e5ngen kurs i Ekonomisk analys av marknader, f\u00f6retag och branscher, 7,5 hp.",
+        "teacher": "aun",
+        "replacement": null,
+        "next_instance": "202445 (BTQRH)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=B3RRR&KtTermin=20232&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/IYAIM_HT-23.pdf",
+        "start_year": 2023,
+        "end_year": 2024,
+        "course_duration": 11,
+        "is_double": false,
+        "color": "#aaa660"
+    },
+    "IY2618": {
+        "code": "IY2618",
+        "name": "Finansiering och investeringsanalys",
+        "points": 7.0,
+        "semester": "V\u00e5rtermin 2024",
+        "start_week": 3,
+        "end_week": 12,
+        "periods": [
+            3
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "F\u00f6r tilltr\u00e4det till kursen kr\u00e4vs genomg\u00e5ngna kurser i Ekonomisk analys av marknader, f\u00f6retag och branscher, 7,5 hp samt Statistik och ekonometri 7,5 hp.",
+        "teacher": "mbh",
+        "replacement": null,
+        "next_instance": "202504 (BFJUL)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BCAPL&KtTermin=20241&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/IYAIM_HT-23.pdf",
+        "start_year": 2024,
+        "end_year": 2024,
+        "course_duration": 10,
+        "is_double": false,
+        "color": "#aaa660"
+    },
+    "IY2614": {
+        "code": "IY2614",
+        "name": "Ekonomisk analys av teknologi, teknologisk f\u00f6r\u00e4ndring och strategi",
+        "points": 7.0,
+        "semester": "V\u00e5rtermin 2024",
+        "start_week": 3,
+        "end_week": 12,
+        "periods": [
+            3
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "F\u00f6r tilltr\u00e4det till kursen kr\u00e4vs genomg\u00e5ngen kurs Ekonomisk analys av marknader, f\u00f6retag och branscher 7,5 hp.",
+        "teacher": "vji",
+        "replacement": null,
+        "next_instance": "202504 (BUY9U)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BJUK4&KtTermin=20241&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/IYAIM_HT-23.pdf",
+        "start_year": 2024,
+        "end_year": 2024,
+        "course_duration": 10,
+        "is_double": false,
+        "color": "#aaa660"
+    },
+    "IY2619": {
+        "code": "IY2619",
+        "name": "Avancerad forskningsmetod och design",
+        "points": 7.0,
+        "semester": "V\u00e5rtermin 2024",
+        "start_week": 13,
+        "end_week": 22,
+        "periods": [
+            4
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "F\u00f6r tilltr\u00e4det till kursen kr\u00e4vs genomg\u00e5ngen kurs i Statistik och ekonometri, 7,5 hp.",
+        "teacher": "moh",
+        "replacement": null,
+        "next_instance": "202514 (BFGF9)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=B6MCL&KtTermin=20241&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/IYAIM_HT-23.pdf",
+        "start_year": 2024,
+        "end_year": 2024,
+        "course_duration": 10,
+        "is_double": false,
+        "color": "#aaa660"
+    },
+    "IY2616": {
+        "code": "IY2616",
+        "name": "Innovation och aff\u00e4rsutveckling",
+        "points": 7.0,
+        "semester": "V\u00e5rtermin 2024",
+        "start_week": 13,
+        "end_week": 22,
+        "periods": [
+            4
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "F\u00f6r tilltr\u00e4det till kursen kr\u00e4vs genomg\u00e5ngna kurser Ekonomisk analys av marknader, f\u00f6retag och branscher 7,5 hp, Globalisering, digitalisering och internationaliseringsstrategier 7,5 hp samt Ekonomisk analys av teknologi, teknologisk f\u00f6r\u00e4ndring och strategi 7,5 hp.",
+        "teacher": "moh",
+        "replacement": null,
+        "next_instance": "202514 (BTHCY)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BCDDU&KtTermin=20241&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/IYAIM_HT-23.pdf",
+        "start_year": 2024,
+        "end_year": 2024,
+        "course_duration": 10,
+        "is_double": false,
+        "color": "#aaa660"
+    },
+    "IY2631": {
+        "code": "IY2631",
+        "name": "Investeringar, risk och os\u00e4kerhet",
+        "points": 7.0,
+        "semester": "H\u00f6sttermin 2024",
+        "start_week": 36,
+        "end_week": 44,
+        "periods": [
+            1
+        ],
+        "type": "Valbar",
+        "academic_focus": null,
+        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngen kurs i Finansiering och investeringsanalys 7,5 hp eller motsvarande.",
+        "teacher": "aun",
+        "replacement": null,
+        "next_instance": "202436 (BQ7GY)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BQ7GY&KtTermin=20242&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/IYAIM_HT-23.pdf",
+        "start_year": 2024,
+        "end_year": 2024,
+        "course_duration": 9,
+        "is_double": false,
+        "color": "#aaa660"
+    },
+    "IY2632": {
+        "code": "IY2632",
+        "name": "Kommersialisering av produkter, tj\u00e4nster och innovationer",
+        "points": 7.0,
+        "semester": "H\u00f6sttermin 2024",
+        "start_week": 36,
+        "end_week": 44,
+        "periods": [
+            1
+        ],
+        "type": "Valbar",
+        "academic_focus": null,
+        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngna kurser i Statistik och ekonometri 7,5 hp, Ekonomisk analys av teknologi, teknologisk f\u00f6r\u00e4ndring och strategi 7,5 hp samt Innovation och aff\u00e4rsutveckling 7,5 hp.",
+        "teacher": "moh",
+        "replacement": null,
+        "next_instance": "202436 (E2673)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BWCAN&KtTermin=20242&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/IYAIM_HT-23.pdf",
+        "start_year": 2024,
+        "end_year": 2024,
+        "course_duration": 9,
+        "is_double": false,
+        "color": "#aaa660"
+    },
+    "IY2621": {
+        "code": "IY2621",
+        "name": "Till\u00e4mpad produktionsekonomi",
+        "points": 7.0,
+        "semester": "H\u00f6sttermin 2024",
+        "start_week": 36,
+        "end_week": 44,
+        "periods": [
+            1
+        ],
+        "type": "Valbar",
+        "academic_focus": null,
+        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarad kurs i Ekonomisk analys av marknader, f\u00f6retag och branscher 7,5 hp samt Globalisering, digitalisering och internationaliseringsstrategier 7,5 hp samt genomg\u00e5ngen kurs i Statistik och ekonometri 7,5 hp.",
+        "teacher": "hsa",
+        "replacement": null,
+        "next_instance": "202436 (BT79J)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BT79J&KtTermin=20242&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/IYAIM_HT-23.pdf",
+        "start_year": 2024,
+        "end_year": 2024,
+        "course_duration": 9,
+        "is_double": false,
+        "color": "#aaa660"
+    },
+    "IY2624": {
+        "code": "IY2624",
+        "name": "Entrepren\u00f6rskap och strategi",
+        "points": 7.0,
+        "semester": "H\u00f6sttermin 2024",
+        "start_week": 36,
+        "end_week": 44,
+        "periods": [
+            1
+        ],
+        "type": "Valbar",
+        "academic_focus": null,
+        "prerequisites": "F\u00f6r tilltr\u00e4det till kursen kr\u00e4vs genomg\u00e5ngen kurs i Innovation och aff\u00e4rsutveckling 7,5 hp.",
+        "teacher": "pro",
+        "replacement": null,
+        "next_instance": "202436 (BR7AF)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BR7AF&KtTermin=20242&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/IYAIM_HT-23.pdf",
+        "start_year": 2024,
+        "end_year": 2024,
+        "course_duration": 9,
+        "is_double": false,
+        "color": "#aaa660"
+    },
+    "IY2620": {
+        "code": "IY2620",
+        "name": "Till\u00e4mpad konkurrens- och marknadsanalys",
+        "points": 7.0,
+        "semester": "H\u00f6sttermin 2024",
+        "start_week": 45,
+        "end_week": 3,
+        "periods": [
+            2
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "F\u00f6r tilltr\u00e4det till kursen kr\u00e4vs genomg\u00e5ngen kurs i Ekonomisk analys av teknologi, teknologisk f\u00f6r\u00e4ndring och strategi 7,5 hp, Avancerad forskningsmetod och design 7,5 hp samt avklarad kurs i Ekonomisk analys av marknader, f\u00f6retag och branscher 7,5 hp.\n",
+        "teacher": "tas",
+        "replacement": null,
+        "next_instance": "202445 (BAYHH)",
+        "syllabus_url": "https://bth.azure-api.net/lindplan/courseplanbycode?code=BAYHH&semester=20242&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/IYAIM_HT-23.pdf",
+        "start_year": 2024,
+        "end_year": 2025,
+        "course_duration": 11,
+        "is_double": false,
+        "color": "#aaa660"
+    },
+    "IY2626": {
+        "code": "IY2626",
+        "name": "Strategi f\u00f6r mjukvaruutvecklande f\u00f6retag",
+        "points": 7.0,
+        "semester": "H\u00f6sttermin 2024",
+        "start_week": 45,
+        "end_week": 3,
+        "periods": [
+            2
+        ],
+        "type": "Valbar",
+        "academic_focus": null,
+        "prerequisites": "F\u00f6r tilltr\u00e4det till kursen kr\u00e4vs genomg\u00e5ngna kurser i Globalisering, digitalisering och internationaliseringsstrategier 7,5 hp, Ekonomisk analys av teknik, teknologisk f\u00f6r\u00e4ndring och strategi 7,5 hp samt Entrepren\u00f6rskap och strategi 7,5 hp.",
+        "teacher": "vji",
+        "replacement": null,
+        "next_instance": "202445 (BD3LR)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BD3LR&KtTermin=20242&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/IYAIM_HT-23.pdf",
+        "start_year": 2024,
+        "end_year": 2025,
+        "course_duration": 11,
+        "is_double": false,
+        "color": "#aaa660"
+    },
+    "IY2623": {
+        "code": "IY2623",
+        "name": "Till\u00e4mpad investeringsanalys",
+        "points": 7.0,
+        "semester": "H\u00f6sttermin 2024",
+        "start_week": 45,
+        "end_week": 3,
+        "periods": [
+            2
+        ],
+        "type": "Valbar",
+        "academic_focus": null,
+        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngen kurs i Investeringar, risk och os\u00e4kerhet 7,5 hp.",
+        "teacher": "squ",
+        "replacement": null,
+        "next_instance": "202445 (BHLQ7)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BHLQ7&KtTermin=20242&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/IYAIM_HT-23.pdf",
+        "start_year": 2024,
+        "end_year": 2025,
+        "course_duration": 11,
+        "is_double": false,
+        "color": "#aaa660"
+    },
+    "IY2627": {
+        "code": "IY2627",
+        "name": "Masterarbete i industriell ekonomi och management",
+        "points": 30.0,
+        "semester": "V\u00e5rtermin 2025",
+        "start_week": 4,
+        "end_week": 23,
+        "periods": [
+            3,
+            4
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "F\u00f6r tilltr\u00e4det till kursen kr\u00e4vs minst 75 hp avklarade kurser p\u00e5 avancerad niv\u00e5 inom huvudomr\u00e5det Industriell ekonomi och management samt genomg\u00e5ngen kurs i Forskningsdesign och metod 7,5 hp.",
+        "teacher": "ebr",
+        "replacement": null,
+        "next_instance": "202504 (BPL4X)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BPL4X&KtTermin=20251&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/IYAIM_HT-23.pdf",
+        "start_year": 2025,
+        "end_year": 2025,
+        "course_duration": 20,
+        "is_double": true,
+        "color": "#aaa660"
+    },
+    "_groups": {
+        "2023": {
+            "1": [
+                "IY2617",
+                "IY2612"
+            ],
+            "2": [
+                "IY2615",
+                "IY2613"
+            ]
+        },
+        "2024": {
+            "3": [
+                "IY2618",
+                "IY2614"
+            ],
+            "4": [
+                "IY2619",
+                "IY2616"
+            ],
+            "1": [
+                "IY2631",
+                "IY2632",
+                "IY2621",
+                "IY2624"
+            ],
+            "2": [
+                "IY2620",
+                "IY2626",
+                "IY2623"
+            ]
+        },
+        "2025": {
+            "3": [
+                "IY2627"
+            ],
+            "4": [
+                "IY2627"
+            ]
+        }
+    }
+}

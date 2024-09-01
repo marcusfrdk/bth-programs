@@ -1,0 +1,153 @@
+{
+    "MA0005": {
+        "code": "MA0005",
+        "name": "Matematik gamma",
+        "points": 15.0,
+        "semester": "H\u00f6sttermin 2020",
+        "start_week": 35,
+        "end_week": 2,
+        "periods": [
+            1,
+            2
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs grundl\u00e4ggande beh\u00f6righet samt Matematik B eller Matematik 2a/2b/2c.",
+        "teacher": "pgr",
+        "replacement": "MA0008",
+        "next_instance": null,
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=B3LKN&KtTermin=20202&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/TEGTB_HT-20.pdf",
+        "start_year": 2020,
+        "end_year": 2021,
+        "course_duration": 20,
+        "is_double": true,
+        "color": "#f00558"
+    },
+    "FY0003": {
+        "code": "FY0003",
+        "name": "Fysik alfa",
+        "points": 12.0,
+        "semester": "H\u00f6sttermin 2020",
+        "start_week": 36,
+        "end_week": 2,
+        "periods": [
+            1,
+            2
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "Grundl\u00e4ggande beh\u00f6righet och Matematik 2a/2b/2c samt p\u00e5b\u00f6rjad kurs Matematik gamma 15 fup.",
+        "teacher": "hqm",
+        "replacement": "FY0007",
+        "next_instance": "202445 (BEAHR)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BMGL9&KtTermin=20202&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/TEGTB_HT-20.pdf",
+        "start_year": 2020,
+        "end_year": 2021,
+        "course_duration": 19,
+        "is_double": true,
+        "color": "#939342"
+    },
+    "KE0003": {
+        "code": "KE0003",
+        "name": "Kemi alfa",
+        "points": 8.0,
+        "semester": "H\u00f6sttermin 2020",
+        "start_week": 40,
+        "end_week": 12,
+        "periods": [
+            2,
+            3
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs grundl\u00e4ggande beh\u00f6righet samt Matematik 2a/2b/2c.",
+        "teacher": "gkn",
+        "replacement": "KE0004",
+        "next_instance": null,
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BPA3Q&KtTermin=20202&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/TEGTB_HT-20.pdf",
+        "start_year": 2020,
+        "end_year": 2021,
+        "course_duration": 25,
+        "is_double": true,
+        "color": "#b5e22f"
+    },
+    "FY0005": {
+        "code": "FY0005",
+        "name": "Fysik beta",
+        "points": 10.0,
+        "semester": "V\u00e5rtermin 2021",
+        "start_week": 3,
+        "end_week": 22,
+        "periods": [
+            3,
+            4
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs grundl\u00e4ggande beh\u00f6righet och Matematik 2a/2b/2c samt genomg\u00e5ngna kurser Matematik gamma 15 fup och Matematik delta, 10 fup.",
+        "teacher": "xtp",
+        "replacement": "FY0006",
+        "next_instance": "202509 (BYQN9)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BQXRK&KtTermin=20211&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/TEGTB_HT-20.pdf",
+        "start_year": 2021,
+        "end_year": 2021,
+        "course_duration": 20,
+        "is_double": true,
+        "color": "#939342"
+    },
+    "MA0007": {
+        "code": "MA0007",
+        "name": "Matematik delta",
+        "points": 15.0,
+        "semester": "V\u00e5rtermin 2021",
+        "start_week": 3,
+        "end_week": 22,
+        "periods": [
+            3,
+            4
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs 2,5 fup avklarade p\u00e5 kursen Matematik gamma, 15 fup.",
+        "teacher": "lmt",
+        "replacement": null,
+        "next_instance": "202504 (BHXYL)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BQJ9L&KtTermin=20211&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/TEGTB_HT-20.pdf",
+        "start_year": 2021,
+        "end_year": 2021,
+        "course_duration": 20,
+        "is_double": true,
+        "color": "#f00558"
+    },
+    "_groups": {
+        "2020": {
+            "1": [
+                "MA0005",
+                "FY0003"
+            ],
+            "2": [
+                "MA0005",
+                "FY0003",
+                "KE0003"
+            ],
+            "3": [
+                "KE0003"
+            ]
+        },
+        "2021": {
+            "3": [
+                "FY0005",
+                "MA0007"
+            ],
+            "4": [
+                "FY0005",
+                "MA0007"
+            ]
+        }
+    }
+}

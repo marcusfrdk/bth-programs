@@ -1,0 +1,253 @@
+{
+    "FM2596": {
+        "code": "FM2596",
+        "name": "Introduktion till stadsplanering",
+        "points": 15.0,
+        "semester": "H\u00f6sttermin 2021",
+        "start_week": 35,
+        "end_week": 43,
+        "periods": [
+            1
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "Kandidatexamen i fysisk planering, arkitektur, landskapsarkitektur eller motsvarande. Alternativt kandidatexamen 180hp i planering eller motsvarande och d\u00e4rut\u00f6ver 30hp i rumslig gestaltning.",
+        "teacher": "bem",
+        "replacement": null,
+        "next_instance": "202436 (BTLDY)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BYWJK&KtTermin=20212&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/FMASL_HT-21.pdf",
+        "start_year": 2021,
+        "end_year": 2021,
+        "course_duration": 9,
+        "is_double": false,
+        "color": "#dc72da"
+    },
+    "FM2611": {
+        "code": "FM2611",
+        "name": "Studio I - strukturer",
+        "points": 15.0,
+        "semester": "H\u00f6sttermin 2021",
+        "start_week": 44,
+        "end_week": 2,
+        "periods": [
+            2
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs kandidatexamen i fysisk planering, arkitektur, landskapsarkitektur eller motsvarande. Alternativt kandidatexamen 180 hp i planering eller motsvarande och d\u00e4rut\u00f6ver 30 hp i rumslig gestaltning.",
+        "teacher": "bem",
+        "replacement": null,
+        "next_instance": "202445 (BPNPX)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BX6TY&KtTermin=20212&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/FMASL_HT-21.pdf",
+        "start_year": 2021,
+        "end_year": 2022,
+        "course_duration": 11,
+        "is_double": false,
+        "color": "#dc72da"
+    },
+    "FM2597": {
+        "code": "FM2597",
+        "name": "Vetenskapligt arbete: teoretiska utg\u00e5ngspunkter och unders\u00f6kningsmetoder",
+        "points": 7.0,
+        "semester": "V\u00e5rtermin 2022",
+        "start_week": 3,
+        "end_week": 7,
+        "periods": [
+            3
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "Genomg\u00e5ngna kurser motsvarande 30hp p\u00e5 avancerad niv\u00e5 inom huvudomr\u00e5det Fysisk planering",
+        "teacher": "jax",
+        "replacement": null,
+        "next_instance": "202504 (B9X9U)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BXE49&KtTermin=20221&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/FMASL_HT-21.pdf",
+        "start_year": 2022,
+        "end_year": 2022,
+        "course_duration": 5,
+        "is_double": false,
+        "color": "#dc72da"
+    },
+    "FM2598": {
+        "code": "FM2598",
+        "name": "Samh\u00e4llsorganisation och styrformer",
+        "points": 7.0,
+        "semester": "V\u00e5rtermin 2022",
+        "start_week": 8,
+        "end_week": 12,
+        "periods": [
+            3
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "Genomg\u00e5ngna kurser motsvarande 30hp p\u00e5 avancerad niv\u00e5 inom huvudomr\u00e5det Fysisk planering",
+        "teacher": "jax",
+        "replacement": "FM2625",
+        "next_instance": "202536 (BCRXY)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BUHUR&KtTermin=20221&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/FMASL_HT-21.pdf",
+        "start_year": 2022,
+        "end_year": 2022,
+        "course_duration": 5,
+        "is_double": false,
+        "color": "#dc72da"
+    },
+    "FM2592": {
+        "code": "FM2592",
+        "name": "Studio II - situationer",
+        "points": 15.0,
+        "semester": "V\u00e5rtermin 2022",
+        "start_week": 13,
+        "end_week": 22,
+        "periods": [
+            4
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "30hp i kurser p\u00e5 avancerad niv\u00e5 inom huvudomr\u00e5det Fysisk planering.",
+        "teacher": "bem",
+        "replacement": "FM2634",
+        "next_instance": null,
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BLEEY&KtTermin=20221&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/FMASL_HT-21.pdf",
+        "start_year": 2022,
+        "end_year": 2022,
+        "course_duration": 10,
+        "is_double": false,
+        "color": "#dc72da"
+    },
+    "FM2587": {
+        "code": "FM2587",
+        "name": "Infrastruktur och h\u00e5llbarhet",
+        "points": 7.0,
+        "semester": "H\u00f6sttermin 2022",
+        "start_week": 35,
+        "end_week": 39,
+        "periods": [
+            1
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "60hp i kurser p\u00e5 avancerad niv\u00e5 inom huvudomr\u00e5det Fysisk planering.",
+        "teacher": "jwu",
+        "replacement": null,
+        "next_instance": "202436 (B6NK4)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=B7RGL&KtTermin=20222&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/FMASL_HT-21.pdf",
+        "start_year": 2022,
+        "end_year": 2022,
+        "course_duration": 5,
+        "is_double": false,
+        "color": "#dc72da"
+    },
+    "FM2590": {
+        "code": "FM2590",
+        "name": "Urbanteori",
+        "points": 7.0,
+        "semester": "H\u00f6sttermin 2022",
+        "start_week": 39,
+        "end_week": 43,
+        "periods": [
+            1
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "60hp i kurser p\u00e5 avancerad niv\u00e5 inom huvudomr\u00e5det Fysisk planering.",
+        "teacher": "inl",
+        "replacement": null,
+        "next_instance": "202440 (B6KMX)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BEEY7&KtTermin=20222&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/FMASL_HT-21.pdf",
+        "start_year": 2022,
+        "end_year": 2022,
+        "course_duration": 5,
+        "is_double": false,
+        "color": "#dc72da"
+    },
+    "FM2593": {
+        "code": "FM2593",
+        "name": "Studio III - komplexiteter",
+        "points": 15.0,
+        "semester": "H\u00f6sttermin 2022",
+        "start_week": 44,
+        "end_week": 2,
+        "periods": [
+            2
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "60hp i kurser p\u00e5 avancerad niv\u00e5 inom huvudomr\u00e5det Fysisk planering.",
+        "teacher": "abd",
+        "replacement": null,
+        "next_instance": "202445 (BTJDK)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BLCHM&KtTermin=20222&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/FMASL_HT-21.pdf",
+        "start_year": 2022,
+        "end_year": 2023,
+        "course_duration": 11,
+        "is_double": false,
+        "color": "#dc72da"
+    },
+    "FM2614": {
+        "code": "FM2614",
+        "name": "Masterarbete i fysisk planering",
+        "points": 30.0,
+        "semester": "V\u00e5rtermin 2023",
+        "start_week": 3,
+        "end_week": 22,
+        "periods": [
+            3,
+            4
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngna kurser motsvarande 90 hp p\u00e5 avancerad niv\u00e5 inom huvudomr\u00e5det Fysisk planering, varav minst 75hp ska vara avklarade.",
+        "teacher": "bem",
+        "replacement": null,
+        "next_instance": "202436 (1720P)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BDXUK&KtTermin=20231&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/FMASL_HT-21.pdf",
+        "start_year": 2023,
+        "end_year": 2023,
+        "course_duration": 20,
+        "is_double": true,
+        "color": "#dc72da"
+    },
+    "_groups": {
+        "2021": {
+            "1": [
+                "FM2596"
+            ],
+            "2": [
+                "FM2611"
+            ]
+        },
+        "2022": {
+            "3": [
+                "FM2597",
+                "FM2598"
+            ],
+            "4": [
+                "FM2592"
+            ],
+            "1": [
+                "FM2587",
+                "FM2590"
+            ],
+            "2": [
+                "FM2593"
+            ]
+        },
+        "2023": {
+            "3": [
+                "FM2614"
+            ],
+            "4": [
+                "FM2614"
+            ]
+        }
+    }
+}

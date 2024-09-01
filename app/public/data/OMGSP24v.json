@@ -1,0 +1,463 @@
+{
+    "OM1533": {
+        "code": "OM1533",
+        "name": "Introduktion till yrke och akademi",
+        "points": 7.0,
+        "semester": "V\u00e5rtermin 2024",
+        "start_week": 3,
+        "end_week": 7,
+        "periods": [
+            3
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "Grundl\u00e4ggande beh\u00f6righet + Matematik 2a alt 2b alt 2c, Naturkunskap 2 och Samh\u00e4llskunskap 1b alt 1a1+1a2.",
+        "teacher": "lbl",
+        "replacement": null,
+        "next_instance": "202504 (BHKUL)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BKGC9&KtTermin=20241&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/OMGSP_VT-24.pdf",
+        "start_year": 2024,
+        "end_year": 2024,
+        "course_duration": 5,
+        "is_double": false,
+        "color": "#746936"
+    },
+    "OM1534": {
+        "code": "OM1534",
+        "name": "Det v\u00e5rdande och l\u00e4rande m\u00f6tet",
+        "points": 7.0,
+        "semester": "V\u00e5rtermin 2024",
+        "start_week": 8,
+        "end_week": 12,
+        "periods": [
+            3
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "Grundl\u00e4ggande beh\u00f6righet + Matematik 2a alt 2b alt 2c, Naturkunskap 2 och Samh\u00e4llskunskap 1b alt 1a1+1a2.",
+        "teacher": "ubn",
+        "replacement": null,
+        "next_instance": "202440 (B7PLW)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BKCQ7&KtTermin=20241&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/OMGSP_VT-24.pdf",
+        "start_year": 2024,
+        "end_year": 2024,
+        "course_duration": 5,
+        "is_double": false,
+        "color": "#746936"
+    },
+    "KM1421": {
+        "code": "KM1421",
+        "name": "Grundl\u00e4ggande anatomi och fysiologi",
+        "points": 7.0,
+        "semester": "V\u00e5rtermin 2024",
+        "start_week": 13,
+        "end_week": 17,
+        "periods": [
+            4
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "Grundl\u00e4ggande beh\u00f6righet + Matematik 2a alt 2b alt 2c, Naturkunskap 2 och Samh\u00e4llskunskap 1b alt 1a1+1a2.",
+        "teacher": "fst",
+        "replacement": null,
+        "next_instance": "202445 (BYURF)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BL69M&KtTermin=20241&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/OMGSP_VT-24.pdf",
+        "start_year": 2024,
+        "end_year": 2024,
+        "course_duration": 5,
+        "is_double": false,
+        "color": "#f2087a"
+    },
+    "OM1535": {
+        "code": "OM1535",
+        "name": "Omv\u00e5rdnadens grunder",
+        "points": 7.0,
+        "semester": "V\u00e5rtermin 2024",
+        "start_week": 18,
+        "end_week": 22,
+        "periods": [
+            4
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "Grundl\u00e4ggande beh\u00f6righet + Matematik 2a alt 2b alt 2c, Naturkunskap 2 och Samh\u00e4llskunskap 1b alt 1a1+1a2.",
+        "teacher": "lbl",
+        "replacement": null,
+        "next_instance": "202450 (B9A3W)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BY3LY&KtTermin=20241&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/OMGSP_VT-24.pdf",
+        "start_year": 2024,
+        "end_year": 2024,
+        "course_duration": 5,
+        "is_double": false,
+        "color": "#746936"
+    },
+    "KM1422": {
+        "code": "KM1422",
+        "name": "Anatomi och fysiologi, f\u00f6rdjupning",
+        "points": 7.0,
+        "semester": "H\u00f6sttermin 2024",
+        "start_week": 35,
+        "end_week": 39,
+        "periods": [
+            1
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att f\u00f6ljande kurs \u00e4r genomg\u00e5ngen: Grundl\u00e4ggande anatomi och fysiologi, 7,5 hp.\n",
+        "teacher": "ako",
+        "replacement": null,
+        "next_instance": "202504 (B9639)",
+        "syllabus_url": "https://bth.azure-api.net/lindplan/courseplanbycode?code=B7PAJ&semester=20242&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/OMGSP_VT-24.pdf",
+        "start_year": 2024,
+        "end_year": 2024,
+        "course_duration": 5,
+        "is_double": false,
+        "color": "#f2087a"
+    },
+    "KM1423": {
+        "code": "KM1423",
+        "name": "Mikrobiologi, farmakologi och n\u00e4ringsl\u00e4ra",
+        "points": 7.0,
+        "semester": "H\u00f6sttermin 2024",
+        "start_week": 40,
+        "end_week": 44,
+        "periods": [
+            2
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att f\u00f6ljande kurser \u00e4r genomg\u00e5ngna: Grundl\u00e4ggande anatomi och fysiologi, 7,5hp; Anatomi och fysiologi, f\u00f6rdjupning, 7,5hp.\n",
+        "teacher": "tri",
+        "replacement": null,
+        "next_instance": "202440 (B4PDL)",
+        "syllabus_url": "https://bth.azure-api.net/lindplan/courseplanbycode?code=B4PDL&semester=20242&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/OMGSP_VT-24.pdf",
+        "start_year": 2024,
+        "end_year": 2024,
+        "course_duration": 5,
+        "is_double": false,
+        "color": "#f2087a"
+    },
+    "OM1537": {
+        "code": "OM1537",
+        "name": "Omv\u00e5rdnad, f\u00f6rdjupning",
+        "points": 7.0,
+        "semester": "H\u00f6sttermin 2024",
+        "start_week": 45,
+        "end_week": 49,
+        "periods": [
+            2
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att f\u00f6ljande kurser \u00e4r avklarade: Introduktion till yrke och akademi, 7,5 hp; Det v\u00e5rdande och l\u00e4rande m\u00f6tet,7,5 hp; Grundl\u00e4ggande anatomi och fysiologi, 7,5 hp; Omv\u00e5rdnadens grunder, 7,5 hp. D\u00e4rut\u00f6ver kr\u00e4vs att f\u00f6ljande kurser \u00e4r genomg\u00e5ngna: Anatomi och fysiologi, f\u00f6rdjupning, 7,5 hp; Mikrobiologi, farmakologi och n\u00e4ringsl\u00e4ra, 7,5 hp.\n",
+        "teacher": "kba",
+        "replacement": null,
+        "next_instance": "202445 (BCDXG)",
+        "syllabus_url": "https://bth.azure-api.net/lindplan/courseplanbycode?code=BCDXG&semester=20242&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/OMGSP_VT-24.pdf",
+        "start_year": 2024,
+        "end_year": 2024,
+        "course_duration": 5,
+        "is_double": false,
+        "color": "#746936"
+    },
+    "OM1536": {
+        "code": "OM1536",
+        "name": "Sjuksk\u00f6terskans professionella grund",
+        "points": 7.0,
+        "semester": "H\u00f6sttermin 2024",
+        "start_week": 50,
+        "end_week": 3,
+        "periods": [
+            2
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att f\u00f6ljande kurser \u00e4r avklarade: Introduktion till yrke och akademi,7,5 hp; Det v\u00e5rdande och l\u00e4rande m\u00f6tet,7,5 hp.<br>\nD\u00e4rut\u00f6ver kr\u00e4vs att f\u00f6ljande kurser \u00e4r genomg\u00e5ngna: Grundl\u00e4ggande anatomi och fysiologi, 7,5 hp; Omv\u00e5rdnadens grunder, 7,5 hp; Anatomi och fysiologi, f\u00f6rdjupning, 7,5 hp; Mikrobiologi, farmakologi och n\u00e4ringsl\u00e4ra, 7,5 hp.\n",
+        "teacher": "agm",
+        "replacement": null,
+        "next_instance": "202450 (B9XPW)",
+        "syllabus_url": "https://bth.azure-api.net/lindplan/courseplanbycode?code=B9XPW&semester=20242&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/OMGSP_VT-24.pdf",
+        "start_year": 2024,
+        "end_year": 2025,
+        "course_duration": 6,
+        "is_double": false,
+        "color": "#746936"
+    },
+    "KM1424": {
+        "code": "KM1424",
+        "name": "Patofysiologi I",
+        "points": 7.0,
+        "semester": "V\u00e5rtermin 2025",
+        "start_week": 4,
+        "end_week": 8,
+        "periods": [
+            3
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att f\u00f6ljande kurser \u00e4r avklarade: Grundl\u00e4ggande anatomi och fysiologi, 7,5 hp; Anatomi och fysiologi, f\u00f6rdjupning, 7,5 hp.<br>\nD\u00e4rut\u00f6ver kr\u00e4vs att f\u00f6ljande kurs \u00e4r genomg\u00e5ngen: Mikrobiologi, farmakologi och n\u00e4ringsl\u00e4ra, 7,5 hp.\n",
+        "teacher": "crm",
+        "replacement": null,
+        "next_instance": "202504 (BKNHH)",
+        "syllabus_url": "https://bth.azure-api.net/lindplan/courseplanbycode?code=BKNHH&semester=20251&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/OMGSP_VT-24.pdf",
+        "start_year": 2025,
+        "end_year": 2025,
+        "course_duration": 5,
+        "is_double": false,
+        "color": "#f2087a"
+    },
+    "OM1538": {
+        "code": "OM1538",
+        "name": "Omv\u00e5rdnad, metoder och till\u00e4mpning I",
+        "points": 7.0,
+        "semester": "V\u00e5rtermin 2025",
+        "start_week": 9,
+        "end_week": 13,
+        "periods": [
+            3
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att f\u00f6ljande kurser \u00e4r avklarade: Mikrobiologi, farmakologi och n\u00e4ringsl\u00e4ra, 7,5 hp; Sjuksk\u00f6terskans professionella grund, 7,5 hp.<br>\nD\u00e4rut\u00f6ver kr\u00e4vs \u00e4ven att f\u00f6ljande kurser \u00e4r genomg\u00e5ngna: Omv\u00e5rdnad, f\u00f6rdjupning, 7,5 hp; Patofysiologi I, 7,5 hp.\n",
+        "teacher": "kba",
+        "replacement": null,
+        "next_instance": "202440 (BP4JW)",
+        "syllabus_url": "https://bth.azure-api.net/lindplan/courseplanbycode?code=BTJH4&semester=20251&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/OMGSP_VT-24.pdf",
+        "start_year": 2025,
+        "end_year": 2025,
+        "course_duration": 5,
+        "is_double": false,
+        "color": "#746936"
+    },
+    "KM1425": {
+        "code": "KM1425",
+        "name": "Patofysiologi II",
+        "points": 7.0,
+        "semester": "V\u00e5rtermin 2025",
+        "start_week": 14,
+        "end_week": 18,
+        "periods": [
+            4
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs \u00e4ven att f\u00f6ljande kurser \u00e4r genomg\u00e5ngna: Patofysiologi I, 7,5 hp; Omv\u00e5rdnad, metoder och till\u00e4mpning I, 7,5 hp.\n",
+        "teacher": "crm",
+        "replacement": null,
+        "next_instance": "202445 (B3U7F)",
+        "syllabus_url": "https://bth.azure-api.net/lindplan/courseplanbycode?code=BAARG&semester=20251&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/OMGSP_VT-24.pdf",
+        "start_year": 2025,
+        "end_year": 2025,
+        "course_duration": 5,
+        "is_double": false,
+        "color": "#f2087a"
+    },
+    "OM1539": {
+        "code": "OM1539",
+        "name": "Omv\u00e5rdnad, metoder och till\u00e4mpning II",
+        "points": 7.0,
+        "semester": "V\u00e5rtermin 2025",
+        "start_week": 19,
+        "end_week": 23,
+        "periods": [
+            4
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs \u00e4ven att f\u00f6ljande kurser \u00e4r genomg\u00e5ngna: Omv\u00e5rdnad, f\u00f6rdjupning, 7,5 hp; Patofysiologi I, 7,5 hp; Omv\u00e5rdnad, metoder och till\u00e4mpning I, 7,5 hp; Patofysiologi II, 7,5 hp.\n",
+        "teacher": "tri",
+        "replacement": null,
+        "next_instance": "202450 (B9E3H)",
+        "syllabus_url": "https://bth.azure-api.net/lindplan/courseplanbycode?code=BYH4L&semester=20251&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/OMGSP_VT-24.pdf",
+        "start_year": 2025,
+        "end_year": 2025,
+        "course_duration": 5,
+        "is_double": false,
+        "color": "#746936"
+    },
+    "OM1540": {
+        "code": "OM1540",
+        "name": "Sjuksk\u00f6terskans professionella utveckling",
+        "points": 30.0,
+        "semester": "H\u00f6sttermin 2025",
+        "start_week": 35,
+        "end_week": 3,
+        "periods": [
+            1,
+            2
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att f\u00f6ljande kurser \u00e4r avklarade: Omv\u00e5rdnad, f\u00f6rdjupning, 7,5 hp; Patofysiologi I, 7,5 hp. D\u00e4rut\u00f6ver kr\u00e4vs att f\u00f6ljande kurser \u00e4r genomg\u00e5ngna: Omv\u00e5rdnad, metoder och till\u00e4mpning I, 7,5 hp; Patofysiologi II, 7,5 hp; Omv\u00e5rdnad, metoder och till\u00e4mpning II, 7,5 hp.\n",
+        "teacher": "srx",
+        "replacement": null,
+        "next_instance": "202504 (BXUCX)",
+        "syllabus_url": "https://bth.azure-api.net/lindplan/courseplanbycode?code=BD4UF&semester=20252&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/OMGSP_VT-24.pdf",
+        "start_year": 2025,
+        "end_year": 2026,
+        "course_duration": 21,
+        "is_double": true,
+        "color": "#746936"
+    },
+    "OM1547": {
+        "code": "OM1547",
+        "name": "Omv\u00e5rdnad, vetenskapliga teorier och metoder",
+        "points": 7.0,
+        "semester": "V\u00e5rtermin 2026",
+        "start_week": 4,
+        "end_week": 8,
+        "periods": [
+            3
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att f\u00f6ljande kurser \u00e4r avklarade: Omv\u00e5rdnad, metoder och till\u00e4mpning I, 7,5 hp; Omv\u00e5rdnad, metoder och till\u00e4mpning II, 7,5 hp. D\u00e4rut\u00f6ver kr\u00e4vs att f\u00f6ljande kurs \u00e4r genomg\u00e5ngen: Sjuksk\u00f6terskans professionella utveckling, 30 hp.\n",
+        "teacher": "jtl",
+        "replacement": null,
+        "next_instance": "202504 (BWFJG)",
+        "syllabus_url": "https://bth.azure-api.net/lindplan/courseplanbycode?code=BHTNX&semester=20261&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/OMGSP_VT-24.pdf",
+        "start_year": 2026,
+        "end_year": 2026,
+        "course_duration": 5,
+        "is_double": false,
+        "color": "#746936"
+    },
+    "OM1542": {
+        "code": "OM1542",
+        "name": "Sj\u00e4lvst\u00e4ndigt arbete",
+        "points": 15.0,
+        "semester": "V\u00e5rtermin 2026",
+        "start_week": 9,
+        "end_week": 18,
+        "periods": [
+            3
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att f\u00f6ljande kurser \u00e4r avklarade: Omv\u00e5rdnad, metoder och till\u00e4mpning I, 7,5 hp; Omv\u00e5rdnad, metoder och till\u00e4mpning II, 7,5 hp.<br>\nD\u00e4rut\u00f6ver kr\u00e4vs att f\u00f6ljande kurs \u00e4r genomg\u00e5ngen: Sjuksk\u00f6terskans professionella utveckling, 30 hp.\n",
+        "teacher": "mfq",
+        "replacement": null,
+        "next_instance": "202440 (BCDTY)",
+        "syllabus_url": "https://bth.azure-api.net/lindplan/courseplanbycode?code=B3TMF&semester=20261&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/OMGSP_VT-24.pdf",
+        "start_year": 2026,
+        "end_year": 2026,
+        "course_duration": 10,
+        "is_double": false,
+        "color": "#746936"
+    },
+    "OM1541": {
+        "code": "OM1541",
+        "name": "Omv\u00e5rdnad vid akuta situationer och komplexa oh\u00e4lsotillst\u00e5nd",
+        "points": 7.0,
+        "semester": "V\u00e5rtermin 2026",
+        "start_week": 19,
+        "end_week": 23,
+        "periods": [
+            4
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att f\u00f6ljande kurser \u00e4r avklarade:\u00a0<br>\nOmv\u00e5rdnad, metoder och till\u00e4mpning I, 7,5 hp; Patofysiologi II, 7,5 hp; Omv\u00e5rdnad, metoder och till\u00e4mpning II, 7,5 hp.<br>\nD\u00e4rut\u00f6ver kr\u00e4vs \u00e4ven att f\u00f6ljande kurs \u00e4r genomg\u00e5ngen: Sjuksk\u00f6terskans professionella utveckling, 30 hp.\n",
+        "teacher": "jet",
+        "replacement": null,
+        "next_instance": "202450 (BCUJG)",
+        "syllabus_url": "https://bth.azure-api.net/lindplan/courseplanbycode?code=B9J3J&semester=20261&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/OMGSP_VT-24.pdf",
+        "start_year": 2026,
+        "end_year": 2026,
+        "course_duration": 5,
+        "is_double": false,
+        "color": "#746936"
+    },
+    "OM1543": {
+        "code": "OM1543",
+        "name": "Sjuksk\u00f6terskans professionella kompetens",
+        "points": 30.0,
+        "semester": "H\u00f6sttermin 2026",
+        "start_week": 35,
+        "end_week": 2,
+        "periods": [
+            1,
+            2
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att kursen Sjuksk\u00f6terskans professionella utveckling, 30 hp \u00e4r avklarad. D\u00e4rut\u00f6ver kr\u00e4vs \u00e4ven att f\u00f6ljande kurser \u00e4r genomg\u00e5ngna: Omv\u00e5rdnad, vetenskapliga teorier och metoder 7,5 hp och Sj\u00e4lvst\u00e4ndigt arbete, 15 hp samt Omv\u00e5rdnad vid akuta situationer och komplexa oh\u00e4lsotillst\u00e5nd, 7,5 hp.\n",
+        "teacher": "cbd",
+        "replacement": null,
+        "next_instance": "202504 (BMRTG)",
+        "syllabus_url": "https://bth.azure-api.net/lindplan/courseplanbycode?code=BCWX9&semester=20262&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/OMGSP_VT-24.pdf",
+        "start_year": 2026,
+        "end_year": 2027,
+        "course_duration": 20,
+        "is_double": true,
+        "color": "#746936"
+    },
+    "_groups": {
+        "2024": {
+            "3": [
+                "OM1533",
+                "OM1534"
+            ],
+            "4": [
+                "KM1421",
+                "OM1535"
+            ],
+            "1": [
+                "KM1422"
+            ],
+            "2": [
+                "KM1423",
+                "OM1537",
+                "OM1536"
+            ]
+        },
+        "2025": {
+            "3": [
+                "KM1424",
+                "OM1538"
+            ],
+            "4": [
+                "KM1425",
+                "OM1539"
+            ],
+            "1": [
+                "OM1540"
+            ],
+            "2": [
+                "OM1540"
+            ]
+        },
+        "2026": {
+            "3": [
+                "OM1547",
+                "OM1542"
+            ],
+            "4": [
+                "OM1541"
+            ],
+            "1": [
+                "OM1543"
+            ],
+            "2": [
+                "OM1543"
+            ]
+        }
+    }
+}

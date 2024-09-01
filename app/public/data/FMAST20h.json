@@ -1,0 +1,255 @@
+{
+    "FM2550": {
+        "code": "FM2550",
+        "name": "Introduktion till strategisk fysisk planering",
+        "points": 15.0,
+        "semester": "H\u00f6sttermin 2020",
+        "start_week": 36,
+        "end_week": 2,
+        "periods": [
+            1,
+            2
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "Kandidatexamen 180hp d\u00e4r minst 30hp planering ing\u00e5r, alternativt kandidatexamen 180hp och d\u00e4rut\u00f6ver 30hp planering eller motsvarande.",
+        "teacher": "sfl",
+        "replacement": null,
+        "next_instance": "202436 (BJEFH)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BHFUH&KtTermin=20202&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/FMAST_HT-20.pdf",
+        "start_year": 2020,
+        "end_year": 2021,
+        "course_duration": 19,
+        "is_double": true,
+        "color": "#dc72da"
+    },
+    "FM2606": {
+        "code": "FM2606",
+        "name": "Framtidsbilder",
+        "points": 15.0,
+        "semester": "H\u00f6sttermin 2020",
+        "start_week": 45,
+        "end_week": 2,
+        "periods": [
+            2
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs kandidatexamen 180 hp d\u00e4r minst 30 hp planering ing\u00e5r, alternativt kandidatexamen 180hp och d\u00e4rut\u00f6ver 30 hp planering eller motsvarande.",
+        "teacher": "bem",
+        "replacement": "FM2620",
+        "next_instance": "202445 (BW344)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BD6KQ&KtTermin=20202&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/FMAST_HT-20.pdf",
+        "start_year": 2020,
+        "end_year": 2021,
+        "course_duration": 10,
+        "is_double": false,
+        "color": "#dc72da"
+    },
+    "FM2597": {
+        "code": "FM2597",
+        "name": "Vetenskapligt arbete: teoretiska utg\u00e5ngspunkter och unders\u00f6kningsmetoder",
+        "points": 7.0,
+        "semester": "V\u00e5rtermin 2021",
+        "start_week": 3,
+        "end_week": 7,
+        "periods": [
+            3
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "Genomg\u00e5ngna kurser motsvarande 30hp p\u00e5 avancerad niv\u00e5 inom huvudomr\u00e5det Fysisk planering",
+        "teacher": "jax",
+        "replacement": null,
+        "next_instance": "202504 (B9X9U)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BWWY4&KtTermin=20211&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/FMAST_HT-20.pdf",
+        "start_year": 2021,
+        "end_year": 2021,
+        "course_duration": 5,
+        "is_double": false,
+        "color": "#dc72da"
+    },
+    "FM2598": {
+        "code": "FM2598",
+        "name": "Samh\u00e4llsorganisation och styrformer",
+        "points": 7.0,
+        "semester": "V\u00e5rtermin 2021",
+        "start_week": 8,
+        "end_week": 12,
+        "periods": [
+            3
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "Genomg\u00e5ngna kurser motsvarande 30hp p\u00e5 avancerad niv\u00e5 inom huvudomr\u00e5det Fysisk planering",
+        "teacher": "jax",
+        "replacement": "FM2625",
+        "next_instance": "202536 (BCRXY)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BPDHU&KtTermin=20211&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/FMAST_HT-20.pdf",
+        "start_year": 2021,
+        "end_year": 2021,
+        "course_duration": 5,
+        "is_double": false,
+        "color": "#dc72da"
+    },
+    "FM2607": {
+        "code": "FM2607",
+        "name": "Planeringsteori",
+        "points": 7.0,
+        "semester": "V\u00e5rtermin 2021",
+        "start_week": 13,
+        "end_week": 17,
+        "periods": [
+            4
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "F\u00f6rtilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngna kurser motsvarande 30 hp p\u00e5 avancerad niv\u00e5 inom masterprogrammet Strategisk Fysisk planering.",
+        "teacher": "sfl",
+        "replacement": null,
+        "next_instance": null,
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BEN64&KtTermin=20211&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/FMAST_HT-20.pdf",
+        "start_year": 2021,
+        "end_year": 2021,
+        "course_duration": 5,
+        "is_double": false,
+        "color": "#dc72da"
+    },
+    "FM2599": {
+        "code": "FM2599",
+        "name": "Tematiska studier",
+        "points": 7.0,
+        "semester": "V\u00e5rtermin 2021",
+        "start_week": 18,
+        "end_week": 22,
+        "periods": [
+            4
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "Genomg\u00e5ngna kurser motsvarande 30hp p\u00e5 avancerad niv\u00e5 inom masterprogrammet Strategisk Fysisk planering",
+        "teacher": "psx",
+        "replacement": "FM2626",
+        "next_instance": "202550 (BFCR9)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=B96D4&KtTermin=20211&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/FMAST_HT-20.pdf",
+        "start_year": 2021,
+        "end_year": 2021,
+        "course_duration": 5,
+        "is_double": false,
+        "color": "#dc72da"
+    },
+    "FM2608": {
+        "code": "FM2608",
+        "name": "Regional planering med internationella perspektiv",
+        "points": 15.0,
+        "semester": "H\u00f6sttermin 2021",
+        "start_week": 35,
+        "end_week": 43,
+        "periods": [
+            1
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngna kurser motsvarande 60 hp p\u00e5 avancerad niv\u00e5 inom huvudomr\u00e5det fysisk planering varav minst 45 hp ska vara avklarade. Bland de avklarde kurserna ska kursen Introduktion till strategisk fysisk planering 15 hp ing\u00e5.",
+        "teacher": "jax",
+        "replacement": "FM2624",
+        "next_instance": "202509 (BKMFR)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BTE9H&KtTermin=20212&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/FMAST_HT-20.pdf",
+        "start_year": 2021,
+        "end_year": 2021,
+        "course_duration": 9,
+        "is_double": false,
+        "color": "#dc72da"
+    },
+    "FM2609": {
+        "code": "FM2609",
+        "name": "Projektarbete i strategisk fysisk planering",
+        "points": 15.0,
+        "semester": "H\u00f6sttermin 2021",
+        "start_week": 44,
+        "end_week": 2,
+        "periods": [
+            2
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngna kurser motsvarande 60 hp p\u00e5 avancerad niv\u00e5 inom huvudomr\u00e5det fysisk planering varav minst 45 hp ska vara avklarade. Bland de avklarde kurserna ska kursen Introduktion till strategisk fysisk planering 15 hp ing\u00e5.",
+        "teacher": "pkt",
+        "replacement": null,
+        "next_instance": "202445 (BU3MR)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BKTUJ&KtTermin=20212&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/FMAST_HT-20.pdf",
+        "start_year": 2021,
+        "end_year": 2022,
+        "course_duration": 11,
+        "is_double": false,
+        "color": "#dc72da"
+    },
+    "FM2612": {
+        "code": "FM2612",
+        "name": "Masterarbete i fysisk planering",
+        "points": 30.0,
+        "semester": "V\u00e5rtermin 2022",
+        "start_week": 3,
+        "end_week": 22,
+        "periods": [
+            3,
+            4
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngna kurser motsvarande 90 hp p\u00e5 avancerad niv\u00e5 inom huvudomr\u00e5det fysisk planering, varav minst 75 hp ska vara avklarade, inklusive kursen Introduktion till strategisk fysisk planering, 15 hp.",
+        "teacher": "sfl",
+        "replacement": null,
+        "next_instance": "202504 (BTRUQ)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BTMRN&KtTermin=20221&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/FMAST_HT-20.pdf",
+        "start_year": 2022,
+        "end_year": 2022,
+        "course_duration": 20,
+        "is_double": true,
+        "color": "#dc72da"
+    },
+    "_groups": {
+        "2020": {
+            "1": [
+                "FM2550"
+            ],
+            "2": [
+                "FM2550",
+                "FM2606"
+            ]
+        },
+        "2021": {
+            "3": [
+                "FM2597",
+                "FM2598"
+            ],
+            "4": [
+                "FM2607",
+                "FM2599"
+            ],
+            "1": [
+                "FM2608"
+            ],
+            "2": [
+                "FM2609"
+            ]
+        },
+        "2022": {
+            "3": [
+                "FM2612"
+            ],
+            "4": [
+                "FM2612"
+            ]
+        }
+    }
+}

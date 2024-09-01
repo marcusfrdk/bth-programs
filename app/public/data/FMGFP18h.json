@@ -1,0 +1,220 @@
+{
+    "FM1461": {
+        "code": "FM1461",
+        "name": "\u00d6versiktsplanering",
+        "points": 7.0,
+        "semester": "V\u00e5rtermin 2019",
+        "start_week": 14,
+        "end_week": 18,
+        "periods": [
+            4
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "Grundl\u00e4ggande beh\u00f6righet + Matematik 3b / 3c, Samh\u00e4llskunskap 1b / 1a1 +1a2. Eller: Matematik C, Samh\u00e4llskunskap A. Naturkunskap B beh\u00f6vs ej.",
+        "teacher": null,
+        "replacement": null,
+        "next_instance": null,
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=RQ012&KtTermin=20191&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/FMGFP_HT-18.pdf",
+        "start_year": 2019,
+        "end_year": 2019,
+        "course_duration": 5,
+        "is_double": false,
+        "color": "#dc72da"
+    },
+    "FM1462": {
+        "code": "FM1462",
+        "name": "Milj\u00f6konsekvensbed\u00f6mning",
+        "points": 7.0,
+        "semester": "V\u00e5rtermin 2019",
+        "start_week": 19,
+        "end_week": 23,
+        "periods": [
+            4
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "Grundl\u00e4ggande beh\u00f6righet + Matematik 3b / 3c, Naturkunskap 2, Samh\u00e4llskunskap 1b / 1a1 +1a2. Eller: Matematik C, Naturkunskap B, Samh\u00e4llskunskap A. Naturkunskap B beh\u00f6vs ej.",
+        "teacher": null,
+        "replacement": null,
+        "next_instance": null,
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=RQ035&KtTermin=20191&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/FMGFP_HT-18.pdf",
+        "start_year": 2019,
+        "end_year": 2019,
+        "course_duration": 5,
+        "is_double": false,
+        "color": "#dc72da"
+    },
+    "FM1477": {
+        "code": "FM1477",
+        "name": "Infrastruktur och mobilitet",
+        "points": 15.0,
+        "semester": "H\u00f6sttermin 2019",
+        "start_week": 45,
+        "end_week": 3,
+        "periods": [
+            2
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngna kurser motsvarande 60 hp fr\u00e5n programmet Fysisk planering",
+        "teacher": null,
+        "replacement": null,
+        "next_instance": null,
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BATF3&KtTermin=20192&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/FMGFP_HT-18.pdf",
+        "start_year": 2019,
+        "end_year": 2020,
+        "course_duration": 11,
+        "is_double": false,
+        "color": "#dc72da"
+    },
+    "FM1476": {
+        "code": "FM1476",
+        "name": "Planeringsteori",
+        "points": 7.0,
+        "semester": "V\u00e5rtermin 2020",
+        "start_week": 4,
+        "end_week": 8,
+        "periods": [
+            3
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "Minst 60 h\u00f6gskolepo\u00e4ng enligt programmet Fysisk planering.",
+        "teacher": null,
+        "replacement": null,
+        "next_instance": null,
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BRFLC&KtTermin=20201&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/FMGFP_HT-18.pdf",
+        "start_year": 2020,
+        "end_year": 2020,
+        "course_duration": 5,
+        "is_double": false,
+        "color": "#dc72da"
+    },
+    "FM1465": {
+        "code": "FM1465",
+        "name": "Planering och h\u00e5llbarhet",
+        "points": 7.0,
+        "semester": "V\u00e5rtermin 2020",
+        "start_week": 9,
+        "end_week": 13,
+        "periods": [
+            3
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "Minst 60 h\u00f6gskolepo\u00e4ng enligt programmet Fysisk planering.",
+        "teacher": null,
+        "replacement": null,
+        "next_instance": null,
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BH9QD&KtTermin=20201&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/FMGFP_HT-18.pdf",
+        "start_year": 2020,
+        "end_year": 2020,
+        "course_duration": 5,
+        "is_double": false,
+        "color": "#dc72da"
+    },
+    "FM1468": {
+        "code": "FM1468",
+        "name": "Planering och medborgardeltagande",
+        "points": 7.0,
+        "semester": "V\u00e5rtermin 2020",
+        "start_week": 19,
+        "end_week": 23,
+        "periods": [
+            4
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "60hp fr\u00e5n programmet Fysisk planering",
+        "teacher": null,
+        "replacement": null,
+        "next_instance": null,
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BPHF3&KtTermin=20201&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/FMGFP_HT-18.pdf",
+        "start_year": 2020,
+        "end_year": 2020,
+        "course_duration": 5,
+        "is_double": false,
+        "color": "#dc72da"
+    },
+    "FM1478": {
+        "code": "FM1478",
+        "name": "Komplexa stadsbyggnadsprojekt",
+        "points": 15.0,
+        "semester": "H\u00f6sttermin 2020",
+        "start_week": 36,
+        "end_week": 44,
+        "periods": [
+            1
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "120 hp fr\u00e5n programmet fysisk planering ska vara genomg\u00e5ngna.",
+        "teacher": null,
+        "replacement": "FM1492",
+        "next_instance": "202445 (BC69R)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BK6G3&KtTermin=20202&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/FMGFP_HT-18.pdf",
+        "start_year": 2020,
+        "end_year": 2020,
+        "course_duration": 9,
+        "is_double": false,
+        "color": "#dc72da"
+    },
+    "FM1498": {
+        "code": "FM1498",
+        "name": "Arkitektur och offentliga rum",
+        "points": 7.0,
+        "semester": "H\u00f6sttermin 2020",
+        "start_week": 45,
+        "end_week": 49,
+        "periods": [
+            2
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngna kurser om minst 120 hp inom huvudomr\u00e5det Fysisk planering.",
+        "teacher": null,
+        "replacement": null,
+        "next_instance": null,
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=B4PW9&KtTermin=20202&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/FMGFP_HT-18.pdf",
+        "start_year": 2020,
+        "end_year": 2020,
+        "course_duration": 5,
+        "is_double": false,
+        "color": "#dc72da"
+    },
+    "_groups": {
+        "2019": {
+            "4": [
+                "FM1461",
+                "FM1462"
+            ],
+            "2": [
+                "FM1477"
+            ]
+        },
+        "2020": {
+            "3": [
+                "FM1476",
+                "FM1465"
+            ],
+            "4": [
+                "FM1468"
+            ],
+            "1": [
+                "FM1478"
+            ],
+            "2": [
+                "FM1498"
+            ]
+        }
+    }
+}

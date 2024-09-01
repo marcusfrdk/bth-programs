@@ -1,0 +1,120 @@
+{
+    "OM2528": {
+        "code": "OM2528",
+        "name": "Specialistsjuksk\u00f6terskans profession och vetenskapliga f\u00f6rh\u00e5llningss\u00e4tt inom distriktssk\u00f6terskans verksamhetsomr\u00e5de",
+        "points": 30.0,
+        "semester": "H\u00f6sttermin 2021",
+        "start_week": 35,
+        "end_week": 2,
+        "periods": [
+            1,
+            2
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs sjuksk\u00f6terskeexamen och kandidatexamen i omv\u00e5rdnad/v\u00e5rdvetenskap.\nSvensk legitimation som sjuksk\u00f6terska. \nYrkeserfarenhet som sjuksk\u00f6terska motsvarande 6 m\u00e5naders heltidstj\u00e4nstg\u00f6ring.",
+        "teacher": null,
+        "replacement": null,
+        "next_instance": null,
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BU3FM&KtTermin=20212&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/OMADT_HT-21.pdf",
+        "start_year": 2021,
+        "end_year": 2022,
+        "course_duration": 20,
+        "is_double": true,
+        "color": "#746936"
+    },
+    "OM2529": {
+        "code": "OM2529",
+        "name": "Farmakologi och f\u00f6rskrivningsr\u00e4tt f\u00f6r vissa l\u00e4kemedel, hj\u00e4lpmedel och f\u00f6rbrukningsartiklar inom distriktssk\u00f6terskans verksamhetsomr\u00e5de",
+        "points": 15.0,
+        "semester": "V\u00e5rtermin 2022",
+        "start_week": 3,
+        "end_week": 12,
+        "periods": [
+            3
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs sjuksk\u00f6terskeexamen och kandidatexamen i omv\u00e5rdnad/v\u00e5rdvetenskap.\nSvensk legitimation som sjuksk\u00f6terska. \nYrkeserfarenhet som sjuksk\u00f6terska motsvarande 6 m\u00e5naders heltidstj\u00e4nstg\u00f6ring.",
+        "teacher": "cbo",
+        "replacement": null,
+        "next_instance": null,
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=B97GK&KtTermin=20221&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/OMADT_HT-21.pdf",
+        "start_year": 2022,
+        "end_year": 2022,
+        "course_duration": 10,
+        "is_double": false,
+        "color": "#746936"
+    },
+    "OM2530": {
+        "code": "OM2530",
+        "name": "H\u00e4lsofr\u00e4mjande omv\u00e5rdnad ur ett livsloppsperspektiv",
+        "points": 15.0,
+        "semester": "V\u00e5rtermin 2022",
+        "start_week": 13,
+        "end_week": 22,
+        "periods": [
+            4
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "Sjuksk\u00f6terskeexamen och kandidatexamen i omv\u00e5rdnad/v\u00e5rdvetenskap.\nSvensk legitimation som sjuksk\u00f6terska. \nYrkeserfarenhet som sjuksk\u00f6terska motsvarande 6 m\u00e5naders heltidstj\u00e4nstg\u00f6ring. D\u00e4rut\u00f6ver kr\u00e4vs minst 15 hp p\u00e5 niv\u00e5 A1N inom omv\u00e5rdnad.",
+        "teacher": null,
+        "replacement": null,
+        "next_instance": null,
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=B9QHR&KtTermin=20221&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/OMADT_HT-21.pdf",
+        "start_year": 2022,
+        "end_year": 2022,
+        "course_duration": 10,
+        "is_double": false,
+        "color": "#746936"
+    },
+    "OM2531": {
+        "code": "OM2531",
+        "name": "Examensarbete i omv\u00e5rdnad med inriktning mot distriktsk\u00f6terskans verksamhetsomr\u00e5de",
+        "points": 15.0,
+        "semester": "H\u00f6sttermin 2022",
+        "start_week": 35,
+        "end_week": 43,
+        "periods": [
+            1
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarad kurs Specialistsjuksk\u00f6terskans profession och vetenskapliga f\u00f6rh\u00e5llningss\u00e4tt inom distriktssk\u00f6terskans verksamhetsomr\u00e5de, 30 hp.",
+        "teacher": "cbo",
+        "replacement": null,
+        "next_instance": "202436 (BLUXF)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BPCRX&KtTermin=20222&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/OMADT_HT-21.pdf",
+        "start_year": 2022,
+        "end_year": 2022,
+        "course_duration": 9,
+        "is_double": false,
+        "color": "#746936"
+    },
+    "_groups": {
+        "2021": {
+            "1": [
+                "OM2528"
+            ],
+            "2": [
+                "OM2528"
+            ]
+        },
+        "2022": {
+            "3": [
+                "OM2529"
+            ],
+            "4": [
+                "OM2530"
+            ],
+            "1": [
+                "OM2531"
+            ]
+        }
+    }
+}

@@ -1,0 +1,209 @@
+{
+    "PA2578": {
+        "code": "PA2578",
+        "name": "Produkthantering och kravhantering f\u00f6r digitala milj\u00f6er",
+        "points": 7.0,
+        "semester": "V\u00e5rtermin 2023",
+        "start_week": 3,
+        "end_week": 22,
+        "periods": [
+            3,
+            4
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "Minst 90 hp varav minst 60 hp inom  ett tekniskt omr\u00e5de.",
+        "teacher": "krw",
+        "replacement": null,
+        "next_instance": "202504 (BKPJQ)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=B6YEK&KtTermin=20231&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/PAASA_VT-23.pdf",
+        "start_year": 2023,
+        "end_year": 2023,
+        "course_duration": 20,
+        "is_double": true,
+        "color": "#86a7f4"
+    },
+    "PA2579": {
+        "code": "PA2579",
+        "name": "Adaptiv Lean Programvarutestning",
+        "points": 7.0,
+        "semester": "V\u00e5rtermin 2023",
+        "start_week": 3,
+        "end_week": 22,
+        "periods": [
+            3,
+            4
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "Minst 90 hp inom ett tekniskt omr\u00e5de varav en avklarad kurs p\u00e5 7,5 hp inom Grundl\u00e4ggande Programvaruteknik (Software Engineering) eller Programvaruutvecklingsprojekt i grupp, och varav minst 30 hp skall utg\u00f6ras av kurser inom ett eller flera av f\u00f6ljande omr\u00e5den: Programmering, Objektorienterad systemutveckling, Programvarudesign, Datastrukturer och algoritmer, Databasteknik, Datakommunikation, Realtidssystem, Operativsystem. \n\neller \n\nMinst 90 hp inom omr\u00e5det teknologi och minst 2 \u00e5rs yrkeserfarenhet av mjukvarurelaterad utveckling (visas exempelvis genom intyg fr\u00e5n arbetsgivare).",
+        "teacher": "dfu",
+        "replacement": null,
+        "next_instance": "202504 (D5970)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BECD9&KtTermin=20231&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/PAASA_VT-23.pdf",
+        "start_year": 2023,
+        "end_year": 2023,
+        "course_duration": 20,
+        "is_double": true,
+        "color": "#86a7f4"
+    },
+    "PA2580": {
+        "code": "PA2580",
+        "name": "Agil och Lean utveckling av mjukvaruintensiva produkter",
+        "points": 7.0,
+        "semester": "H\u00f6sttermin 2023",
+        "start_week": 35,
+        "end_week": 2,
+        "periods": [
+            1,
+            2
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "Minst 90 hp inom ett tekniskt omr\u00e5de varav en avklarad kurs p\u00e5 7,5 hp inom Grundl\u00e4ggande Programvaruteknik (Software Engineering) eller Programvaruutvecklingsprojekt i grupp, och varav minst 30 hp skall utg\u00f6ras av kurser inom ett eller flera av f\u00f6ljande omr\u00e5den: Programmering, Objektorienterad systemutveckling, Programvarudesign, Datastrukturer och algoritmer, Databasteknik, Datakommunikation, Realtidssystem, Operativsystem.\n\neller \n\nMinst 90 hp inom omr\u00e5det teknologi och minst 2 \u00e5rs yrkeserfarenhet av mjukvarurelaterad utveckling (visas exempelvis genom intyg fr\u00e5n arbetsgivare).",
+        "teacher": "hed",
+        "replacement": null,
+        "next_instance": "202436 (BHLFU)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BCN9M&KtTermin=20232&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/PAASA_VT-23.pdf",
+        "start_year": 2023,
+        "end_year": 2024,
+        "course_duration": 20,
+        "is_double": true,
+        "color": "#86a7f4"
+    },
+    "PA2577": {
+        "code": "PA2577",
+        "name": "Till\u00e4mpad Cloud Computing och Big Data",
+        "points": 7.0,
+        "semester": "H\u00f6sttermin 2023",
+        "start_week": 35,
+        "end_week": 2,
+        "periods": [
+            1,
+            2
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "Minst 90hp inom ett tekniskt omr\u00e5de varav minst 30 hp skall utg\u00f6ras av kurser inom ett eller flera av f\u00f6ljande omr\u00e5den: Programmering, Objektorienterad systemutveckling, Programvarudesign, Datastrukturer och algoritmer, Databasteknik, Datakommunikation, Realtidssystem, Operativsystem.\n\neller \n\nMinst 90 hp inom omr\u00e5det teknologi och minst 2 \u00e5rs yrkeserfarenhet av mjukvarurelaterad utveckling (visas exempelvis genom intyg fr\u00e5n arbetsgivare).",
+        "teacher": "msv",
+        "replacement": null,
+        "next_instance": "202436 (BP93R)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=B6D7G&KtTermin=20232&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/PAASA_VT-23.pdf",
+        "start_year": 2023,
+        "end_year": 2024,
+        "course_duration": 20,
+        "is_double": true,
+        "color": "#86a7f4"
+    },
+    "PA2592": {
+        "code": "PA2592",
+        "name": "Forskningsmetodik och magisterarbete i programvaruteknik f\u00f6r yrkesverksamma",
+        "points": 18.0,
+        "semester": "V\u00e5rtermin 2024",
+        "start_week": 3,
+        "end_week": 3,
+        "periods": [
+            3,
+            4
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs minst 120 hp inom omr\u00e5det teknologi och 7,5 hp i en avancerad (A1N) kurs inom omr\u00e5det mjukvaruteknik samt minst 2 \u00e5rs yrkeserfarenhet av mjukvarurelaterad utveckling (visas exempelvis genom intyg fr\u00e5n arbetsgivare).",
+        "teacher": "deb",
+        "replacement": null,
+        "next_instance": "202504 (B6MLW)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BFPC9&KtTermin=20241&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/PAASA_VT-23.pdf",
+        "start_year": 2024,
+        "end_year": 2025,
+        "course_duration": 53,
+        "is_double": true,
+        "color": "#86a7f4"
+    },
+    "PA2595": {
+        "code": "PA2595",
+        "name": "Maskininl\u00e4rningsteknik",
+        "points": 6.0,
+        "semester": "V\u00e5rtermin 2024",
+        "start_week": 3,
+        "end_week": 22,
+        "periods": [
+            3,
+            4
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs minst 120 hp varav 90 hp inom ett tekniskt omr\u00e5de och minst 2 \u00e5rs yrkeserfarenhet inom omr\u00e5de som \u00e4r relaterat till mjukvaruintensiv produkt och/eller tj\u00e4nsteutveckling (visas exempelvis genom intyg fr\u00e5n arbetsgivare).",
+        "teacher": "nla",
+        "replacement": null,
+        "next_instance": "202504 (BW9LW)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=B7JTX&KtTermin=20241&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/PAASA_VT-23.pdf",
+        "start_year": 2024,
+        "end_year": 2024,
+        "course_duration": 20,
+        "is_double": true,
+        "color": "#86a7f4"
+    },
+    "PA2585": {
+        "code": "PA2585",
+        "name": "Introduktion till s\u00e4kerhet f\u00f6r mjukvaruutveckling",
+        "points": 6.0,
+        "semester": "V\u00e5rtermin 2024",
+        "start_week": 3,
+        "end_week": 22,
+        "periods": [
+            3,
+            4
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att minst 120 hp \u00e4r avklarade varav 90 hp inom ett tekniskt omr\u00e5de samt minst 2 \u00e5rs yrkeserfarenhet inom omr\u00e5de som \u00e4r relaterat till mjukvaruintensiv produkt och/eller tj\u00e4nsteutveckling (visas exempelvis genom intyg fr\u00e5n arbetsgivare.)",
+        "teacher": "ola",
+        "replacement": null,
+        "next_instance": "202504 (D5971)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BLJAG&KtTermin=20241&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/PAASA_VT-23.pdf",
+        "start_year": 2024,
+        "end_year": 2024,
+        "course_duration": 20,
+        "is_double": true,
+        "color": "#86a7f4"
+    },
+    "_groups": {
+        "2023": {
+            "3": [
+                "PA2578",
+                "PA2579"
+            ],
+            "4": [
+                "PA2578",
+                "PA2579"
+            ],
+            "1": [
+                "PA2580",
+                "PA2577"
+            ],
+            "2": [
+                "PA2580",
+                "PA2577"
+            ]
+        },
+        "2024": {
+            "3": [
+                "PA2592",
+                "PA2595",
+                "PA2585"
+            ],
+            "4": [
+                "PA2592",
+                "PA2595",
+                "PA2585"
+            ]
+        }
+    }
+}

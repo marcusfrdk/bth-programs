@@ -1,0 +1,203 @@
+{
+    "IY2602": {
+        "code": "IY2602",
+        "name": "Principer inom ledarskap och management",
+        "points": 7.0,
+        "semester": "H\u00f6sttermin 2019",
+        "start_week": 36,
+        "end_week": 44,
+        "periods": [
+            1
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs H\u00f6gskoleingenj\u00f6rsexamen om 180 hp inom teknik inklusive ett sj\u00e4lvst\u00e4ndigt arbete om 7,5 hp, 15 hp matematik/till\u00e4mpad matematik p\u00e5grundniv\u00e5/avancerad niv\u00e5, 5 hp industriell ekonomi och organisation, f\u00f6retagsekonomi eller motsvarande, Engelska B samt 2 \u00e5rs arbetslivserfarenhet.",
+        "teacher": null,
+        "replacement": "IY2630",
+        "next_instance": "202436 (BLEXG)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BUJ93&KtTermin=20192&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/IYAMP_HT-19.pdf",
+        "start_year": 2019,
+        "end_year": 2019,
+        "course_duration": 9,
+        "is_double": false,
+        "color": "#aaa660"
+    },
+    "IY2589": {
+        "code": "IY2589",
+        "name": "Investeringsanalys",
+        "points": 7.0,
+        "semester": "H\u00f6sttermin 2019",
+        "start_week": 45,
+        "end_week": 3,
+        "periods": [
+            2
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "H\u00f6gskoleingenj\u00f6rsexamen om 180 hp inom teknik inklusive ett sj\u00e4lvst\u00e4ndigt arbete om 7,5 hp. 15 hp matematik/till\u00e4mpad matematik p\u00e5 grundniv\u00e5/avancerad niv\u00e5, 5 hp industriell ekonomi och organisation, f\u00f6retagsekonomi eller motsvarande, Engelska B samt 2 \u00e5rs arbetslivserfarenhet.",
+        "teacher": null,
+        "replacement": null,
+        "next_instance": null,
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BMEQD&KtTermin=20192&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/IYAMP_HT-19.pdf",
+        "start_year": 2019,
+        "end_year": 2020,
+        "course_duration": 11,
+        "is_double": false,
+        "color": "#aaa660"
+    },
+    "IY2593": {
+        "code": "IY2593",
+        "name": "Mikroekonomi f\u00f6r beslutsfattare",
+        "points": 7.0,
+        "semester": "V\u00e5rtermin 2020",
+        "start_week": 4,
+        "end_week": 13,
+        "periods": [
+            3
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "H\u00f6gskoleingenj\u00f6rsexamen om 180 hp inom teknik inklusive ett sj\u00e4lvst\u00e4ndigt arbete om 7,5 hp, 15 hp matematik/till\u00e4mpad matematik p\u00e5 grundniv\u00e5/avancerad niv\u00e5, 5 hp industriell ekonomi och organisation, f\u00f6retagsekonomi eller motsvarande, Engelska B samt 2 \u00e5rs arbetslivserfarenhet.",
+        "teacher": "mbh",
+        "replacement": null,
+        "next_instance": "202504 (BTTN9)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BNF6D&KtTermin=20201&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/IYAMP_HT-19.pdf",
+        "start_year": 2020,
+        "end_year": 2020,
+        "course_duration": 10,
+        "is_double": false,
+        "color": "#aaa660"
+    },
+    "IY2610": {
+        "code": "IY2610",
+        "name": "Strategi och styrning",
+        "points": 7.0,
+        "semester": "V\u00e5rtermin 2020",
+        "start_week": 14,
+        "end_week": 23,
+        "periods": [
+            4
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs h\u00f6gskoleingenj\u00f6rsexamen om 180 hp inom teknik inklusive ett sj\u00e4lvst\u00e4ndigt arbete om 7,5 hp. D\u00e4rut\u00f6ver kr\u00e4vs 15 hp i matematik/till\u00e4mpad matematik p\u00e5 grundniv\u00e5/avancerad niv\u00e5, 5 hp  i industriell ekonomi och organisation eller f\u00f6retagsekonomi samt Engelska 6 och 2 \u00e5rs arbetslivserfarenhet.",
+        "teacher": "vji",
+        "replacement": null,
+        "next_instance": "202514 (BJEFY)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BHD74&KtTermin=20201&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/IYAMP_HT-19.pdf",
+        "start_year": 2020,
+        "end_year": 2020,
+        "course_duration": 10,
+        "is_double": false,
+        "color": "#aaa660"
+    },
+    "IY2588": {
+        "code": "IY2588",
+        "name": "Operationsanalys",
+        "points": 7.0,
+        "semester": "H\u00f6sttermin 2020",
+        "start_week": 36,
+        "end_week": 44,
+        "periods": [
+            1
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "H\u00f6gskoleingenj\u00f6rsexamen om 180 hp inom teknik inklusive ett sj\u00e4lvst\u00e4ndigt arbete om 7,5 hp. 15 hp matematik/till\u00e4mpad matematik p\u00e5 grundniv\u00e5/avancerad niv\u00e5, 5 hp industriell ekonomi och organisation, f\u00f6retagsekonomi eller motsvarande, Engelska B samt 2 \u00e5rs arbetslivserfarenhet. Genomg\u00e5ngna 30 hp inom industriell ekonomi och management.",
+        "teacher": null,
+        "replacement": null,
+        "next_instance": null,
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BK9NE&KtTermin=20202&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/IYAMP_HT-19.pdf",
+        "start_year": 2020,
+        "end_year": 2020,
+        "course_duration": 9,
+        "is_double": false,
+        "color": "#aaa660"
+    },
+    "IY2596": {
+        "code": "IY2596",
+        "name": "Forskningsmetodik i industriell ekonomi",
+        "points": 7.0,
+        "semester": "H\u00f6sttermin 2020",
+        "start_week": 45,
+        "end_week": 2,
+        "periods": [
+            2
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "H\u00f6gskoleingenj\u00f6rsexamen om 180 hp inom teknik inklusive ett sj\u00e4lvst\u00e4ndigt arbete om 7,5 hp, 15 hp matematik/till\u00e4mpad matematik p\u00e5 grundniv\u00e5/avancerad niv\u00e5, 5 hp industriell ekonomi och organisation, f\u00f6retagsekonomi eller motsvarande, Engelska B samt 2 \u00e5rs arbetslivserfarenhet.",
+        "teacher": "moh",
+        "replacement": null,
+        "next_instance": "202445 (BT4GH)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BEHFE&KtTermin=20202&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/IYAMP_HT-19.pdf",
+        "start_year": 2020,
+        "end_year": 2021,
+        "course_duration": 10,
+        "is_double": false,
+        "color": "#aaa660"
+    },
+    "IY2594": {
+        "code": "IY2594",
+        "name": "Magisterarbete MBA",
+        "points": 15.0,
+        "semester": "V\u00e5rtermin 2021",
+        "start_week": 3,
+        "end_week": 22,
+        "periods": [
+            3,
+            4
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "H\u00f6gskoleingenj\u00f6rsexamen om 180 hp inom teknik inklusive ett sj\u00e4lvst\u00e4ndigt arbete om 7,5 hp, 15 hp matematik/till\u00e4mpad matematik p\u00e5 grundniv\u00e5/avancerad niv\u00e5, 5 hp industriell ekonomi och organisation, f\u00f6retagsekonomi eller motsvarande, Engelska B samt 2 \u00e5rs arbetslivserfarenhet, 45 hp genomg\u00e5gna vid MBA-programmet vid BTH varav 35 hp avklarade.",
+        "teacher": "jbf",
+        "replacement": "IY2656",
+        "next_instance": null,
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BY3DC&KtTermin=20211&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/IYAMP_HT-19.pdf",
+        "start_year": 2021,
+        "end_year": 2021,
+        "course_duration": 20,
+        "is_double": true,
+        "color": "#aaa660"
+    },
+    "_groups": {
+        "2019": {
+            "1": [
+                "IY2602"
+            ],
+            "2": [
+                "IY2589"
+            ]
+        },
+        "2020": {
+            "3": [
+                "IY2593"
+            ],
+            "4": [
+                "IY2610"
+            ],
+            "1": [
+                "IY2588"
+            ],
+            "2": [
+                "IY2596"
+            ]
+        },
+        "2021": {
+            "3": [
+                "IY2594"
+            ],
+            "4": [
+                "IY2594"
+            ]
+        }
+    }
+}

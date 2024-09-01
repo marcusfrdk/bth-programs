@@ -1,0 +1,116 @@
+{
+    "FM2602": {
+        "code": "FM2602",
+        "name": "Introduktion till planering",
+        "points": 15.0,
+        "semester": "H\u00f6sttermin 2019",
+        "start_week": 36,
+        "end_week": 44,
+        "periods": [
+            1
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "Grundl\u00e4ggande beh\u00f6righet (har en examen p\u00e5 grundniv\u00e5 som omfattar minst 180 h\u00f6gskolepo\u00e4ng) inom milj\u00f6vetenskap/ekologi, lantm\u00e4teri, v\u00e4g och vattenbyggnad, trafikteknik, samh\u00e4llsplanering/samh\u00e4llsbyggnad, landskapsingenj\u00f6r, bebyggelsev\u00e5rd, arkitektur, landskapsarkitektur, fysisk planering eller n\u00e4rliggande utbildningar. Engelska B/Engelska 6",
+        "teacher": "jax",
+        "replacement": null,
+        "next_instance": null,
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BURQC&KtTermin=20192&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/FMASH_HT-19.pdf",
+        "start_year": 2019,
+        "end_year": 2019,
+        "course_duration": 9,
+        "is_double": false,
+        "color": "#dc72da"
+    },
+    "FM2603": {
+        "code": "FM2603",
+        "name": "Planeringens utmaningar",
+        "points": 15.0,
+        "semester": "H\u00f6sttermin 2019",
+        "start_week": 45,
+        "end_week": 3,
+        "periods": [
+            2
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "Grundl\u00e4ggande beh\u00f6righet (har en examen p\u00e5 grundniv\u00e5 som omfattar minst 180 h\u00f6gskolepo\u00e4ng)inom milj\u00f6vetenskap/ekologi, lantm\u00e4teri, v\u00e4g och vattenbyggnad, trafikteknik, samh\u00e4llsplanering/samh\u00e4llsbyggnad, landskapsingenj\u00f6r, bebyggelsev\u00e5rd, arkitektur, landskapsarkitektur, fysisk planering eller n\u00e4rliggande utbildningar. Engelska B/Engelska 6.",
+        "teacher": "jax",
+        "replacement": null,
+        "next_instance": null,
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BJCEP&KtTermin=20192&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/FMASH_HT-19.pdf",
+        "start_year": 2019,
+        "end_year": 2020,
+        "course_duration": 11,
+        "is_double": false,
+        "color": "#dc72da"
+    },
+    "FM2604": {
+        "code": "FM2604",
+        "name": "Arbeta i ett multidisciplin\u00e4rt planeringsprojekt",
+        "points": 15.0,
+        "semester": "V\u00e5rtermin 2020",
+        "start_week": 4,
+        "end_week": 13,
+        "periods": [
+            3
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "Deltagit i kurser motsvarande 30 hp inom magisterprogrammet i fysisk planering.",
+        "teacher": "jax",
+        "replacement": null,
+        "next_instance": null,
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BPCGE&KtTermin=20201&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/FMASH_HT-19.pdf",
+        "start_year": 2020,
+        "end_year": 2020,
+        "course_duration": 10,
+        "is_double": false,
+        "color": "#dc72da"
+    },
+    "FM2605": {
+        "code": "FM2605",
+        "name": "Magisterarbete",
+        "points": 15.0,
+        "semester": "V\u00e5rtermin 2020",
+        "start_week": 14,
+        "end_week": 23,
+        "periods": [
+            4
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "Deltagit i kurser motsvarande 45 hp inom magisterprogrammet i fysisk planering.",
+        "teacher": "jax",
+        "replacement": null,
+        "next_instance": null,
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BRFLT&KtTermin=20201&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/FMASH_HT-19.pdf",
+        "start_year": 2020,
+        "end_year": 2020,
+        "course_duration": 10,
+        "is_double": false,
+        "color": "#dc72da"
+    },
+    "_groups": {
+        "2019": {
+            "1": [
+                "FM2602"
+            ],
+            "2": [
+                "FM2603"
+            ]
+        },
+        "2020": {
+            "3": [
+                "FM2604"
+            ],
+            "4": [
+                "FM2605"
+            ]
+        }
+    }
+}

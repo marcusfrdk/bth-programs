@@ -1,0 +1,149 @@
+{
+    "MA0008": {
+        "code": "MA0008",
+        "name": "Matematik gamma",
+        "points": 15.0,
+        "semester": "H\u00f6sttermin 2024",
+        "start_week": 35,
+        "end_week": 2,
+        "periods": [
+            1,
+            2
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "Grundl\u00e4ggande beh\u00f6righet samt Matematik 2a/2b/2c.\n",
+        "teacher": "lmt",
+        "replacement": null,
+        "next_instance": null,
+        "syllabus_url": "https://bth.azure-api.net/lindplan/courseplanbycode?code=BDETW&semester=20242&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/TEGCT_HT-24.pdf",
+        "start_year": 2024,
+        "end_year": 2025,
+        "course_duration": 20,
+        "is_double": true,
+        "color": "#f00558"
+    },
+    "KE0004": {
+        "code": "KE0004",
+        "name": "Kemi alfa",
+        "points": 8.0,
+        "semester": "H\u00f6sttermin 2024",
+        "start_week": 35,
+        "end_week": 44,
+        "periods": [
+            1
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "Grundl\u00e4ggande beh\u00f6righet samt Matematik 2a/2b/2c.\n",
+        "teacher": "gkn",
+        "replacement": null,
+        "next_instance": null,
+        "syllabus_url": "https://bth.azure-api.net/lindplan/courseplanbycode?code=B6AA9&semester=20242&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/TEGCT_HT-24.pdf",
+        "start_year": 2024,
+        "end_year": 2024,
+        "course_duration": 10,
+        "is_double": false,
+        "color": "#b5e22f"
+    },
+    "FY0007": {
+        "code": "FY0007",
+        "name": "Fysik alfa",
+        "points": 12.0,
+        "semester": "H\u00f6sttermin 2024",
+        "start_week": 45,
+        "end_week": 8,
+        "periods": [
+            2,
+            3
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen k\u00e4rvs grundl\u00e4ggande beh\u00f6righet samt Matematik 2a/2b/2c.",
+        "teacher": "hqm",
+        "replacement": null,
+        "next_instance": "202445 (BEAHR)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=B6TNF&KtTermin=20242&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/TEGCT_HT-24.pdf",
+        "start_year": 2024,
+        "end_year": 2025,
+        "course_duration": 16,
+        "is_double": true,
+        "color": "#939342"
+    },
+    "MA0007": {
+        "code": "MA0007",
+        "name": "Matematik delta",
+        "points": 15.0,
+        "semester": "V\u00e5rtermin 2025",
+        "start_week": 4,
+        "end_week": 23,
+        "periods": [
+            3,
+            4
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs 2,5 fup avklarade p\u00e5 kursen Matematik gamma, 15 fup.",
+        "teacher": "lmt",
+        "replacement": null,
+        "next_instance": "202504 (BHXYL)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BHXYL&KtTermin=20251&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/TEGCT_HT-24.pdf",
+        "start_year": 2025,
+        "end_year": 2025,
+        "course_duration": 20,
+        "is_double": true,
+        "color": "#f00558"
+    },
+    "FY0006": {
+        "code": "FY0006",
+        "name": "Fysik beta",
+        "points": 10.0,
+        "semester": "V\u00e5rtermin 2025",
+        "start_week": 9,
+        "end_week": 23,
+        "periods": [
+            3
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngen Matematik gamma 15 fup och Fysik alfa 12 fup.",
+        "teacher": "xtp",
+        "replacement": null,
+        "next_instance": "202509 (BYQN9)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BY4RX&KtTermin=20251&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/TEGCT_HT-24.pdf",
+        "start_year": 2025,
+        "end_year": 2025,
+        "course_duration": 15,
+        "is_double": false,
+        "color": "#939342"
+    },
+    "_groups": {
+        "2024": {
+            "1": [
+                "MA0008",
+                "KE0004"
+            ],
+            "2": [
+                "MA0008",
+                "FY0007"
+            ],
+            "3": [
+                "FY0007"
+            ]
+        },
+        "2025": {
+            "3": [
+                "MA0007",
+                "FY0006"
+            ],
+            "4": [
+                "MA0007"
+            ]
+        }
+    }
+}

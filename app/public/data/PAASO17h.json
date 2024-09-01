@@ -1,0 +1,523 @@
+{
+    "PA2515": {
+        "code": "PA2515",
+        "name": "Praktisk projektstyrning inom programvarutillverkning",
+        "points": 7.0,
+        "semester": "H\u00f6sttermin 2017",
+        "start_week": 35,
+        "end_week": 2,
+        "periods": [
+            1,
+            2
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att studenten har kandidatexamen i Datavetenskap eller Programvaruteknik",
+        "teacher": null,
+        "replacement": null,
+        "next_instance": null,
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=A0106&KtTermin=20172&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/PAASO_HT-17.pdf",
+        "start_year": 2017,
+        "end_year": 2018,
+        "course_duration": 20,
+        "is_double": true,
+        "color": "#86a7f4"
+    },
+    "PA2550": {
+        "code": "PA2550",
+        "name": "Seminarier i Programvaruteknik",
+        "points": 7.0,
+        "semester": "H\u00f6sttermin 2017",
+        "start_week": 35,
+        "end_week": 2,
+        "periods": [
+            1,
+            2
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "Avklarade kurser omfattande minst 120 hp varav minst 90 hp vara inom f\u00f6ljande omr\u00e5den: Programvaruteknik, Datavetenskap, eller Datalogi. Minst 30 hp ska vara  inom ett eller flera av f\u00f6ljande omr\u00e5den: Programmering, Objektorienterad systemutveckling, Programvarudesign, Datastrukturer och algoritmer, Databasteknik, Datakommunikation, Realtidssystem, Operativsystem. Dessutom kr\u00e4vs en avklarad kurs p\u00e5 minst 7.5 hp inom Grundl\u00e4ggande Programvaruteknik (Software Engineering) eller Programvaruutvecklingsprojekt i grupp.",
+        "teacher": null,
+        "replacement": null,
+        "next_instance": "202436 (BYNAK)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=A0222&KtTermin=20172&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/PAASO_HT-17.pdf",
+        "start_year": 2017,
+        "end_year": 2018,
+        "course_duration": 20,
+        "is_double": true,
+        "color": "#86a7f4"
+    },
+    "PA2551": {
+        "code": "PA2551",
+        "name": "Kravhantering och Produkthantering",
+        "points": 7.0,
+        "semester": "H\u00f6sttermin 2017",
+        "start_week": 35,
+        "end_week": 2,
+        "periods": [
+            1,
+            2
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "Avklarade kurser omfattande minst 120 hp varav minst 90 hp inom f\u00f6ljande omr\u00e5den: Programvaruteknik, Datavetenskap, Informationssystem eller Datalogi.Dessutom kr\u00e4vs en avklarad kurs p\u00e5 minst 7.5 hp inom Grundl\u00e4ggande Programvaruteknik (Software Engineering) eller Programvaruutvecklingsprojekt i grupp.",
+        "teacher": null,
+        "replacement": null,
+        "next_instance": "202445 (BDK79)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=A0111&KtTermin=20172&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/PAASO_HT-17.pdf",
+        "start_year": 2017,
+        "end_year": 2018,
+        "course_duration": 20,
+        "is_double": true,
+        "color": "#86a7f4"
+    },
+    "PA2555": {
+        "code": "PA2555",
+        "name": "Agile och Lean Mjukvaruutveckling",
+        "points": 7.0,
+        "semester": "H\u00f6sttermin 2017",
+        "start_week": 35,
+        "end_week": 2,
+        "periods": [
+            1,
+            2
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "Avklarade kurser omfattande minst 120 hp varav minst 90 hp inom f\u00f6ljande omr\u00e5den: Programvaruteknik, Datavetenskap, Informationssystem eller Datalogi. Dessutom kr\u00e4vs avklarad kurs p\u00e5 minst 7.5 hp inom Grundl\u00e4ggande Programvaruteknik (Software Engineering) eller Programvaruutvecklingsprojekt i grupp.",
+        "teacher": null,
+        "replacement": null,
+        "next_instance": "202436 (BYYLU)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=B0002&KtTermin=20172&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/PAASO_HT-17.pdf",
+        "start_year": 2017,
+        "end_year": 2018,
+        "course_duration": 20,
+        "is_double": true,
+        "color": "#86a7f4"
+    },
+    "PA2559": {
+        "code": "PA2559",
+        "name": "M\u00e4tningar av programvara",
+        "points": 7.0,
+        "semester": "V\u00e5rtermin 2018",
+        "start_week": 3,
+        "end_week": 22,
+        "periods": [
+            3,
+            4
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "Avklarade kurser omfattande minst 120 hp inkluderande avslutade kurser i Programmering, Datastrukturer och Algoritmer, och Mjukvaruutveckling (Software Engineering) eller Programvaruutvecklingsprojekt i grupp. Samt 15 hp avklarade kurser inom Matematik.",
+        "teacher": null,
+        "replacement": null,
+        "next_instance": "202514 (B64MK)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=A0096&KtTermin=20181&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/PAASO_HT-17.pdf",
+        "start_year": 2018,
+        "end_year": 2018,
+        "course_duration": 20,
+        "is_double": true,
+        "color": "#86a7f4"
+    },
+    "PA2554": {
+        "code": "PA2554",
+        "name": "Forskningsmetodik i Programvaruteknik och Datavetenskap",
+        "points": 7.0,
+        "semester": "V\u00e5rtermin 2018",
+        "start_week": 3,
+        "end_week": 22,
+        "periods": [
+            3,
+            4
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": null,
+        "teacher": null,
+        "replacement": null,
+        "next_instance": "202504 (BFPFX)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=A0025&KtTermin=20181&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/PAASO_HT-17.pdf",
+        "start_year": 2018,
+        "end_year": 2018,
+        "course_duration": 20,
+        "is_double": true,
+        "color": "#86a7f4"
+    },
+    "PA2552": {
+        "code": "PA2552",
+        "name": "Mjukvarutestning",
+        "points": 7.0,
+        "semester": "V\u00e5rtermin 2018",
+        "start_week": 3,
+        "end_week": 22,
+        "periods": [
+            3,
+            4
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "Avklarade kurser omfattande minst 120 hp varav minst 90 hp vara inom f\u00f6ljande omr\u00e5den: Programvaruteknik, Datavetenskap, eller Datalogi. Minst 30 hp ska vara  inom ett eller flera av f\u00f6ljande omr\u00e5den: Programmering, Objektorienterad systemutveckling, Programvarudesign, Datastrukturer och algoritmer, Databasteknik, Datakommunikation, Realtidssystem, Operativsystem. Dessutom kr\u00e4vs avklarad kurs p\u00e5 minst 7.5 hp inom Grundl\u00e4ggande Programvaruteknik (Software Engineering) eller Programvaruutvecklingsprojekt i grupp.",
+        "teacher": null,
+        "replacement": null,
+        "next_instance": "202504 (B4P4H)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=A0026&KtTermin=20181&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/PAASO_HT-17.pdf",
+        "start_year": 2018,
+        "end_year": 2018,
+        "course_duration": 20,
+        "is_double": true,
+        "color": "#86a7f4"
+    },
+    "MS1411": {
+        "code": "MS1411",
+        "name": "Matematisk statistik",
+        "points": 7.0,
+        "semester": "V\u00e5rtermin 2018",
+        "start_week": 3,
+        "end_week": 22,
+        "periods": [
+            3,
+            4
+        ],
+        "type": "Valbar",
+        "academic_focus": null,
+        "prerequisites": "15 hp matematik avklarat.",
+        "teacher": null,
+        "replacement": null,
+        "next_instance": "202514 (BUEHY)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=A0024&KtTermin=20181&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/PAASO_HT-17.pdf",
+        "start_year": 2018,
+        "end_year": 2018,
+        "course_duration": 20,
+        "is_double": true,
+        "color": "#4d95e5"
+    },
+    "DV2544": {
+        "code": "DV2544",
+        "name": "Multiprocessorsystem",
+        "points": 7.0,
+        "semester": "V\u00e5rtermin 2018",
+        "start_week": 3,
+        "end_week": 22,
+        "periods": [
+            3,
+            4
+        ],
+        "type": "Valbar",
+        "academic_focus": null,
+        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att den studerande har minst 90 h\u00f6gskolepo\u00e4ng inom Datavetenskap eller Programvaruteknik, inklusive godk\u00e4nda kurser i: programmering, 15 hp, algoritmer och datastrukturer, 6 hp, datorteknik, 6 hp och Realtids- och operativsystem, 6 hp.",
+        "teacher": null,
+        "replacement": null,
+        "next_instance": null,
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=A0021&KtTermin=20181&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/PAASO_HT-17.pdf",
+        "start_year": 2018,
+        "end_year": 2018,
+        "course_duration": 20,
+        "is_double": true,
+        "color": "#3df6d4"
+    },
+    "DV2573": {
+        "code": "DV2573",
+        "name": "Beslutsst\u00f6djande system",
+        "points": 7.0,
+        "semester": "V\u00e5rtermin 2018",
+        "start_week": 3,
+        "end_week": 22,
+        "periods": [
+            3,
+            4
+        ],
+        "type": "Valbar",
+        "academic_focus": null,
+        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser i programmering 15 hp, databaser, 7,5 hp.",
+        "teacher": null,
+        "replacement": null,
+        "next_instance": "202514 (E2684)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=A0023&KtTermin=20181&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/PAASO_HT-17.pdf",
+        "start_year": 2018,
+        "end_year": 2018,
+        "course_duration": 20,
+        "is_double": true,
+        "color": "#3df6d4"
+    },
+    "PA2558": {
+        "code": "PA2558",
+        "name": "Evolution och Underh\u00e5ll av Mjukvara - Projekt",
+        "points": 7.0,
+        "semester": "H\u00f6sttermin 2018",
+        "start_week": 36,
+        "end_week": 44,
+        "periods": [
+            1
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "Avklarade kurser omfattande minst 120 hp varav minst 30 hp ska vara  inom ett eller flera av f\u00f6ljande omr\u00e5den: Programmering, Objektorienterad systemutveckling, Programvarudesign, Datastrukturer och algoritmer, Databasteknik, Datakommunikation, Realtidssystem, Operativsystem. Dessutom kr\u00e4vs avklarad kurs p\u00e5 minst 7.5 hp inom Grundl\u00e4ggande Programvaruteknik (Software Engineering) eller Programvaruutvecklingsprojekt i grupp.",
+        "teacher": "deb",
+        "replacement": null,
+        "next_instance": "202436 (E2623)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=RK491&KtTermin=20182&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/PAASO_HT-17.pdf",
+        "start_year": 2018,
+        "end_year": 2018,
+        "course_duration": 9,
+        "is_double": false,
+        "color": "#86a7f4"
+    },
+    "PA2556": {
+        "code": "PA2556",
+        "name": "Global Programvaruteknik",
+        "points": 7.0,
+        "semester": "H\u00f6sttermin 2018",
+        "start_week": 36,
+        "end_week": 44,
+        "periods": [
+            1
+        ],
+        "type": "Valbar",
+        "academic_focus": null,
+        "prerequisites": "Avklarade kurser omfattande minst 120 hp varav minst 30 hp inom f\u00f6ljande omr\u00e5den: Programvaruteknik, Datavetenskap, Informationssystem eller Datalogi.Dessutom kr\u00e4vs en avklarad kurs p\u00e5 minst 6 hp inom Mjukvaruutveckling (Software Engineering) eller Programvaruutvecklingsprojekt i grupp.",
+        "teacher": null,
+        "replacement": null,
+        "next_instance": null,
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=RK914&KtTermin=20182&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/PAASO_HT-17.pdf",
+        "start_year": 2018,
+        "end_year": 2018,
+        "course_duration": 9,
+        "is_double": false,
+        "color": "#86a7f4"
+    },
+    "ET2597": {
+        "code": "ET2597",
+        "name": "Avancerad n\u00e4tverksteknik",
+        "points": 7.0,
+        "semester": "H\u00f6sttermin 2018",
+        "start_week": 36,
+        "end_week": 44,
+        "periods": [
+            1
+        ],
+        "type": "Valbar",
+        "academic_focus": null,
+        "prerequisites": "Avklarad kurs i Datakommunikation 7,5 hp och Objektorienterad programmering 7,5 hp",
+        "teacher": "ktt",
+        "replacement": "DV2601",
+        "next_instance": "202504 (BEQLW)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=RK426&KtTermin=20182&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/PAASO_HT-17.pdf",
+        "start_year": 2018,
+        "end_year": 2018,
+        "course_duration": 9,
+        "is_double": false,
+        "color": "#a61555"
+    },
+    "DV1457": {
+        "code": "DV1457",
+        "name": "Programmering i UNIX-milj\u00f6",
+        "points": 7.0,
+        "semester": "H\u00f6sttermin 2018",
+        "start_week": 36,
+        "end_week": 44,
+        "periods": [
+            1
+        ],
+        "type": "Valbar",
+        "academic_focus": null,
+        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att den studerande har avklarat kurser i programmering, 15 hp, algoritmer och datastrukturer, 6 hp, operativsystem, 6hp och datakommunikation alt lokala n\u00e4tverk, 4 hp.",
+        "teacher": "dna",
+        "replacement": "DV1578",
+        "next_instance": "202436 (BFHMJ)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=RK195&KtTermin=20182&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/PAASO_HT-17.pdf",
+        "start_year": 2018,
+        "end_year": 2018,
+        "course_duration": 9,
+        "is_double": false,
+        "color": "#3df6d4"
+    },
+    "PA2557": {
+        "code": "PA2557",
+        "name": "Kvalitetsstyrning",
+        "points": 7.0,
+        "semester": "H\u00f6sttermin 2018",
+        "start_week": 45,
+        "end_week": 3,
+        "periods": [
+            2
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "Avklarade kurser omfattande minst 120 hp varav minst 90 hp inom f\u00f6ljande omr\u00e5den: Programvaruteknik, Datavetenskap eller Datalogi. Dessutom kr\u00e4vs en avklarad kurs p\u00e5 minst 7.5 hp inom Grundl\u00e4ggande Programvaruteknik (Software Engineering) eller Programvaruutvecklingsprojekt i grupp.",
+        "teacher": "cjh",
+        "replacement": null,
+        "next_instance": "202445 (E2622)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=RK823&KtTermin=20182&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/PAASO_HT-17.pdf",
+        "start_year": 2018,
+        "end_year": 2019,
+        "course_duration": 11,
+        "is_double": false,
+        "color": "#86a7f4"
+    },
+    "PA1453": {
+        "code": "PA1453",
+        "name": "Programvaruarkitektur och kvalitet",
+        "points": 7.0,
+        "semester": "H\u00f6sttermin 2018",
+        "start_week": 45,
+        "end_week": 3,
+        "periods": [
+            2
+        ],
+        "type": "Valbar",
+        "academic_focus": null,
+        "prerequisites": "Studenten m\u00e5ste ha klarat av totalt 22,5 h\u00f6gskolepo\u00e4ng fr\u00e5n f\u00f6ljande omr\u00e5den: Programvarudesign, Datastrukturer och algoritmer, Databasteknik, Datakommunikation, Realtidssystem, Operativsystem samt avklarat en kurs i Programmering p\u00e5 minst 6 h\u00f6gskolepo\u00e4ng.",
+        "teacher": "una",
+        "replacement": null,
+        "next_instance": "202445 (BXKAF)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=RK805&KtTermin=20182&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/PAASO_HT-17.pdf",
+        "start_year": 2018,
+        "end_year": 2019,
+        "course_duration": 11,
+        "is_double": false,
+        "color": "#86a7f4"
+    },
+    "PA2560": {
+        "code": "PA2560",
+        "name": "F\u00f6rdjupningskurs i Programvaruteknik",
+        "points": 7.0,
+        "semester": "H\u00f6sttermin 2018",
+        "start_week": 45,
+        "end_week": 3,
+        "periods": [
+            2
+        ],
+        "type": "Valbar",
+        "academic_focus": null,
+        "prerequisites": "Avklarade kurser omfattande minst 120 hp varav minst 90 hp inom f\u00f6ljande omr\u00e5den: Programvaruteknik, Datavetenskap eller Datalogi. Dessutom kr\u00e4vs avklarade kurser p\u00e5 minst 30 hp p\u00e5 avancerad niv\u00e5,  en avklarad kurs p\u00e5 minst 7,5 inom Grundl\u00e4ggande Programvaruteknik (Software Engineering) eller Programvaruutvecklingsprojekt i grupp samt genomg\u00e5tt kurs i Forskningsmetodik p\u00e5 minst 7,5 hp.",
+        "teacher": "dmz",
+        "replacement": null,
+        "next_instance": "202445 (E2624)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=RK396&KtTermin=20182&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/PAASO_HT-17.pdf",
+        "start_year": 2018,
+        "end_year": 2019,
+        "course_duration": 11,
+        "is_double": false,
+        "color": "#86a7f4"
+    },
+    "DV2578": {
+        "code": "DV2578",
+        "name": "Maskininl\u00e4rning",
+        "points": 7.0,
+        "semester": "H\u00f6sttermin 2018",
+        "start_week": 45,
+        "end_week": 3,
+        "periods": [
+            2
+        ],
+        "type": "Valbar",
+        "academic_focus": null,
+        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngen kurs i Till\u00e4mpad artificiell intelligens, 7,5 hp.",
+        "teacher": "vbx",
+        "replacement": "DV2626",
+        "next_instance": "202445 (B7UDJ)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=RK270&KtTermin=20182&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/PAASO_HT-17.pdf",
+        "start_year": 2018,
+        "end_year": 2019,
+        "course_duration": 11,
+        "is_double": false,
+        "color": "#3df6d4"
+    },
+    "PA2534": {
+        "code": "PA2534",
+        "name": "Masterarbete i Programvaruteknik",
+        "points": 30.0,
+        "semester": "V\u00e5rtermin 2019",
+        "start_week": 4,
+        "end_week": 23,
+        "periods": [
+            3,
+            4
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs minst 90 h\u00f6gskolepo\u00e4ng inom huvudomr\u00e5det programvaruteknik, varav minst 30 h\u00f6gskolepo\u00e4ng p\u00e5 avancerad niv\u00e5. \nDessutom kr\u00e4vs att den studerande har avklarat en kurs i forskningsmetodik i programvaruteknik och/eller datavetenskap om 7.5 h\u00f6gskolepo\u00e4ng.",
+        "teacher": "mun",
+        "replacement": null,
+        "next_instance": "202436 (D5944)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=RQ617&KtTermin=20191&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/PAASO_HT-17.pdf",
+        "start_year": 2019,
+        "end_year": 2019,
+        "course_duration": 20,
+        "is_double": true,
+        "color": "#86a7f4"
+    },
+    "_groups": {
+        "2017": {
+            "1": [
+                "PA2515",
+                "PA2550",
+                "PA2551",
+                "PA2555"
+            ],
+            "2": [
+                "PA2515",
+                "PA2550",
+                "PA2551",
+                "PA2555"
+            ]
+        },
+        "2018": {
+            "3": [
+                "PA2559",
+                "PA2554",
+                "PA2552",
+                "MS1411",
+                "DV2544",
+                "DV2573"
+            ],
+            "4": [
+                "PA2559",
+                "PA2554",
+                "PA2552",
+                "MS1411",
+                "DV2544",
+                "DV2573"
+            ],
+            "1": [
+                "PA2558",
+                "PA2556",
+                "ET2597",
+                "DV1457"
+            ],
+            "2": [
+                "PA2557",
+                "PA1453",
+                "PA2560",
+                "DV2578"
+            ]
+        },
+        "2019": {
+            "3": [
+                "PA2534"
+            ],
+            "4": [
+                "PA2534"
+            ]
+        }
+    }
+}

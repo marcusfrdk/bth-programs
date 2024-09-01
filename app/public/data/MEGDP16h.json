@@ -1,0 +1,354 @@
+{
+    "ME1561": {
+        "code": "ME1561",
+        "name": "Introduktion i medieteknik",
+        "points": 15.0,
+        "semester": "H\u00f6sttermin 2016",
+        "start_week": 35,
+        "end_week": 2,
+        "periods": [
+            1,
+            2
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "Grundl\u00e4ggande beh\u00f6righet\nOmr\u00e5desbeh\u00f6righet 7: Matematik B (Fysik A kr\u00e4vs ej)\neller\nOmr\u00e5desbeh\u00f6righet A7: Matematik 2a alt 2b alt 2c (Fysik 1b1 alt 1a kr\u00e4vs ej)",
+        "teacher": "sjo",
+        "replacement": "ME1605",
+        "next_instance": "202436 (D5953)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=B0047&KtTermin=20162&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/MEGDP_HT-16.pdf",
+        "start_year": 2016,
+        "end_year": 2017,
+        "course_duration": 20,
+        "is_double": true,
+        "color": "#7021db"
+    },
+    "ME1568": {
+        "code": "ME1568",
+        "name": "Grunder i digital bildproduktion",
+        "points": 15.0,
+        "semester": "H\u00f6sttermin 2016",
+        "start_week": 35,
+        "end_week": 2,
+        "periods": [
+            1,
+            2
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "Omr\u00e5desbeh\u00f6righet A7: Matematik 2a alt 2b alt 2c (Fysik 1b1 alt 1a kr\u00e4vs ej)\nalternativt\nOmr\u00e5desbeh\u00f6righet 7: Matematik B (Fysik A kr\u00e4vs ej).",
+        "teacher": null,
+        "replacement": null,
+        "next_instance": null,
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=B0031&KtTermin=20162&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/MEGDP_HT-16.pdf",
+        "start_year": 2016,
+        "end_year": 2017,
+        "course_duration": 20,
+        "is_double": true,
+        "color": "#7021db"
+    },
+    "ME1576": {
+        "code": "ME1576",
+        "name": "Ber\u00e4ttande i interaktiva medier - bild",
+        "points": 15.0,
+        "semester": "V\u00e5rtermin 2017",
+        "start_week": 3,
+        "end_week": 22,
+        "periods": [
+            3,
+            4
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "Kursen har f\u00f6ljande h\u00f6gskolekurser som f\u00f6rkunskapskrav: Genomg\u00e5ngna kurser: ME1561-Introduktion i medieteknik.",
+        "teacher": null,
+        "replacement": "ME1624",
+        "next_instance": null,
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=B0020&KtTermin=20171&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/MEGDP_HT-16.pdf",
+        "start_year": 2017,
+        "end_year": 2017,
+        "course_duration": 20,
+        "is_double": true,
+        "color": "#7021db"
+    },
+    "ME1575": {
+        "code": "ME1575",
+        "name": "Projektmetodik f\u00f6r medieteknik",
+        "points": 15.0,
+        "semester": "V\u00e5rtermin 2017",
+        "start_week": 3,
+        "end_week": 22,
+        "periods": [
+            3,
+            4
+        ],
+        "type": "Valbar",
+        "academic_focus": null,
+        "prerequisites": "Kursen har f\u00f6ljande h\u00f6gskolekurser som f\u00f6rkunskapskrav: Godk\u00e4nda kurser: ME1561-Introduktion i medieteknik.",
+        "teacher": null,
+        "replacement": null,
+        "next_instance": null,
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=B0050&KtTermin=20171&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/MEGDP_HT-16.pdf",
+        "start_year": 2017,
+        "end_year": 2017,
+        "course_duration": 20,
+        "is_double": true,
+        "color": "#7021db"
+    },
+    "ME1584": {
+        "code": "ME1584",
+        "name": "Visuell estetik",
+        "points": 15.0,
+        "semester": "H\u00f6sttermin 2017",
+        "start_week": 35,
+        "end_week": 2,
+        "periods": [
+            1,
+            2
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "Genomg\u00e5ngen kurs ME1575 Projektmetodik f\u00f6r medieteknik",
+        "teacher": null,
+        "replacement": null,
+        "next_instance": null,
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=B0024&KtTermin=20172&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/MEGDP_HT-16.pdf",
+        "start_year": 2017,
+        "end_year": 2018,
+        "course_duration": 20,
+        "is_double": true,
+        "color": "#7021db"
+    },
+    "ME1589": {
+        "code": "ME1589",
+        "name": "Medieteknisk prototyputveckling",
+        "points": 15.0,
+        "semester": "H\u00f6sttermin 2017",
+        "start_week": 35,
+        "end_week": 2,
+        "periods": [
+            1,
+            2
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngen kurs ME1561 Introduktion till medieteknik.",
+        "teacher": null,
+        "replacement": "ME1625",
+        "next_instance": "202445 (BXKAQ)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=B0027&KtTermin=20172&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/MEGDP_HT-16.pdf",
+        "start_year": 2017,
+        "end_year": 2018,
+        "course_duration": 20,
+        "is_double": true,
+        "color": "#7021db"
+    },
+    "ME1587": {
+        "code": "ME1587",
+        "name": "F\u00f6rdjupning i ber\u00e4ttande f\u00f6r medieteknik",
+        "points": 15.0,
+        "semester": "V\u00e5rtermin 2018",
+        "start_week": 3,
+        "end_week": 22,
+        "periods": [
+            3,
+            4
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "Kursen har f\u00f6ljande h\u00f6gskolekurser som f\u00f6rkunskapskrav: Genomg\u00e5ngna kurser: ME1581-Situated Making.",
+        "teacher": "sjo",
+        "replacement": null,
+        "next_instance": null,
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=B0007&KtTermin=20181&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/MEGDP_HT-16.pdf",
+        "start_year": 2018,
+        "end_year": 2018,
+        "course_duration": 20,
+        "is_double": true,
+        "color": "#7021db"
+    },
+    "ME1557": {
+        "code": "ME1557",
+        "name": "F\u00f6rdjupning i produktion f\u00f6r medieteknik",
+        "points": 15.0,
+        "semester": "V\u00e5rtermin 2018",
+        "start_week": 3,
+        "end_week": 22,
+        "periods": [
+            3,
+            4
+        ],
+        "type": "Valbar",
+        "academic_focus": null,
+        "prerequisites": "Kursen har f\u00f6ljande h\u00f6gskolekurser som f\u00f6rkunskapskrav: Genomg\u00e5ngna kurser: ME1555-F\u00f6rdjupning i ber\u00e4ttande f\u00f6r medieteknik.",
+        "teacher": "sjo",
+        "replacement": null,
+        "next_instance": null,
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=B0024&KtTermin=20181&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/MEGDP_HT-16.pdf",
+        "start_year": 2018,
+        "end_year": 2018,
+        "course_duration": 20,
+        "is_double": true,
+        "color": "#7021db"
+    },
+    "ME1592": {
+        "code": "ME1592",
+        "name": "Designperspektiv\u00a0-\u00a0och\u00a0metoder\u00a0f\u00f6r\u00a0medieteknik",
+        "points": 15.0,
+        "semester": "H\u00f6sttermin 2018",
+        "start_week": 36,
+        "end_week": 44,
+        "periods": [
+            1
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs 90 hp avklarade i huvudomr\u00e5det medieteknik.",
+        "teacher": "pcr",
+        "replacement": null,
+        "next_instance": "202436 (BTNDH)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=RK182&KtTermin=20182&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/MEGDP_HT-16.pdf",
+        "start_year": 2018,
+        "end_year": 2018,
+        "course_duration": 9,
+        "is_double": false,
+        "color": "#7021db"
+    },
+    "ME1594": {
+        "code": "ME1594",
+        "name": "Forskningsmetodik f\u00f6r medieteknik",
+        "points": 7.0,
+        "semester": "H\u00f6sttermin 2018",
+        "start_week": 45,
+        "end_week": 49,
+        "periods": [
+            2
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs 90 hp avklarade i huvudomr\u00e5det medieteknik.",
+        "teacher": "sjo",
+        "replacement": "ME1644",
+        "next_instance": "202445 (BTAEK)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=RK646&KtTermin=20182&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/MEGDP_HT-16.pdf",
+        "start_year": 2018,
+        "end_year": 2018,
+        "course_duration": 5,
+        "is_double": false,
+        "color": "#7021db"
+    },
+    "ME1593": {
+        "code": "ME1593",
+        "name": "Till\u00e4mpad unders\u00f6kningsmetodik f\u00f6r medieteknik",
+        "points": 7.0,
+        "semester": "H\u00f6sttermin 2018",
+        "start_week": 50,
+        "end_week": 3,
+        "periods": [
+            2
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs 90 hp avklarade i huvudomr\u00e5det medieteknik.",
+        "teacher": "mfi",
+        "replacement": null,
+        "next_instance": "202450 (BXQPQ)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=RK200&KtTermin=20182&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/MEGDP_HT-16.pdf",
+        "start_year": 2018,
+        "end_year": 2019,
+        "course_duration": 6,
+        "is_double": false,
+        "color": "#7021db"
+    },
+    "ME1588": {
+        "code": "ME1588",
+        "name": "Kandidatarbete i Medieteknik",
+        "points": 30.0,
+        "semester": "V\u00e5rtermin 2019",
+        "start_week": 4,
+        "end_week": 23,
+        "periods": [
+            3,
+            4
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs minst 90 hp inom huvudomr\u00e5det Medieteknik samt moment Medietekniska unders\u00f6kningar 1 i kursen Forskningsmetodik f\u00f6r medieteknik.",
+        "teacher": "sjo",
+        "replacement": "ME1603",
+        "next_instance": null,
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=RQ832&KtTermin=20191&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/MEGDP_HT-16.pdf",
+        "start_year": 2019,
+        "end_year": 2019,
+        "course_duration": 20,
+        "is_double": true,
+        "color": "#7021db"
+    },
+    "_groups": {
+        "2016": {
+            "1": [
+                "ME1561",
+                "ME1568"
+            ],
+            "2": [
+                "ME1561",
+                "ME1568"
+            ]
+        },
+        "2017": {
+            "3": [
+                "ME1576",
+                "ME1575"
+            ],
+            "4": [
+                "ME1576",
+                "ME1575"
+            ],
+            "1": [
+                "ME1584",
+                "ME1589"
+            ],
+            "2": [
+                "ME1584",
+                "ME1589"
+            ]
+        },
+        "2018": {
+            "3": [
+                "ME1587",
+                "ME1557"
+            ],
+            "4": [
+                "ME1587",
+                "ME1557"
+            ],
+            "1": [
+                "ME1592"
+            ],
+            "2": [
+                "ME1594",
+                "ME1593"
+            ]
+        },
+        "2019": {
+            "3": [
+                "ME1588"
+            ],
+            "4": [
+                "ME1588"
+            ]
+        }
+    }
+}

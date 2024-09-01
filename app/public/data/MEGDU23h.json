@@ -1,0 +1,413 @@
+{
+    "ME1633": {
+        "code": "ME1633",
+        "name": "Grunder i digitala och immersiva upplevelser",
+        "points": 15.0,
+        "semester": "H\u00f6sttermin 2023",
+        "start_week": 34,
+        "end_week": 43,
+        "periods": [
+            1
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs grundl\u00e4ggande beh\u00f6righet.",
+        "teacher": "ldp",
+        "replacement": null,
+        "next_instance": null,
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=B7K4R&KtTermin=20232&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/MEGDU_HT-23.pdf",
+        "start_year": 2023,
+        "end_year": 2023,
+        "course_duration": 10,
+        "is_double": false,
+        "color": "#7021db"
+    },
+    "ME1634": {
+        "code": "ME1634",
+        "name": "Gestaltande programmering",
+        "points": 7.0,
+        "semester": "H\u00f6sttermin 2023",
+        "start_week": 44,
+        "end_week": 48,
+        "periods": [
+            2
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "Grundl\u00e4ggande beh\u00f6righet",
+        "teacher": "msc",
+        "replacement": null,
+        "next_instance": "202445 (D5951)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BR6UW&KtTermin=20232&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/MEGDU_HT-23.pdf",
+        "start_year": 2023,
+        "end_year": 2023,
+        "course_duration": 5,
+        "is_double": false,
+        "color": "#7021db"
+    },
+    "ME1635": {
+        "code": "ME1635",
+        "name": "Realtidsplattformar f\u00f6r upplevelser i 3D",
+        "points": 7.0,
+        "semester": "H\u00f6sttermin 2023",
+        "start_week": 49,
+        "end_week": 2,
+        "periods": [
+            2
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngen kurs Gestaltande programmering 7,5 hp.",
+        "teacher": "ldp",
+        "replacement": null,
+        "next_instance": null,
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BCFMQ&KtTermin=20232&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/MEGDU_HT-23.pdf",
+        "start_year": 2023,
+        "end_year": 2024,
+        "course_duration": 6,
+        "is_double": false,
+        "color": "#7021db"
+    },
+    "ME1636": {
+        "code": "ME1636",
+        "name": "Anv\u00e4ndarupplevelse och gr\u00e4nssnitt",
+        "points": 15.0,
+        "semester": "V\u00e5rtermin 2024",
+        "start_week": 3,
+        "end_week": 12,
+        "periods": [
+            3
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "Grundl\u00e4ggande beh\u00f6righet.",
+        "teacher": "mfi",
+        "replacement": null,
+        "next_instance": "202504 (BE3PY)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=B6MXJ&KtTermin=20241&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/MEGDU_HT-23.pdf",
+        "start_year": 2024,
+        "end_year": 2024,
+        "course_duration": 10,
+        "is_double": false,
+        "color": "#7021db"
+    },
+    "ME1640": {
+        "code": "ME1640",
+        "name": "Produktion av digitala upplevelser",
+        "points": 15.0,
+        "semester": "V\u00e5rtermin 2024",
+        "start_week": 13,
+        "end_week": 22,
+        "periods": [
+            4
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vas avklarad kurs Gestaltande programmering 7,5 hp samt genomg\u00e5ngen kurs Realtidsplattformar f\u00f6r upplevelser i 3D 7,5 hp.",
+        "teacher": "jsg",
+        "replacement": "ME1672",
+        "next_instance": "202514 (BUHDX)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BCCQH&KtTermin=20241&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/MEGDU_HT-23.pdf",
+        "start_year": 2024,
+        "end_year": 2024,
+        "course_duration": 10,
+        "is_double": false,
+        "color": "#7021db"
+    },
+    "ME1639": {
+        "code": "ME1639",
+        "name": "Immersiva tekniker",
+        "points": 15.0,
+        "semester": "H\u00f6sttermin 2024",
+        "start_week": 36,
+        "end_week": 44,
+        "periods": [
+            1
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarad kurs Realtidsplattformar f\u00f6r upplevelser i 3D 7,5 hp.",
+        "teacher": "jsg",
+        "replacement": null,
+        "next_instance": "202436 (BR33G)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BR33G&KtTermin=20242&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/MEGDU_HT-23.pdf",
+        "start_year": 2024,
+        "end_year": 2024,
+        "course_duration": 9,
+        "is_double": false,
+        "color": "#7021db"
+    },
+    "ME1652": {
+        "code": "ME1652",
+        "name": "Digifysisk gestaltning",
+        "points": 7.0,
+        "semester": "H\u00f6sttermin 2024",
+        "start_week": 45,
+        "end_week": 49,
+        "periods": [
+            2
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngen kurs Gestaltande programmering, 7,5 hp alternativt genomg\u00e5ngen kurs Modul\u00e4r ljuddesign, 7,5 hp.",
+        "teacher": "nrj",
+        "replacement": null,
+        "next_instance": "202445 (B3HLM)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=B3HLM&KtTermin=20242&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/MEGDU_HT-23.pdf",
+        "start_year": 2024,
+        "end_year": 2024,
+        "course_duration": 5,
+        "is_double": false,
+        "color": "#7021db"
+    },
+    "ME1638": {
+        "code": "ME1638",
+        "name": "Gr\u00e4nssnitt med immersiva tekniker",
+        "points": 7.0,
+        "semester": "H\u00f6sttermin 2024",
+        "start_week": 50,
+        "end_week": 3,
+        "periods": [
+            2
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngen kurs Digifysisk gestaltning, 7,5 hp.",
+        "teacher": "jsg",
+        "replacement": null,
+        "next_instance": "202450 (BRJHK)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BRJHK&KtTermin=20242&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/MEGDU_HT-23.pdf",
+        "start_year": 2024,
+        "end_year": 2025,
+        "course_duration": 6,
+        "is_double": false,
+        "color": "#7021db"
+    },
+    "ME1653": {
+        "code": "ME1653",
+        "name": "Digitalt ber\u00e4ttande",
+        "points": 7.0,
+        "semester": "V\u00e5rtermin 2025",
+        "start_week": 4,
+        "end_week": 13,
+        "periods": [
+            3
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngen kurs Realtidsplattformar f\u00f6r upplevelser i 3D, 7,5 hp.",
+        "teacher": "msc",
+        "replacement": null,
+        "next_instance": "202504 (BTEMG)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BTEMG&KtTermin=20251&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/MEGDU_HT-23.pdf",
+        "start_year": 2025,
+        "end_year": 2025,
+        "course_duration": 10,
+        "is_double": false,
+        "color": "#7021db"
+    },
+    "ME1655": {
+        "code": "ME1655",
+        "name": "Utst\u00e4llningsteknik",
+        "points": 7.0,
+        "semester": "V\u00e5rtermin 2025",
+        "start_week": 4,
+        "end_week": 13,
+        "periods": [
+            3
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "Grundl\u00e4ggande beh\u00f6righet",
+        "teacher": "ldp",
+        "replacement": null,
+        "next_instance": "202504 (BW3JM)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BW3JM&KtTermin=20251&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/MEGDU_HT-23.pdf",
+        "start_year": 2025,
+        "end_year": 2025,
+        "course_duration": 10,
+        "is_double": false,
+        "color": "#7021db"
+    },
+    "ME1657": {
+        "code": "ME1657",
+        "name": "Design i samverkan",
+        "points": 15.0,
+        "semester": "V\u00e5rtermin 2025",
+        "start_week": 14,
+        "end_week": 23,
+        "periods": [
+            4
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngen kurs Utst\u00e4llningsteknik, 7,5 hp.",
+        "teacher": "pcr",
+        "replacement": null,
+        "next_instance": "202514 (BMQRM)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BMQRM&KtTermin=20251&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/MEGDU_HT-23.pdf",
+        "start_year": 2025,
+        "end_year": 2025,
+        "course_duration": 10,
+        "is_double": false,
+        "color": "#7021db"
+    },
+    "ME1656": {
+        "code": "ME1656",
+        "name": "Responsiva h\u00e5llbara milj\u00f6er",
+        "points": 15.0,
+        "semester": "H\u00f6sttermin 2025",
+        "start_week": 36,
+        "end_week": 44,
+        "periods": [
+            1
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs 90 hp avklarade i huvudomr\u00e5det medieteknik.",
+        "teacher": "ldp",
+        "replacement": null,
+        "next_instance": "202436 (BPYLF)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=B6M3G&KtTermin=20252&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/MEGDU_HT-23.pdf",
+        "start_year": 2025,
+        "end_year": 2025,
+        "course_duration": 9,
+        "is_double": false,
+        "color": "#7021db"
+    },
+    "ME1654": {
+        "code": "ME1654",
+        "name": "Virtuell produktion",
+        "points": 7.0,
+        "semester": "H\u00f6sttermin 2025",
+        "start_week": 45,
+        "end_week": 3,
+        "periods": [
+            2
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs 90 hp avklarade i huvudomr\u00e5det medieteknik.",
+        "teacher": "ldp",
+        "replacement": null,
+        "next_instance": "202445 (BEC44)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BNE4H&KtTermin=20252&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/MEGDU_HT-23.pdf",
+        "start_year": 2025,
+        "end_year": 2026,
+        "course_duration": 11,
+        "is_double": false,
+        "color": "#7021db"
+    },
+    "ME1644": {
+        "code": "ME1644",
+        "name": "Forskningsintroduktion medieteknik",
+        "points": 7.0,
+        "semester": "H\u00f6sttermin 2025",
+        "start_week": 45,
+        "end_week": 3,
+        "periods": [
+            2
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs 60 hp avklarade i huvudomr\u00e5det medieteknik.\n",
+        "teacher": "mfi",
+        "replacement": null,
+        "next_instance": "202445 (BTAEK)",
+        "syllabus_url": "https://bth.azure-api.net/lindplan/courseplanbycode?code=BXWAN&semester=20252&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/MEGDU_HT-23.pdf",
+        "start_year": 2025,
+        "end_year": 2026,
+        "course_duration": 11,
+        "is_double": false,
+        "color": "#7021db"
+    },
+    "ME1659": {
+        "code": "ME1659",
+        "name": "Kandidatarbete i medieteknik",
+        "points": 30.0,
+        "semester": "V\u00e5rtermin 2026",
+        "start_week": 4,
+        "end_week": 23,
+        "periods": [
+            3,
+            4
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs minst 90 hp genomg\u00e5nget inom huvudomr\u00e5det medieteknik samt genomg\u00e5ngen kurs Forskningsintroduktion medieteknik.",
+        "teacher": "aob",
+        "replacement": null,
+        "next_instance": "202504 (BQ44Q)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BGJUK&KtTermin=20261&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/MEGDU_HT-23.pdf",
+        "start_year": 2026,
+        "end_year": 2026,
+        "course_duration": 20,
+        "is_double": true,
+        "color": "#7021db"
+    },
+    "_groups": {
+        "2023": {
+            "1": [
+                "ME1633"
+            ],
+            "2": [
+                "ME1634",
+                "ME1635"
+            ]
+        },
+        "2024": {
+            "3": [
+                "ME1636"
+            ],
+            "4": [
+                "ME1640"
+            ],
+            "1": [
+                "ME1639"
+            ],
+            "2": [
+                "ME1652",
+                "ME1638"
+            ]
+        },
+        "2025": {
+            "3": [
+                "ME1653",
+                "ME1655"
+            ],
+            "4": [
+                "ME1657"
+            ],
+            "1": [
+                "ME1656"
+            ],
+            "2": [
+                "ME1654",
+                "ME1644"
+            ]
+        },
+        "2026": {
+            "3": [
+                "ME1659"
+            ],
+            "4": [
+                "ME1659"
+            ]
+        }
+    }
+}

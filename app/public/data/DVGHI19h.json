@@ -1,0 +1,744 @@
+{
+    "MA1481": {
+        "code": "MA1481",
+        "name": "Matematik grundkurs f\u00f6r h\u00f6gskoleingenj\u00f6rer",
+        "points": 6.0,
+        "semester": "H\u00f6sttermin 2019",
+        "start_week": 35,
+        "end_week": 44,
+        "periods": [
+            1
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "Omr\u00e5desbeh\u00f6righet A8: Matematik 3c, Fysik 2 (Kemi 1 kr\u00e4vs ej). Eller: Omr\u00e5desbeh\u00f6righet 8: Matematik D, Fysik B (Kemi A kr\u00e4vs ej)",
+        "teacher": "mqb",
+        "replacement": "MA1495",
+        "next_instance": null,
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BRQHT&KtTermin=20192&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/DVGHI_HT-19.pdf",
+        "start_year": 2019,
+        "end_year": 2019,
+        "course_duration": 10,
+        "is_double": false,
+        "color": "#f00558"
+    },
+    "DV1576": {
+        "code": "DV1576",
+        "name": "Dators\u00e4kerhet\u00a0och\u00a0ingenj\u00f6rsarbete",
+        "points": 6.0,
+        "semester": "H\u00f6sttermin 2019",
+        "start_week": 35,
+        "end_week": 3,
+        "periods": [
+            1,
+            2
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "Grundl\u00e4ggande beh\u00f6righet samt Fysik 2, Kemi 1 och Matematik 3c eller Fysik B, Kemi A och Matematik D.",
+        "teacher": "nmo",
+        "replacement": "DV1671",
+        "next_instance": "202436 (BTD9L)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BWMY3&KtTermin=20192&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/DVGHI_HT-19.pdf",
+        "start_year": 2019,
+        "end_year": 2020,
+        "course_duration": 21,
+        "is_double": true,
+        "color": "#3df6d4"
+    },
+    "DV1574": {
+        "code": "DV1574",
+        "name": "Programmering och probleml\u00f6sning med Python",
+        "points": 6.0,
+        "semester": "H\u00f6sttermin 2019",
+        "start_week": 35,
+        "end_week": 44,
+        "periods": [
+            1
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "Grundl\u00e4ggande beh\u00f6righet",
+        "teacher": null,
+        "replacement": null,
+        "next_instance": "202445 (BN4J7)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BLETT&KtTermin=20192&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/DVGHI_HT-19.pdf",
+        "start_year": 2019,
+        "end_year": 2019,
+        "course_duration": 10,
+        "is_double": false,
+        "color": "#3df6d4"
+    },
+    "MA1444": {
+        "code": "MA1444",
+        "name": "Analys 1",
+        "points": 6.0,
+        "semester": "H\u00f6sttermin 2019",
+        "start_week": 45,
+        "end_week": 3,
+        "periods": [
+            2
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "Omr\u00e5desbeh\u00f6righet 9: Matematik E, Fysik B. (Kemi A kr\u00e4vs ej)  eller omr\u00e5desbeh\u00f6righet A9: Matematik 4, Fysik 2. (Kemi 1 kr\u00e4vs ej).",
+        "teacher": "stw",
+        "replacement": "MA1499",
+        "next_instance": "202445 (BFKCN)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BXGJD&KtTermin=20192&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/DVGHI_HT-19.pdf",
+        "start_year": 2019,
+        "end_year": 2020,
+        "course_duration": 11,
+        "is_double": false,
+        "color": "#f00558"
+    },
+    "DV1581": {
+        "code": "DV1581",
+        "name": "Programmering i C++",
+        "points": 6.0,
+        "semester": "H\u00f6sttermin 2019",
+        "start_week": 45,
+        "end_week": 3,
+        "periods": [
+            2
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngen kurs, Programmering och probleml\u00f6sning med Python, 6 hp, varav minst 2 hp ska vara avklarade.",
+        "teacher": null,
+        "replacement": "DV1626",
+        "next_instance": "202445 (BPJ74)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BACY6&KtTermin=20192&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/DVGHI_HT-19.pdf",
+        "start_year": 2019,
+        "end_year": 2020,
+        "course_duration": 11,
+        "is_double": false,
+        "color": "#3df6d4"
+    },
+    "DV1589": {
+        "code": "DV1589",
+        "name": "Datakommunikation och n\u00e4tverksteknik",
+        "points": 12.0,
+        "semester": "V\u00e5rtermin 2020",
+        "start_week": 4,
+        "end_week": 23,
+        "periods": [
+            3,
+            4
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "Grundl\u00e4ggande beh\u00f6righet.",
+        "teacher": "aca",
+        "replacement": null,
+        "next_instance": null,
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=B7Y7C&KtTermin=20201&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/DVGHI_HT-19.pdf",
+        "start_year": 2020,
+        "end_year": 2020,
+        "course_duration": 20,
+        "is_double": true,
+        "color": "#3df6d4"
+    },
+    "DV1620": {
+        "code": "DV1620",
+        "name": "S\u00e4kerhetsmodeller och riskhantering",
+        "points": 6.0,
+        "semester": "V\u00e5rtermin 2020",
+        "start_week": 4,
+        "end_week": 13,
+        "periods": [
+            3
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngna kurser i programmering om minst 12 hp.",
+        "teacher": "dji",
+        "replacement": "DV1667",
+        "next_instance": null,
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=B4NPW&KtTermin=20201&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/DVGHI_HT-19.pdf",
+        "start_year": 2020,
+        "end_year": 2020,
+        "course_duration": 10,
+        "is_double": false,
+        "color": "#3df6d4"
+    },
+    "DV1490": {
+        "code": "DV1490",
+        "name": "Algoritmer och datastrukturer",
+        "points": 6.0,
+        "semester": "V\u00e5rtermin 2020",
+        "start_week": 14,
+        "end_week": 23,
+        "periods": [
+            4
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "Kursens f\u00f6rkunskapskrav \u00e4r 6 hp programmering.",
+        "teacher": null,
+        "replacement": "DV1625",
+        "next_instance": "202436 (1710X)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BYTHA&KtTermin=20201&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/DVGHI_HT-19.pdf",
+        "start_year": 2020,
+        "end_year": 2020,
+        "course_duration": 10,
+        "is_double": false,
+        "color": "#3df6d4"
+    },
+    "MA1448": {
+        "code": "MA1448",
+        "name": "Linj\u00e4r algebra 1",
+        "points": 6.0,
+        "semester": "V\u00e5rtermin 2020",
+        "start_week": 14,
+        "end_week": 23,
+        "periods": [
+            4
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "Grundl\u00e4ggande beh\u00f6righet samt Matematik 4 och Fysik 2.",
+        "teacher": "stw",
+        "replacement": "MA1498",
+        "next_instance": "202436 (G5954)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=B9XCD&KtTermin=20201&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/DVGHI_HT-19.pdf",
+        "start_year": 2020,
+        "end_year": 2020,
+        "course_duration": 10,
+        "is_double": false,
+        "color": "#f00558"
+    },
+    "DV1590": {
+        "code": "DV1590",
+        "name": "N\u00e4tverkss\u00e4kerhet 1",
+        "points": 4.0,
+        "semester": "H\u00f6sttermin 2020",
+        "start_week": 36,
+        "end_week": 44,
+        "periods": [
+            1
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser i \"Dators\u00e4kerhet och ingenj\u00f6rsarbete\" 6 hp eller \"Introduktion till s\u00e4kerhet\" 4 hp. D\u00e4rut\u00f6ver kr\u00e4vs avklarad kurs Datakommunikation och n\u00e4tverksteknik 6 hp.",
+        "teacher": "oba",
+        "replacement": null,
+        "next_instance": "202436 (BD9JG)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BR76E&KtTermin=20202&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/DVGHI_HT-19.pdf",
+        "start_year": 2020,
+        "end_year": 2020,
+        "course_duration": 9,
+        "is_double": false,
+        "color": "#3df6d4"
+    },
+    "MA1446": {
+        "code": "MA1446",
+        "name": "Diskret matematik",
+        "points": 6.0,
+        "semester": "H\u00f6sttermin 2020",
+        "start_week": 36,
+        "end_week": 44,
+        "periods": [
+            1
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "Genomg\u00e5ngna kurser Matematik, grundkurs, 4 hp alternativt Matematisk probleml\u00f6sning, 4 hp och Linj\u00e4r algebra 1, 6 hp eller motsvarande.",
+        "teacher": "jch",
+        "replacement": "MA1504",
+        "next_instance": "202514 (BHK34)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BPXM3&KtTermin=20202&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/DVGHI_HT-19.pdf",
+        "start_year": 2020,
+        "end_year": 2020,
+        "course_duration": 9,
+        "is_double": false,
+        "color": "#f00558"
+    },
+    "MS1413": {
+        "code": "MS1413",
+        "name": "Matematisk\u00a0statistik\u00a0med\u00a0programvara",
+        "points": 6.0,
+        "semester": "H\u00f6sttermin 2020",
+        "start_week": 36,
+        "end_week": 44,
+        "periods": [
+            1
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "Avklarad kurs Matematik grundkurs f\u00f6r h\u00f6gskoleingenj\u00f6rer, 6 hp. Genomg\u00e5ngna kurser Analys 1, 6 hp samt Linj\u00e4r Algebra, 6 hp.",
+        "teacher": "bxp",
+        "replacement": "MS1417",
+        "next_instance": "202536 (BQRXM)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BYNF3&KtTermin=20202&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/DVGHI_HT-19.pdf",
+        "start_year": 2020,
+        "end_year": 2020,
+        "course_duration": 9,
+        "is_double": false,
+        "color": "#4d95e5"
+    },
+    "MA1489": {
+        "code": "MA1489",
+        "name": "Kryptering 1",
+        "points": 8.0,
+        "semester": "H\u00f6sttermin 2020",
+        "start_week": 45,
+        "end_week": 2,
+        "periods": [
+            2
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngen kurs i Diskret matematik, 6 hp och genomg\u00e5ngen kurs i Matematisk statistik, 6 hp.",
+        "teacher": "rny",
+        "replacement": null,
+        "next_instance": "202445 (BFLD9)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=B6Y7H&KtTermin=20202&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/DVGHI_HT-19.pdf",
+        "start_year": 2020,
+        "end_year": 2021,
+        "course_duration": 10,
+        "is_double": false,
+        "color": "#f00558"
+    },
+    "DV1629": {
+        "code": "DV1629",
+        "name": "Operativsystem",
+        "points": 6.0,
+        "semester": "H\u00f6sttermin 2020",
+        "start_week": 45,
+        "end_week": 2,
+        "periods": [
+            2
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "F\u00f6r tilltr\u00e4de i kursen kr\u00e4vs 12 avklarade hp i programmering samt 1,5 hp avklarade fr\u00e5n algoritmer och datastrukturer.",
+        "teacher": null,
+        "replacement": "DV1697",
+        "next_instance": "202445 (BYXN9)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BXJ3K&KtTermin=20202&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/DVGHI_HT-19.pdf",
+        "start_year": 2020,
+        "end_year": 2021,
+        "course_duration": 10,
+        "is_double": false,
+        "color": "#3df6d4"
+    },
+    "DV1578": {
+        "code": "DV1578",
+        "name": "Programmering i UNIX-milj\u00f6",
+        "points": 6.0,
+        "semester": "V\u00e5rtermin 2021",
+        "start_week": 3,
+        "end_week": 12,
+        "periods": [
+            3
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att den studerande har avklarade kurser i Programmering 12 hp, Algoritmer och datastrukturer 6 hp. Genomg\u00e5ngna kurser i Operativsystem 6 hp, Datakommunikation eller Lokala n\u00e4tverk minst 4 hp.",
+        "teacher": "dna",
+        "replacement": null,
+        "next_instance": "202436 (BFHMJ)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BFYQT&KtTermin=20211&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/DVGHI_HT-19.pdf",
+        "start_year": 2021,
+        "end_year": 2021,
+        "course_duration": 10,
+        "is_double": false,
+        "color": "#3df6d4"
+    },
+    "DV1591": {
+        "code": "DV1591",
+        "name": "N\u00e4tverkss\u00e4kerhet 2",
+        "points": 4.0,
+        "semester": "V\u00e5rtermin 2021",
+        "start_week": 3,
+        "end_week": 12,
+        "periods": [
+            3
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarad kurs i N\u00e4tverks\u00e4kerhet 1, 4 hp, Programmering, 6 hp, Programmering i C++ 6 hp. Genomg\u00e5ngen kurs i Kryptering, 8 hp.",
+        "teacher": "oba",
+        "replacement": null,
+        "next_instance": "202504 (BG47J)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BC7FP&KtTermin=20211&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/DVGHI_HT-19.pdf",
+        "start_year": 2021,
+        "end_year": 2021,
+        "course_duration": 10,
+        "is_double": false,
+        "color": "#3df6d4"
+    },
+    "PA1456": {
+        "code": "PA1456",
+        "name": "Individuellt mjukvaruutvecklingsprojekt",
+        "points": 6.0,
+        "semester": "V\u00e5rtermin 2021",
+        "start_week": 3,
+        "end_week": 12,
+        "periods": [
+            3
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarade kurser om minst 12 h\u00f6gskolepo\u00e4ng i programmering samt genomg\u00e5ngen kurs i \ndatastrukturer och algoritmer.",
+        "teacher": "una",
+        "replacement": null,
+        "next_instance": "202504 (BYLDJ)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=B9RN3&KtTermin=20211&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/DVGHI_HT-19.pdf",
+        "start_year": 2021,
+        "end_year": 2021,
+        "course_duration": 10,
+        "is_double": false,
+        "color": "#86a7f4"
+    },
+    "MA1475": {
+        "code": "MA1475",
+        "name": "Grunder i LaTeX",
+        "points": 2.0,
+        "semester": "V\u00e5rtermin 2021",
+        "start_week": 13,
+        "end_week": 22,
+        "periods": [
+            4
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "Grundl\u00e4ggande beh\u00f6righet.",
+        "teacher": "rny",
+        "replacement": null,
+        "next_instance": null,
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BUTX3&KtTermin=20211&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/DVGHI_HT-19.pdf",
+        "start_year": 2021,
+        "end_year": 2021,
+        "course_duration": 10,
+        "is_double": false,
+        "color": "#f00558"
+    },
+    "DV1493": {
+        "code": "DV1493",
+        "name": "Datorteknik",
+        "points": 6.0,
+        "semester": "V\u00e5rtermin 2021",
+        "start_week": 13,
+        "end_week": 22,
+        "periods": [
+            4
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "Programmering eller algoritmer och datastrukturer, 16 hp.",
+        "teacher": null,
+        "replacement": null,
+        "next_instance": "202445 (B3FRH)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BDWWE&KtTermin=20211&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/DVGHI_HT-19.pdf",
+        "start_year": 2021,
+        "end_year": 2021,
+        "course_duration": 10,
+        "is_double": false,
+        "color": "#3df6d4"
+    },
+    "DV1587": {
+        "code": "DV1587",
+        "name": "Databasteknik",
+        "points": 6.0,
+        "semester": "V\u00e5rtermin 2021",
+        "start_week": 13,
+        "end_week": 22,
+        "periods": [
+            4
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att studenten har avklarat 6  hp i programmering.",
+        "teacher": null,
+        "replacement": "DV1663",
+        "next_instance": "202514 (BRX3F)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BAAQE&KtTermin=20211&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/DVGHI_HT-19.pdf",
+        "start_year": 2021,
+        "end_year": 2021,
+        "course_duration": 10,
+        "is_double": false,
+        "color": "#3df6d4"
+    },
+    "DV1512": {
+        "code": "DV1512",
+        "name": "S\u00e4kerhetsprojekt i grupp, inriktning systemutveckling",
+        "points": 8.0,
+        "semester": "H\u00f6sttermin 2021",
+        "start_week": 35,
+        "end_week": 2,
+        "periods": [
+            1,
+            2
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "Avklarat kurser i programmering om minst 15 h\u00f6gskolepo\u00e4ng, algoritmer och datastrukturer om minst 6 h\u00f6gskolepo\u00e4ng, s\u00e4kerhet om minst 4 h\u00f6gkolepo\u00e4ng samt kryptering om minst 6 h\u00f6gskolepo\u00e4ng. Genomg\u00e5tt kurser omfattande f\u00f6ljande omr\u00e5den; datakommunikation, n\u00e4tverksteknik, realtidssystem, operativsystem och datorteknik.",
+        "teacher": "ndz",
+        "replacement": null,
+        "next_instance": "202436 (BLKLN)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BYK9E&KtTermin=20212&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/DVGHI_HT-19.pdf",
+        "start_year": 2021,
+        "end_year": 2022,
+        "course_duration": 20,
+        "is_double": true,
+        "color": "#3df6d4"
+    },
+    "PA1457": {
+        "code": "PA1457",
+        "name": "Forskningsmetodik i datavetenskaper",
+        "points": 6.0,
+        "semester": "H\u00f6sttermin 2021",
+        "start_week": 35,
+        "end_week": 43,
+        "periods": [
+            1
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att studenten har avklarat 30 h\u00f6gskolepo\u00e4ng i huvudomr\u00e5det  programvaruteknik och/eller\ndatavetenskap.",
+        "teacher": "ekx",
+        "replacement": null,
+        "next_instance": "202436 (BGHKK)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=B9PEE&KtTermin=20212&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/DVGHI_HT-19.pdf",
+        "start_year": 2021,
+        "end_year": 2021,
+        "course_duration": 9,
+        "is_double": false,
+        "color": "#86a7f4"
+    },
+    "DV2576": {
+        "code": "DV2576",
+        "name": "Analys av illasinnad programvara (malware)",
+        "points": 6.0,
+        "semester": "H\u00f6sttermin 2021",
+        "start_week": 35,
+        "end_week": 43,
+        "periods": [
+            1
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "Genomg\u00e5ngna kurser i Programmering 12 hp, Operativsystem 6 hp, Datakommunikation minst 4 hp, N\u00e4tverkss\u00e4kerhet 8 hp.",
+        "teacher": "dil",
+        "replacement": null,
+        "next_instance": "202436 (BDYUN)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BYFQE&KtTermin=20212&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/DVGHI_HT-19.pdf",
+        "start_year": 2021,
+        "end_year": 2021,
+        "course_duration": 9,
+        "is_double": false,
+        "color": "#3df6d4"
+    },
+    "IY1424": {
+        "code": "IY1424",
+        "name": "Ledarskap och projektverksamhet",
+        "points": 4.0,
+        "semester": "H\u00f6sttermin 2021",
+        "start_week": 44,
+        "end_week": 2,
+        "periods": [
+            2
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "Grundl\u00e4ggande beh\u00f6righet.",
+        "teacher": "pro",
+        "replacement": "IY1460",
+        "next_instance": null,
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=B3YJA&KtTermin=20212&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/DVGHI_HT-19.pdf",
+        "start_year": 2021,
+        "end_year": 2022,
+        "course_duration": 11,
+        "is_double": false,
+        "color": "#aaa660"
+    },
+    "DV1579": {
+        "code": "DV1579",
+        "name": "Programvarus\u00e4kerhet",
+        "points": 6.0,
+        "semester": "H\u00f6sttermin 2021",
+        "start_week": 44,
+        "end_week": 2,
+        "periods": [
+            2
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "Genomg\u00e5ngen kurs i Programmering i UNIX-milj\u00f6 6 hp",
+        "teacher": "nmo",
+        "replacement": "DV1665",
+        "next_instance": "202445 (B3JQH)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=B4NHE&KtTermin=20212&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/DVGHI_HT-19.pdf",
+        "start_year": 2021,
+        "end_year": 2022,
+        "course_duration": 11,
+        "is_double": false,
+        "color": "#3df6d4"
+    },
+    "DV1583": {
+        "code": "DV1583",
+        "name": "Examensarbete i datavetenskap f\u00f6r h\u00f6gskoleingenj\u00f6rer",
+        "points": 18.0,
+        "semester": "V\u00e5rtermin 2022",
+        "start_week": 3,
+        "end_week": 22,
+        "periods": [
+            3,
+            4
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att studenten har avklarat 60 hp, varav minst 30 hp inom datavetenskap. De \u00f6vriga 30 hp kan, f\u00f6rutom datavetenskap, \u00e4ven vara inom matematik,  programvaruteknik, och elektroteknik. Dessutom m\u00e5ste studenten ha genomg\u00e5tt en kurs i forskningsmetodik om minst 6 hp.",
+        "teacher": "prg",
+        "replacement": null,
+        "next_instance": "202504 (BW6CR)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BQ9XE&KtTermin=20221&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/DVGHI_HT-19.pdf",
+        "start_year": 2022,
+        "end_year": 2022,
+        "course_duration": 20,
+        "is_double": true,
+        "color": "#3df6d4"
+    },
+    "IY1402": {
+        "code": "IY1402",
+        "name": "Industriell ekonomi, \u00f6versiktskurs",
+        "points": 6.0,
+        "semester": "V\u00e5rtermin 2022",
+        "start_week": 3,
+        "end_week": 12,
+        "periods": [
+            3
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "Omr\u00e5desbeh\u00f6righet 3: Matematik C, Samh\u00e4llskunskap A.  (Naturkunskap B kr\u00e4vs ej.)",
+        "teacher": "awr",
+        "replacement": "IY1458",
+        "next_instance": "202445 (BHWHN)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=B4H3E&KtTermin=20221&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/DVGHI_HT-19.pdf",
+        "start_year": 2022,
+        "end_year": 2022,
+        "course_duration": 10,
+        "is_double": false,
+        "color": "#aaa660"
+    },
+    "DV1592": {
+        "code": "DV1592",
+        "name": "Digital unders\u00f6kningsteknik och digitala bevis",
+        "points": 6.0,
+        "semester": "V\u00e5rtermin 2022",
+        "start_week": 13,
+        "end_week": 22,
+        "periods": [
+            4
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngen kurs i N\u00e4tverkss\u00e4kerhet 2, 4 hp eller Till\u00e4mpad n\u00e4tverkss\u00e4kerhet 7,5 hp.",
+        "teacher": "oba",
+        "replacement": null,
+        "next_instance": "202514 (BHMDH)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BDDT6&KtTermin=20221&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/DVGHI_HT-19.pdf",
+        "start_year": 2022,
+        "end_year": 2022,
+        "course_duration": 10,
+        "is_double": false,
+        "color": "#3df6d4"
+    },
+    "_groups": {
+        "2019": {
+            "1": [
+                "MA1481",
+                "DV1576",
+                "DV1574"
+            ],
+            "2": [
+                "DV1576",
+                "MA1444",
+                "DV1581"
+            ]
+        },
+        "2020": {
+            "3": [
+                "DV1589",
+                "DV1620"
+            ],
+            "4": [
+                "DV1589",
+                "DV1490",
+                "MA1448"
+            ],
+            "1": [
+                "DV1590",
+                "MA1446",
+                "MS1413"
+            ],
+            "2": [
+                "MA1489",
+                "DV1629"
+            ]
+        },
+        "2021": {
+            "3": [
+                "DV1578",
+                "DV1591",
+                "PA1456"
+            ],
+            "4": [
+                "MA1475",
+                "DV1493",
+                "DV1587"
+            ],
+            "1": [
+                "DV1512",
+                "PA1457",
+                "DV2576"
+            ],
+            "2": [
+                "DV1512",
+                "IY1424",
+                "DV1579"
+            ]
+        },
+        "2022": {
+            "3": [
+                "DV1583",
+                "IY1402"
+            ],
+            "4": [
+                "DV1583",
+                "DV1592"
+            ]
+        }
+    }
+}
