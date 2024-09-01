@@ -1,5 +1,6 @@
 {
     "MA0003": {
+        "code": "MA0003",
         "name": "Matematik gamma",
         "points": 15.0,
         "semester": "H\u00f6sttermin 2019",
@@ -24,6 +25,7 @@
         "color": "#f00558"
     },
     "FY0003": {
+        "code": "FY0003",
         "name": "Fysik alfa",
         "points": 12.0,
         "semester": "H\u00f6sttermin 2019",
@@ -48,6 +50,7 @@
         "color": "#939342"
     },
     "NO0003": {
+        "code": "NO0003",
         "name": "Ingenj\u00f6rsorientering",
         "points": 5.0,
         "semester": "H\u00f6sttermin 2019",
@@ -72,6 +75,7 @@
         "color": "#23794d"
     },
     "KE0002": {
+        "code": "KE0002",
         "name": "Kemi alfa",
         "points": 8.0,
         "semester": "V\u00e5rtermin 2020",
@@ -96,6 +100,7 @@
         "color": "#b5e22f"
     },
     "FY0004": {
+        "code": "FY0004",
         "name": "Fysik beta",
         "points": 10.0,
         "semester": "V\u00e5rtermin 2020",
@@ -120,6 +125,7 @@
         "color": "#939342"
     },
     "MA0004": {
+        "code": "MA0004",
         "name": "Matematik delta",
         "points": 10.0,
         "semester": "V\u00e5rtermin 2020",

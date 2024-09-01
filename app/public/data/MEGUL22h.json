@@ -1,5 +1,6 @@
 {
     "ME1645": {
+        "code": "ME1645",
         "name": "Grunder i design av digitala upplevelser f\u00f6r l\u00e4rande",
         "points": 15.0,
         "semester": "H\u00f6sttermin 2022",
@@ -23,6 +24,7 @@
         "color": "#7021db"
     },
     "ME1634": {
+        "code": "ME1634",
         "name": "Gestaltande programmering",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2022",
@@ -46,6 +48,7 @@
         "color": "#7021db"
     },
     "ME1635": {
+        "code": "ME1635",
         "name": "Realtidsplattformar f\u00f6r upplevelser i 3D",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2022",
@@ -69,6 +72,7 @@
         "color": "#7021db"
     },
     "ME1636": {
+        "code": "ME1636",
         "name": "Anv\u00e4ndarupplevelse och gr\u00e4nssnitt",
         "points": 15.0,
         "semester": "V\u00e5rtermin 2023",
@@ -92,6 +96,7 @@
         "color": "#7021db"
     },
     "ME1640": {
+        "code": "ME1640",
         "name": "Produktion av digitala upplevelser",
         "points": 15.0,
         "semester": "V\u00e5rtermin 2023",
@@ -115,6 +120,7 @@
         "color": "#7021db"
     },
     "ME1646": {
+        "code": "ME1646",
         "name": "Digital didaktisk design",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2023",
@@ -138,6 +144,7 @@
         "color": "#7021db"
     },
     "ME1647": {
+        "code": "ME1647",
         "name": "F\u00f6rdjupning av gestaltande upplevelser",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2023",
@@ -161,6 +168,7 @@
         "color": "#7021db"
     },
     "ME1661": {
+        "code": "ME1661",
         "name": "F\u00f6rdjupning digitalt l\u00e4rande",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2023",
@@ -184,6 +192,7 @@
         "color": "#7021db"
     },
     "ME1663": {
+        "code": "ME1663",
         "name": "Digital prototyputveckling",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2023",
@@ -207,6 +216,7 @@
         "color": "#7021db"
     },
     "ME1648": {
+        "code": "ME1648",
         "name": "Motivation f\u00f6r digitalt  l\u00e4rande",
         "points": 7.0,
         "semester": "V\u00e5rtermin 2024",
@@ -230,6 +240,7 @@
         "color": "#7021db"
     },
     "ME1613": {
+        "code": "ME1613",
         "name": "Interaktivt ber\u00e4ttande",
         "points": 7.0,
         "semester": "V\u00e5rtermin 2024",
@@ -253,6 +264,7 @@
         "color": "#7021db"
     },
     "ME1649": {
+        "code": "ME1649",
         "name": "Sj\u00e4lvst\u00e4ndigt arbete i digitalt l\u00e4rande",
         "points": 15.0,
         "semester": "V\u00e5rtermin 2024",

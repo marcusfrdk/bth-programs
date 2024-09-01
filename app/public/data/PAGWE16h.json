@@ -1,5 +1,6 @@
 {
     "PA1439": {
+        "code": "PA1439",
         "name": "Webbteknologier",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2016",
@@ -24,6 +25,7 @@
         "color": "#86a7f4"
     },
     "DV1531": {
+        "code": "DV1531",
         "name": "Programmering och Probleml\u00f6sning med Python",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2016",
@@ -48,6 +50,7 @@
         "color": "#3df6d4"
     },
     "DV1532": {
+        "code": "DV1532",
         "name": "Programmering med JavaScript, HTML och CSS",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2016",
@@ -72,6 +75,7 @@
         "color": "#3df6d4"
     },
     "PA1436": {
+        "code": "PA1436",
         "name": "Teknisk webbdesign och anv\u00e4ndbarhet",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2016",
@@ -96,6 +100,7 @@
         "color": "#86a7f4"
     },
     "PA1437": {
+        "code": "PA1437",
         "name": "Objektorienterad design och programmering med Python",
         "points": 7.0,
         "semester": "V\u00e5rtermin 2017",
@@ -120,6 +125,7 @@
         "color": "#86a7f4"
     },
     "DV1546": {
+        "code": "DV1546",
         "name": "Webbapplikationer f\u00f6r mobila enheter",
         "points": 7.0,
         "semester": "V\u00e5rtermin 2017",
@@ -144,6 +150,7 @@
         "color": "#3df6d4"
     },
     "DV1547": {
+        "code": "DV1547",
         "name": "Programmera webbtj\u00e4nster i Linux",
         "points": 7.0,
         "semester": "V\u00e5rtermin 2017",
@@ -168,6 +175,7 @@
         "color": "#3df6d4"
     },
     "PA1440": {
+        "code": "PA1440",
         "name": "Objektorienterade webbteknologier",
         "points": 7.0,
         "semester": "V\u00e5rtermin 2017",
@@ -192,6 +200,7 @@
         "color": "#86a7f4"
     },
     "MA1477": {
+        "code": "MA1477",
         "name": "Matematisk modellering",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2017",
@@ -216,6 +225,7 @@
         "color": "#f00558"
     },
     "PA1414": {
+        "code": "PA1414",
         "name": "Individuellt programvaruprojekt",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2017",
@@ -240,6 +250,7 @@
         "color": "#86a7f4"
     },
     "PA1441": {
+        "code": "PA1441",
         "name": "Webbaserade ramverk 1",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2017",
@@ -264,6 +275,7 @@
         "color": "#86a7f4"
     },
     "PA1442": {
+        "code": "PA1442",
         "name": "Webbaserade ramverk 2",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2017",
@@ -288,6 +300,7 @@
         "color": "#86a7f4"
     },
     "PA1416": {
+        "code": "PA1416",
         "name": "Programvaruprojekt i grupp",
         "points": 15.0,
         "semester": "V\u00e5rtermin 2018",
@@ -312,6 +325,7 @@
         "color": "#86a7f4"
     },
     "PA1417": {
+        "code": "PA1417",
         "name": "Grundl\u00e4ggande systemverifiering",
         "points": 7.0,
         "semester": "V\u00e5rtermin 2018",
@@ -336,6 +350,7 @@
         "color": "#86a7f4"
     },
     "DV1557": {
+        "code": "DV1557",
         "name": "Anv\u00e4ndbarhet och interaktionsdesign",
         "points": 7.0,
         "semester": "V\u00e5rtermin 2018",
@@ -360,6 +375,7 @@
         "color": "#3df6d4"
     },
     "DV1584": {
+        "code": "DV1584",
         "name": "Kompilator- och \u00f6vers\u00e4ttarteknik",
         "points": 7.0,
         "semester": "V\u00e5rtermin 2018",
@@ -384,6 +400,7 @@
         "color": "#3df6d4"
     },
     "ET1447": {
+        "code": "ET1447",
         "name": "Data- och telekommunikation",
         "points": 7.0,
         "semester": "V\u00e5rtermin 2018",
@@ -408,6 +425,7 @@
         "color": "#a61555"
     },
     "PA1452": {
+        "code": "PA1452",
         "name": "F\u00f6rdjupningskurs i Webbutveckling",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2018",
@@ -431,6 +449,7 @@
         "color": "#86a7f4"
     },
     "DV1457": {
+        "code": "DV1457",
         "name": "Programmering i UNIX-milj\u00f6",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2018",
@@ -454,6 +473,7 @@
         "color": "#3df6d4"
     },
     "DV1603": {
+        "code": "DV1603",
         "name": "Operativsystem",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2018",
@@ -477,6 +497,7 @@
         "color": "#3df6d4"
     },
     "DV2557": {
+        "code": "DV2557",
         "name": "Till\u00e4mpad artificiell intelligens",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2018",
@@ -500,6 +521,7 @@
         "color": "#3df6d4"
     },
     "DV2546": {
+        "code": "DV2546",
         "name": "Programvarus\u00e4kerhet",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2018",
@@ -523,6 +545,7 @@
         "color": "#3df6d4"
     },
     "DV1431": {
+        "code": "DV1431",
         "name": "Utveckling av mobiltelefonapplikationer",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2018",
@@ -546,6 +569,7 @@
         "color": "#3df6d4"
     },
     "PA1453": {
+        "code": "PA1453",
         "name": "Programvaruarkitektur och kvalitet",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2018",
@@ -569,6 +593,7 @@
         "color": "#86a7f4"
     },
     "DV1566": {
+        "code": "DV1566",
         "name": "Introduktion till Cloud Computing",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2018",
@@ -592,6 +617,7 @@
         "color": "#3df6d4"
     },
     "DV2577": {
+        "code": "DV2577",
         "name": "Webbs\u00e4kerhet",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2018",
@@ -615,6 +641,7 @@
         "color": "#3df6d4"
     },
     "DV2578": {
+        "code": "DV2578",
         "name": "Maskininl\u00e4rning",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2018",
@@ -638,6 +665,7 @@
         "color": "#3df6d4"
     },
     "PA1449": {
+        "code": "PA1449",
         "name": "Avancerat programvaruprojekt i grupp",
         "points": 15.0,
         "semester": "V\u00e5rtermin 2019",
@@ -662,6 +690,7 @@
         "color": "#86a7f4"
     },
     "PA1445": {
+        "code": "PA1445",
         "name": "Kandidatarbete i Programvaruteknik",
         "points": 15.0,
         "semester": "V\u00e5rtermin 2019",

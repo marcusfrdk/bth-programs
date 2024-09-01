@@ -1,5 +1,6 @@
 {
     "OM2507": {
+        "code": "OM2507",
         "name": "Vetenskap, teori och metod i relation till sjuksk\u00f6terskeprofessionen",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2018",
@@ -23,6 +24,7 @@
         "color": "#746936"
     },
     "OM2523": {
+        "code": "OM2523",
         "name": "Omv\u00e5rdnad och h\u00e4lsoarbete med fokus p\u00e5 h\u00e4lsa och det goda \u00e5ldrandet",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2018",
@@ -46,6 +48,7 @@
         "color": "#746936"
     },
     "OM2509": {
+        "code": "OM2509",
         "name": "Organisation, ledning och utveckling av omv\u00e5rdnadsarbetet",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2018",
@@ -69,6 +72,7 @@
         "color": "#746936"
     },
     "OM2522": {
+        "code": "OM2522",
         "name": "Omv\u00e5rdnad och h\u00e4lsoarbete med fokus p\u00e5 barn och deras familjers h\u00e4lsa",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2018",
@@ -92,6 +96,7 @@
         "color": "#746936"
     },
     "KM2502": {
+        "code": "KM2502",
         "name": "Farmakologi och sjukdomsl\u00e4ra inriktad mot f\u00f6rskrivningsr\u00e4tt av vissa l\u00e4kemedel",
         "points": 15.0,
         "semester": "H\u00f6sttermin 2019",

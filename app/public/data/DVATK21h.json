@@ -1,5 +1,6 @@
 {
     "DV1457": {
+        "code": "DV1457",
         "name": "Programmering i UNIX-milj\u00f6",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2021",
@@ -23,6 +24,7 @@
         "color": "#3df6d4"
     },
     "DV1619": {
+        "code": "DV1619",
         "name": "Datorkommunikation",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2021",
@@ -46,6 +48,7 @@
         "color": "#3df6d4"
     },
     "ET2595": {
+        "code": "ET2595",
         "name": "N\u00e4tverks- och systems\u00e4kerhet",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2021",
@@ -69,6 +72,7 @@
         "color": "#a61555"
     },
     "DV1566": {
+        "code": "DV1566",
         "name": "Introduktion till Cloud Computing",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2021",
@@ -92,6 +96,7 @@
         "color": "#3df6d4"
     },
     "PA2554": {
+        "code": "PA2554",
         "name": "Forskningsmetodik i Programvaruteknik och Datavetenskap",
         "points": 7.0,
         "semester": "V\u00e5rtermin 2022",
@@ -115,6 +120,7 @@
         "color": "#86a7f4"
     },
     "DV2601": {
+        "code": "DV2601",
         "name": "Avancerad n\u00e4tverksteknik",
         "points": 7.0,
         "semester": "V\u00e5rtermin 2022",
@@ -138,6 +144,7 @@
         "color": "#3df6d4"
     },
     "DV2602": {
+        "code": "DV2602",
         "name": "Drift av n\u00e4tverk och n\u00e4tverkstj\u00e4nster",
         "points": 7.0,
         "semester": "V\u00e5rtermin 2022",
@@ -161,6 +168,7 @@
         "color": "#3df6d4"
     },
     "MS1411": {
+        "code": "MS1411",
         "name": "Matematisk statistik",
         "points": 7.0,
         "semester": "V\u00e5rtermin 2022",
@@ -184,6 +192,7 @@
         "color": "#4d95e5"
     },
     "DV2618": {
+        "code": "DV2618",
         "name": "Till\u00e4mpad artificiell intelligens",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2022",
@@ -207,6 +216,7 @@
         "color": "#3df6d4"
     },
     "DV2604": {
+        "code": "DV2604",
         "name": "Kapacitetsanalys",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2022",
@@ -230,6 +240,7 @@
         "color": "#3df6d4"
     },
     "DV2545": {
+        "code": "DV2545",
         "name": "F\u00f6rdjupningskurs i Datavetenskap och kommunikation",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2022",
@@ -253,6 +264,7 @@
         "color": "#3df6d4"
     },
     "DV2578": {
+        "code": "DV2578",
         "name": "Maskininl\u00e4rning",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2022",
@@ -276,6 +288,7 @@
         "color": "#3df6d4"
     },
     "ET2601": {
+        "code": "ET2601",
         "name": "Upplevd kvalitet i n\u00e4tverksbaserade tj\u00e4nster",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2022",
@@ -299,6 +312,7 @@
         "color": "#a61555"
     },
     "DV2603": {
+        "code": "DV2603",
         "name": "Mjukvarubaserade n\u00e4tverk",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2022",
@@ -322,6 +336,7 @@
         "color": "#3df6d4"
     },
     "DV2572": {
+        "code": "DV2572",
         "name": "Masterarbete i datavetenskap",
         "points": 30.0,
         "semester": "V\u00e5rtermin 2023",

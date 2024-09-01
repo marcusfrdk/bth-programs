@@ -1,5 +1,6 @@
 {
     "FM1900": {
+        "code": "FM1900",
         "name": "Kurs 1 f\u00f6r testning",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2017",
@@ -24,6 +25,7 @@
         "color": "#dc72da"
     },
     "FM1901": {
+        "code": "FM1901",
         "name": "Kurs 2 f\u00f6r testning",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2017",

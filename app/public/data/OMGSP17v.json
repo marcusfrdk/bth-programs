@@ -1,5 +1,6 @@
 {
     "OM1439": {
+        "code": "OM1439",
         "name": "Profession och omv\u00e5rdnad",
         "points": 9.0,
         "semester": "V\u00e5rtermin 2017",
@@ -24,6 +25,7 @@
         "color": "#746936"
     },
     "OM1442": {
+        "code": "OM1442",
         "name": "Verksamhetsf\u00f6rlagd utbildning (VFU), M\u00f6tet med m\u00e4nniskor",
         "points": 6.0,
         "semester": "V\u00e5rtermin 2017",
@@ -48,6 +50,7 @@
         "color": "#746936"
     },
     "OM1444": {
+        "code": "OM1444",
         "name": "Sjuksk\u00f6terskeprofessionen och samh\u00e4llet",
         "points": 7.0,
         "semester": "V\u00e5rtermin 2017",
@@ -72,6 +75,7 @@
         "color": "#746936"
     },
     "KM1412": {
+        "code": "KM1412",
         "name": "Medicin I",
         "points": 7.0,
         "semester": "V\u00e5rtermin 2017",
@@ -96,6 +100,7 @@
         "color": "#f2087a"
     },
     "KM1414": {
+        "code": "KM1414",
         "name": "Medicin III",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2017",
@@ -120,6 +125,7 @@
         "color": "#f2087a"
     },
     "KM1417": {
+        "code": "KM1417",
         "name": "Medicin II",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2017",
@@ -144,6 +150,7 @@
         "color": "#f2087a"
     },
     "OM1462": {
+        "code": "OM1462",
         "name": "Grundl\u00e4ggande omv\u00e5rdnad",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2017",
@@ -168,6 +175,7 @@
         "color": "#746936"
     },
     "OM1463": {
+        "code": "OM1463",
         "name": "Verksamhetsf\u00f6rlagd utbildning (VFU), M\u00e4nniskan och omv\u00e5rdnaden",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2017",
@@ -192,6 +200,7 @@
         "color": "#746936"
     },
     "OM1470": {
+        "code": "OM1470",
         "name": "Omv\u00e5rdnad vid oh\u00e4lsa",
         "points": 15.0,
         "semester": "V\u00e5rtermin 2018",
@@ -216,6 +225,7 @@
         "color": "#746936"
     },
     "OM1482": {
+        "code": "OM1482",
         "name": "eH\u00e4lsa inom omv\u00e5rdnad I",
         "points": 4.0,
         "semester": "V\u00e5rtermin 2018",
@@ -240,6 +250,7 @@
         "color": "#746936"
     },
     "OM1445": {
+        "code": "OM1445",
         "name": "Verksamhetsf\u00f6rlagd utbildning (VFU) inriktad mot prim\u00e4r v\u00e5rd",
         "points": 10.0,
         "semester": "H\u00f6sttermin 2018",
@@ -263,6 +274,7 @@
         "color": "#746936"
     },
     "OM1446": {
+        "code": "OM1446",
         "name": "Verksamhetsf\u00f6rlagd utbildning (VFU) inriktad mot psykiatrisk omv\u00e5rdnad och demensv\u00e5rd",
         "points": 10.0,
         "semester": "H\u00f6sttermin 2018",
@@ -286,6 +298,7 @@
         "color": "#746936"
     },
     "OM1447": {
+        "code": "OM1447",
         "name": "Verksamhetsf\u00f6rlagd utbildning (VFU) inriktad mot somatisk v\u00e5rd",
         "points": 10.0,
         "semester": "H\u00f6sttermin 2018",
@@ -309,6 +322,7 @@
         "color": "#746936"
     },
     "OM1464": {
+        "code": "OM1464",
         "name": "Verksamhetsf\u00f6rlagd utbildning (VFU) inriktad mot somatisk v\u00e5rd, termin 4",
         "points": 10.0,
         "semester": "H\u00f6sttermin 2018",
@@ -332,6 +346,7 @@
         "color": "#746936"
     },
     "OM1466": {
+        "code": "OM1466",
         "name": "Verksamhetsf\u00f6rlagd utbildning (VFU) inriktad mot prim\u00e4r v\u00e5rd, termin 4",
         "points": 10.0,
         "semester": "H\u00f6sttermin 2018",
@@ -355,6 +370,7 @@
         "color": "#746936"
     },
     "OM1465": {
+        "code": "OM1465",
         "name": "Verksamhetsf\u00f6rlagd utbildning (VFU) inriktad mot psykiatrisk omv\u00e5rdnad och demensv\u00e5rd, termin 4",
         "points": 10.0,
         "semester": "H\u00f6sttermin 2018",
@@ -378,6 +394,7 @@
         "color": "#746936"
     },
     "OM1484": {
+        "code": "OM1484",
         "name": "Omv\u00e5rdnad, vetenskapliga teorier och metoder",
         "points": 9.0,
         "semester": "H\u00f6sttermin 2018",
@@ -401,6 +418,7 @@
         "color": "#746936"
     },
     "OM1498": {
+        "code": "OM1498",
         "name": "Sjuksk\u00f6terskan som ledare",
         "points": 7.0,
         "semester": "V\u00e5rtermin 2019",
@@ -424,6 +442,7 @@
         "color": "#746936"
     },
     "OM1487": {
+        "code": "OM1487",
         "name": "eH\u00e4lsa inom omv\u00e5rdnad II",
         "points": 7.0,
         "semester": "V\u00e5rtermin 2019",
@@ -447,6 +466,7 @@
         "color": "#746936"
     },
     "OM1483": {
+        "code": "OM1483",
         "name": "Interkulturella perspektiv inom h\u00e4lso- och sjukv\u00e5rd",
         "points": 7.0,
         "semester": "V\u00e5rtermin 2019",
@@ -470,6 +490,7 @@
         "color": "#746936"
     },
     "OM1502": {
+        "code": "OM1502",
         "name": "Omv\u00e5rdnad vid neurologisk oh\u00e4lsa",
         "points": 7.0,
         "semester": "V\u00e5rtermin 2019",
@@ -493,6 +514,7 @@
         "color": "#746936"
     },
     "OM1501": {
+        "code": "OM1501",
         "name": "Omv\u00e5rdnad vid palliativ v\u00e5rd",
         "points": 7.0,
         "semester": "V\u00e5rtermin 2019",
@@ -516,6 +538,7 @@
         "color": "#746936"
     },
     "OM1503": {
+        "code": "OM1503",
         "name": "Omv\u00e5rdnad vid kardiologisk oh\u00e4lsa",
         "points": 7.0,
         "semester": "V\u00e5rtermin 2019",
@@ -539,6 +562,7 @@
         "color": "#746936"
     },
     "OM1504": {
+        "code": "OM1504",
         "name": "Examensarbete i omv\u00e5rdnad",
         "points": 15.0,
         "semester": "V\u00e5rtermin 2019",
@@ -562,6 +586,7 @@
         "color": "#746936"
     },
     "OM1507": {
+        "code": "OM1507",
         "name": "F\u00f6rdjupning av sjuksk\u00f6terskans profession",
         "points": 10.0,
         "semester": "H\u00f6sttermin 2019",
@@ -586,6 +611,7 @@
         "color": "#746936"
     },
     "OM1506": {
+        "code": "OM1506",
         "name": "Verksamhetsf\u00f6rlagd utbildning (VFU), Sjuksk\u00f6terskans profession i verksamheten",
         "points": 15.0,
         "semester": "H\u00f6sttermin 2019",

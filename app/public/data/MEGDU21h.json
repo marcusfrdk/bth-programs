@@ -1,5 +1,6 @@
 {
     "ME1633": {
+        "code": "ME1633",
         "name": "Grunder i digitala och immersiva upplevelser",
         "points": 15.0,
         "semester": "H\u00f6sttermin 2021",
@@ -23,6 +24,7 @@
         "color": "#7021db"
     },
     "ME1634": {
+        "code": "ME1634",
         "name": "Gestaltande programmering",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2021",
@@ -46,6 +48,7 @@
         "color": "#7021db"
     },
     "ME1635": {
+        "code": "ME1635",
         "name": "Realtidsplattformar f\u00f6r upplevelser i 3D",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2021",
@@ -69,6 +72,7 @@
         "color": "#7021db"
     },
     "ME1636": {
+        "code": "ME1636",
         "name": "Anv\u00e4ndarupplevelse och gr\u00e4nssnitt",
         "points": 15.0,
         "semester": "V\u00e5rtermin 2022",
@@ -92,6 +96,7 @@
         "color": "#7021db"
     },
     "ME1640": {
+        "code": "ME1640",
         "name": "Produktion av digitala upplevelser",
         "points": 15.0,
         "semester": "V\u00e5rtermin 2022",
@@ -115,6 +120,7 @@
         "color": "#7021db"
     },
     "ME1639": {
+        "code": "ME1639",
         "name": "Immersiva tekniker",
         "points": 15.0,
         "semester": "H\u00f6sttermin 2022",
@@ -138,6 +144,7 @@
         "color": "#7021db"
     },
     "ME1625": {
+        "code": "ME1625",
         "name": "Medieteknisk prototyputveckling",
         "points": 15.0,
         "semester": "H\u00f6sttermin 2022",
@@ -161,6 +168,7 @@
         "color": "#7021db"
     },
     "ME1655": {
+        "code": "ME1655",
         "name": "Utst\u00e4llningsteknik",
         "points": 7.0,
         "semester": "V\u00e5rtermin 2023",
@@ -184,6 +192,7 @@
         "color": "#7021db"
     },
     "ME1653": {
+        "code": "ME1653",
         "name": "Digitalt ber\u00e4ttande",
         "points": 7.0,
         "semester": "V\u00e5rtermin 2023",
@@ -207,6 +216,7 @@
         "color": "#7021db"
     },
     "ME1616": {
+        "code": "ME1616",
         "name": "Design i samverkan",
         "points": 15.0,
         "semester": "V\u00e5rtermin 2023",
@@ -230,6 +240,7 @@
         "color": "#7021db"
     },
     "ME1656": {
+        "code": "ME1656",
         "name": "Responsiva h\u00e5llbara milj\u00f6er",
         "points": 15.0,
         "semester": "H\u00f6sttermin 2023",
@@ -253,6 +264,7 @@
         "color": "#7021db"
     },
     "ME1644": {
+        "code": "ME1644",
         "name": "Forskningsintroduktion medieteknik",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2023",
@@ -276,6 +288,7 @@
         "color": "#7021db"
     },
     "ME1654": {
+        "code": "ME1654",
         "name": "Virtuell produktion",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2023",
@@ -299,6 +312,7 @@
         "color": "#7021db"
     },
     "ME1659": {
+        "code": "ME1659",
         "name": "Kandidatarbete i medieteknik",
         "points": 30.0,
         "semester": "V\u00e5rtermin 2024",

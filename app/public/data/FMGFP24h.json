@@ -1,5 +1,6 @@
 {
     "FM1479": {
+        "code": "FM1479",
         "name": "Introduktion till fysisk planering",
         "points": 15.0,
         "semester": "H\u00f6sttermin 2024",
@@ -23,6 +24,7 @@
         "color": "#dc72da"
     },
     "FM1513": {
+        "code": "FM1513",
         "name": "Stadsrum 1",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2024",
@@ -46,6 +48,7 @@
         "color": "#dc72da"
     },
     "FM1480": {
+        "code": "FM1480",
         "name": "Stadsbyggnadshistoria",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2024",
@@ -69,6 +72,7 @@
         "color": "#dc72da"
     },
     "FM1503": {
+        "code": "FM1503",
         "name": "Geografiska informationssystem och statistik",
         "points": 7.0,
         "semester": "V\u00e5rtermin 2025",
@@ -92,6 +96,7 @@
         "color": "#dc72da"
     },
     "FM1504": {
+        "code": "FM1504",
         "name": "Vetenskapsteorins grunder",
         "points": 7.0,
         "semester": "V\u00e5rtermin 2025",
@@ -115,6 +120,7 @@
         "color": "#dc72da"
     },
     "FM1482": {
+        "code": "FM1482",
         "name": "\u00d6versiktlig planering och detaljplanering",
         "points": 15.0,
         "semester": "V\u00e5rtermin 2025",
@@ -138,6 +144,7 @@
         "color": "#dc72da"
     },
     "FM1485": {
+        "code": "FM1485",
         "name": "Naturresurser och landskap",
         "points": 15.0,
         "semester": "H\u00f6sttermin 2025",
@@ -161,6 +168,7 @@
         "color": "#dc72da"
     },
     "FM1514": {
+        "code": "FM1514",
         "name": "Planeringsteori",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2025",
@@ -184,6 +192,7 @@
         "color": "#dc72da"
     },
     "FM1487": {
+        "code": "FM1487",
         "name": "Planeringsekonomi och genomf\u00f6rande",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2025",
@@ -207,6 +216,7 @@
         "color": "#dc72da"
     },
     "FM1488": {
+        "code": "FM1488",
         "name": "Plan- och milj\u00f6r\u00e4tt",
         "points": 7.0,
         "semester": "V\u00e5rtermin 2026",
@@ -230,6 +240,7 @@
         "color": "#dc72da"
     },
     "FM1515": {
+        "code": "FM1515",
         "name": "Stadsrum 2",
         "points": 7.0,
         "semester": "V\u00e5rtermin 2026",
@@ -253,6 +264,7 @@
         "color": "#dc72da"
     },
     "FM1490": {
+        "code": "FM1490",
         "name": "Infrastruktur och mobilitet",
         "points": 15.0,
         "semester": "V\u00e5rtermin 2026",
@@ -276,6 +288,7 @@
         "color": "#dc72da"
     },
     "FM1510": {
+        "code": "FM1510",
         "name": "Strategisk planering",
         "points": 15.0,
         "semester": "H\u00f6sttermin 2026",
@@ -299,6 +312,7 @@
         "color": "#dc72da"
     },
     "FM1492": {
+        "code": "FM1492",
         "name": "Komplexa stadsbyggnadsprojekt",
         "points": 15.0,
         "semester": "H\u00f6sttermin 2026",
@@ -322,6 +336,7 @@
         "color": "#dc72da"
     },
     "FM1512": {
+        "code": "FM1512",
         "name": "Metod, teori och tematisk f\u00f6rdjupning",
         "points": 15.0,
         "semester": "V\u00e5rtermin 2027",
@@ -345,6 +360,7 @@
         "color": "#dc72da"
     },
     "FM1496": {
+        "code": "FM1496",
         "name": "Kandidatarbete, vetenskaplig uppsats",
         "points": 15.0,
         "semester": "V\u00e5rtermin 2027",
@@ -368,6 +384,7 @@
         "color": "#dc72da"
     },
     "FM1497": {
+        "code": "FM1497",
         "name": "Kandidatarbete, planeringsprojekt",
         "points": 15.0,
         "semester": "V\u00e5rtermin 2027",

@@ -1,5 +1,6 @@
 {
     "ME1605": {
+        "code": "ME1605",
         "name": "Introduktion i medieteknik med inriktning mot digital ljudproduktion",
         "points": 15.0,
         "semester": "H\u00f6sttermin 2021",
@@ -23,6 +24,7 @@
         "color": "#7021db"
     },
     "ME1597": {
+        "code": "ME1597",
         "name": "Grunder\u00a0i\u00a0digital\u00a0ljudproduktion",
         "points": 15.0,
         "semester": "H\u00f6sttermin 2021",
@@ -46,6 +48,7 @@
         "color": "#7021db"
     },
     "ET1492": {
+        "code": "ET1492",
         "name": "Akustik f\u00f6r ljud- och musikproduktion",
         "points": 7.0,
         "semester": "V\u00e5rtermin 2022",
@@ -69,6 +72,7 @@
         "color": "#a61555"
     },
     "ME1590": {
+        "code": "ME1590",
         "name": "Modul\u00e4r ljuddesign",
         "points": 7.0,
         "semester": "V\u00e5rtermin 2022",
@@ -92,6 +96,7 @@
         "color": "#7021db"
     },
     "ME1610": {
+        "code": "ME1610",
         "name": "Spatialiserat ljud",
         "points": 15.0,
         "semester": "V\u00e5rtermin 2022",
@@ -115,6 +120,7 @@
         "color": "#7021db"
     },
     "ME1642": {
+        "code": "ME1642",
         "name": "Till\u00e4mpad ljuddesign",
         "points": 15.0,
         "semester": "H\u00f6sttermin 2022",
@@ -138,6 +144,7 @@
         "color": "#7021db"
     },
     "ME1625": {
+        "code": "ME1625",
         "name": "Medieteknisk prototyputveckling",
         "points": 15.0,
         "semester": "H\u00f6sttermin 2022",
@@ -161,6 +168,7 @@
         "color": "#7021db"
     },
     "ME1614": {
+        "code": "ME1614",
         "name": "Ljudsyntes",
         "points": 7.0,
         "semester": "V\u00e5rtermin 2023",
@@ -184,6 +192,7 @@
         "color": "#7021db"
     },
     "ME1655": {
+        "code": "ME1655",
         "name": "Utst\u00e4llningsteknik",
         "points": 7.0,
         "semester": "V\u00e5rtermin 2023",
@@ -207,6 +216,7 @@
         "color": "#7021db"
     },
     "ME1616": {
+        "code": "ME1616",
         "name": "Design i samverkan",
         "points": 15.0,
         "semester": "V\u00e5rtermin 2023",
@@ -230,6 +240,7 @@
         "color": "#7021db"
     },
     "ME1656": {
+        "code": "ME1656",
         "name": "Responsiva h\u00e5llbara milj\u00f6er",
         "points": 15.0,
         "semester": "H\u00f6sttermin 2023",
@@ -253,6 +264,7 @@
         "color": "#7021db"
     },
     "ME1644": {
+        "code": "ME1644",
         "name": "Forskningsintroduktion medieteknik",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2023",
@@ -276,6 +288,7 @@
         "color": "#7021db"
     },
     "ME1654": {
+        "code": "ME1654",
         "name": "Virtuell produktion",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2023",
@@ -299,6 +312,7 @@
         "color": "#7021db"
     },
     "ME1659": {
+        "code": "ME1659",
         "name": "Kandidatarbete i medieteknik",
         "points": 30.0,
         "semester": "V\u00e5rtermin 2024",

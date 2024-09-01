@@ -1,5 +1,6 @@
 {
     "IY2602": {
+        "code": "IY2602",
         "name": "Principer inom ledarskap och management",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2021",
@@ -23,6 +24,7 @@
         "color": "#aaa660"
     },
     "IY2629": {
+        "code": "IY2629",
         "name": "Priss\u00e4ttning av tillg\u00e5ngar och investeringsanalys",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2021",
@@ -46,6 +48,7 @@
         "color": "#aaa660"
     },
     "IY2593": {
+        "code": "IY2593",
         "name": "Mikroekonomi f\u00f6r beslutsfattare",
         "points": 7.0,
         "semester": "V\u00e5rtermin 2022",
@@ -69,6 +72,7 @@
         "color": "#aaa660"
     },
     "IY2610": {
+        "code": "IY2610",
         "name": "Strategi och styrning",
         "points": 7.0,
         "semester": "V\u00e5rtermin 2022",
@@ -92,6 +96,7 @@
         "color": "#aaa660"
     },
     "IY2611": {
+        "code": "IY2611",
         "name": "Ekonomisk analys av teknologi och innovation",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2022",
@@ -115,6 +120,7 @@
         "color": "#aaa660"
     },
     "IY2596": {
+        "code": "IY2596",
         "name": "Forskningsmetodik i industriell ekonomi",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2022",
@@ -138,6 +144,7 @@
         "color": "#aaa660"
     },
     "IY2594": {
+        "code": "IY2594",
         "name": "Magisterarbete MBA",
         "points": 15.0,
         "semester": "V\u00e5rtermin 2023",

@@ -1,5 +1,6 @@
 {
     "MA1476": {
+        "code": "MA1476",
         "name": "Matematisk introduktion",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2016",
@@ -24,6 +25,7 @@
         "color": "#f00558"
     },
     "MA1428": {
+        "code": "MA1428",
         "name": "Diskret matematik",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2016",
@@ -48,6 +50,7 @@
         "color": "#f00558"
     },
     "DV1552": {
+        "code": "DV1552",
         "name": "Inledande programmering i C",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2016",
@@ -72,6 +75,7 @@
         "color": "#3df6d4"
     },
     "DV1519": {
+        "code": "DV1519",
         "name": "Programmering i C++",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2016",
@@ -96,6 +100,7 @@
         "color": "#3df6d4"
     },
     "DV1495": {
+        "code": "DV1495",
         "name": "Forskningsorientering i s\u00e4kerhet",
         "points": 2.0,
         "semester": "V\u00e5rtermin 2017",
@@ -120,6 +125,7 @@
         "color": "#3df6d4"
     },
     "MS1403": {
+        "code": "MS1403",
         "name": "Statistik med programvara",
         "points": 7.0,
         "semester": "V\u00e5rtermin 2017",
@@ -144,6 +150,7 @@
         "color": "#4d95e5"
     },
     "PA1415": {
+        "code": "PA1415",
         "name": "Programvarudesign",
         "points": 7.0,
         "semester": "V\u00e5rtermin 2017",
@@ -168,6 +175,7 @@
         "color": "#86a7f4"
     },
     "DV1538": {
+        "code": "DV1538",
         "name": "Algoritmer och datastrukturer",
         "points": 7.0,
         "semester": "V\u00e5rtermin 2017",
@@ -192,6 +200,7 @@
         "color": "#3df6d4"
     },
     "DV1555": {
+        "code": "DV1555",
         "name": "Introduktion till s\u00e4kerhet",
         "points": 5.0,
         "semester": "V\u00e5rtermin 2017",
@@ -216,6 +225,7 @@
         "color": "#3df6d4"
     },
     "DV1556": {
+        "code": "DV1556",
         "name": "Operativsystem",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2017",
@@ -240,6 +250,7 @@
         "color": "#3df6d4"
     },
     "PA1414": {
+        "code": "PA1414",
         "name": "Individuellt programvaruprojekt",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2017",
@@ -264,6 +275,7 @@
         "color": "#86a7f4"
     },
     "DV1479": {
+        "code": "DV1479",
         "name": "Lokala n\u00e4tverk",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2017",
@@ -288,6 +300,7 @@
         "color": "#3df6d4"
     },
     "DV1531": {
+        "code": "DV1531",
         "name": "Programmering och Probleml\u00f6sning med Python",
         "points": 7.0,
         "semester": "V\u00e5rtermin 2018",
@@ -312,6 +325,7 @@
         "color": "#3df6d4"
     },
     "DV1586": {
+        "code": "DV1586",
         "name": "Databasteknik",
         "points": 7.0,
         "semester": "V\u00e5rtermin 2018",
@@ -336,6 +350,7 @@
         "color": "#3df6d4"
     },
     "DV1481": {
+        "code": "DV1481",
         "name": "Till\u00e4mpad n\u00e4tverkss\u00e4kerhet",
         "points": 7.0,
         "semester": "V\u00e5rtermin 2018",
@@ -360,6 +375,7 @@
         "color": "#3df6d4"
     },
     "DV1482": {
+        "code": "DV1482",
         "name": "Digital unders\u00f6kningsteknik och digitala bevis",
         "points": 7.0,
         "semester": "V\u00e5rtermin 2018",
@@ -384,6 +400,7 @@
         "color": "#3df6d4"
     },
     "PA1433": {
+        "code": "PA1433",
         "name": "Forskningsmetodik i datavetenskaper",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2018",
@@ -407,6 +424,7 @@
         "color": "#86a7f4"
     },
     "DV2557": {
+        "code": "DV2557",
         "name": "Till\u00e4mpad artificiell intelligens",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2018",
@@ -430,6 +448,7 @@
         "color": "#3df6d4"
     },
     "DV1457": {
+        "code": "DV1457",
         "name": "Programmering i UNIX-milj\u00f6",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2018",
@@ -453,6 +472,7 @@
         "color": "#3df6d4"
     },
     "MA1485": {
+        "code": "MA1485",
         "name": "Linj\u00e4r algebra",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2018",
@@ -476,6 +496,7 @@
         "color": "#f00558"
     },
     "PA1453": {
+        "code": "PA1453",
         "name": "Programvaruarkitektur och kvalitet",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2018",
@@ -499,6 +520,7 @@
         "color": "#86a7f4"
     },
     "DV2577": {
+        "code": "DV2577",
         "name": "Webbs\u00e4kerhet",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2018",
@@ -522,6 +544,7 @@
         "color": "#3df6d4"
     },
     "DV2546": {
+        "code": "DV2546",
         "name": "Programvarus\u00e4kerhet",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2018",
@@ -545,6 +568,7 @@
         "color": "#3df6d4"
     },
     "DV2578": {
+        "code": "DV2578",
         "name": "Maskininl\u00e4rning",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2018",
@@ -568,6 +592,7 @@
         "color": "#3df6d4"
     },
     "PA1416": {
+        "code": "PA1416",
         "name": "Programvaruprojekt i grupp",
         "points": 15.0,
         "semester": "V\u00e5rtermin 2019",
@@ -592,6 +617,7 @@
         "color": "#86a7f4"
     },
     "DV1478": {
+        "code": "DV1478",
         "name": "Kandidatarbete i datavetenskap",
         "points": 15.0,
         "semester": "V\u00e5rtermin 2019",

@@ -1,5 +1,6 @@
 {
     "OM1439": {
+        "code": "OM1439",
         "name": "Profession och omv\u00e5rdnad",
         "points": 9.0,
         "semester": "H\u00f6sttermin 2019",
@@ -23,6 +24,7 @@
         "color": "#746936"
     },
     "OM1444": {
+        "code": "OM1444",
         "name": "Sjuksk\u00f6terskeprofessionen och samh\u00e4llet",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2019",
@@ -46,6 +48,7 @@
         "color": "#746936"
     },
     "OM1442": {
+        "code": "OM1442",
         "name": "Verksamhetsf\u00f6rlagd utbildning (VFU), M\u00f6tet med m\u00e4nniskor",
         "points": 6.0,
         "semester": "H\u00f6sttermin 2019",
@@ -69,6 +72,7 @@
         "color": "#746936"
     },
     "KM1412": {
+        "code": "KM1412",
         "name": "Medicin I",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2019",
@@ -92,6 +96,7 @@
         "color": "#f2087a"
     },
     "OM1463": {
+        "code": "OM1463",
         "name": "Verksamhetsf\u00f6rlagd utbildning (VFU), M\u00e4nniskan och omv\u00e5rdnaden",
         "points": 7.0,
         "semester": "V\u00e5rtermin 2020",
@@ -115,6 +120,7 @@
         "color": "#746936"
     },
     "KM1418": {
+        "code": "KM1418",
         "name": "Medicin II",
         "points": 7.0,
         "semester": "V\u00e5rtermin 2020",
@@ -138,6 +144,7 @@
         "color": "#f2087a"
     },
     "KM1419": {
+        "code": "KM1419",
         "name": "Medicin III",
         "points": 7.0,
         "semester": "V\u00e5rtermin 2020",
@@ -161,6 +168,7 @@
         "color": "#f2087a"
     },
     "KM1424": {
+        "code": "KM1424",
         "name": "Patofysiologi I",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2020",
@@ -184,6 +192,7 @@
         "color": "#f2087a"
     },
     "OM1538": {
+        "code": "OM1538",
         "name": "Omv\u00e5rdnad, metoder och till\u00e4mpning I",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2020",
@@ -207,6 +216,7 @@
         "color": "#746936"
     },
     "KM1425": {
+        "code": "KM1425",
         "name": "Patofysiologi II",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2020",
@@ -230,6 +240,7 @@
         "color": "#f2087a"
     },
     "OM1539": {
+        "code": "OM1539",
         "name": "Omv\u00e5rdnad, metoder och till\u00e4mpning II",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2020",
@@ -253,6 +264,7 @@
         "color": "#746936"
     },
     "OM1540": {
+        "code": "OM1540",
         "name": "Sjuksk\u00f6terskans professionella utveckling",
         "points": 30.0,
         "semester": "V\u00e5rtermin 2021",
@@ -277,6 +289,7 @@
         "color": "#746936"
     },
     "OM1547": {
+        "code": "OM1547",
         "name": "Omv\u00e5rdnad, vetenskapliga teorier och metoder",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2021",
@@ -300,6 +313,7 @@
         "color": "#746936"
     },
     "OM1542": {
+        "code": "OM1542",
         "name": "Sj\u00e4lvst\u00e4ndigt arbete",
         "points": 15.0,
         "semester": "H\u00f6sttermin 2021",
@@ -323,6 +337,7 @@
         "color": "#746936"
     },
     "OM1541": {
+        "code": "OM1541",
         "name": "Omv\u00e5rdnad vid akuta situationer och komplexa oh\u00e4lsotillst\u00e5nd",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2021",
@@ -346,6 +361,7 @@
         "color": "#746936"
     },
     "OM1543": {
+        "code": "OM1543",
         "name": "Sjuksk\u00f6terskans professionella kompetens",
         "points": 30.0,
         "semester": "V\u00e5rtermin 2022",

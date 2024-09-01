@@ -1,5 +1,6 @@
 {
     "IY2611": {
+        "code": "IY2611",
         "name": "Ekonomisk analys av teknologi och innovation",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2024",
@@ -23,6 +24,7 @@
         "color": "#aaa660"
     },
     "DV2621": {
+        "code": "DV2621",
         "name": "S\u00e4kerhet i webbsystem",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2024",

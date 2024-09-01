@@ -1,5 +1,6 @@
 {
     "OM2549": {
+        "code": "OM2549",
         "name": "Specialistsjuksk\u00f6terskans profession, inriktning distriktssk\u00f6terska",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2024",
@@ -23,6 +24,7 @@
         "color": "#746936"
     },
     "OM2548": {
+        "code": "OM2548",
         "name": "Farmakologi och f\u00f6rskrivningsr\u00e4tt av vissa l\u00e4kemedel, hj\u00e4lpmedel och f\u00f6rbrukningsartiklar",
         "points": 15.0,
         "semester": "H\u00f6sttermin 2024",
@@ -47,6 +49,7 @@
         "color": "#746936"
     },
     "OM2550": {
+        "code": "OM2550",
         "name": "H\u00e4lsofr\u00e4mjande omv\u00e5rdnad, inriktning mot barn och unga",
         "points": 15.0,
         "semester": "V\u00e5rtermin 2025",
@@ -71,6 +74,7 @@
         "color": "#746936"
     },
     "OM2547": {
+        "code": "OM2547",
         "name": "Vetenskapliga teorier och metoder p\u00e5 avancerad niv\u00e5",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2025",
@@ -94,6 +98,7 @@
         "color": "#746936"
     },
     "OM2551": {
+        "code": "OM2551",
         "name": "H\u00e4lsofr\u00e4mjande omv\u00e5rdnad, inriktning vuxna och \u00e4ldre",
         "points": 15.0,
         "semester": "V\u00e5rtermin 2026",
@@ -118,6 +123,7 @@
         "color": "#746936"
     },
     "OM2552": {
+        "code": "OM2552",
         "name": "Sj\u00e4lvst\u00e4ndigt arbete i omv\u00e5rdnad - distriktssk\u00f6terskans verksamhetsomr\u00e5de",
         "points": 15.0,
         "semester": "H\u00f6sttermin 2026",

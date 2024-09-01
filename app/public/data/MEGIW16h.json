@@ -1,5 +1,6 @@
 {
     "ME1561": {
+        "code": "ME1561",
         "name": "Introduktion i medieteknik",
         "points": 15.0,
         "semester": "H\u00f6sttermin 2016",
@@ -24,6 +25,7 @@
         "color": "#7021db"
     },
     "ME1571": {
+        "code": "ME1571",
         "name": "Grunder i internetteknologier",
         "points": 15.0,
         "semester": "H\u00f6sttermin 2016",
@@ -48,6 +50,7 @@
         "color": "#7021db"
     },
     "ME1579": {
+        "code": "ME1579",
         "name": "Ber\u00e4ttande i interaktiva medier - webb",
         "points": 15.0,
         "semester": "V\u00e5rtermin 2017",
@@ -72,6 +75,7 @@
         "color": "#7021db"
     },
     "ME1575": {
+        "code": "ME1575",
         "name": "Projektmetodik f\u00f6r medieteknik",
         "points": 15.0,
         "semester": "V\u00e5rtermin 2017",
@@ -96,6 +100,7 @@
         "color": "#7021db"
     },
     "ME1580": {
+        "code": "ME1580",
         "name": "Digital infrastruktur",
         "points": 15.0,
         "semester": "H\u00f6sttermin 2017",
@@ -120,6 +125,7 @@
         "color": "#7021db"
     },
     "ME1589": {
+        "code": "ME1589",
         "name": "Medieteknisk prototyputveckling",
         "points": 15.0,
         "semester": "H\u00f6sttermin 2017",
@@ -144,6 +150,7 @@
         "color": "#7021db"
     },
     "ME1587": {
+        "code": "ME1587",
         "name": "F\u00f6rdjupning i ber\u00e4ttande f\u00f6r medieteknik",
         "points": 15.0,
         "semester": "V\u00e5rtermin 2018",
@@ -168,6 +175,7 @@
         "color": "#7021db"
     },
     "ME1557": {
+        "code": "ME1557",
         "name": "F\u00f6rdjupning i produktion f\u00f6r medieteknik",
         "points": 15.0,
         "semester": "V\u00e5rtermin 2018",
@@ -192,6 +200,7 @@
         "color": "#7021db"
     },
     "ME1592": {
+        "code": "ME1592",
         "name": "Designperspektiv\u00a0-\u00a0och\u00a0metoder\u00a0f\u00f6r\u00a0medieteknik",
         "points": 15.0,
         "semester": "H\u00f6sttermin 2018",
@@ -215,6 +224,7 @@
         "color": "#7021db"
     },
     "ME1594": {
+        "code": "ME1594",
         "name": "Forskningsmetodik f\u00f6r medieteknik",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2018",
@@ -238,6 +248,7 @@
         "color": "#7021db"
     },
     "ME1593": {
+        "code": "ME1593",
         "name": "Till\u00e4mpad unders\u00f6kningsmetodik f\u00f6r medieteknik",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2018",
@@ -261,6 +272,7 @@
         "color": "#7021db"
     },
     "ME1588": {
+        "code": "ME1588",
         "name": "Kandidatarbete i Medieteknik",
         "points": 30.0,
         "semester": "V\u00e5rtermin 2019",

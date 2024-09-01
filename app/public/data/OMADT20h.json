@@ -1,5 +1,6 @@
 {
     "OM2528": {
+        "code": "OM2528",
         "name": "Specialistsjuksk\u00f6terskans profession och vetenskapliga f\u00f6rh\u00e5llningss\u00e4tt inom distriktssk\u00f6terskans verksamhetsomr\u00e5de",
         "points": 30.0,
         "semester": "H\u00f6sttermin 2020",
@@ -24,6 +25,7 @@
         "color": "#746936"
     },
     "OM2529": {
+        "code": "OM2529",
         "name": "Farmakologi och f\u00f6rskrivningsr\u00e4tt f\u00f6r vissa l\u00e4kemedel, hj\u00e4lpmedel och f\u00f6rbrukningsartiklar inom distriktssk\u00f6terskans verksamhetsomr\u00e5de",
         "points": 15.0,
         "semester": "V\u00e5rtermin 2021",
@@ -47,6 +49,7 @@
         "color": "#746936"
     },
     "OM2530": {
+        "code": "OM2530",
         "name": "H\u00e4lsofr\u00e4mjande omv\u00e5rdnad ur ett livsloppsperspektiv",
         "points": 15.0,
         "semester": "V\u00e5rtermin 2021",
@@ -70,6 +73,7 @@
         "color": "#746936"
     },
     "OM2531": {
+        "code": "OM2531",
         "name": "Examensarbete i omv\u00e5rdnad med inriktning mot distriktsk\u00f6terskans verksamhetsomr\u00e5de",
         "points": 15.0,
         "semester": "H\u00f6sttermin 2021",

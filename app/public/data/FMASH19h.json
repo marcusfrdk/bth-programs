@@ -1,5 +1,6 @@
 {
     "FM2602": {
+        "code": "FM2602",
         "name": "Introduktion till planering",
         "points": 15.0,
         "semester": "H\u00f6sttermin 2019",
@@ -23,6 +24,7 @@
         "color": "#dc72da"
     },
     "FM2603": {
+        "code": "FM2603",
         "name": "Planeringens utmaningar",
         "points": 15.0,
         "semester": "H\u00f6sttermin 2019",
@@ -46,6 +48,7 @@
         "color": "#dc72da"
     },
     "FM2604": {
+        "code": "FM2604",
         "name": "Arbeta i ett multidisciplin\u00e4rt planeringsprojekt",
         "points": 15.0,
         "semester": "V\u00e5rtermin 2020",
@@ -69,6 +72,7 @@
         "color": "#dc72da"
     },
     "FM2605": {
+        "code": "FM2605",
         "name": "Magisterarbete",
         "points": 15.0,
         "semester": "V\u00e5rtermin 2020",

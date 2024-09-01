@@ -1,5 +1,6 @@
 {
     "MS1411": {
+        "code": "MS1411",
         "name": "Matematisk statistik",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2017",
@@ -24,6 +25,7 @@
         "color": "#4d95e5"
     },
     "ET2595": {
+        "code": "ET2595",
         "name": "N\u00e4tverks- och systems\u00e4kerhet",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2017",
@@ -48,6 +50,7 @@
         "color": "#a61555"
     },
     "ET2596": {
+        "code": "ET2596",
         "name": "Simulering",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2017",
@@ -72,6 +75,7 @@
         "color": "#a61555"
     },
     "ET2597": {
+        "code": "ET2597",
         "name": "Avancerad n\u00e4tverksteknik",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2017",
@@ -96,6 +100,7 @@
         "color": "#a61555"
     },
     "ET2599": {
+        "code": "ET2599",
         "name": "Mjukvarubaserade n\u00e4tverk",
         "points": 7.0,
         "semester": "V\u00e5rtermin 2018",
@@ -120,6 +125,7 @@
         "color": "#a61555"
     },
     "ET2594": {
+        "code": "ET2594",
         "name": "Kapacitetsanalys",
         "points": 7.0,
         "semester": "V\u00e5rtermin 2018",
@@ -144,6 +150,7 @@
         "color": "#a61555"
     },
     "ET2598": {
+        "code": "ET2598",
         "name": "Drift av n\u00e4tverk och n\u00e4tverkstj\u00e4nster",
         "points": 7.0,
         "semester": "V\u00e5rtermin 2018",
@@ -168,6 +175,7 @@
         "color": "#a61555"
     },
     "ET2601": {
+        "code": "ET2601",
         "name": "Upplevd kvalitet i n\u00e4tverksbaserade tj\u00e4nster",
         "points": 7.0,
         "semester": "V\u00e5rtermin 2018",
@@ -192,6 +200,7 @@
         "color": "#a61555"
     },
     "ET2603": {
+        "code": "ET2603",
         "name": "Forskningsmetodik i elektroteknik med inriktning mot telekommunikationssystem",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2018",
@@ -215,6 +224,7 @@
         "color": "#a61555"
     },
     "ET2602": {
+        "code": "ET2602",
         "name": "Utveckling av n\u00e4tverkstj\u00e4nster",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2018",
@@ -238,6 +248,7 @@
         "color": "#a61555"
     },
     "ET2604": {
+        "code": "ET2604",
         "name": "F\u00f6rdjupningskurs i telekommunikationssystem",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2018",
@@ -261,6 +272,7 @@
         "color": "#a61555"
     },
     "ET2605": {
+        "code": "ET2605",
         "name": "Avancerade tr\u00e5dl\u00f6sa kommunikationssystem",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2018",
@@ -284,6 +296,7 @@
         "color": "#a61555"
     },
     "ET2606": {
+        "code": "ET2606",
         "name": "Masterarbete i elektroteknik med inriktning mot telekommunikationssystem",
         "points": 30.0,
         "semester": "V\u00e5rtermin 2019",

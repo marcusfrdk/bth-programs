@@ -1,5 +1,6 @@
 {
     "SL2534": {
+        "code": "SL2534",
         "name": "Ledarskap i komplexitet",
         "points": 10.0,
         "semester": "H\u00f6sttermin 2018",
@@ -24,6 +25,7 @@
         "color": "#fabdf4"
     },
     "SL2533": {
+        "code": "SL2533",
         "name": "Strategisk h\u00e5llbar utveckling",
         "points": 12.0,
         "semester": "H\u00f6sttermin 2018",
@@ -47,6 +49,7 @@
         "color": "#fabdf4"
     },
     "SL2540": {
+        "code": "SL2540",
         "name": "Innovation f\u00f6r h\u00e5llbarhet",
         "points": 5.0,
         "semester": "H\u00f6sttermin 2018",
@@ -70,6 +73,7 @@
         "color": "#fabdf4"
     },
     "SL2538": {
+        "code": "SL2538",
         "name": "Magisterarbete i strategiskt ledarskap f\u00f6r h\u00e5llbarhet",
         "points": 20.0,
         "semester": "V\u00e5rtermin 2019",

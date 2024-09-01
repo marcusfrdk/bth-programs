@@ -1,5 +1,6 @@
 {
     "PA2550": {
+        "code": "PA2550",
         "name": "Seminarier i Programvaruteknik",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2024",
@@ -23,6 +24,7 @@
         "color": "#86a7f4"
     },
     "PA2555": {
+        "code": "PA2555",
         "name": "Agile och Lean Mjukvaruutveckling",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2024",
@@ -46,6 +48,7 @@
         "color": "#86a7f4"
     },
     "PA1453": {
+        "code": "PA1453",
         "name": "Programvaruarkitektur och kvalitet",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2024",
@@ -69,6 +72,7 @@
         "color": "#86a7f4"
     },
     "PA2591": {
+        "code": "PA2591",
         "name": "Kravhantering och produkthantering",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2024",
@@ -92,6 +96,7 @@
         "color": "#86a7f4"
     },
     "PA2552": {
+        "code": "PA2552",
         "name": "Mjukvarutestning",
         "points": 7.0,
         "semester": "V\u00e5rtermin 2025",
@@ -115,6 +120,7 @@
         "color": "#86a7f4"
     },
     "PA2554": {
+        "code": "PA2554",
         "name": "Forskningsmetodik i Programvaruteknik och Datavetenskap",
         "points": 7.0,
         "semester": "V\u00e5rtermin 2025",
@@ -138,6 +144,7 @@
         "color": "#86a7f4"
     },
     "PA2559": {
+        "code": "PA2559",
         "name": "M\u00e4tningar av programvara",
         "points": 7.0,
         "semester": "V\u00e5rtermin 2025",
@@ -161,6 +168,7 @@
         "color": "#86a7f4"
     },
     "MS1411": {
+        "code": "MS1411",
         "name": "Matematisk statistik",
         "points": 7.0,
         "semester": "V\u00e5rtermin 2025",
@@ -184,6 +192,7 @@
         "color": "#4d95e5"
     },
     "DV2573": {
+        "code": "DV2573",
         "name": "Beslutsst\u00f6djande system",
         "points": 7.0,
         "semester": "V\u00e5rtermin 2025",
@@ -207,6 +216,7 @@
         "color": "#3df6d4"
     },
     "SL2554": {
+        "code": "SL2554",
         "name": "Social h\u00e5llbarhet i produkt- och tj\u00e4nsteutveckling",
         "points": 7.0,
         "semester": "V\u00e5rtermin 2025",
@@ -230,6 +240,7 @@
         "color": "#fabdf4"
     },
     "PA2558": {
+        "code": "PA2558",
         "name": "Evolution och Underh\u00e5ll av Mjukvara - Projekt",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2025",
@@ -253,6 +264,7 @@
         "color": "#86a7f4"
     },
     "DV1674": {
+        "code": "DV1674",
         "name": "Prestandaoptimering",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2025",
@@ -276,6 +288,7 @@
         "color": "#3df6d4"
     },
     "DV2618": {
+        "code": "DV2618",
         "name": "Till\u00e4mpad artificiell intelligens",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2025",
@@ -299,6 +312,7 @@
         "color": "#3df6d4"
     },
     "PA2577": {
+        "code": "PA2577",
         "name": "Till\u00e4mpad Cloud Computing och Big Data",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2025",
@@ -322,6 +336,7 @@
         "color": "#86a7f4"
     },
     "PA2560": {
+        "code": "PA2560",
         "name": "F\u00f6rdjupningskurs i Programvaruteknik",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2025",
@@ -345,6 +360,7 @@
         "color": "#86a7f4"
     },
     "PA2557": {
+        "code": "PA2557",
         "name": "Kvalitetsstyrning",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2025",
@@ -368,6 +384,7 @@
         "color": "#86a7f4"
     },
     "PA2534": {
+        "code": "PA2534",
         "name": "Masterarbete i Programvaruteknik",
         "points": 30.0,
         "semester": "V\u00e5rtermin 2026",

@@ -1,5 +1,6 @@
 "use client";
 
+import { TeachersType } from "@/types/Program";
 import splitProgram from "@/utils/splitProgram";
 import type { ReactNode } from "react";
 import { createContext, useState, useContext, useCallback } from "react";
@@ -10,20 +11,10 @@ type ProgramType = {
     semester: string;
 };
 
-type TeacherType = {
-    code: string,
-    name: string,
-    email: string,
-    phone: string,
-    room: string,
-    unit: string,
-    location: string
-};
-
 type DataContextType = {
     names: Readonly<Record<string, string>>;
     programs: Readonly<Record<string, string[]>>;
-    teachers: Readonly<Record<string, TeacherType>>;
+    teachers: Readonly<TeachersType>;
     selectedProgram: ProgramType | null;
     comparedPrograms: ProgramType[];
     updateSelectedProgram: (program: string) => void;
@@ -35,7 +26,7 @@ type DataProviderProps = {
     children: ReactNode;
     names: Record<string, string>;
     programs: Record<string, string[]>;
-    teachers: Record<string, TeacherType>;
+    teachers: TeachersType;
     initialSelectedProgram: ProgramType | null;
     initialComparedPrograms: ProgramType[];
 };

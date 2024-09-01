@@ -1,5 +1,6 @@
 {
     "ET1556": {
+        "code": "ET1556",
         "name": "Introduktion till vetenskapligt arbete",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2024",
@@ -23,6 +24,7 @@
         "color": "#a61555"
     },
     "DV1614": {
+        "code": "DV1614",
         "name": "Till\u00e4mpad programmering i Python",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2024",
@@ -46,6 +48,7 @@
         "color": "#3df6d4"
     },
     "PA1469": {
+        "code": "PA1469",
         "name": "Utveckling av mobila applikationer",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2024",
@@ -69,6 +72,7 @@
         "color": "#86a7f4"
     },
     "DV1566": {
+        "code": "DV1566",
         "name": "Introduktion till Cloud Computing",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2024",
@@ -92,6 +96,7 @@
         "color": "#3df6d4"
     },
     "DV1478": {
+        "code": "DV1478",
         "name": "Kandidatarbete i datavetenskap",
         "points": 15.0,
         "semester": "V\u00e5rtermin 2025",
@@ -116,6 +121,7 @@
         "color": "#3df6d4"
     },
     "DV1557": {
+        "code": "DV1557",
         "name": "Anv\u00e4ndbarhet och interaktionsdesign",
         "points": 7.0,
         "semester": "V\u00e5rtermin 2025",
@@ -139,6 +145,7 @@
         "color": "#3df6d4"
     },
     "PA2562": {
+        "code": "PA2562",
         "name": "S\u00e4ker mjukvaruutveckling",
         "points": 7.0,
         "semester": "V\u00e5rtermin 2025",
@@ -162,6 +169,7 @@
         "color": "#86a7f4"
     },
     "PA1417": {
+        "code": "PA1417",
         "name": "Grundl\u00e4ggande systemverifiering",
         "points": 7.0,
         "semester": "V\u00e5rtermin 2025",

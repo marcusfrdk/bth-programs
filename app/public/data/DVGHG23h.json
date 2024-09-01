@@ -1,5 +1,6 @@
 {
     "DV1574": {
+        "code": "DV1574",
         "name": "Programmering och probleml\u00f6sning med Python",
         "points": 6.0,
         "semester": "H\u00f6sttermin 2023",
@@ -23,6 +24,7 @@
         "color": "#3df6d4"
     },
     "MA1495": {
+        "code": "MA1495",
         "name": "Matematik grundkurs med probleml\u00f6sning",
         "points": 6.0,
         "semester": "H\u00f6sttermin 2023",
@@ -46,6 +48,7 @@
         "color": "#f00558"
     },
     "DV1669": {
+        "code": "DV1669",
         "name": "Spelutveckling inom teknisk spelgrafik",
         "points": 6.0,
         "semester": "H\u00f6sttermin 2023",
@@ -70,6 +73,7 @@
         "color": "#3df6d4"
     },
     "MA1448": {
+        "code": "MA1448",
         "name": "Linj\u00e4r algebra 1",
         "points": 6.0,
         "semester": "H\u00f6sttermin 2023",
@@ -93,6 +97,7 @@
         "color": "#f00558"
     },
     "DV1635": {
+        "code": "DV1635",
         "name": "Teknisk 3D-grafik",
         "points": 6.0,
         "semester": "H\u00f6sttermin 2023",
@@ -116,6 +121,7 @@
         "color": "#3df6d4"
     },
     "MA1444": {
+        "code": "MA1444",
         "name": "Analys 1",
         "points": 6.0,
         "semester": "V\u00e5rtermin 2024",
@@ -139,6 +145,7 @@
         "color": "#f00558"
     },
     "DV1637": {
+        "code": "DV1637",
         "name": "Prototyputveckling inom teknisk spelgrafik",
         "points": 12.0,
         "semester": "V\u00e5rtermin 2024",
@@ -163,6 +170,7 @@
         "color": "#3df6d4"
     },
     "DV1636": {
+        "code": "DV1636",
         "name": "Spelgrafik",
         "points": 6.0,
         "semester": "V\u00e5rtermin 2024",
@@ -186,6 +194,7 @@
         "color": "#3df6d4"
     },
     "DV1639": {
+        "code": "DV1639",
         "name": "Skripting f\u00f6r spelgrafik",
         "points": 6.0,
         "semester": "V\u00e5rtermin 2024",
@@ -209,6 +218,7 @@
         "color": "#3df6d4"
     },
     "DV1640": {
+        "code": "DV1640",
         "name": "Till\u00e4mpad spelgrafik",
         "points": 14.0,
         "semester": "H\u00f6sttermin 2024",
@@ -233,6 +243,7 @@
         "color": "#3df6d4"
     },
     "MS1413": {
+        "code": "MS1413",
         "name": "Matematisk\u00a0statistik\u00a0med\u00a0programvara",
         "points": 6.0,
         "semester": "H\u00f6sttermin 2024",
@@ -256,6 +267,7 @@
         "color": "#4d95e5"
     },
     "DV1644": {
+        "code": "DV1644",
         "name": "3D-programmering i Python",
         "points": 6.0,
         "semester": "H\u00f6sttermin 2024",
@@ -279,6 +291,7 @@
         "color": "#3df6d4"
     },
     "IY1424": {
+        "code": "IY1424",
         "name": "Ledarskap och projektverksamhet",
         "points": 4.0,
         "semester": "H\u00f6sttermin 2024",
@@ -302,6 +315,7 @@
         "color": "#aaa660"
     },
     "FY1434": {
+        "code": "FY1434",
         "name": "Fysik inom teknisk spelgrafik",
         "points": 6.0,
         "semester": "V\u00e5rtermin 2025",
@@ -325,6 +339,7 @@
         "color": "#939342"
     },
     "DV1646": {
+        "code": "DV1646",
         "name": "Litet spelprojekt f\u00f6r teknisk spelgrafik",
         "points": 10.0,
         "semester": "V\u00e5rtermin 2025",
@@ -348,6 +363,7 @@
         "color": "#3df6d4"
     },
     "DV1650": {
+        "code": "DV1650",
         "name": "Specialeffekter i spel",
         "points": 6.0,
         "semester": "V\u00e5rtermin 2025",
@@ -371,6 +387,7 @@
         "color": "#3df6d4"
     },
     "DV1648": {
+        "code": "DV1648",
         "name": "Animationstekniker",
         "points": 8.0,
         "semester": "V\u00e5rtermin 2025",
@@ -394,6 +411,7 @@
         "color": "#3df6d4"
     },
     "DV1666": {
+        "code": "DV1666",
         "name": "Forskningsmetodik f\u00f6r spelteknik",
         "points": 6.0,
         "semester": "H\u00f6sttermin 2025",
@@ -417,6 +435,7 @@
         "color": "#3df6d4"
     },
     "DV1653": {
+        "code": "DV1653",
         "name": "Stort spelprojekt f\u00f6r teknisk spelgrafik",
         "points": 24.0,
         "semester": "H\u00f6sttermin 2025",
@@ -441,6 +460,7 @@
         "color": "#3df6d4"
     },
     "IY1458": {
+        "code": "IY1458",
         "name": "Industriell ekonomi, \u00f6versiktskurs",
         "points": 6.0,
         "semester": "V\u00e5rtermin 2026",
@@ -464,6 +484,7 @@
         "color": "#aaa660"
     },
     "DV1583": {
+        "code": "DV1583",
         "name": "Examensarbete i datavetenskap f\u00f6r h\u00f6gskoleingenj\u00f6rer",
         "points": 18.0,
         "semester": "V\u00e5rtermin 2026",
@@ -488,6 +509,7 @@
         "color": "#3df6d4"
     },
     "DV1649": {
+        "code": "DV1649",
         "name": "Pluginkonstruktion",
         "points": 6.0,
         "semester": "V\u00e5rtermin 2026",

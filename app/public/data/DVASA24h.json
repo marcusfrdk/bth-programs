@@ -1,5 +1,6 @@
 {
     "MA1498": {
+        "code": "MA1498",
         "name": "Linj\u00e4r algebra",
         "points": 6.0,
         "semester": "H\u00f6sttermin 2024",
@@ -23,6 +24,7 @@
         "color": "#f00558"
     },
     "DV1574": {
+        "code": "DV1574",
         "name": "Programmering och probleml\u00f6sning med Python",
         "points": 6.0,
         "semester": "H\u00f6sttermin 2024",
@@ -46,6 +48,7 @@
         "color": "#3df6d4"
     },
     "DV1671": {
+        "code": "DV1671",
         "name": "Dators\u00e4kerhet och ingenj\u00f6rsarbete",
         "points": 6.0,
         "semester": "H\u00f6sttermin 2024",
@@ -70,6 +73,7 @@
         "color": "#3df6d4"
     },
     "IY1458": {
+        "code": "IY1458",
         "name": "Industriell ekonomi, \u00f6versiktskurs",
         "points": 6.0,
         "semester": "H\u00f6sttermin 2024",
@@ -93,6 +97,7 @@
         "color": "#aaa660"
     },
     "MA1499": {
+        "code": "MA1499",
         "name": "Envariabelanalys 1: funktioner och differentialkalkyl",
         "points": 6.0,
         "semester": "H\u00f6sttermin 2024",
@@ -116,6 +121,7 @@
         "color": "#f00558"
     },
     "PA1481": {
+        "code": "PA1481",
         "name": "Digital etik och h\u00e5llbar utveckling",
         "points": 6.0,
         "semester": "V\u00e5rtermin 2025",
@@ -140,6 +146,7 @@
         "color": "#86a7f4"
     },
     "MA1500": {
+        "code": "MA1500",
         "name": "Envariabelanalys 2: differentialekvationer och integralkalkyl",
         "points": 6.0,
         "semester": "V\u00e5rtermin 2025",
@@ -163,6 +170,7 @@
         "color": "#f00558"
     },
     "DV1626": {
+        "code": "DV1626",
         "name": "Programmering i C++",
         "points": 6.0,
         "semester": "V\u00e5rtermin 2025",
@@ -186,6 +194,7 @@
         "color": "#3df6d4"
     },
     "DV1682": {
+        "code": "DV1682",
         "name": "Datastrukturer och algoritmer",
         "points": 6.0,
         "semester": "V\u00e5rtermin 2025",
@@ -209,6 +218,7 @@
         "color": "#3df6d4"
     },
     "MA1504": {
+        "code": "MA1504",
         "name": "Diskret matematik",
         "points": 6.0,
         "semester": "V\u00e5rtermin 2025",
@@ -232,6 +242,7 @@
         "color": "#f00558"
     },
     "PA1484": {
+        "code": "PA1484",
         "name": "Programvaruutveckling",
         "points": 6.0,
         "semester": "H\u00f6sttermin 2025",
@@ -256,6 +267,7 @@
         "color": "#86a7f4"
     },
     "FY1436": {
+        "code": "FY1436",
         "name": "Kraft och energi",
         "points": 6.0,
         "semester": "H\u00f6sttermin 2025",
@@ -279,6 +291,7 @@
         "color": "#939342"
     },
     "MA1501": {
+        "code": "MA1501",
         "name": "Flervariabelanalys",
         "points": 6.0,
         "semester": "H\u00f6sttermin 2025",
@@ -302,6 +315,7 @@
         "color": "#f00558"
     },
     "DV1493": {
+        "code": "DV1493",
         "name": "Datorteknik",
         "points": 6.0,
         "semester": "H\u00f6sttermin 2025",
@@ -325,6 +339,7 @@
         "color": "#3df6d4"
     },
     "MS1416": {
+        "code": "MS1416",
         "name": "Matematisk statistik",
         "points": 6.0,
         "semester": "H\u00f6sttermin 2025",
@@ -348,6 +363,7 @@
         "color": "#4d95e5"
     },
     "DV1663": {
+        "code": "DV1663",
         "name": "Databasteknik",
         "points": 6.0,
         "semester": "V\u00e5rtermin 2026",
@@ -371,6 +387,7 @@
         "color": "#3df6d4"
     },
     "DV1697": {
+        "code": "DV1697",
         "name": "Operativsystem",
         "points": 6.0,
         "semester": "V\u00e5rtermin 2026",
@@ -395,6 +412,7 @@
         "color": "#3df6d4"
     },
     "DV1685": {
+        "code": "DV1685",
         "name": "Datakommunikation och n\u00e4tverksteknik",
         "points": 6.0,
         "semester": "V\u00e5rtermin 2026",
@@ -418,6 +436,7 @@
         "color": "#3df6d4"
     },
     "DV1684": {
+        "code": "DV1684",
         "name": "S\u00e4kerhetsteknik",
         "points": 6.0,
         "semester": "V\u00e5rtermin 2026",
@@ -441,6 +460,7 @@
         "color": "#3df6d4"
     },
     "DV1597": {
+        "code": "DV1597",
         "name": "Intelligent dataanalys",
         "points": 6.0,
         "semester": "V\u00e5rtermin 2026",
@@ -464,6 +484,7 @@
         "color": "#3df6d4"
     },
     "MA1505": {
+        "code": "MA1505",
         "name": "Kryptologins grunder",
         "points": 6.0,
         "semester": "H\u00f6sttermin 2026",
@@ -487,6 +508,7 @@
         "color": "#f00558"
     },
     "PA1485": {
+        "code": "PA1485",
         "name": "Mjukvaruutvecklingsprojekt i team",
         "points": 6.0,
         "semester": "H\u00f6sttermin 2026",
@@ -511,6 +533,7 @@
         "color": "#86a7f4"
     },
     "ET1558": {
+        "code": "ET1558",
         "name": "Dynamiska system och \u00e5terkoppling",
         "points": 6.0,
         "semester": "H\u00f6sttermin 2026",
@@ -534,6 +557,7 @@
         "color": "#a61555"
     },
     "DV2606": {
+        "code": "DV2606",
         "name": "Multiprocessorprogrammering",
         "points": 6.0,
         "semester": "H\u00f6sttermin 2026",
@@ -557,6 +581,7 @@
         "color": "#3df6d4"
     },
     "DV1686": {
+        "code": "DV1686",
         "name": "N\u00e4tverkss\u00e4kerhet",
         "points": 6.0,
         "semester": "H\u00f6sttermin 2026",
@@ -580,6 +605,7 @@
         "color": "#3df6d4"
     },
     "DV1688": {
+        "code": "DV1688",
         "name": "Digital unders\u00f6kningsteknik",
         "points": 6.0,
         "semester": "V\u00e5rtermin 2027",
@@ -603,6 +629,7 @@
         "color": "#3df6d4"
     },
     "TE1430": {
+        "code": "TE1430",
         "name": "Kandidatarbete i teknik f\u00f6r dators\u00e4kerhet",
         "points": 18.0,
         "semester": "V\u00e5rtermin 2027",
@@ -627,6 +654,7 @@
         "color": "#4aa7f5"
     },
     "DV1655": {
+        "code": "DV1655",
         "name": "Kompilator- och \u00f6vers\u00e4ttarteknik",
         "points": 6.0,
         "semester": "V\u00e5rtermin 2027",
@@ -650,6 +678,7 @@
         "color": "#3df6d4"
     },
     "DV2645": {
+        "code": "DV2645",
         "name": "Datastyrd s\u00e4kerhet",
         "points": 6.0,
         "semester": "H\u00f6sttermin 2027",
@@ -674,6 +703,7 @@
         "color": "#3df6d4"
     },
     "DV2639": {
+        "code": "DV2639",
         "name": "Programvarus\u00e4kerhet",
         "points": 6.0,
         "semester": "H\u00f6sttermin 2027",
@@ -697,6 +727,7 @@
         "color": "#3df6d4"
     },
     "SL2564": {
+        "code": "SL2564",
         "name": "F\u00f6rst\u00e5else f\u00f6r marknader, f\u00f6retagande och design inom h\u00e5llbarhetsomst\u00e4llningar",
         "points": 6.0,
         "semester": "H\u00f6sttermin 2027",
@@ -720,6 +751,7 @@
         "color": "#fabdf4"
     },
     "DV2641": {
+        "code": "DV2641",
         "name": "Avancerad digital unders\u00f6kningsteknik",
         "points": 6.0,
         "semester": "H\u00f6sttermin 2027",
@@ -743,6 +775,7 @@
         "color": "#3df6d4"
     },
     "IY2649": {
+        "code": "IY2649",
         "name": "Technology venture 1: innovation och aff\u00e4rsutveckling",
         "points": 6.0,
         "semester": "H\u00f6sttermin 2027",
@@ -766,6 +799,7 @@
         "color": "#aaa660"
     },
     "DV2638": {
+        "code": "DV2638",
         "name": "Maskininl\u00e4rning",
         "points": 6.0,
         "semester": "H\u00f6sttermin 2027",
@@ -789,6 +823,7 @@
         "color": "#3df6d4"
     },
     "IY2650": {
+        "code": "IY2650",
         "name": "Technology venture 2: kommersialisering av innovationer",
         "points": 6.0,
         "semester": "H\u00f6sttermin 2027",
@@ -812,6 +847,7 @@
         "color": "#aaa660"
     },
     "SL2565": {
+        "code": "SL2565",
         "name": "Bed\u00f6ma och designa inom omst\u00e4llningar till h\u00e5llbarhet",
         "points": 6.0,
         "semester": "H\u00f6sttermin 2027",
@@ -835,6 +871,7 @@
         "color": "#fabdf4"
     },
     "PA2603": {
+        "code": "PA2603",
         "name": "S\u00e4kerhet, integritet och efterlevnad i mjukvarusystem",
         "points": 6.0,
         "semester": "H\u00f6sttermin 2027",
@@ -858,6 +895,7 @@
         "color": "#86a7f4"
     },
     "DV2644": {
+        "code": "DV2644",
         "name": "Betrodda system",
         "points": 6.0,
         "semester": "H\u00f6sttermin 2027",
@@ -881,6 +919,7 @@
         "color": "#3df6d4"
     },
     "DV2642": {
+        "code": "DV2642",
         "name": "Analys av skadlig programvara",
         "points": 6.0,
         "semester": "V\u00e5rtermin 2028",
@@ -904,6 +943,7 @@
         "color": "#3df6d4"
     },
     "DV2648": {
+        "code": "DV2648",
         "name": "S\u00e4kerhet f\u00f6r kritisk infrastruktur",
         "points": 6.0,
         "semester": "V\u00e5rtermin 2028",
@@ -927,6 +967,7 @@
         "color": "#3df6d4"
     },
     "IY2645": {
+        "code": "IY2645",
         "name": "ICT startups och h\u00f6gteknologiskt entrepren\u00f6rskap",
         "points": 6.0,
         "semester": "V\u00e5rtermin 2028",
@@ -951,6 +992,7 @@
         "color": "#aaa660"
     },
     "DV2647": {
+        "code": "DV2647",
         "name": "Penetrationstestning och etisk hackning",
         "points": 6.0,
         "semester": "V\u00e5rtermin 2028",
@@ -974,6 +1016,7 @@
         "color": "#3df6d4"
     },
     "PA2601": {
+        "code": "PA2601",
         "name": "DevSecOps - Utveckling, s\u00e4kerhet och drift",
         "points": 6.0,
         "semester": "V\u00e5rtermin 2028",
@@ -997,6 +1040,7 @@
         "color": "#86a7f4"
     },
     "PA2610": {
+        "code": "PA2610",
         "name": "Avancerat s\u00e4kerhetsmjukvaruutvecklingsprojekt i team",
         "points": 18.0,
         "semester": "H\u00f6sttermin 2028",
@@ -1021,6 +1065,7 @@
         "color": "#86a7f4"
     },
     "DV2654": {
+        "code": "DV2654",
         "name": "Forskningsmetodik i datavetenskap",
         "points": 6.0,
         "semester": "H\u00f6sttermin 2028",
@@ -1044,6 +1089,7 @@
         "color": "#3df6d4"
     },
     "DV2649": {
+        "code": "DV2649",
         "name": "Masterarbete i datavetenskap",
         "points": 30.0,
         "semester": "V\u00e5rtermin 2029",

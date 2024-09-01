@@ -159,7 +159,7 @@ def download_program(url: str) -> None:
                 return None
             return obj
 
-        data = df.set_index("code").to_dict(orient="index")
+        data = df.set_index("code", drop=False).to_dict(orient="index")
         data = replace_nan_with_none(data)
         data["_groups"] = replace_nan_with_none(groups)
 
@@ -233,17 +233,18 @@ async def main() -> int:
     with ThreadPoolExecutor() as executor:
         await asyncio.gather(*[asyncio.to_thread(executor.submit, download_program, url) for url in urls])
 
-    # # Download teacher data
-    # with open(TEACHER_CSV, "w", encoding="utf-8") as f:
-    #     f.write("code;name;email;phone;room;unit;location\n")
+    # Download teacher data
+    with open(TEACHER_CSV, "w", encoding="utf-8") as f:
+        f.write("code;name;email;phone;room;unit;location\n")
 
-    # with ProcessPoolExecutor() as executor:
-    #     await asyncio.gather(*[asyncio.to_thread(executor.submit, download_teacher, code) for code in teacher_codes])
+    with ProcessPoolExecutor() as executor:
+        await asyncio.gather(*[asyncio.to_thread(executor.submit, download_teacher, code) for code in teacher_codes])
 
-    # with open(TEACHER_CSV, "r", encoding="utf-8") as f:
-    #     df = pd.read_csv(f, delimiter=";")
-    #     df.loc[df["name"] == "Nan Huang", "code"] = "nan" # Fun edge case, since the code is "nan", pandas believes it's NaN
-    #     df.to_json(TEACHER_JSON, orient="records", indent=4)
+    with open(TEACHER_CSV, "r", encoding="utf-8") as f:
+        df = pd.read_csv(f, delimiter=";")
+        df.loc[df["name"] == "Nan Huang", "code"] = "nan" # Fun edge case, since the code is "nan", pandas believes it's NaN
+        df = df.drop_duplicates(subset=["code"], keep="first")
+        df.set_index("code", drop=False).to_json(TEACHER_JSON, orient="index", indent=4)
 
     # Generate index
     indexes = defaultdict(list)

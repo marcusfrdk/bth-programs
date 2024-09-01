@@ -1,5 +1,6 @@
 {
     "MA1495": {
+        "code": "MA1495",
         "name": "Matematik grundkurs med probleml\u00f6sning",
         "points": 6.0,
         "semester": "H\u00f6sttermin 2023",
@@ -23,6 +24,7 @@
         "color": "#f00558"
     },
     "MT1552": {
+        "code": "MT1552",
         "name": "Teknisk introduktionskurs i maskinteknik f\u00f6r h\u00f6gskoleingenj\u00f6rer",
         "points": 6.0,
         "semester": "H\u00f6sttermin 2023",
@@ -47,6 +49,7 @@
         "color": "#409521"
     },
     "FY1431": {
+        "code": "FY1431",
         "name": "Fysik grundkurs",
         "points": 6.0,
         "semester": "H\u00f6sttermin 2023",
@@ -70,6 +73,7 @@
         "color": "#939342"
     },
     "DV1574": {
+        "code": "DV1574",
         "name": "Programmering och probleml\u00f6sning med Python",
         "points": 6.0,
         "semester": "H\u00f6sttermin 2023",
@@ -93,6 +97,7 @@
         "color": "#3df6d4"
     },
     "MA1448": {
+        "code": "MA1448",
         "name": "Linj\u00e4r algebra 1",
         "points": 6.0,
         "semester": "H\u00f6sttermin 2023",
@@ -116,6 +121,7 @@
         "color": "#f00558"
     },
     "MA1444": {
+        "code": "MA1444",
         "name": "Analys 1",
         "points": 6.0,
         "semester": "V\u00e5rtermin 2024",
@@ -139,6 +145,7 @@
         "color": "#f00558"
     },
     "MT1549": {
+        "code": "MT1549",
         "name": "Datorst\u00f6d f\u00f6r ingenj\u00f6rsarbete 1",
         "points": 8.0,
         "semester": "V\u00e5rtermin 2024",
@@ -163,6 +170,7 @@
         "color": "#409521"
     },
     "FY1433": {
+        "code": "FY1433",
         "name": "Fysik - v\u00e5gor och energi",
         "points": 6.0,
         "semester": "V\u00e5rtermin 2024",
@@ -186,6 +194,7 @@
         "color": "#939342"
     },
     "MT1462": {
+        "code": "MT1462",
         "name": "Tillverkningsteknik",
         "points": 6.0,
         "semester": "V\u00e5rtermin 2024",
@@ -209,6 +218,7 @@
         "color": "#409521"
     },
     "ET1549": {
+        "code": "ET1549",
         "name": "Matlab med till\u00e4mpningar inom matematik och teknik",
         "points": 4.0,
         "semester": "V\u00e5rtermin 2024",
@@ -232,6 +242,7 @@
         "color": "#a61555"
     },
     "MA1494": {
+        "code": "MA1494",
         "name": "Analys 2",
         "points": 6.0,
         "semester": "H\u00f6sttermin 2024",
@@ -255,6 +266,7 @@
         "color": "#f00558"
     },
     "MT1506": {
+        "code": "MT1506",
         "name": "H\u00e5llfasthetsl\u00e4ra grundkurs",
         "points": 6.0,
         "semester": "H\u00f6sttermin 2024",
@@ -278,6 +290,7 @@
         "color": "#409521"
     },
     "SL1418": {
+        "code": "SL1418",
         "name": "Grundkurs i h\u00e5llbar utveckling",
         "points": 6.0,
         "semester": "H\u00f6sttermin 2024",
@@ -302,6 +315,7 @@
         "color": "#fabdf4"
     },
     "IY1458": {
+        "code": "IY1458",
         "name": "Industriell ekonomi, \u00f6versiktskurs",
         "points": 6.0,
         "semester": "H\u00f6sttermin 2024",
@@ -325,6 +339,7 @@
         "color": "#aaa660"
     },
     "MT1502": {
+        "code": "MT1502",
         "name": "Dynamik",
         "points": 6.0,
         "semester": "H\u00f6sttermin 2024",
@@ -348,6 +363,7 @@
         "color": "#409521"
     },
     "MT1538": {
+        "code": "MT1538",
         "name": "Projektkurs 1",
         "points": 8.0,
         "semester": "V\u00e5rtermin 2025",
@@ -372,6 +388,7 @@
         "color": "#409521"
     },
     "MT1544": {
+        "code": "MT1544",
         "name": "Materiall\u00e4ra",
         "points": 6.0,
         "semester": "V\u00e5rtermin 2025",
@@ -395,6 +412,7 @@
         "color": "#409521"
     },
     "MT1550": {
+        "code": "MT1550",
         "name": "Datorst\u00f6d f\u00f6r ingenj\u00f6rsarbete 2",
         "points": 4.0,
         "semester": "V\u00e5rtermin 2025",
@@ -418,6 +436,7 @@
         "color": "#409521"
     },
     "MT1537": {
+        "code": "MT1537",
         "name": "Maskinelement",
         "points": 6.0,
         "semester": "V\u00e5rtermin 2025",
@@ -441,6 +460,7 @@
         "color": "#409521"
     },
     "ET1538": {
+        "code": "ET1538",
         "name": "Ell\u00e4ra, grundkurs",
         "points": 6.0,
         "semester": "V\u00e5rtermin 2025",
@@ -464,6 +484,7 @@
         "color": "#a61555"
     },
     "MS1417": {
+        "code": "MS1417",
         "name": "Matematisk statistik med programvara",
         "points": 6.0,
         "semester": "H\u00f6sttermin 2025",
@@ -487,6 +508,7 @@
         "color": "#4d95e5"
     },
     "MT1529": {
+        "code": "MT1529",
         "name": "H\u00e5llfasthetsl\u00e4ra forts\u00e4ttningskurs",
         "points": 6.0,
         "semester": "H\u00f6sttermin 2025",
@@ -511,6 +533,7 @@
         "color": "#409521"
     },
     "MT1556": {
+        "code": "MT1556",
         "name": "Innovativ och h\u00e5llbar produktutveckling 1",
         "points": 6.0,
         "semester": "H\u00f6sttermin 2025",
@@ -534,6 +557,7 @@
         "color": "#409521"
     },
     "MT1559": {
+        "code": "MT1559",
         "name": "Innovativ och h\u00e5llbar produktutveckling 2",
         "points": 6.0,
         "semester": "H\u00f6sttermin 2025",
@@ -557,6 +581,7 @@
         "color": "#409521"
     },
     "MT1475": {
+        "code": "MT1475",
         "name": "Examensarbete f\u00f6r h\u00f6gskoleingenj\u00f6r i maskinteknik",
         "points": 18.0,
         "semester": "H\u00f6sttermin 2025",
@@ -581,6 +606,7 @@
         "color": "#409521"
     },
     "MT1546": {
+        "code": "MT1546",
         "name": "Lean Produktion",
         "points": 6.0,
         "semester": "V\u00e5rtermin 2026",
@@ -604,6 +630,7 @@
         "color": "#409521"
     },
     "MT1540": {
+        "code": "MT1540",
         "name": "Termodynamik",
         "points": 6.0,
         "semester": "V\u00e5rtermin 2026",
@@ -627,6 +654,7 @@
         "color": "#409521"
     },
     "ET1528": {
+        "code": "ET1528",
         "name": "Automation",
         "points": 6.0,
         "semester": "V\u00e5rtermin 2026",

@@ -1,5 +1,6 @@
 {
     "DV1457": {
+        "code": "DV1457",
         "name": "Programmering i UNIX-milj\u00f6",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2021",
@@ -23,6 +24,7 @@
         "color": "#3df6d4"
     },
     "DV2557": {
+        "code": "DV2557",
         "name": "Till\u00e4mpad artificiell intelligens",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2021",
@@ -46,6 +48,7 @@
         "color": "#3df6d4"
     },
     "DV2546": {
+        "code": "DV2546",
         "name": "Programvarus\u00e4kerhet",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2021",
@@ -69,6 +72,7 @@
         "color": "#3df6d4"
     },
     "DV1566": {
+        "code": "DV1566",
         "name": "Introduktion till Cloud Computing",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2021",
@@ -92,6 +96,7 @@
         "color": "#3df6d4"
     },
     "PA2554": {
+        "code": "PA2554",
         "name": "Forskningsmetodik i Programvaruteknik och Datavetenskap",
         "points": 7.0,
         "semester": "V\u00e5rtermin 2022",
@@ -115,6 +120,7 @@
         "color": "#86a7f4"
     },
     "DV1656": {
+        "code": "DV1656",
         "name": "Kompilator- och \u00f6vers\u00e4ttarteknik",
         "points": 7.0,
         "semester": "V\u00e5rtermin 2022",
@@ -138,6 +144,7 @@
         "color": "#3df6d4"
     },
     "DV1557": {
+        "code": "DV1557",
         "name": "Anv\u00e4ndbarhet och interaktionsdesign",
         "points": 7.0,
         "semester": "V\u00e5rtermin 2022",
@@ -161,6 +168,7 @@
         "color": "#3df6d4"
     },
     "PA2562": {
+        "code": "PA2562",
         "name": "S\u00e4ker mjukvaruutveckling",
         "points": 7.0,
         "semester": "V\u00e5rtermin 2022",
@@ -184,6 +192,7 @@
         "color": "#86a7f4"
     },
     "DV2573": {
+        "code": "DV2573",
         "name": "Beslutsst\u00f6djande system",
         "points": 7.0,
         "semester": "V\u00e5rtermin 2022",
@@ -207,6 +216,7 @@
         "color": "#3df6d4"
     },
     "MS2505": {
+        "code": "MS2505",
         "name": "Bayesiansk statistik",
         "points": 7.0,
         "semester": "V\u00e5rtermin 2022",
@@ -230,6 +240,7 @@
         "color": "#4d95e5"
     },
     "MS1411": {
+        "code": "MS1411",
         "name": "Matematisk statistik",
         "points": 7.0,
         "semester": "V\u00e5rtermin 2022",
@@ -253,6 +264,7 @@
         "color": "#4d95e5"
     },
     "PA2559": {
+        "code": "PA2559",
         "name": "M\u00e4tningar av programvara",
         "points": 7.0,
         "semester": "V\u00e5rtermin 2022",
@@ -276,6 +288,7 @@
         "color": "#86a7f4"
     },
     "ET2596": {
+        "code": "ET2596",
         "name": "Simulering",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2022",
@@ -299,6 +312,7 @@
         "color": "#a61555"
     },
     "DV1567": {
+        "code": "DV1567",
         "name": "Prestandaoptimering",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2022",
@@ -322,6 +336,7 @@
         "color": "#3df6d4"
     },
     "DV2582": {
+        "code": "DV2582",
         "name": "Analys av illasinnad programvara (malware)",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2022",
@@ -345,6 +360,7 @@
         "color": "#3df6d4"
     },
     "ET2595": {
+        "code": "ET2595",
         "name": "N\u00e4tverks- och systems\u00e4kerhet",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2022",
@@ -368,6 +384,7 @@
         "color": "#a61555"
     },
     "DV2597": {
+        "code": "DV2597",
         "name": "Multiprocessorprogrammering",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2022",
@@ -391,6 +408,7 @@
         "color": "#3df6d4"
     },
     "DV2578": {
+        "code": "DV2578",
         "name": "Maskininl\u00e4rning",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2022",
@@ -414,6 +432,7 @@
         "color": "#3df6d4"
     },
     "DV2572": {
+        "code": "DV2572",
         "name": "Masterarbete i datavetenskap",
         "points": 30.0,
         "semester": "V\u00e5rtermin 2023",

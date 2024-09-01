@@ -1,5 +1,6 @@
 {
     "FM2550": {
+        "code": "FM2550",
         "name": "Introduktion till strategisk fysisk planering",
         "points": 15.0,
         "semester": "H\u00f6sttermin 2017",
@@ -24,6 +25,7 @@
         "color": "#dc72da"
     },
     "FM2606": {
+        "code": "FM2606",
         "name": "Framtidsbilder",
         "points": 15.0,
         "semester": "H\u00f6sttermin 2017",
@@ -48,6 +50,7 @@
         "color": "#dc72da"
     },
     "FM2598": {
+        "code": "FM2598",
         "name": "Samh\u00e4llsorganisation och styrformer",
         "points": 7.0,
         "semester": "V\u00e5rtermin 2018",
@@ -72,6 +75,7 @@
         "color": "#dc72da"
     },
     "FM2597": {
+        "code": "FM2597",
         "name": "Vetenskapligt arbete: teoretiska utg\u00e5ngspunkter och unders\u00f6kningsmetoder",
         "points": 7.0,
         "semester": "V\u00e5rtermin 2018",
@@ -96,6 +100,7 @@
         "color": "#dc72da"
     },
     "FM2599": {
+        "code": "FM2599",
         "name": "Tematiska studier",
         "points": 7.0,
         "semester": "V\u00e5rtermin 2018",
@@ -120,6 +125,7 @@
         "color": "#dc72da"
     },
     "FM2607": {
+        "code": "FM2607",
         "name": "Planeringsteori",
         "points": 7.0,
         "semester": "V\u00e5rtermin 2018",
@@ -144,6 +150,7 @@
         "color": "#dc72da"
     },
     "FM2589": {
+        "code": "FM2589",
         "name": "Regional planering med internationella perspektiv",
         "points": 15.0,
         "semester": "H\u00f6sttermin 2018",
@@ -167,6 +174,7 @@
         "color": "#dc72da"
     },
     "FM2558": {
+        "code": "FM2558",
         "name": "Projektarbete i strategisk fysisk planering",
         "points": 15.0,
         "semester": "H\u00f6sttermin 2018",
@@ -190,6 +198,7 @@
         "color": "#dc72da"
     },
     "FM2610": {
+        "code": "FM2610",
         "name": "Masterarbete i Fysisk planering",
         "points": 30.0,
         "semester": "V\u00e5rtermin 2019",

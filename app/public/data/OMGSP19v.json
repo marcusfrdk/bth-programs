@@ -1,5 +1,6 @@
 {
     "OM1439": {
+        "code": "OM1439",
         "name": "Profession och omv\u00e5rdnad",
         "points": 9.0,
         "semester": "V\u00e5rtermin 2019",
@@ -23,6 +24,7 @@
         "color": "#746936"
     },
     "OM1444": {
+        "code": "OM1444",
         "name": "Sjuksk\u00f6terskeprofessionen och samh\u00e4llet",
         "points": 7.0,
         "semester": "V\u00e5rtermin 2019",
@@ -46,6 +48,7 @@
         "color": "#746936"
     },
     "OM1442": {
+        "code": "OM1442",
         "name": "Verksamhetsf\u00f6rlagd utbildning (VFU), M\u00f6tet med m\u00e4nniskor",
         "points": 6.0,
         "semester": "V\u00e5rtermin 2019",
@@ -69,6 +72,7 @@
         "color": "#746936"
     },
     "KM1412": {
+        "code": "KM1412",
         "name": "Medicin I",
         "points": 7.0,
         "semester": "V\u00e5rtermin 2019",
@@ -92,6 +96,7 @@
         "color": "#f2087a"
     },
     "OM1463": {
+        "code": "OM1463",
         "name": "Verksamhetsf\u00f6rlagd utbildning (VFU), M\u00e4nniskan och omv\u00e5rdnaden",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2019",
@@ -115,6 +120,7 @@
         "color": "#746936"
     },
     "KM1418": {
+        "code": "KM1418",
         "name": "Medicin II",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2019",
@@ -138,6 +144,7 @@
         "color": "#f2087a"
     },
     "KM1419": {
+        "code": "KM1419",
         "name": "Medicin III",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2019",
@@ -161,6 +168,7 @@
         "color": "#f2087a"
     },
     "OM1485": {
+        "code": "OM1485",
         "name": "Omv\u00e5rdnad vid oh\u00e4lsa",
         "points": 15.0,
         "semester": "V\u00e5rtermin 2020",
@@ -184,6 +192,7 @@
         "color": "#746936"
     },
     "OM1486": {
+        "code": "OM1486",
         "name": "eH\u00e4lsa inom omv\u00e5rdnad I",
         "points": 4.0,
         "semester": "V\u00e5rtermin 2020",
@@ -207,6 +216,7 @@
         "color": "#746936"
     },
     "OM1528": {
+        "code": "OM1528",
         "name": "Verksamhetsf\u00f6rlagd utbildning (VFU) inriktad mot prim\u00e4r v\u00e5rd (Termin 3)",
         "points": 10.0,
         "semester": "V\u00e5rtermin 2020",
@@ -230,6 +240,7 @@
         "color": "#746936"
     },
     "OM1490": {
+        "code": "OM1490",
         "name": "Verksamhetsf\u00f6rlagd utbildning (VFU) inriktad mot somatisk v\u00e5rd (Termin 3)",
         "points": 10.0,
         "semester": "V\u00e5rtermin 2020",
@@ -253,6 +264,7 @@
         "color": "#746936"
     },
     "OM1489": {
+        "code": "OM1489",
         "name": "Verksamhetsf\u00f6rlagd utbildning (VFU) inriktad mot psykiatrisk omv\u00e5rdnad och demensv\u00e5rd (Termin 3)",
         "points": 10.0,
         "semester": "V\u00e5rtermin 2020",
@@ -276,6 +288,7 @@
         "color": "#746936"
     },
     "OM1494": {
+        "code": "OM1494",
         "name": "Verksamhetsf\u00f6rlagd utbildning (VFU) inriktad mot somatisk v\u00e5rd (Termin 4)",
         "points": 10.0,
         "semester": "H\u00f6sttermin 2020",
@@ -299,6 +312,7 @@
         "color": "#746936"
     },
     "OM1493": {
+        "code": "OM1493",
         "name": "Verksamhetsf\u00f6rlagd utbildning (VFU) inriktad mot psykiatrisk omv\u00e5rdnad och demensv\u00e5rd (Termin 4)",
         "points": 10.0,
         "semester": "H\u00f6sttermin 2020",
@@ -322,6 +336,7 @@
         "color": "#746936"
     },
     "OM1529": {
+        "code": "OM1529",
         "name": "Verksamhetsf\u00f6rlagd utbildning (VFU) inriktad mot prim\u00e4r v\u00e5rd (Termin 4)",
         "points": 10.0,
         "semester": "H\u00f6sttermin 2020",
@@ -345,6 +360,7 @@
         "color": "#746936"
     },
     "OM1495": {
+        "code": "OM1495",
         "name": "Verksamhetsf\u00f6rlagd utbildning (VFU) inriktad mot somatisk v\u00e5rd, f\u00f6rdjupning",
         "points": 10.0,
         "semester": "H\u00f6sttermin 2020",
@@ -368,6 +384,7 @@
         "color": "#746936"
     },
     "OM1530": {
+        "code": "OM1530",
         "name": "Verksamhetsf\u00f6rlagd utbildning (VFU) inriktad mot prim\u00e4r v\u00e5rd, f\u00f6rdjupning",
         "points": 10.0,
         "semester": "H\u00f6sttermin 2020",
@@ -391,6 +408,7 @@
         "color": "#746936"
     },
     "OM1491": {
+        "code": "OM1491",
         "name": "Omv\u00e5rdnad, vetenskapliga teorier och metoder",
         "points": 9.0,
         "semester": "H\u00f6sttermin 2020",
@@ -414,6 +432,7 @@
         "color": "#746936"
     },
     "OM1498": {
+        "code": "OM1498",
         "name": "Sjuksk\u00f6terskan som ledare",
         "points": 7.0,
         "semester": "V\u00e5rtermin 2021",
@@ -437,6 +456,7 @@
         "color": "#746936"
     },
     "OM1501": {
+        "code": "OM1501",
         "name": "Omv\u00e5rdnad vid palliativ v\u00e5rd",
         "points": 7.0,
         "semester": "V\u00e5rtermin 2021",
@@ -460,6 +480,7 @@
         "color": "#746936"
     },
     "OM1487": {
+        "code": "OM1487",
         "name": "eH\u00e4lsa inom omv\u00e5rdnad II",
         "points": 7.0,
         "semester": "V\u00e5rtermin 2021",
@@ -483,6 +504,7 @@
         "color": "#746936"
     },
     "OM1502": {
+        "code": "OM1502",
         "name": "Omv\u00e5rdnad vid neurologisk oh\u00e4lsa",
         "points": 7.0,
         "semester": "V\u00e5rtermin 2021",
@@ -506,6 +528,7 @@
         "color": "#746936"
     },
     "OM1503": {
+        "code": "OM1503",
         "name": "Omv\u00e5rdnad vid kardiologisk oh\u00e4lsa",
         "points": 7.0,
         "semester": "V\u00e5rtermin 2021",
@@ -529,6 +552,7 @@
         "color": "#746936"
     },
     "OM1512": {
+        "code": "OM1512",
         "name": "Examensarbete i omv\u00e5rdnad",
         "points": 15.0,
         "semester": "V\u00e5rtermin 2021",
@@ -552,6 +576,7 @@
         "color": "#746936"
     },
     "OM1506": {
+        "code": "OM1506",
         "name": "Verksamhetsf\u00f6rlagd utbildning (VFU), Sjuksk\u00f6terskans profession i verksamheten",
         "points": 15.0,
         "semester": "H\u00f6sttermin 2021",
@@ -576,6 +601,7 @@
         "color": "#746936"
     },
     "OM1526": {
+        "code": "OM1526",
         "name": "Omv\u00e5rdnad vid akuta situationer och komplexa oh\u00e4lsotillst\u00e5nd",
         "points": 15.0,
         "semester": "H\u00f6sttermin 2021",

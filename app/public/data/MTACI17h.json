@@ -1,5 +1,6 @@
 {
     "MS1405": {
+        "code": "MS1405",
         "name": "Matematisk statistik",
         "points": 6.0,
         "semester": "H\u00f6sttermin 2019",
@@ -23,6 +24,7 @@
         "color": "#4d95e5"
     },
     "MT1530": {
+        "code": "MT1530",
         "name": "Innovativ och h\u00e5llbar produktutveckling 1",
         "points": 6.0,
         "semester": "H\u00f6sttermin 2019",
@@ -46,6 +48,7 @@
         "color": "#409521"
     },
     "MT1529": {
+        "code": "MT1529",
         "name": "H\u00e5llfasthetsl\u00e4ra forts\u00e4ttningskurs",
         "points": 6.0,
         "semester": "H\u00f6sttermin 2019",
@@ -70,6 +73,7 @@
         "color": "#409521"
     },
     "IY1402": {
+        "code": "IY1402",
         "name": "Industriell ekonomi, \u00f6versiktskurs",
         "points": 6.0,
         "semester": "H\u00f6sttermin 2019",
@@ -93,6 +97,7 @@
         "color": "#aaa660"
     },
     "MT1454": {
+        "code": "MT1454",
         "name": "Innovativ och h\u00e5llbar produktutveckling 2",
         "points": 6.0,
         "semester": "H\u00f6sttermin 2019",

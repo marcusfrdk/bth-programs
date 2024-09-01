@@ -1,5 +1,6 @@
 {
     "PA2578": {
+        "code": "PA2578",
         "name": "Produkthantering och kravhantering f\u00f6r digitala milj\u00f6er",
         "points": 7.0,
         "semester": "V\u00e5rtermin 2024",
@@ -24,6 +25,7 @@
         "color": "#86a7f4"
     },
     "PA2579": {
+        "code": "PA2579",
         "name": "Adaptiv Lean Programvarutestning",
         "points": 7.0,
         "semester": "V\u00e5rtermin 2024",
@@ -48,6 +50,7 @@
         "color": "#86a7f4"
     },
     "PA2580": {
+        "code": "PA2580",
         "name": "Agil och Lean utveckling av mjukvaruintensiva produkter",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2024",
@@ -72,6 +75,7 @@
         "color": "#86a7f4"
     },
     "PA2577": {
+        "code": "PA2577",
         "name": "Till\u00e4mpad Cloud Computing och Big Data",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2024",
@@ -96,6 +100,7 @@
         "color": "#86a7f4"
     },
     "PA2592": {
+        "code": "PA2592",
         "name": "Forskningsmetodik och magisterarbete i programvaruteknik f\u00f6r yrkesverksamma",
         "points": 18.0,
         "semester": "V\u00e5rtermin 2025",
@@ -120,6 +125,7 @@
         "color": "#86a7f4"
     },
     "PA2595": {
+        "code": "PA2595",
         "name": "Maskininl\u00e4rningsteknik",
         "points": 6.0,
         "semester": "V\u00e5rtermin 2025",
@@ -144,6 +150,7 @@
         "color": "#86a7f4"
     },
     "PA2585": {
+        "code": "PA2585",
         "name": "Introduktion till s\u00e4kerhet f\u00f6r mjukvaruutveckling",
         "points": 6.0,
         "semester": "V\u00e5rtermin 2025",

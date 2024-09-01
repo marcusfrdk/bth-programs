@@ -1,5 +1,6 @@
 {
     "MT2546": {
+        "code": "MT2546",
         "name": "Kreativitet f\u00f6r produkt- och tj\u00e4nsteutveckling",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2018",
@@ -23,6 +24,7 @@
         "color": "#409521"
     },
     "MT1531": {
+        "code": "MT1531",
         "name": "Dimensioneringsmetodik",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2018",
@@ -46,6 +48,7 @@
         "color": "#409521"
     },
     "MT1490": {
+        "code": "MT1490",
         "name": "Projektkurs f\u00f6r utbytesstudenter",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2018",
@@ -69,6 +72,7 @@
         "color": "#409521"
     },
     "MT1525": {
+        "code": "MT1525",
         "name": "CAE - Datorst\u00f6d i Ingenj\u00f6rsarbete",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2018",
@@ -92,6 +96,7 @@
         "color": "#409521"
     },
     "MT1488": {
+        "code": "MT1488",
         "name": "Teknisk kommunikation f\u00f6r ingenj\u00f6rer",
         "points": 7.0,
         "semester": "V\u00e5rtermin 2019",
@@ -115,6 +120,7 @@
         "color": "#409521"
     },
     "MT1430": {
+        "code": "MT1430",
         "name": "Kandidatarbete i maskinteknik",
         "points": 15.0,
         "semester": "V\u00e5rtermin 2019",
@@ -139,6 +145,7 @@
         "color": "#409521"
     },
     "MS1411": {
+        "code": "MS1411",
         "name": "Matematisk statistik",
         "points": 7.0,
         "semester": "V\u00e5rtermin 2019",

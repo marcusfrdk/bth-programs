@@ -1,5 +1,6 @@
 {
     "DV1457": {
+        "code": "DV1457",
         "name": "Programmering i UNIX-milj\u00f6",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2024",
@@ -23,6 +24,7 @@
         "color": "#3df6d4"
     },
     "DV1619": {
+        "code": "DV1619",
         "name": "Datorkommunikation",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2024",
@@ -46,6 +48,7 @@
         "color": "#3df6d4"
     },
     "DV2636": {
+        "code": "DV2636",
         "name": "N\u00e4tverks- och systems\u00e4kerhet",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2024",
@@ -69,6 +72,7 @@
         "color": "#3df6d4"
     },
     "DV1566": {
+        "code": "DV1566",
         "name": "Introduktion till Cloud Computing",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2024",
@@ -92,6 +96,7 @@
         "color": "#3df6d4"
     },
     "DV2631": {
+        "code": "DV2631",
         "name": "Forskningsmetodik i datavetenskap",
         "points": 7.0,
         "semester": "V\u00e5rtermin 2025",
@@ -115,6 +120,7 @@
         "color": "#3df6d4"
     },
     "DV2601": {
+        "code": "DV2601",
         "name": "Avancerad n\u00e4tverksteknik",
         "points": 7.0,
         "semester": "V\u00e5rtermin 2025",
@@ -138,6 +144,7 @@
         "color": "#3df6d4"
     },
     "MS1411": {
+        "code": "MS1411",
         "name": "Matematisk statistik",
         "points": 7.0,
         "semester": "V\u00e5rtermin 2025",
@@ -161,6 +168,7 @@
         "color": "#4d95e5"
     },
     "DV2602": {
+        "code": "DV2602",
         "name": "Drift av n\u00e4tverk och n\u00e4tverkstj\u00e4nster",
         "points": 7.0,
         "semester": "V\u00e5rtermin 2025",
@@ -184,6 +192,7 @@
         "color": "#3df6d4"
     },
     "DV2604": {
+        "code": "DV2604",
         "name": "Kapacitetsanalys",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2025",
@@ -207,6 +216,7 @@
         "color": "#3df6d4"
     },
     "DV2618": {
+        "code": "DV2618",
         "name": "Till\u00e4mpad artificiell intelligens",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2025",
@@ -230,6 +240,7 @@
         "color": "#3df6d4"
     },
     "SL1420": {
+        "code": "SL1420",
         "name": "H\u00e5llbar utveckling av informations- och kommunikationsteknik",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2025",
@@ -253,6 +264,7 @@
         "color": "#fabdf4"
     },
     "DV2603": {
+        "code": "DV2603",
         "name": "Mjukvarubaserade n\u00e4tverk",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2025",
@@ -276,6 +288,7 @@
         "color": "#3df6d4"
     },
     "DV2635": {
+        "code": "DV2635",
         "name": "F\u00f6rdjupningskurs i datavetenskap och kommunikation",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2025",
@@ -299,6 +312,7 @@
         "color": "#3df6d4"
     },
     "DV2572": {
+        "code": "DV2572",
         "name": "Masterarbete i datavetenskap",
         "points": 30.0,
         "semester": "V\u00e5rtermin 2026",

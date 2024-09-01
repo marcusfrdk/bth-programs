@@ -1,5 +1,6 @@
 {
     "MA0005": {
+        "code": "MA0005",
         "name": "Matematik gamma",
         "points": 15.0,
         "semester": "H\u00f6sttermin 2021",
@@ -24,6 +25,7 @@
         "color": "#f00558"
     },
     "FY0003": {
+        "code": "FY0003",
         "name": "Fysik alfa",
         "points": 12.0,
         "semester": "H\u00f6sttermin 2021",
@@ -48,6 +50,7 @@
         "color": "#939342"
     },
     "KE0003": {
+        "code": "KE0003",
         "name": "Kemi alfa",
         "points": 8.0,
         "semester": "H\u00f6sttermin 2021",
@@ -72,6 +75,7 @@
         "color": "#b5e22f"
     },
     "MA0007": {
+        "code": "MA0007",
         "name": "Matematik delta",
         "points": 15.0,
         "semester": "V\u00e5rtermin 2022",
@@ -96,6 +100,7 @@
         "color": "#f00558"
     },
     "FY0006": {
+        "code": "FY0006",
         "name": "Fysik beta",
         "points": 10.0,
         "semester": "V\u00e5rtermin 2022",

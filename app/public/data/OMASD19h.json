@@ -1,5 +1,6 @@
 {
     "OM2532": {
+        "code": "OM2532",
         "name": "Specialistsjuksk\u00f6terskans profession och vetenskapliga f\u00f6rh\u00e5llningss\u00e4tt inom v\u00e5rd av \u00e4ldre",
         "points": 30.0,
         "semester": "H\u00f6sttermin 2019",
@@ -24,6 +25,7 @@
         "color": "#746936"
     },
     "OM2534": {
+        "code": "OM2534",
         "name": "Specifik omv\u00e5rdnad f\u00f6r v\u00e5rd av \u00e4ldre",
         "points": 15.0,
         "semester": "V\u00e5rtermin 2020",
@@ -47,6 +49,7 @@
         "color": "#746936"
     },
     "OM2533": {
+        "code": "OM2533",
         "name": "Farmakologi och f\u00f6rskrivningsr\u00e4tt f\u00f6r vissa l\u00e4kemedel, hj\u00e4lpmedel och f\u00f6rbrukningsartiklar med inriktning mot v\u00e5rd av \u00e4ldre",
         "points": 15.0,
         "semester": "V\u00e5rtermin 2020",
@@ -70,6 +73,7 @@
         "color": "#746936"
     },
     "OM2535": {
+        "code": "OM2535",
         "name": "Examensarbete i omv\u00e5rdnad med inriktning mot v\u00e5rd av \u00e4ldre",
         "points": 15.0,
         "semester": "V\u00e5rtermin 2020",

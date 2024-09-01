@@ -1,14 +1,15 @@
 "use client";
 
+import styled from "@emotion/styled";
+import CourseModal from "./CourseModal";
 import { useData } from "@/contexts/DataProvider";
 import { CourseType } from "@/types/Program";
-import styled from "@emotion/styled";
 import { useQuery } from "@tanstack/react-query";
-import { useCallback, useEffect } from "react";
-import {TbChecklist as CourseRequirements} from "react-icons/tb";
-import {PiNumberCircleTwo as CourseDouble} from "react-icons/pi";
-import {FaMinus as Minus} from "react-icons/fa";
-import {FaPenFancy as ExamsIcon} from "react-icons/fa";
+import { useCallback, useEffect, useState } from "react";
+import { TbChecklist as CourseRequirements } from "react-icons/tb";
+import { PiNumberCircleTwo as CourseDouble } from "react-icons/pi";
+import { FaMinus as Minus } from "react-icons/fa";
+import { RiCheckboxCircleLine as CourseOptional } from "react-icons/ri";
 
 
 type DataType = Record<string, Record<string, CourseType>>;
@@ -19,9 +20,10 @@ const periodOrderString = periodOrder.map(v => String(v));
 
 const currentYear = new Date().getFullYear();
 const currentWeek = Math.ceil((new Date().getTime() - new Date(currentYear, 0, 1).getTime()) / (7 * 24 * 60 * 60 * 1000));
-const currentStudyPeriod = currentWeek < 10 ? 3 : currentWeek < 30 ? 4 : currentWeek < 40 ? 1 : 2;
+const currentStudyPeriod = currentWeek < 10 ? 3 : currentWeek < 30 ? 4 : currentWeek < 36 ? 1 : 2;
 
 const emptyCourse: CourseType = {
+    code: "code",
     name: "name",
     points: 0,
     semester: "semester",
@@ -50,6 +52,9 @@ async function fetchProgramData(program: string){
 
 export default function Schedule(){
     const {selectedProgram, comparedPrograms, removeComparison} = useData();
+
+    const [course, setCourse] = useState<CourseType | null>(null);
+    const [modalIsOpen, setModalIsOpen] = useState(false);
 
     const {data, isLoading, isError} = useQuery<[DataType, ScheduleType]>({
         queryKey: ["programs", selectedProgram, comparedPrograms], 
@@ -144,6 +149,11 @@ export default function Schedule(){
         }
     }, [isLoading, isError]);
 
+    const handleClick = (course: CourseType) => {
+        setCourse(course);
+        setModalIsOpen(true);
+    }
+
     useEffect(() => {
         calculateTargetOffset();
     }, [data, isLoading, isError]);
@@ -167,7 +177,7 @@ export default function Schedule(){
                                     
                                     return (
                                         <li key={`${year}-${period}-${j}`} className={`${isPrevious ? "previous" : ""} period`}>
-                                            <p id={isCurrent ? "current" : ""}>{[1, 2].includes(j + 1) ? "Spring" : "Fall"} (LP {period})</p>
+                                            <p id={isCurrent ? "current" : ""}>{[1, 2].includes(j + 1) ? "Vårtermin" : "Hösttermin"} (LP {period})</p>
                                             <ul>
                                                 {Object.entries(programs).map(([program, courses], k) => {
                                                     // ...
@@ -191,14 +201,16 @@ export default function Schedule(){
                                                                             key={`${year}-${period}-${program}-${code}-${l}`}
                                                                             className={`${empty ? "empty" : ""} course`}
                                                                             style={{borderLeftColor: course.color}}
+                                                                            onClick={() => handleClick(course)}
                                                                         >
                                                                             <div>
                                                                                 <p>{course.name}</p>
-                                                                                <p>{code}</p>
+                                                                                <p>{code} | {course.points} poäng</p>
                                                                             </div>
                                                                             <div>
                                                                                 {course.is_double && <CourseDouble fill="var(--muted)" />}
                                                                                 {hasPrerequisites && <CourseRequirements stroke="var(--muted)" />}
+                                                                                {course?.type.toLowerCase() !== "obligatorisk" && <CourseOptional fill="var(--muted)" />}
                                                                             </div>
                                                                         </li>
                                                                     )
@@ -221,7 +233,7 @@ export default function Schedule(){
                     const isClickable = i !== 0;
                     
                     return (
-                        <div>
+                        <div key={program}>
                             <div className={isClickable ? "clickable" : ""} onClick={() => isClickable && removeComparison(program)}>
                                 <p key={program}>{program}</p>
                                 {isClickable && <button><Minus/></button>}
@@ -230,6 +242,11 @@ export default function Schedule(){
                     )
                 })}
             </Programs>
+            <CourseModal
+                course={course}
+                isOpen={modalIsOpen}
+                setIsOpen={setModalIsOpen}
+            />
         </Container>
     );
 };
@@ -278,6 +295,7 @@ const Programs = styled.div`
                 display: flex;
                 justify-content: center;
                 align-items: center;
+                pointer-events: none;
 
                 & > svg {
                     fill: var(--muted);
@@ -389,6 +407,7 @@ const Container = styled.main`
                                     display: flex;
                                     justify-content: space-between;
                                     align-items: center;
+                                    cursor: pointer;
                                     
                                     &.empty {
                                         opacity: 0;
@@ -430,6 +449,12 @@ const Container = styled.main`
 
                                         & > svg {
                                             font-size: 1.25rem;
+                                        }
+                                    }
+
+                                    @media screen and (hover: hover) {
+                                        &:hover {
+                                            background-color: var(--neutral-2);
                                         }
                                     }
                                 }

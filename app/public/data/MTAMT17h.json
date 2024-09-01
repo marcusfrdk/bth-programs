@@ -1,5 +1,6 @@
 {
     "MA1437": {
+        "code": "MA1437",
         "name": "Differentialekvationer med Liegruppanalys",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2017",
@@ -24,6 +25,7 @@
         "color": "#f00558"
     },
     "MT1472": {
+        "code": "MT1472",
         "name": "Mekanisk systemdynamik",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2017",
@@ -48,6 +50,7 @@
         "color": "#409521"
     },
     "SL2531": {
+        "code": "SL2531",
         "name": "Introduktion till Strategisk H\u00e5llbar Utveckling",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2017",
@@ -72,6 +75,7 @@
         "color": "#fabdf4"
     },
     "ET1468": {
+        "code": "ET1468",
         "name": "Signalbehandling I",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2017",
@@ -96,6 +100,7 @@
         "color": "#a61555"
     },
     "MT2526": {
+        "code": "MT2526",
         "name": "Mekanikens approximativa ber\u00e4kningsmetoder 1",
         "points": 7.0,
         "semester": "V\u00e5rtermin 2018",
@@ -120,6 +125,7 @@
         "color": "#409521"
     },
     "MT2529": {
+        "code": "MT2529",
         "name": "Strukturanalys",
         "points": 7.0,
         "semester": "V\u00e5rtermin 2018",
@@ -144,6 +150,7 @@
         "color": "#409521"
     },
     "MT2522": {
+        "code": "MT2522",
         "name": "Brottmekanik",
         "points": 7.0,
         "semester": "V\u00e5rtermin 2018",
@@ -168,6 +175,7 @@
         "color": "#409521"
     },
     "ET2545": {
+        "code": "ET2545",
         "name": "Ljud- och vibrationsanalys",
         "points": 7.0,
         "semester": "V\u00e5rtermin 2018",
@@ -192,6 +200,7 @@
         "color": "#a61555"
     },
     "ET2544": {
+        "code": "ET2544",
         "name": "Experimentell modalanalys",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2018",
@@ -215,6 +224,7 @@
         "color": "#a61555"
     },
     "MT2560": {
+        "code": "MT2560",
         "name": "Mekanikens approximativa ber\u00e4kningsmetoder 2:1",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2018",
@@ -238,6 +248,7 @@
         "color": "#409521"
     },
     "MT2521": {
+        "code": "MT2521",
         "name": "Forskningsmetodik med inriktning mot ingenj\u00f6rsvetenskap",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2018",
@@ -261,6 +272,7 @@
         "color": "#409521"
     },
     "MT2553": {
+        "code": "MT2553",
         "name": "Fysikalisk akustik",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2018",
@@ -284,6 +296,7 @@
         "color": "#409521"
     },
     "MT2559": {
+        "code": "MT2559",
         "name": "Simuleringsdriven produktutveckling",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2018",
@@ -307,6 +320,7 @@
         "color": "#409521"
     },
     "MT2565": {
+        "code": "MT2565",
         "name": "Masterarbete i maskinteknik med inriktning mot strukturmekanik",
         "points": 30.0,
         "semester": "V\u00e5rtermin 2019",

@@ -1,5 +1,6 @@
 {
     "FM2550": {
+        "code": "FM2550",
         "name": "Introduktion till strategisk fysisk planering",
         "points": 15.0,
         "semester": "H\u00f6sttermin 2024",
@@ -23,6 +24,7 @@
         "color": "#dc72da"
     },
     "FM2620": {
+        "code": "FM2620",
         "name": "Framtidsbilder",
         "points": 15.0,
         "semester": "H\u00f6sttermin 2024",
@@ -46,6 +48,7 @@
         "color": "#dc72da"
     },
     "FM2597": {
+        "code": "FM2597",
         "name": "Vetenskapligt arbete: teoretiska utg\u00e5ngspunkter och unders\u00f6kningsmetoder",
         "points": 7.0,
         "semester": "V\u00e5rtermin 2025",
@@ -69,6 +72,7 @@
         "color": "#dc72da"
     },
     "FM2624": {
+        "code": "FM2624",
         "name": "Regional planering med internationella perspektiv",
         "points": 15.0,
         "semester": "V\u00e5rtermin 2025",
@@ -92,6 +96,7 @@
         "color": "#dc72da"
     },
     "FM2627": {
+        "code": "FM2627",
         "name": "Projektarbete i strategisk fysisk planering",
         "points": 7.0,
         "semester": "V\u00e5rtermin 2025",
@@ -115,6 +120,7 @@
         "color": "#dc72da"
     },
     "FM2625": {
+        "code": "FM2625",
         "name": "Samh\u00e4llsorganisation och styrformer",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2025",
@@ -138,6 +144,7 @@
         "color": "#dc72da"
     },
     "FM2623": {
+        "code": "FM2623",
         "name": "Projektledning",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2025",
@@ -161,6 +168,7 @@
         "color": "#dc72da"
     },
     "FM2622": {
+        "code": "FM2622",
         "name": "Aktuell planeringsforskning",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2025",
@@ -184,6 +192,7 @@
         "color": "#dc72da"
     },
     "FM2626": {
+        "code": "FM2626",
         "name": "Tematiska studier i fysisk planering",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2025",
@@ -207,6 +216,7 @@
         "color": "#dc72da"
     },
     "FM2612": {
+        "code": "FM2612",
         "name": "Masterarbete i fysisk planering",
         "points": 30.0,
         "semester": "V\u00e5rtermin 2026",

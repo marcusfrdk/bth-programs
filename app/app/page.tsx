@@ -1,4 +1,5 @@
 
+import type { TeachersType } from "@/types/Program";
 import { cookies } from "next/headers";
 import DataProvider from "@/contexts/DataProvider";
 import App from "./App";
@@ -10,7 +11,7 @@ export default async function Home() {
   // Read list of programs
   const index = await readFile("index");
   const names = await readFile("names");
-  const teachers = await readFile("teachers");
+  const teachers: TeachersType = await readFile("teachers");
   const programs = Array.from(new Set(Object.keys(index)).intersection(new Set(Object.keys(names)))); 
 
   // Read cookies

@@ -1,5 +1,6 @@
 {
     "MA1486": {
+        "code": "MA1486",
         "name": "Matematisk probleml\u00f6sning",
         "points": 4.0,
         "semester": "H\u00f6sttermin 2023",
@@ -23,6 +24,7 @@
         "color": "#f00558"
     },
     "TE1421": {
+        "code": "TE1421",
         "name": "Teknisk introduktionskurs med ingenj\u00f6rsmetodik",
         "points": 8.0,
         "semester": "H\u00f6sttermin 2023",
@@ -47,6 +49,7 @@
         "color": "#4aa7f5"
     },
     "IY1418": {
+        "code": "IY1418",
         "name": "Grunderna i industriell ekonomi",
         "points": 6.0,
         "semester": "H\u00f6sttermin 2023",
@@ -70,6 +73,7 @@
         "color": "#aaa660"
     },
     "MA1448": {
+        "code": "MA1448",
         "name": "Linj\u00e4r algebra 1",
         "points": 6.0,
         "semester": "H\u00f6sttermin 2023",
@@ -93,6 +97,7 @@
         "color": "#f00558"
     },
     "DV1574": {
+        "code": "DV1574",
         "name": "Programmering och probleml\u00f6sning med Python",
         "points": 6.0,
         "semester": "H\u00f6sttermin 2023",
@@ -116,6 +121,7 @@
         "color": "#3df6d4"
     },
     "IY1417": {
+        "code": "IY1417",
         "name": "Till\u00e4mpad mikroekonomi och strategi",
         "points": 6.0,
         "semester": "V\u00e5rtermin 2024",
@@ -139,6 +145,7 @@
         "color": "#aaa660"
     },
     "FY1431": {
+        "code": "FY1431",
         "name": "Fysik grundkurs",
         "points": 6.0,
         "semester": "V\u00e5rtermin 2024",
@@ -162,6 +169,7 @@
         "color": "#939342"
     },
     "MA1444": {
+        "code": "MA1444",
         "name": "Analys 1",
         "points": 6.0,
         "semester": "V\u00e5rtermin 2024",
@@ -185,6 +193,7 @@
         "color": "#f00558"
     },
     "MA1494": {
+        "code": "MA1494",
         "name": "Analys 2",
         "points": 6.0,
         "semester": "V\u00e5rtermin 2024",
@@ -208,6 +217,7 @@
         "color": "#f00558"
     },
     "IY1439": {
+        "code": "IY1439",
         "name": "F\u00f6retag och organisation",
         "points": 6.0,
         "semester": "V\u00e5rtermin 2024",
@@ -231,6 +241,7 @@
         "color": "#aaa660"
     },
     "SL1418": {
+        "code": "SL1418",
         "name": "Grundkurs i h\u00e5llbar utveckling",
         "points": 6.0,
         "semester": "H\u00f6sttermin 2024",
@@ -255,6 +266,7 @@
         "color": "#fabdf4"
     },
     "IY1421": {
+        "code": "IY1421",
         "name": "F\u00f6retaget i en global ekonomi",
         "points": 6.0,
         "semester": "H\u00f6sttermin 2024",
@@ -278,6 +290,7 @@
         "color": "#aaa660"
     },
     "MA1446": {
+        "code": "MA1446",
         "name": "Diskret matematik",
         "points": 6.0,
         "semester": "H\u00f6sttermin 2024",
@@ -301,6 +314,7 @@
         "color": "#f00558"
     },
     "FY1423": {
+        "code": "FY1423",
         "name": "Fysik f\u00f6r ingenj\u00f6rer 2",
         "points": 6.0,
         "semester": "H\u00f6sttermin 2024",
@@ -324,6 +338,7 @@
         "color": "#939342"
     },
     "MA1447": {
+        "code": "MA1447",
         "name": "Flervariabelanalys",
         "points": 6.0,
         "semester": "H\u00f6sttermin 2024",
@@ -347,6 +362,7 @@
         "color": "#f00558"
     },
     "PA1484": {
+        "code": "PA1484",
         "name": "Programvaruutveckling",
         "points": 6.0,
         "semester": "V\u00e5rtermin 2025",
@@ -371,6 +387,7 @@
         "color": "#86a7f4"
     },
     "FY1424": {
+        "code": "FY1424",
         "name": "Fysik f\u00f6r ingenj\u00f6rer 3",
         "points": 6.0,
         "semester": "V\u00e5rtermin 2025",
@@ -394,6 +411,7 @@
         "color": "#939342"
     },
     "IY1419": {
+        "code": "IY1419",
         "name": "Industriell marknadsf\u00f6ring - teori och praktik",
         "points": 6.0,
         "semester": "V\u00e5rtermin 2025",
@@ -417,6 +435,7 @@
         "color": "#aaa660"
     },
     "MT1463": {
+        "code": "MT1463",
         "name": "Datorst\u00f6d f\u00f6r ingenj\u00f6rsarbete",
         "points": 6.0,
         "semester": "V\u00e5rtermin 2025",
@@ -440,6 +459,7 @@
         "color": "#409521"
     },
     "DV1664": {
+        "code": "DV1664",
         "name": "Introduktion till databaser",
         "points": 6.0,
         "semester": "V\u00e5rtermin 2025",
@@ -463,6 +483,7 @@
         "color": "#3df6d4"
     },
     "MS1416": {
+        "code": "MS1416",
         "name": "Matematisk statistik",
         "points": 6.0,
         "semester": "H\u00f6sttermin 2025",
@@ -486,6 +507,7 @@
         "color": "#4d95e5"
     },
     "MT1506": {
+        "code": "MT1506",
         "name": "H\u00e5llfasthetsl\u00e4ra grundkurs",
         "points": 6.0,
         "semester": "H\u00f6sttermin 2025",
@@ -509,6 +531,7 @@
         "color": "#409521"
     },
     "MT1556": {
+        "code": "MT1556",
         "name": "Innovativ och h\u00e5llbar produktutveckling 1",
         "points": 6.0,
         "semester": "H\u00f6sttermin 2025",
@@ -532,6 +555,7 @@
         "color": "#409521"
     },
     "DV1582": {
+        "code": "DV1582",
         "name": "Programmering i Python, forts\u00e4ttningskurs",
         "points": 6.0,
         "semester": "H\u00f6sttermin 2025",
@@ -555,6 +579,7 @@
         "color": "#3df6d4"
     },
     "IY1420": {
+        "code": "IY1420",
         "name": "Ekonometri",
         "points": 6.0,
         "semester": "H\u00f6sttermin 2025",
@@ -578,6 +603,7 @@
         "color": "#aaa660"
     },
     "IY1428": {
+        "code": "IY1428",
         "name": "Ledarskap och organisation i kunskapsintensiva milj\u00f6er",
         "points": 6.0,
         "semester": "H\u00f6sttermin 2025",
@@ -601,6 +627,7 @@
         "color": "#aaa660"
     },
     "MT1572": {
+        "code": "MT1572",
         "name": "Materiall\u00e4ra",
         "points": 6.0,
         "semester": "V\u00e5rtermin 2026",
@@ -624,6 +651,7 @@
         "color": "#409521"
     },
     "PA1472": {
+        "code": "PA1472",
         "name": "Objektorienterad design",
         "points": 6.0,
         "semester": "V\u00e5rtermin 2026",
@@ -647,6 +675,7 @@
         "color": "#86a7f4"
     },
     "MT1540": {
+        "code": "MT1540",
         "name": "Termodynamik",
         "points": 6.0,
         "semester": "V\u00e5rtermin 2026",
@@ -670,6 +699,7 @@
         "color": "#409521"
     },
     "PA2576": {
+        "code": "PA2576",
         "name": "Programvaruintensiv produktutveckling",
         "points": 12.0,
         "semester": "V\u00e5rtermin 2026",
@@ -694,6 +724,7 @@
         "color": "#86a7f4"
     },
     "MT1568": {
+        "code": "MT1568",
         "name": "Tillverkningsteknik",
         "points": 6.0,
         "semester": "V\u00e5rtermin 2026",
@@ -717,6 +748,7 @@
         "color": "#409521"
     },
     "DV1682": {
+        "code": "DV1682",
         "name": "Datastrukturer och algoritmer",
         "points": 6.0,
         "semester": "V\u00e5rtermin 2026",
@@ -740,6 +772,7 @@
         "color": "#3df6d4"
     },
     "SL2542": {
+        "code": "SL2542",
         "name": "H\u00e5llbara energisystem - grundkurs",
         "points": 6.0,
         "semester": "V\u00e5rtermin 2026",
@@ -763,6 +796,7 @@
         "color": "#fabdf4"
     },
     "IY1422": {
+        "code": "IY1422",
         "name": "Finansiell ekonomi",
         "points": 6.0,
         "semester": "V\u00e5rtermin 2026",
@@ -786,6 +820,7 @@
         "color": "#aaa660"
     },
     "IY2595": {
+        "code": "IY2595",
         "name": "Produktionsekonomi",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2026",
@@ -809,6 +844,7 @@
         "color": "#aaa660"
     },
     "DV2618": {
+        "code": "DV2618",
         "name": "Till\u00e4mpad artificiell intelligens",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2026",
@@ -832,6 +868,7 @@
         "color": "#3df6d4"
     },
     "MT2569": {
+        "code": "MT2569",
         "name": "Design Thinking",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2026",
@@ -855,6 +892,7 @@
         "color": "#409521"
     },
     "DV1466": {
+        "code": "DV1466",
         "name": "UNIX och Linux, en \u00f6versikt och introduktion",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2026",
@@ -878,6 +916,7 @@
         "color": "#3df6d4"
     },
     "MT2570": {
+        "code": "MT2570",
         "name": "Knowledge Enabled Engineering",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2026",
@@ -901,6 +940,7 @@
         "color": "#409521"
     },
     "DV2626": {
+        "code": "DV2626",
         "name": "Maskininl\u00e4rning",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2026",
@@ -924,6 +964,7 @@
         "color": "#3df6d4"
     },
     "IY2583": {
+        "code": "IY2583",
         "name": "F\u00f6retagsanalys",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2026",
@@ -947,6 +988,7 @@
         "color": "#aaa660"
     },
     "SL2561": {
+        "code": "SL2561",
         "name": "Strategisk planering f\u00f6r organisatoriska h\u00e5llbarhetsomst\u00e4llningar",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2026",
@@ -970,6 +1012,7 @@
         "color": "#fabdf4"
     },
     "SL2543": {
+        "code": "SL2543",
         "name": "H\u00e5llbar produktutveckling",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2026",
@@ -993,6 +1036,7 @@
         "color": "#fabdf4"
     },
     "MT2568": {
+        "code": "MT2568",
         "name": "V\u00e4rdeinnovation",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2026",
@@ -1016,6 +1060,7 @@
         "color": "#409521"
     },
     "PA2539": {
+        "code": "PA2539",
         "name": "Programvaruprojekt i team",
         "points": 15.0,
         "semester": "V\u00e5rtermin 2027",
@@ -1040,6 +1085,7 @@
         "color": "#86a7f4"
     },
     "IY2585": {
+        "code": "IY2585",
         "name": "Projektkurs i industriell ekonomi och projektledning",
         "points": 7.0,
         "semester": "V\u00e5rtermin 2027",
@@ -1064,6 +1110,7 @@
         "color": "#aaa660"
     },
     "IY2628": {
+        "code": "IY2628",
         "name": "Strategi och aff\u00e4rsutveckling",
         "points": 7.0,
         "semester": "V\u00e5rtermin 2027",
@@ -1088,6 +1135,7 @@
         "color": "#aaa660"
     },
     "IY2606": {
+        "code": "IY2606",
         "name": "Finansiell modellering",
         "points": 7.0,
         "semester": "V\u00e5rtermin 2027",
@@ -1111,6 +1159,7 @@
         "color": "#aaa660"
     },
     "DV1557": {
+        "code": "DV1557",
         "name": "Anv\u00e4ndbarhet och interaktionsdesign",
         "points": 7.0,
         "semester": "V\u00e5rtermin 2027",
@@ -1134,6 +1183,7 @@
         "color": "#3df6d4"
     },
     "MT2578": {
+        "code": "MT2578",
         "name": "Virtuell prototypframst\u00e4llning",
         "points": 7.0,
         "semester": "V\u00e5rtermin 2027",
@@ -1157,6 +1207,7 @@
         "color": "#409521"
     },
     "IY2607": {
+        "code": "IY2607",
         "name": "Empirisk finansiell analys",
         "points": 7.0,
         "semester": "V\u00e5rtermin 2027",
@@ -1180,6 +1231,7 @@
         "color": "#aaa660"
     },
     "IY2586": {
+        "code": "IY2586",
         "name": "Ekonomisk analys av teknikskiften",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2027",
@@ -1203,6 +1255,7 @@
         "color": "#aaa660"
     },
     "IY2603": {
+        "code": "IY2603",
         "name": "Industriell organisation",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2027",
@@ -1226,6 +1279,7 @@
         "color": "#aaa660"
     },
     "MT2573": {
+        "code": "MT2573",
         "name": "Transformativ produkt- och tj\u00e4nstesystemsinnovation",
         "points": 15.0,
         "semester": "H\u00f6sttermin 2027",
@@ -1250,6 +1304,7 @@
         "color": "#409521"
     },
     "IY2654": {
+        "code": "IY2654",
         "name": "Forskningsmetod och design",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2027",
@@ -1273,6 +1328,7 @@
         "color": "#aaa660"
     },
     "DV1566": {
+        "code": "DV1566",
         "name": "Introduktion till Cloud Computing",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2027",
@@ -1296,6 +1352,7 @@
         "color": "#3df6d4"
     },
     "IY2608": {
+        "code": "IY2608",
         "name": "Till\u00e4mpad konkurrens- och marknadsanalys",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2027",
@@ -1319,6 +1376,7 @@
         "color": "#aaa660"
     },
     "PA2557": {
+        "code": "PA2557",
         "name": "Kvalitetsstyrning",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2027",
@@ -1342,6 +1400,7 @@
         "color": "#86a7f4"
     },
     "MA2512": {
+        "code": "MA2512",
         "name": "Till\u00e4mpad optimering",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2027",
@@ -1365,6 +1424,7 @@
         "color": "#f00558"
     },
     "TE2502": {
+        "code": "TE2502",
         "name": "Examensarbete f\u00f6r civilingenj\u00f6rer",
         "points": 30.0,
         "semester": "V\u00e5rtermin 2028",

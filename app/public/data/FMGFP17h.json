@@ -1,5 +1,6 @@
 {
     "FM1457": {
+        "code": "FM1457",
         "name": "Planering, introduktion",
         "points": 15.0,
         "semester": "H\u00f6sttermin 2017",
@@ -24,6 +25,7 @@
         "color": "#dc72da"
     },
     "FM1458": {
+        "code": "FM1458",
         "name": "Grannskap",
         "points": 15.0,
         "semester": "H\u00f6sttermin 2017",
@@ -48,6 +50,7 @@
         "color": "#dc72da"
     },
     "FM1459": {
+        "code": "FM1459",
         "name": "Detaljplanering och plangenomf\u00f6rande",
         "points": 7.0,
         "semester": "V\u00e5rtermin 2018",
@@ -72,6 +75,7 @@
         "color": "#dc72da"
     },
     "FM1460": {
+        "code": "FM1460",
         "name": "Geografiska informationssystem",
         "points": 7.0,
         "semester": "V\u00e5rtermin 2018",
@@ -96,6 +100,7 @@
         "color": "#dc72da"
     },
     "FM1461": {
+        "code": "FM1461",
         "name": "\u00d6versiktsplanering",
         "points": 7.0,
         "semester": "V\u00e5rtermin 2018",
@@ -120,6 +125,7 @@
         "color": "#dc72da"
     },
     "FM1462": {
+        "code": "FM1462",
         "name": "Milj\u00f6konsekvensbed\u00f6mning",
         "points": 7.0,
         "semester": "V\u00e5rtermin 2018",
@@ -144,6 +150,7 @@
         "color": "#dc72da"
     },
     "FM1477": {
+        "code": "FM1477",
         "name": "Infrastruktur och mobilitet",
         "points": 15.0,
         "semester": "H\u00f6sttermin 2018",
@@ -167,6 +174,7 @@
         "color": "#dc72da"
     },
     "FM1476": {
+        "code": "FM1476",
         "name": "Planeringsteori",
         "points": 7.0,
         "semester": "V\u00e5rtermin 2019",
@@ -190,6 +198,7 @@
         "color": "#dc72da"
     },
     "FM1465": {
+        "code": "FM1465",
         "name": "Planering och h\u00e5llbarhet",
         "points": 7.0,
         "semester": "V\u00e5rtermin 2019",
@@ -213,6 +222,7 @@
         "color": "#dc72da"
     },
     "FM1468": {
+        "code": "FM1468",
         "name": "Planering och medborgardeltagande",
         "points": 7.0,
         "semester": "V\u00e5rtermin 2019",
@@ -236,6 +246,7 @@
         "color": "#dc72da"
     },
     "FM1478": {
+        "code": "FM1478",
         "name": "Komplexa stadsbyggnadsprojekt",
         "points": 15.0,
         "semester": "H\u00f6sttermin 2019",
@@ -259,6 +270,7 @@
         "color": "#dc72da"
     },
     "FM1498": {
+        "code": "FM1498",
         "name": "Arkitektur och offentliga rum",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2019",

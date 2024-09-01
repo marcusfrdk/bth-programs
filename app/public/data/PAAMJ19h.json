@@ -1,5 +1,6 @@
 {
     "MA1486": {
+        "code": "MA1486",
         "name": "Matematisk probleml\u00f6sning",
         "points": 4.0,
         "semester": "H\u00f6sttermin 2019",
@@ -23,6 +24,7 @@
         "color": "#f00558"
     },
     "DV1574": {
+        "code": "DV1574",
         "name": "Programmering och probleml\u00f6sning med Python",
         "points": 6.0,
         "semester": "H\u00f6sttermin 2019",
@@ -46,6 +48,7 @@
         "color": "#3df6d4"
     },
     "PA1461": {
+        "code": "PA1461",
         "name": "Ingenj\u00f6rsarbete inom ICT - Introduktion",
         "points": 8.0,
         "semester": "H\u00f6sttermin 2019",
@@ -70,6 +73,7 @@
         "color": "#86a7f4"
     },
     "MA1448": {
+        "code": "MA1448",
         "name": "Linj\u00e4r algebra 1",
         "points": 6.0,
         "semester": "H\u00f6sttermin 2019",
@@ -93,6 +97,7 @@
         "color": "#f00558"
     },
     "DV1581": {
+        "code": "DV1581",
         "name": "Programmering i C++",
         "points": 6.0,
         "semester": "H\u00f6sttermin 2019",
@@ -116,6 +121,7 @@
         "color": "#3df6d4"
     },
     "PA1459": {
+        "code": "PA1459",
         "name": "Objektorienterad Design",
         "points": 6.0,
         "semester": "V\u00e5rtermin 2020",
@@ -140,6 +146,7 @@
         "color": "#86a7f4"
     },
     "TE1423": {
+        "code": "TE1423",
         "name": "Teknikutveckling, digitalisering och samh\u00e4llsf\u00f6r\u00e4ndring",
         "points": 6.0,
         "semester": "V\u00e5rtermin 2020",
@@ -163,6 +170,7 @@
         "color": "#4aa7f5"
     },
     "PA1450": {
+        "code": "PA1450",
         "name": "Programvaruutveckling",
         "points": 6.0,
         "semester": "V\u00e5rtermin 2020",
@@ -187,6 +195,7 @@
         "color": "#86a7f4"
     },
     "DV1490": {
+        "code": "DV1490",
         "name": "Algoritmer och datastrukturer",
         "points": 6.0,
         "semester": "V\u00e5rtermin 2020",
@@ -210,6 +219,7 @@
         "color": "#3df6d4"
     },
     "MA1446": {
+        "code": "MA1446",
         "name": "Diskret matematik",
         "points": 6.0,
         "semester": "V\u00e5rtermin 2020",
@@ -233,6 +243,7 @@
         "color": "#f00558"
     },
     "DV1493": {
+        "code": "DV1493",
         "name": "Datorteknik",
         "points": 6.0,
         "semester": "H\u00f6sttermin 2020",
@@ -256,6 +267,7 @@
         "color": "#3df6d4"
     },
     "FY1431": {
+        "code": "FY1431",
         "name": "Fysik grundkurs",
         "points": 6.0,
         "semester": "H\u00f6sttermin 2020",
@@ -279,6 +291,7 @@
         "color": "#939342"
     },
     "DV1629": {
+        "code": "DV1629",
         "name": "Operativsystem",
         "points": 6.0,
         "semester": "H\u00f6sttermin 2020",
@@ -303,6 +316,7 @@
         "color": "#3df6d4"
     },
     "DV1587": {
+        "code": "DV1587",
         "name": "Databasteknik",
         "points": 6.0,
         "semester": "H\u00f6sttermin 2020",
@@ -326,6 +340,7 @@
         "color": "#3df6d4"
     },
     "IY1402": {
+        "code": "IY1402",
         "name": "Industriell ekonomi, \u00f6versiktskurs",
         "points": 6.0,
         "semester": "H\u00f6sttermin 2020",
@@ -349,6 +364,7 @@
         "color": "#aaa660"
     },
     "PA1463": {
+        "code": "PA1463",
         "name": "Kravhantering",
         "points": 6.0,
         "semester": "V\u00e5rtermin 2021",
@@ -372,6 +388,7 @@
         "color": "#86a7f4"
     },
     "PA1464": {
+        "code": "PA1464",
         "name": "Projekt i systemteknik",
         "points": 8.0,
         "semester": "V\u00e5rtermin 2021",
@@ -396,6 +413,7 @@
         "color": "#86a7f4"
     },
     "MA1444": {
+        "code": "MA1444",
         "name": "Analys 1",
         "points": 6.0,
         "semester": "V\u00e5rtermin 2021",
@@ -419,6 +437,7 @@
         "color": "#f00558"
     },
     "PA1466": {
+        "code": "PA1466",
         "name": "Global mjukvaruutveckling",
         "points": 4.0,
         "semester": "V\u00e5rtermin 2021",
@@ -442,6 +461,7 @@
         "color": "#86a7f4"
     },
     "PA1465": {
+        "code": "PA1465",
         "name": "Testning av mjukvara",
         "points": 6.0,
         "semester": "V\u00e5rtermin 2021",
@@ -465,6 +485,7 @@
         "color": "#86a7f4"
     },
     "MA1494": {
+        "code": "MA1494",
         "name": "Analys 2",
         "points": 6.0,
         "semester": "H\u00f6sttermin 2021",
@@ -488,6 +509,7 @@
         "color": "#f00558"
     },
     "DV2587": {
+        "code": "DV2587",
         "name": "Till\u00e4mpad artificiell intelligens",
         "points": 6.0,
         "semester": "H\u00f6sttermin 2021",
@@ -511,6 +533,7 @@
         "color": "#3df6d4"
     },
     "PA1454": {
+        "code": "PA1454",
         "name": "Programvaruarkitektur och kvalitet",
         "points": 6.0,
         "semester": "H\u00f6sttermin 2021",
@@ -534,6 +557,7 @@
         "color": "#86a7f4"
     },
     "MA1447": {
+        "code": "MA1447",
         "name": "Flervariabelanalys",
         "points": 6.0,
         "semester": "H\u00f6sttermin 2021",
@@ -557,6 +581,7 @@
         "color": "#f00558"
     },
     "DV2606": {
+        "code": "DV2606",
         "name": "Multiprocessorprogrammering",
         "points": 6.0,
         "semester": "H\u00f6sttermin 2021",
@@ -580,6 +605,7 @@
         "color": "#3df6d4"
     },
     "DV1601": {
+        "code": "DV1601",
         "name": "Anv\u00e4ndbarhet och interaktionsdesign",
         "points": 6.0,
         "semester": "V\u00e5rtermin 2022",
@@ -603,6 +629,7 @@
         "color": "#3df6d4"
     },
     "PA1467": {
+        "code": "PA1467",
         "name": "H\u00e5llbarhet i och f\u00f6r mjukvaruutveckling",
         "points": 2.0,
         "semester": "V\u00e5rtermin 2022",
@@ -626,6 +653,7 @@
         "color": "#86a7f4"
     },
     "DV1655": {
+        "code": "DV1655",
         "name": "Kompilator- och \u00f6vers\u00e4ttarteknik",
         "points": 6.0,
         "semester": "V\u00e5rtermin 2022",
@@ -649,6 +677,7 @@
         "color": "#3df6d4"
     },
     "PA1468": {
+        "code": "PA1468",
         "name": "S\u00e4kerhet och mjukvaruutveckling",
         "points": 4.0,
         "semester": "V\u00e5rtermin 2022",
@@ -672,6 +701,7 @@
         "color": "#86a7f4"
     },
     "FY1430": {
+        "code": "FY1430",
         "name": "Fysik \u2013 dipoler och elektromagnetiska v\u00e5gor",
         "points": 6.0,
         "semester": "V\u00e5rtermin 2022",
@@ -695,6 +725,7 @@
         "color": "#939342"
     },
     "MS1405": {
+        "code": "MS1405",
         "name": "Matematisk statistik",
         "points": 6.0,
         "semester": "V\u00e5rtermin 2022",
@@ -718,6 +749,7 @@
         "color": "#4d95e5"
     },
     "IY1431": {
+        "code": "IY1431",
         "name": "Projektledning och Ledarskap i Mjukvaruutveckling",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2022",
@@ -742,6 +774,7 @@
         "color": "#aaa660"
     },
     "PA2555": {
+        "code": "PA2555",
         "name": "Agile och Lean Mjukvaruutveckling",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2022",
@@ -765,6 +798,7 @@
         "color": "#86a7f4"
     },
     "PA2567": {
+        "code": "PA2567",
         "name": "Avancerat mjukvaruprojekt i team",
         "points": 15.0,
         "semester": "H\u00f6sttermin 2022",
@@ -789,6 +823,7 @@
         "color": "#86a7f4"
     },
     "PA2554": {
+        "code": "PA2554",
         "name": "Forskningsmetodik i Programvaruteknik och Datavetenskap",
         "points": 7.0,
         "semester": "V\u00e5rtermin 2023",
@@ -812,6 +847,7 @@
         "color": "#86a7f4"
     },
     "PA2562": {
+        "code": "PA2562",
         "name": "S\u00e4ker mjukvaruutveckling",
         "points": 7.0,
         "semester": "V\u00e5rtermin 2023",
@@ -835,6 +871,7 @@
         "color": "#86a7f4"
     },
     "PA2571": {
+        "code": "PA2571",
         "name": "V\u00e4rdedriven mjukvaruutveckling",
         "points": 7.0,
         "semester": "V\u00e5rtermin 2023",
@@ -858,6 +895,7 @@
         "color": "#86a7f4"
     },
     "ET2625": {
+        "code": "ET2625",
         "name": "Robotik",
         "points": 7.0,
         "semester": "V\u00e5rtermin 2023",
@@ -881,6 +919,7 @@
         "color": "#a61555"
     },
     "PA2572": {
+        "code": "PA2572",
         "name": "Datadriven mjukvaruutveckling",
         "points": 7.0,
         "semester": "V\u00e5rtermin 2023",
@@ -904,6 +943,7 @@
         "color": "#86a7f4"
     },
     "PA2573": {
+        "code": "PA2573",
         "name": "Ekosystem och system-av-system",
         "points": 7.0,
         "semester": "V\u00e5rtermin 2023",
@@ -927,6 +967,7 @@
         "color": "#86a7f4"
     },
     "PA2570": {
+        "code": "PA2570",
         "name": "M\u00e4nniskan i mjukvaruutveckling",
         "points": 7.0,
         "semester": "V\u00e5rtermin 2023",
@@ -950,6 +991,7 @@
         "color": "#86a7f4"
     },
     "IY1425": {
+        "code": "IY1425",
         "name": "Aff\u00e4rsstrategier f\u00f6r digital transformation",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2023",
@@ -973,6 +1015,7 @@
         "color": "#aaa660"
     },
     "PA2558": {
+        "code": "PA2558",
         "name": "Evolution och Underh\u00e5ll av Mjukvara - Projekt",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2023",
@@ -996,6 +1039,7 @@
         "color": "#86a7f4"
     },
     "IY1430": {
+        "code": "IY1430",
         "name": "ICT startups och h\u00f6gteknologiskt entrepren\u00f6rskap",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2023",
@@ -1019,6 +1063,7 @@
         "color": "#aaa660"
     },
     "DV2626": {
+        "code": "DV2626",
         "name": "Maskininl\u00e4rning",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2023",
@@ -1042,6 +1087,7 @@
         "color": "#3df6d4"
     },
     "PA1469": {
+        "code": "PA1469",
         "name": "Utveckling av mobila applikationer",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2023",
@@ -1065,6 +1111,7 @@
         "color": "#86a7f4"
     },
     "PA2577": {
+        "code": "PA2577",
         "name": "Till\u00e4mpad Cloud Computing och Big Data",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2023",
@@ -1088,6 +1135,7 @@
         "color": "#86a7f4"
     },
     "TE2502": {
+        "code": "TE2502",
         "name": "Examensarbete f\u00f6r civilingenj\u00f6rer",
         "points": 30.0,
         "semester": "V\u00e5rtermin 2024",

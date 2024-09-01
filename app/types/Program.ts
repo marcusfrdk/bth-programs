@@ -5,6 +5,7 @@ export type ProgramType = {
 };
 
 export type CourseType = {
+    code: string;
     name: string;
     points: number;
     semester: string;
@@ -25,6 +26,18 @@ export type CourseType = {
     is_double: boolean;
     color: string;
 };
+
+export type TeacherType = {
+    code: string,
+    name: string,
+    email: string,
+    phone: string,
+    room: string,
+    unit: string,
+    location: string
+};
+
+export type TeachersType = Record<string, TeacherType>;
 
 export type CodeType = string; // ABCDE
 export type SemesterType = string; // 12a

@@ -1,5 +1,6 @@
 {
     "OM2536": {
+        "code": "OM2536",
         "name": "Specialistsjuksk\u00f6terskans profession och vetenskapliga f\u00f6rh\u00e5llningss\u00e4tt inom psykiatrisk v\u00e5rd",
         "points": 30.0,
         "semester": "H\u00f6sttermin 2019",
@@ -24,6 +25,7 @@
         "color": "#746936"
     },
     "OM2537": {
+        "code": "OM2537",
         "name": "Specifik omv\u00e5rdnad inom psykiatrisk v\u00e5rd",
         "points": 15.0,
         "semester": "V\u00e5rtermin 2020",
@@ -47,6 +49,7 @@
         "color": "#746936"
     },
     "OM2538": {
+        "code": "OM2538",
         "name": "Examensarbete i omv\u00e5rdnad med inriktning mot psykiatrisk v\u00e5rd",
         "points": 15.0,
         "semester": "V\u00e5rtermin 2020",

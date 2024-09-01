@@ -1,5 +1,6 @@
 {
     "IY2630": {
+        "code": "IY2630",
         "name": "Perspektiv p\u00e5 ledarskap",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2024",
@@ -23,6 +24,7 @@
         "color": "#aaa660"
     },
     "IY2633": {
+        "code": "IY2633",
         "name": "Finansiering och investering",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2024",
@@ -46,6 +48,7 @@
         "color": "#aaa660"
     },
     "IY2593": {
+        "code": "IY2593",
         "name": "Mikroekonomi f\u00f6r beslutsfattare",
         "points": 7.0,
         "semester": "V\u00e5rtermin 2025",
@@ -69,6 +72,7 @@
         "color": "#aaa660"
     },
     "IY2610": {
+        "code": "IY2610",
         "name": "Strategi och styrning",
         "points": 7.0,
         "semester": "V\u00e5rtermin 2025",
@@ -92,6 +96,7 @@
         "color": "#aaa660"
     },
     "IY2611": {
+        "code": "IY2611",
         "name": "Ekonomisk analys av teknologi och innovation",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2025",
@@ -115,6 +120,7 @@
         "color": "#aaa660"
     },
     "IY2596": {
+        "code": "IY2596",
         "name": "Forskningsmetodik i industriell ekonomi",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2025",
@@ -138,6 +144,7 @@
         "color": "#aaa660"
     },
     "IY2594": {
+        "code": "IY2594",
         "name": "Magisterarbete MBA",
         "points": 15.0,
         "semester": "V\u00e5rtermin 2026",

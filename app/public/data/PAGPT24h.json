@@ -1,5 +1,6 @@
 {
     "DV1670": {
+        "code": "DV1670",
         "name": "Programmering och probleml\u00f6sning med Python",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2024",
@@ -23,6 +24,7 @@
         "color": "#3df6d4"
     },
     "PA1489": {
+        "code": "PA1489",
         "name": "Grundl\u00e4ggande mjukvaruutveckling",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2024",
@@ -46,6 +48,7 @@
         "color": "#86a7f4"
     },
     "DV1627": {
+        "code": "DV1627",
         "name": "Objektorienterad programmering i C++",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2024",
@@ -69,6 +72,7 @@
         "color": "#3df6d4"
     },
     "MA1507": {
+        "code": "MA1507",
         "name": "Diskret matematik och algoritmer",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2024",
@@ -92,6 +96,7 @@
         "color": "#f00558"
     },
     "PA1460": {
+        "code": "PA1460",
         "name": "Introduktion till Programvarudesign och Arkitektur",
         "points": 5.0,
         "semester": "V\u00e5rtermin 2025",
@@ -115,6 +120,7 @@
         "color": "#86a7f4"
     },
     "DV1605": {
+        "code": "DV1605",
         "name": "Webbprogrammering och databaser",
         "points": 10.0,
         "semester": "V\u00e5rtermin 2025",
@@ -138,6 +144,7 @@
         "color": "#3df6d4"
     },
     "DV1662": {
+        "code": "DV1662",
         "name": "Algoritmer och datastrukturer",
         "points": 7.0,
         "semester": "V\u00e5rtermin 2025",
@@ -161,6 +168,7 @@
         "color": "#3df6d4"
     },
     "ET1524": {
+        "code": "ET1524",
         "name": "N\u00e4tverksbaserade system",
         "points": 7.0,
         "semester": "V\u00e5rtermin 2025",
@@ -184,6 +192,7 @@
         "color": "#a61555"
     },
     "MA1508": {
+        "code": "MA1508",
         "name": "Numeriska metoder och modellering",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2025",
@@ -207,6 +216,7 @@
         "color": "#f00558"
     },
     "PA1414": {
+        "code": "PA1414",
         "name": "Individuellt programvaruprojekt",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2025",
@@ -230,6 +240,7 @@
         "color": "#86a7f4"
     },
     "DV1613": {
+        "code": "DV1613",
         "name": "Datorteknik",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2025",
@@ -253,6 +264,7 @@
         "color": "#3df6d4"
     },
     "DV1698": {
+        "code": "DV1698",
         "name": "Operativsystem",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2025",
@@ -276,6 +288,7 @@
         "color": "#3df6d4"
     },
     "PA1416": {
+        "code": "PA1416",
         "name": "Programvaruprojekt i grupp",
         "points": 15.0,
         "semester": "V\u00e5rtermin 2026",
@@ -300,6 +313,7 @@
         "color": "#86a7f4"
     },
     "DV1557": {
+        "code": "DV1557",
         "name": "Anv\u00e4ndbarhet och interaktionsdesign",
         "points": 7.0,
         "semester": "V\u00e5rtermin 2026",
@@ -323,6 +337,7 @@
         "color": "#3df6d4"
     },
     "DV1656": {
+        "code": "DV1656",
         "name": "Kompilator- och \u00f6vers\u00e4ttarteknik",
         "points": 7.0,
         "semester": "V\u00e5rtermin 2026",
@@ -346,6 +361,7 @@
         "color": "#3df6d4"
     },
     "PA1417": {
+        "code": "PA1417",
         "name": "Grundl\u00e4ggande systemverifiering",
         "points": 7.0,
         "semester": "V\u00e5rtermin 2026",
@@ -369,6 +385,7 @@
         "color": "#86a7f4"
     },
     "PA1478": {
+        "code": "PA1478",
         "name": "Forskningsmetodik i datavetenskaper",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2026",
@@ -392,6 +409,7 @@
         "color": "#86a7f4"
     },
     "DV1674": {
+        "code": "DV1674",
         "name": "Prestandaoptimering",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2026",
@@ -415,6 +433,7 @@
         "color": "#3df6d4"
     },
     "DV1457": {
+        "code": "DV1457",
         "name": "Programmering i UNIX-milj\u00f6",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2026",
@@ -438,6 +457,7 @@
         "color": "#3df6d4"
     },
     "PA1471": {
+        "code": "PA1471",
         "name": "Global programvaruteknik",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2026",
@@ -461,6 +481,7 @@
         "color": "#86a7f4"
     },
     "DV1566": {
+        "code": "DV1566",
         "name": "Introduktion till Cloud Computing",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2026",
@@ -484,6 +505,7 @@
         "color": "#3df6d4"
     },
     "PA1453": {
+        "code": "PA1453",
         "name": "Programvaruarkitektur och kvalitet",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2026",
@@ -507,6 +529,7 @@
         "color": "#86a7f4"
     },
     "PA1469": {
+        "code": "PA1469",
         "name": "Utveckling av mobila applikationer",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2026",
@@ -530,6 +553,7 @@
         "color": "#86a7f4"
     },
     "DV2620": {
+        "code": "DV2620",
         "name": "Programvarus\u00e4kerhet",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2026",
@@ -553,6 +577,7 @@
         "color": "#3df6d4"
     },
     "PA1449": {
+        "code": "PA1449",
         "name": "Avancerat programvaruprojekt i grupp",
         "points": 15.0,
         "semester": "V\u00e5rtermin 2027",
@@ -577,6 +602,7 @@
         "color": "#86a7f4"
     },
     "PA1445": {
+        "code": "PA1445",
         "name": "Kandidatarbete i Programvaruteknik",
         "points": 15.0,
         "semester": "V\u00e5rtermin 2027",

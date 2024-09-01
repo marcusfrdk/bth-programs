@@ -1,5 +1,6 @@
 {
     "OM2553": {
+        "code": "OM2553",
         "name": "Specialistsjuksk\u00f6terskans profession inom psykiatrisk v\u00e5rd",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2024",
@@ -23,6 +24,7 @@
         "color": "#746936"
     },
     "OM2554": {
+        "code": "OM2554",
         "name": "Psykisk oh\u00e4lsa och psykiatriska sjukdomstillst\u00e5nd",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2024",
@@ -46,6 +48,7 @@
         "color": "#746936"
     },
     "OM2555": {
+        "code": "OM2555",
         "name": "Psykiatrisk omv\u00e5rdnad, v\u00e5rd och behandling",
         "points": 15.0,
         "semester": "V\u00e5rtermin 2025",
@@ -70,6 +73,7 @@
         "color": "#746936"
     },
     "OM2556": {
+        "code": "OM2556",
         "name": "Verksamhetsf\u00f6rlagd utbildning inom psykiatrisk v\u00e5rd",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2025",
@@ -93,6 +97,7 @@
         "color": "#746936"
     },
     "OM2547": {
+        "code": "OM2547",
         "name": "Vetenskapliga teorier och metoder p\u00e5 avancerad niv\u00e5",
         "points": 7.0,
         "semester": "H\u00f6sttermin 2025",
@@ -116,6 +121,7 @@
         "color": "#746936"
     },
     "OM2557": {
+        "code": "OM2557",
         "name": "Sj\u00e4lvst\u00e4ndigt arbete i omv\u00e5rdnad - psykiatrisk v\u00e5rd",
         "points": 15.0,
         "semester": "V\u00e5rtermin 2026",
