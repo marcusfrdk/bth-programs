@@ -262,6 +262,7 @@ const Programs = styled.div`
     justify-content: space-between;
     align-items: center;
     width: 100%;
+    max-width: 64rem;
     height: 3rem;
     user-select: none;
 
