@@ -2,7 +2,7 @@
     "KM1412": {
         "code": "KM1412",
         "name": "Medicin I",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2018",
         "start_week": 3,
         "end_week": 22,
@@ -77,7 +77,7 @@
     "OM1444": {
         "code": "OM1444",
         "name": "Sjuksk\u00f6terskeprofessionen och samh\u00e4llet",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2018",
         "start_week": 3,
         "end_week": 22,
@@ -102,7 +102,7 @@
     "OM1462": {
         "code": "OM1462",
         "name": "Grundl\u00e4ggande omv\u00e5rdnad",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2018",
         "start_week": 35,
         "end_week": 39,
@@ -126,7 +126,7 @@
     "OM1463": {
         "code": "OM1463",
         "name": "Verksamhetsf\u00f6rlagd utbildning (VFU), M\u00e4nniskan och omv\u00e5rdnaden",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2018",
         "start_week": 40,
         "end_week": 44,
@@ -150,7 +150,7 @@
     "KM1417": {
         "code": "KM1417",
         "name": "Medicin II",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2018",
         "start_week": 45,
         "end_week": 49,
@@ -174,7 +174,7 @@
     "KM1414": {
         "code": "KM1414",
         "name": "Medicin III",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2018",
         "start_week": 50,
         "end_week": 3,
@@ -222,7 +222,7 @@
     "OM1486": {
         "code": "OM1486",
         "name": "eH\u00e4lsa inom omv\u00e5rdnad I",
-        "points": 4.0,
+        "points": 4.5,
         "semester": "V\u00e5rtermin 2019",
         "start_week": 14,
         "end_week": 16,
@@ -246,7 +246,7 @@
     "OM1490": {
         "code": "OM1490",
         "name": "Verksamhetsf\u00f6rlagd utbildning (VFU) inriktad mot somatisk v\u00e5rd (Termin 3)",
-        "points": 10.0,
+        "points": 10.5,
         "semester": "V\u00e5rtermin 2019",
         "start_week": 17,
         "end_week": 23,
@@ -270,7 +270,7 @@
     "OM1489": {
         "code": "OM1489",
         "name": "Verksamhetsf\u00f6rlagd utbildning (VFU) inriktad mot psykiatrisk omv\u00e5rdnad och demensv\u00e5rd (Termin 3)",
-        "points": 10.0,
+        "points": 10.5,
         "semester": "V\u00e5rtermin 2019",
         "start_week": 17,
         "end_week": 23,
@@ -294,7 +294,7 @@
     "OM1488": {
         "code": "OM1488",
         "name": "Verksamhetsf\u00f6rlagd utbildning (VFU) inriktad mot prim\u00e4r v\u00e5rd (Termin 3)",
-        "points": 10.0,
+        "points": 10.5,
         "semester": "V\u00e5rtermin 2019",
         "start_week": 17,
         "end_week": 23,
@@ -318,7 +318,7 @@
     "OM1529": {
         "code": "OM1529",
         "name": "Verksamhetsf\u00f6rlagd utbildning (VFU) inriktad mot prim\u00e4r v\u00e5rd (Termin 4)",
-        "points": 10.0,
+        "points": 10.5,
         "semester": "H\u00f6sttermin 2019",
         "start_week": 35,
         "end_week": 41,
@@ -342,7 +342,7 @@
     "OM1493": {
         "code": "OM1493",
         "name": "Verksamhetsf\u00f6rlagd utbildning (VFU) inriktad mot psykiatrisk omv\u00e5rdnad och demensv\u00e5rd (Termin 4)",
-        "points": 10.0,
+        "points": 10.5,
         "semester": "H\u00f6sttermin 2019",
         "start_week": 35,
         "end_week": 41,
@@ -366,7 +366,7 @@
     "OM1494": {
         "code": "OM1494",
         "name": "Verksamhetsf\u00f6rlagd utbildning (VFU) inriktad mot somatisk v\u00e5rd (Termin 4)",
-        "points": 10.0,
+        "points": 10.5,
         "semester": "H\u00f6sttermin 2019",
         "start_week": 35,
         "end_week": 41,
@@ -390,7 +390,7 @@
     "OM1495": {
         "code": "OM1495",
         "name": "Verksamhetsf\u00f6rlagd utbildning (VFU) inriktad mot somatisk v\u00e5rd, f\u00f6rdjupning",
-        "points": 10.0,
+        "points": 10.5,
         "semester": "H\u00f6sttermin 2019",
         "start_week": 42,
         "end_week": 48,
@@ -414,7 +414,7 @@
     "OM1530": {
         "code": "OM1530",
         "name": "Verksamhetsf\u00f6rlagd utbildning (VFU) inriktad mot prim\u00e4r v\u00e5rd, f\u00f6rdjupning",
-        "points": 10.0,
+        "points": 10.5,
         "semester": "H\u00f6sttermin 2019",
         "start_week": 42,
         "end_week": 48,
@@ -462,7 +462,7 @@
     "OM1498": {
         "code": "OM1498",
         "name": "Sjuksk\u00f6terskan som ledare",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2020",
         "start_week": 4,
         "end_week": 8,
@@ -486,7 +486,7 @@
     "OM1487": {
         "code": "OM1487",
         "name": "eH\u00e4lsa inom omv\u00e5rdnad II",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2020",
         "start_week": 9,
         "end_week": 13,
@@ -510,7 +510,7 @@
     "OM1502": {
         "code": "OM1502",
         "name": "Omv\u00e5rdnad vid neurologisk oh\u00e4lsa",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2020",
         "start_week": 9,
         "end_week": 13,
@@ -534,7 +534,7 @@
     "OM1503": {
         "code": "OM1503",
         "name": "Omv\u00e5rdnad vid kardiologisk oh\u00e4lsa",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2020",
         "start_week": 9,
         "end_week": 13,
@@ -558,7 +558,7 @@
     "OM1501": {
         "code": "OM1501",
         "name": "Omv\u00e5rdnad vid palliativ v\u00e5rd",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2020",
         "start_week": 9,
         "end_week": 13,
@@ -582,7 +582,7 @@
     "OM1483": {
         "code": "OM1483",
         "name": "Interkulturella perspektiv inom h\u00e4lso- och sjukv\u00e5rd",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2020",
         "start_week": 10,
         "end_week": 23,

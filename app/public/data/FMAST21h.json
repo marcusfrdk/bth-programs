@@ -50,7 +50,7 @@
     "FM2597": {
         "code": "FM2597",
         "name": "Vetenskapligt arbete: teoretiska utg\u00e5ngspunkter och unders\u00f6kningsmetoder",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2022",
         "start_week": 3,
         "end_week": 7,
@@ -74,7 +74,7 @@
     "FM2598": {
         "code": "FM2598",
         "name": "Samh\u00e4llsorganisation och styrformer",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2022",
         "start_week": 8,
         "end_week": 12,
@@ -98,7 +98,7 @@
     "FM2607": {
         "code": "FM2607",
         "name": "Planeringsteori",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2022",
         "start_week": 13,
         "end_week": 17,
@@ -122,7 +122,7 @@
     "FM2599": {
         "code": "FM2599",
         "name": "Tematiska studier",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2022",
         "start_week": 18,
         "end_week": 22,

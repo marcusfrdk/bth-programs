@@ -2,7 +2,7 @@
     "DV1670": {
         "code": "DV1670",
         "name": "Programmering och probleml\u00f6sning med Python",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2023",
         "start_week": 34,
         "end_week": 43,
@@ -26,7 +26,7 @@
     "PA1439": {
         "code": "PA1439",
         "name": "Webbteknologier",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2023",
         "start_week": 34,
         "end_week": 43,
@@ -50,7 +50,7 @@
     "PA1436": {
         "code": "PA1436",
         "name": "Teknisk webbdesign och anv\u00e4ndbarhet",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2023",
         "start_week": 44,
         "end_week": 2,
@@ -74,7 +74,7 @@
     "DV1657": {
         "code": "DV1657",
         "name": "Programmering med JavaScript",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2023",
         "start_week": 44,
         "end_week": 2,
@@ -98,7 +98,7 @@
     "DV1606": {
         "code": "DV1606",
         "name": "Databasteknologier f\u00f6r webben",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2024",
         "start_week": 3,
         "end_week": 12,
@@ -122,7 +122,7 @@
     "DV1660": {
         "code": "DV1660",
         "name": "Algoritmer och datastrukturer med objektorienterad Python",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2024",
         "start_week": 3,
         "end_week": 12,
@@ -146,7 +146,7 @@
     "DV1608": {
         "code": "DV1608",
         "name": "Objektorienterade webbteknologier",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2024",
         "start_week": 13,
         "end_week": 22,
@@ -170,7 +170,7 @@
     "DV1609": {
         "code": "DV1609",
         "name": "Webbapplikationer f\u00f6r mobila enheter",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2024",
         "start_week": 13,
         "end_week": 22,
@@ -194,7 +194,7 @@
     "DV1611": {
         "code": "DV1611",
         "name": "Operativsystemet Linux och virtualiseringstekniker",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2024",
         "start_week": 36,
         "end_week": 44,
@@ -218,7 +218,7 @@
     "PA1414": {
         "code": "PA1414",
         "name": "Individuellt programvaruprojekt",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2024",
         "start_week": 36,
         "end_week": 44,
@@ -242,7 +242,7 @@
     "DV1676": {
         "code": "DV1676",
         "name": "Programutveckling i virtuella team",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2024",
         "start_week": 45,
         "end_week": 3,
@@ -266,7 +266,7 @@
     "MA1487": {
         "code": "MA1487",
         "name": "Matematisk\u00a0modellering",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2024",
         "start_week": 45,
         "end_week": 3,
@@ -315,7 +315,7 @@
     "ET1447": {
         "code": "ET1447",
         "name": "Data- och telekommunikation",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2025",
         "start_week": 4,
         "end_week": 13,
@@ -339,7 +339,7 @@
     "DV1557": {
         "code": "DV1557",
         "name": "Anv\u00e4ndbarhet och interaktionsdesign",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2025",
         "start_week": 4,
         "end_week": 13,
@@ -363,7 +363,7 @@
     "PA1417": {
         "code": "PA1417",
         "name": "Grundl\u00e4ggande systemverifiering",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2025",
         "start_week": 14,
         "end_week": 23,
@@ -387,7 +387,7 @@
     "DV1677": {
         "code": "DV1677",
         "name": "JavaScript-baserade webbramverk",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2025",
         "start_week": 36,
         "end_week": 44,
@@ -411,7 +411,7 @@
     "PA1478": {
         "code": "PA1478",
         "name": "Forskningsmetodik i datavetenskaper",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2025",
         "start_week": 36,
         "end_week": 44,
@@ -435,7 +435,7 @@
     "DV1616": {
         "code": "DV1616",
         "name": "Informationss\u00e4kerhet med webbtill\u00e4mpningar",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2025",
         "start_week": 45,
         "end_week": 3,
@@ -459,7 +459,7 @@
     "DV1673": {
         "code": "DV1673",
         "name": "Kontinuerlig integration och drifts\u00e4ttning i molnet",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2025",
         "start_week": 45,
         "end_week": 3,

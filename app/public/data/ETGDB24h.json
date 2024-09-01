@@ -2,7 +2,7 @@
     "ET1556": {
         "code": "ET1556",
         "name": "Introduktion till vetenskapligt arbete",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2024",
         "start_week": 36,
         "end_week": 44,
@@ -26,7 +26,7 @@
     "DV1614": {
         "code": "DV1614",
         "name": "Till\u00e4mpad programmering i Python",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2024",
         "start_week": 36,
         "end_week": 44,
@@ -74,7 +74,7 @@
     "ET1542": {
         "code": "ET1542",
         "name": "N\u00e4tverksbaserade system",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2024",
         "start_week": 45,
         "end_week": 3,
@@ -122,7 +122,7 @@
     "ET2568": {
         "code": "ET2568",
         "name": "Tr\u00e5dl\u00f6sa n\u00e4tverk",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2025",
         "start_week": 4,
         "end_week": 13,

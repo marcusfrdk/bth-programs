@@ -2,7 +2,7 @@
     "OM2553": {
         "code": "OM2553",
         "name": "Specialistsjuksk\u00f6terskans profession inom psykiatrisk v\u00e5rd",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2024",
         "start_week": 36,
         "end_week": 45,
@@ -26,7 +26,7 @@
     "OM2554": {
         "code": "OM2554",
         "name": "Psykisk oh\u00e4lsa och psykiatriska sjukdomstillst\u00e5nd",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2024",
         "start_week": 46,
         "end_week": 3,
@@ -75,7 +75,7 @@
     "OM2556": {
         "code": "OM2556",
         "name": "Verksamhetsf\u00f6rlagd utbildning inom psykiatrisk v\u00e5rd",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2025",
         "start_week": 36,
         "end_week": 44,
@@ -99,7 +99,7 @@
     "OM2547": {
         "code": "OM2547",
         "name": "Vetenskapliga teorier och metoder p\u00e5 avancerad niv\u00e5",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2025",
         "start_week": 45,
         "end_week": 3,

@@ -2,7 +2,7 @@
     "DV1619": {
         "code": "DV1619",
         "name": "Datorkommunikation",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2020",
         "start_week": 36,
         "end_week": 44,
@@ -26,7 +26,7 @@
     "DV1466": {
         "code": "DV1466",
         "name": "UNIX och Linux, en \u00f6versikt och introduktion",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2020",
         "start_week": 36,
         "end_week": 44,
@@ -50,7 +50,7 @@
     "ET2595": {
         "code": "ET2595",
         "name": "N\u00e4tverks- och systems\u00e4kerhet",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2020",
         "start_week": 45,
         "end_week": 2,
@@ -74,7 +74,7 @@
     "ET1542": {
         "code": "ET1542",
         "name": "N\u00e4tverksbaserade system",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2020",
         "start_week": 45,
         "end_week": 2,
@@ -98,7 +98,7 @@
     "ET2619": {
         "code": "ET2619",
         "name": "Forskningsmetodik i elektroteknik med inriktning mot telekommunikationssystem",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2021",
         "start_week": 3,
         "end_week": 12,
@@ -122,7 +122,7 @@
     "ET2597": {
         "code": "ET2597",
         "name": "Avancerad n\u00e4tverksteknik",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2021",
         "start_week": 3,
         "end_week": 12,
@@ -146,7 +146,7 @@
     "ET2594": {
         "code": "ET2594",
         "name": "Kapacitetsanalys",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2021",
         "start_week": 13,
         "end_week": 22,
@@ -170,7 +170,7 @@
     "MS1411": {
         "code": "MS1411",
         "name": "Matematisk statistik",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2021",
         "start_week": 13,
         "end_week": 22,
@@ -194,7 +194,7 @@
     "ET2596": {
         "code": "ET2596",
         "name": "Simulering",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2021",
         "start_week": 35,
         "end_week": 43,
@@ -218,7 +218,7 @@
     "ET2598": {
         "code": "ET2598",
         "name": "Drift av n\u00e4tverk och n\u00e4tverkstj\u00e4nster",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2021",
         "start_week": 35,
         "end_week": 43,
@@ -242,7 +242,7 @@
     "ET2620": {
         "code": "ET2620",
         "name": "F\u00f6rdjupningskurs i telekommunikationssystem",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2021",
         "start_week": 44,
         "end_week": 2,
@@ -266,7 +266,7 @@
     "ET2601": {
         "code": "ET2601",
         "name": "Upplevd kvalitet i n\u00e4tverksbaserade tj\u00e4nster",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2021",
         "start_week": 44,
         "end_week": 2,
@@ -290,7 +290,7 @@
     "ET2599": {
         "code": "ET2599",
         "name": "Mjukvarubaserade n\u00e4tverk",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2021",
         "start_week": 44,
         "end_week": 2,

@@ -759,7 +759,7 @@
     "DV1457": {
         "code": "DV1457",
         "name": "Programmering i UNIX-milj\u00f6",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2020",
         "start_week": 36,
         "end_week": 44,
@@ -783,7 +783,7 @@
     "IY2539": {
         "code": "IY2539",
         "name": "Entrepren\u00f6rskap och det innovativa f\u00f6retaget",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2020",
         "start_week": 36,
         "end_week": 44,
@@ -807,7 +807,7 @@
     "DV1567": {
         "code": "DV1567",
         "name": "Prestandaoptimering",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2020",
         "start_week": 36,
         "end_week": 44,
@@ -831,7 +831,7 @@
     "DV2582": {
         "code": "DV2582",
         "name": "Analys av illasinnad programvara (malware)",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2020",
         "start_week": 36,
         "end_week": 44,
@@ -855,7 +855,7 @@
     "DV2557": {
         "code": "DV2557",
         "name": "Till\u00e4mpad artificiell intelligens",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2020",
         "start_week": 36,
         "end_week": 44,
@@ -879,7 +879,7 @@
     "DV2546": {
         "code": "DV2546",
         "name": "Programvarus\u00e4kerhet",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2020",
         "start_week": 45,
         "end_week": 2,
@@ -903,7 +903,7 @@
     "DV2578": {
         "code": "DV2578",
         "name": "Maskininl\u00e4rning",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2020",
         "start_week": 45,
         "end_week": 2,
@@ -927,7 +927,7 @@
     "PA1453": {
         "code": "PA1453",
         "name": "Programvaruarkitektur och kvalitet",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2020",
         "start_week": 45,
         "end_week": 2,
@@ -951,7 +951,7 @@
     "DV2577": {
         "code": "DV2577",
         "name": "Webbs\u00e4kerhet",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2020",
         "start_week": 45,
         "end_week": 2,
@@ -975,7 +975,7 @@
     "PA2562": {
         "code": "PA2562",
         "name": "S\u00e4ker mjukvaruutveckling",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2021",
         "start_week": 3,
         "end_week": 12,
@@ -999,7 +999,7 @@
     "PA2561": {
         "code": "PA2561",
         "name": "Avancerat projekt i s\u00e4ker mjukvaruutveckling",
-        "points": 22.0,
+        "points": 22.5,
         "semester": "V\u00e5rtermin 2021",
         "start_week": 3,
         "end_week": 22,
@@ -1024,7 +1024,7 @@
     "PA1433": {
         "code": "PA1433",
         "name": "Forskningsmetodik i datavetenskaper",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2021",
         "start_week": 35,
         "end_week": 43,
@@ -1048,7 +1048,7 @@
     "MA2513": {
         "code": "MA2513",
         "name": "Kryptering 3",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2021",
         "start_week": 35,
         "end_week": 43,
@@ -1072,7 +1072,7 @@
     "DV2579": {
         "code": "DV2579",
         "name": "F\u00f6rdjupningskurs i digital unders\u00f6kningsteknik",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2021",
         "start_week": 44,
         "end_week": 2,
@@ -1096,7 +1096,7 @@
     "PA2551": {
         "code": "PA2551",
         "name": "Kravhantering och Produkthantering",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2021",
         "start_week": 44,
         "end_week": 2,
@@ -1120,7 +1120,7 @@
     "DV2597": {
         "code": "DV2597",
         "name": "Multiprocessorprogrammering",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2021",
         "start_week": 44,
         "end_week": 2,

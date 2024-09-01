@@ -2,7 +2,7 @@
     "MT1442": {
         "code": "MT1442",
         "name": "Innovativ och h\u00e5llbar produktutveckling",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2020",
         "start_week": 36,
         "end_week": 44,
@@ -26,7 +26,7 @@
     "MT1440": {
         "code": "MT1440",
         "name": "Datorst\u00f6d inom Konstruktion 2",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2020",
         "start_week": 45,
         "end_week": 2,
@@ -50,7 +50,7 @@
     "MT1520": {
         "code": "MT1520",
         "name": "Innovationsprojekt",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2021",
         "start_week": 3,
         "end_week": 12,
@@ -74,7 +74,7 @@
     "MT1542": {
         "code": "MT1542",
         "name": "Sj\u00e4lvst\u00e4ndigt arbete inom Produktutveckling",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2021",
         "start_week": 13,
         "end_week": 22,

@@ -2,7 +2,7 @@
     "MA1476": {
         "code": "MA1476",
         "name": "Matematisk introduktion",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2017",
         "start_week": 35,
         "end_week": 2,
@@ -27,7 +27,7 @@
     "MA1484": {
         "code": "MA1484",
         "name": "Diskret matematik",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2017",
         "start_week": 35,
         "end_week": 2,
@@ -52,7 +52,7 @@
     "DV1537": {
         "code": "DV1537",
         "name": "Objektorienterad programmering i C++",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2017",
         "start_week": 35,
         "end_week": 2,
@@ -77,7 +77,7 @@
     "DV1540": {
         "code": "DV1540",
         "name": "Inledande programmering i C++",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2017",
         "start_week": 35,
         "end_week": 2,
@@ -102,7 +102,7 @@
     "PA1414": {
         "code": "PA1414",
         "name": "Individuellt programvaruprojekt",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2018",
         "start_week": 36,
         "end_week": 44,
@@ -126,7 +126,7 @@
     "DV1603": {
         "code": "DV1603",
         "name": "Operativsystem",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2018",
         "start_week": 36,
         "end_week": 44,
@@ -150,7 +150,7 @@
     "DV1466": {
         "code": "DV1466",
         "name": "UNIX och Linux, en \u00f6versikt och introduktion",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2018",
         "start_week": 45,
         "end_week": 3,
@@ -174,7 +174,7 @@
     "ET1524": {
         "code": "ET1524",
         "name": "N\u00e4tverksbaserade system",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2018",
         "start_week": 45,
         "end_week": 3,
@@ -223,7 +223,7 @@
     "DV1584": {
         "code": "DV1584",
         "name": "Kompilator- och \u00f6vers\u00e4ttarteknik",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2019",
         "start_week": 4,
         "end_week": 13,
@@ -247,7 +247,7 @@
     "PA1417": {
         "code": "PA1417",
         "name": "Grundl\u00e4ggande systemverifiering",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2019",
         "start_week": 14,
         "end_week": 23,
@@ -271,7 +271,7 @@
     "MA1485": {
         "code": "MA1485",
         "name": "Linj\u00e4r algebra",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2019",
         "start_week": 36,
         "end_week": 44,
@@ -295,7 +295,7 @@
     "DV1567": {
         "code": "DV1567",
         "name": "Prestandaoptimering",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2019",
         "start_week": 36,
         "end_week": 44,
@@ -319,7 +319,7 @@
     "DV1457": {
         "code": "DV1457",
         "name": "Programmering i UNIX-milj\u00f6",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2019",
         "start_week": 36,
         "end_week": 44,
@@ -343,7 +343,7 @@
     "PA1471": {
         "code": "PA1471",
         "name": "Global programvaruteknik",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2019",
         "start_week": 36,
         "end_week": 44,
@@ -367,7 +367,7 @@
     "PA1469": {
         "code": "PA1469",
         "name": "Utveckling av mobila applikationer",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2019",
         "start_week": 45,
         "end_week": 3,
@@ -391,7 +391,7 @@
     "DV2546": {
         "code": "DV2546",
         "name": "Programvarus\u00e4kerhet",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2019",
         "start_week": 45,
         "end_week": 3,
@@ -415,7 +415,7 @@
     "PA1453": {
         "code": "PA1453",
         "name": "Programvaruarkitektur och kvalitet",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2019",
         "start_week": 45,
         "end_week": 3,
@@ -439,7 +439,7 @@
     "DV1566": {
         "code": "DV1566",
         "name": "Introduktion till Cloud Computing",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2019",
         "start_week": 45,
         "end_week": 3,

@@ -2,7 +2,7 @@
     "MA1437": {
         "code": "MA1437",
         "name": "Differentialekvationer med Liegruppanalys",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2018",
         "start_week": 36,
         "end_week": 44,
@@ -26,7 +26,7 @@
     "MT2554": {
         "code": "MT2554",
         "name": "V\u00e4rdeinnovation",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2018",
         "start_week": 36,
         "end_week": 44,
@@ -50,7 +50,7 @@
     "MT1528": {
         "code": "MT1528",
         "name": "Produktionssystem",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2018",
         "start_week": 36,
         "end_week": 44,
@@ -74,7 +74,7 @@
     "MT1531": {
         "code": "MT1531",
         "name": "Dimensioneringsmetodik",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2018",
         "start_week": 36,
         "end_week": 44,
@@ -98,7 +98,7 @@
     "MT1535": {
         "code": "MT1535",
         "name": "Tillverkningsanpassad konstruktion",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2018",
         "start_week": 36,
         "end_week": 44,
@@ -122,7 +122,7 @@
     "MT1533": {
         "code": "MT1533",
         "name": "Mekanisk systemdynamik",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2018",
         "start_week": 45,
         "end_week": 3,
@@ -146,7 +146,7 @@
     "ET1539": {
         "code": "ET1539",
         "name": "Signalbehandling",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2018",
         "start_week": 45,
         "end_week": 3,
@@ -170,7 +170,7 @@
     "MT2543": {
         "code": "MT2543",
         "name": "Metoder f\u00f6r h\u00e5llbar produkt- och tj\u00e4nstesystemutveckling",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2019",
         "start_week": 4,
         "end_week": 13,
@@ -194,7 +194,7 @@
     "MT2562": {
         "code": "MT2562",
         "name": "Strukturanalys",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2019",
         "start_week": 4,
         "end_week": 13,
@@ -218,7 +218,7 @@
     "MT1527": {
         "code": "MT1527",
         "name": "Finita Elementmetoden, grundkurs",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2019",
         "start_week": 4,
         "end_week": 13,
@@ -242,7 +242,7 @@
     "MT1444": {
         "code": "MT1444",
         "name": "Lean Produktion",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2019",
         "start_week": 4,
         "end_week": 13,
@@ -266,7 +266,7 @@
     "MT2558": {
         "code": "MT2558",
         "name": "Mekanikens approximativa ber\u00e4kningsmetoder 1",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2019",
         "start_week": 14,
         "end_week": 23,
@@ -290,7 +290,7 @@
     "ET2545": {
         "code": "ET2545",
         "name": "Ljud- och vibrationsanalys",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2019",
         "start_week": 14,
         "end_week": 23,
@@ -314,7 +314,7 @@
     "MT2563": {
         "code": "MT2563",
         "name": "Systems Engineering",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2019",
         "start_week": 14,
         "end_week": 23,
@@ -338,7 +338,7 @@
     "MT1541": {
         "code": "MT1541",
         "name": "Industriell design",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2019",
         "start_week": 14,
         "end_week": 23,
@@ -362,7 +362,7 @@
     "MT2564": {
         "code": "MT2564",
         "name": "Design Thinking",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2019",
         "start_week": 14,
         "end_week": 23,
@@ -386,7 +386,7 @@
     "MT2560": {
         "code": "MT2560",
         "name": "Mekanikens approximativa ber\u00e4kningsmetoder 2:1",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2019",
         "start_week": 36,
         "end_week": 44,
@@ -410,7 +410,7 @@
     "ET2544": {
         "code": "ET2544",
         "name": "Experimentell modalanalys",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2019",
         "start_week": 36,
         "end_week": 44,
@@ -434,7 +434,7 @@
     "MT2546": {
         "code": "MT2546",
         "name": "Kreativitet f\u00f6r produkt- och tj\u00e4nsteutveckling",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2019",
         "start_week": 36,
         "end_week": 44,
@@ -458,7 +458,7 @@
     "MT1448": {
         "code": "MT1448",
         "name": "Kvalitetsutveckling",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2019",
         "start_week": 45,
         "end_week": 3,
@@ -482,7 +482,7 @@
     "MT2559": {
         "code": "MT2559",
         "name": "Simuleringsdriven produktutveckling",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2019",
         "start_week": 45,
         "end_week": 3,
@@ -506,7 +506,7 @@
     "MT2521": {
         "code": "MT2521",
         "name": "Forskningsmetodik med inriktning mot ingenj\u00f6rsvetenskap",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2019",
         "start_week": 45,
         "end_week": 3,
@@ -530,7 +530,7 @@
     "MT2553": {
         "code": "MT2553",
         "name": "Fysikalisk akustik",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2019",
         "start_week": 45,
         "end_week": 3,
@@ -554,7 +554,7 @@
     "MT2557": {
         "code": "MT2557",
         "name": "Knowledge Enabled Engineering",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2019",
         "start_week": 45,
         "end_week": 3,
@@ -578,7 +578,7 @@
     "MT2555": {
         "code": "MT2555",
         "name": "Produkt- och tj\u00e4nstesystemforskning",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2019",
         "start_week": 45,
         "end_week": 3,

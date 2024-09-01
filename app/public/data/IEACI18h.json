@@ -702,7 +702,7 @@
     "IY2595": {
         "code": "IY2595",
         "name": "Produktionsekonomi",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2021",
         "start_week": 35,
         "end_week": 43,
@@ -726,7 +726,7 @@
     "DV2557": {
         "code": "DV2557",
         "name": "Till\u00e4mpad artificiell intelligens",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2021",
         "start_week": 35,
         "end_week": 43,
@@ -750,7 +750,7 @@
     "DV1466": {
         "code": "DV1466",
         "name": "UNIX och Linux, en \u00f6versikt och introduktion",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2021",
         "start_week": 35,
         "end_week": 43,
@@ -774,7 +774,7 @@
     "SL2549": {
         "code": "SL2549",
         "name": "Strategisk ledning f\u00f6r h\u00e5llbarhet",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2021",
         "start_week": 35,
         "end_week": 43,
@@ -798,7 +798,7 @@
     "MT2569": {
         "code": "MT2569",
         "name": "Design Thinking",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2021",
         "start_week": 35,
         "end_week": 43,
@@ -822,7 +822,7 @@
     "IY2583": {
         "code": "IY2583",
         "name": "F\u00f6retagsanalys",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2021",
         "start_week": 44,
         "end_week": 2,
@@ -846,7 +846,7 @@
     "DV2578": {
         "code": "DV2578",
         "name": "Maskininl\u00e4rning",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2021",
         "start_week": 44,
         "end_week": 2,
@@ -870,7 +870,7 @@
     "MA2512": {
         "code": "MA2512",
         "name": "Till\u00e4mpad optimering",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2021",
         "start_week": 44,
         "end_week": 2,
@@ -894,7 +894,7 @@
     "SL2543": {
         "code": "SL2543",
         "name": "H\u00e5llbar produktutveckling",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2021",
         "start_week": 44,
         "end_week": 2,
@@ -918,7 +918,7 @@
     "MT2568": {
         "code": "MT2568",
         "name": "V\u00e4rdeinnovation",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2021",
         "start_week": 44,
         "end_week": 2,
@@ -942,7 +942,7 @@
     "IY2585": {
         "code": "IY2585",
         "name": "Projektkurs i industriell ekonomi och projektledning",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2022",
         "start_week": 3,
         "end_week": 22,
@@ -967,7 +967,7 @@
     "IY2584": {
         "code": "IY2584",
         "name": "Strategi och aff\u00e4rsutveckling",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2022",
         "start_week": 3,
         "end_week": 22,
@@ -1017,7 +1017,7 @@
     "IY2606": {
         "code": "IY2606",
         "name": "Finansiell modellering",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2022",
         "start_week": 3,
         "end_week": 12,
@@ -1041,7 +1041,7 @@
     "MT1444": {
         "code": "MT1444",
         "name": "Lean Produktion",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2022",
         "start_week": 3,
         "end_week": 12,
@@ -1065,7 +1065,7 @@
     "SL2548": {
         "code": "SL2548",
         "name": "Avancerad h\u00e5llbar produktutveckling",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2022",
         "start_week": 3,
         "end_week": 12,
@@ -1089,7 +1089,7 @@
     "IY2607": {
         "code": "IY2607",
         "name": "Empirisk finansiell analys",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2022",
         "start_week": 13,
         "end_week": 22,
@@ -1113,7 +1113,7 @@
     "MT2574": {
         "code": "MT2574",
         "name": "Systems Engineering",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2022",
         "start_week": 13,
         "end_week": 22,
@@ -1137,7 +1137,7 @@
     "IY2586": {
         "code": "IY2586",
         "name": "Ekonomisk analys av teknikskiften",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2022",
         "start_week": 35,
         "end_week": 43,
@@ -1161,7 +1161,7 @@
     "IY2603": {
         "code": "IY2603",
         "name": "Industriell organisation",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2022",
         "start_week": 35,
         "end_week": 43,
@@ -1185,7 +1185,7 @@
     "DV2618": {
         "code": "DV2618",
         "name": "Till\u00e4mpad artificiell intelligens",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2022",
         "start_week": 35,
         "end_week": 43,
@@ -1234,7 +1234,7 @@
     "IY2587": {
         "code": "IY2587",
         "name": "Forskningsmetod och design",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2022",
         "start_week": 44,
         "end_week": 2,
@@ -1258,7 +1258,7 @@
     "DV1566": {
         "code": "DV1566",
         "name": "Introduktion till Cloud Computing",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2022",
         "start_week": 44,
         "end_week": 2,
@@ -1282,7 +1282,7 @@
     "PA2557": {
         "code": "PA2557",
         "name": "Kvalitetsstyrning",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2022",
         "start_week": 44,
         "end_week": 2,
@@ -1306,7 +1306,7 @@
     "IY2608": {
         "code": "IY2608",
         "name": "Till\u00e4mpad konkurrens- och marknadsanalys",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2022",
         "start_week": 44,
         "end_week": 2,

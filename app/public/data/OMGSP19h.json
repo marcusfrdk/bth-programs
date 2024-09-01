@@ -26,7 +26,7 @@
     "OM1444": {
         "code": "OM1444",
         "name": "Sjuksk\u00f6terskeprofessionen och samh\u00e4llet",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2019",
         "start_week": 41,
         "end_week": 49,
@@ -74,7 +74,7 @@
     "KM1412": {
         "code": "KM1412",
         "name": "Medicin I",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2019",
         "start_week": 50,
         "end_week": 3,
@@ -98,7 +98,7 @@
     "OM1463": {
         "code": "OM1463",
         "name": "Verksamhetsf\u00f6rlagd utbildning (VFU), M\u00e4nniskan och omv\u00e5rdnaden",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2020",
         "start_week": 9,
         "end_week": 13,
@@ -122,7 +122,7 @@
     "KM1418": {
         "code": "KM1418",
         "name": "Medicin II",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2020",
         "start_week": 14,
         "end_week": 18,
@@ -146,7 +146,7 @@
     "KM1419": {
         "code": "KM1419",
         "name": "Medicin III",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2020",
         "start_week": 19,
         "end_week": 23,
@@ -170,7 +170,7 @@
     "KM1424": {
         "code": "KM1424",
         "name": "Patofysiologi I",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2020",
         "start_week": 35,
         "end_week": 39,
@@ -194,7 +194,7 @@
     "OM1538": {
         "code": "OM1538",
         "name": "Omv\u00e5rdnad, metoder och till\u00e4mpning I",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2020",
         "start_week": 40,
         "end_week": 44,
@@ -218,7 +218,7 @@
     "KM1425": {
         "code": "KM1425",
         "name": "Patofysiologi II",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2020",
         "start_week": 45,
         "end_week": 49,
@@ -242,7 +242,7 @@
     "OM1539": {
         "code": "OM1539",
         "name": "Omv\u00e5rdnad, metoder och till\u00e4mpning II",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2020",
         "start_week": 50,
         "end_week": 2,
@@ -291,7 +291,7 @@
     "OM1547": {
         "code": "OM1547",
         "name": "Omv\u00e5rdnad, vetenskapliga teorier och metoder",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2021",
         "start_week": 34,
         "end_week": 38,
@@ -339,7 +339,7 @@
     "OM1541": {
         "code": "OM1541",
         "name": "Omv\u00e5rdnad vid akuta situationer och komplexa oh\u00e4lsotillst\u00e5nd",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2021",
         "start_week": 49,
         "end_week": 2,

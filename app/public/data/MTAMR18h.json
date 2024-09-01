@@ -846,7 +846,7 @@
     "MT1522": {
         "code": "MT1522",
         "name": "S\u00e4kerhet, ergonomi och m\u00e4nniska-system-interaktion",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2022",
         "start_week": 35,
         "end_week": 43,
@@ -870,7 +870,7 @@
     "MT2574": {
         "code": "MT2574",
         "name": "Systems Engineering",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2022",
         "start_week": 35,
         "end_week": 43,
@@ -894,7 +894,7 @@
     "PA2591": {
         "code": "PA2591",
         "name": "Kravhantering och produkthantering",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2022",
         "start_week": 44,
         "end_week": 2,
@@ -918,7 +918,7 @@
     "MT2521": {
         "code": "MT2521",
         "name": "Forskningsmetodik med inriktning mot ingenj\u00f6rsvetenskap",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2022",
         "start_week": 44,
         "end_week": 2,

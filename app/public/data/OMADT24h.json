@@ -2,7 +2,7 @@
     "OM2549": {
         "code": "OM2549",
         "name": "Specialistsjuksk\u00f6terskans profession, inriktning distriktssk\u00f6terska",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2024",
         "start_week": 36,
         "end_week": 45,
@@ -76,7 +76,7 @@
     "OM2547": {
         "code": "OM2547",
         "name": "Vetenskapliga teorier och metoder p\u00e5 avancerad niv\u00e5",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2025",
         "start_week": 45,
         "end_week": 3,

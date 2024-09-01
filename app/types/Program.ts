@@ -30,14 +30,16 @@ export type CourseType = {
 export type TeacherType = {
     code: string,
     name: string,
-    email: string,
-    phone: string,
-    room: string,
-    unit: string,
-    location: string
+    email: string | null,
+    phone: string | null,
+    room: string | null,
+    unit: string | null,
+    location: string | null,
 };
 
 export type TeachersType = Record<string, TeacherType>;
 
 export type CodeType = string; // ABCDE
 export type SemesterType = string; // 12a
+export type IndexType = Record<string, string[]>;
+export type NamesType = Record<string, string>;

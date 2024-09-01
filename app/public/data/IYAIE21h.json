@@ -2,7 +2,7 @@
     "IY2612": {
         "code": "IY2612",
         "name": "Ekonomisk analys av marknader, f\u00f6retag och branscher",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2021",
         "start_week": 35,
         "end_week": 43,
@@ -26,7 +26,7 @@
     "IY2617": {
         "code": "IY2617",
         "name": "Ledning och organisering av teknik- och kunskapsintensiva projekt och f\u00f6retag",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2021",
         "start_week": 35,
         "end_week": 43,
@@ -50,7 +50,7 @@
     "IY2613": {
         "code": "IY2613",
         "name": "Globalisering, digitalisering och internationaliseringsstrategier",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2021",
         "start_week": 44,
         "end_week": 2,
@@ -74,7 +74,7 @@
     "IY2615": {
         "code": "IY2615",
         "name": "Statistik och ekonometri",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2021",
         "start_week": 44,
         "end_week": 2,
@@ -98,7 +98,7 @@
     "IY2618": {
         "code": "IY2618",
         "name": "Finansiering och investeringsanalys",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2022",
         "start_week": 3,
         "end_week": 12,
@@ -122,7 +122,7 @@
     "IY2614": {
         "code": "IY2614",
         "name": "Ekonomisk analys av teknologi, teknologisk f\u00f6r\u00e4ndring och strategi",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2022",
         "start_week": 3,
         "end_week": 12,
@@ -146,7 +146,7 @@
     "IY2619": {
         "code": "IY2619",
         "name": "Avancerad forskningsmetod och design",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2022",
         "start_week": 13,
         "end_week": 22,
@@ -170,7 +170,7 @@
     "IY2616": {
         "code": "IY2616",
         "name": "Innovation och aff\u00e4rsutveckling",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2022",
         "start_week": 13,
         "end_week": 22,
@@ -194,7 +194,7 @@
     "IY2632": {
         "code": "IY2632",
         "name": "Kommersialisering av produkter, tj\u00e4nster och innovationer",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2022",
         "start_week": 35,
         "end_week": 43,
@@ -218,7 +218,7 @@
     "IY2631": {
         "code": "IY2631",
         "name": "Investeringar, risk och os\u00e4kerhet",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2022",
         "start_week": 35,
         "end_week": 43,
@@ -242,7 +242,7 @@
     "IY2624": {
         "code": "IY2624",
         "name": "Entrepren\u00f6rskap och strategi",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2022",
         "start_week": 35,
         "end_week": 43,
@@ -266,7 +266,7 @@
     "IY2621": {
         "code": "IY2621",
         "name": "Till\u00e4mpad produktionsekonomi",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2022",
         "start_week": 35,
         "end_week": 43,
@@ -290,7 +290,7 @@
     "IY2620": {
         "code": "IY2620",
         "name": "Till\u00e4mpad konkurrens- och marknadsanalys",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2022",
         "start_week": 44,
         "end_week": 2,
@@ -314,7 +314,7 @@
     "IY2626": {
         "code": "IY2626",
         "name": "Strategi f\u00f6r mjukvaruutvecklande f\u00f6retag",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2022",
         "start_week": 44,
         "end_week": 2,
@@ -338,7 +338,7 @@
     "IY2623": {
         "code": "IY2623",
         "name": "Till\u00e4mpad investeringsanalys",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2022",
         "start_week": 44,
         "end_week": 2,

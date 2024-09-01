@@ -703,7 +703,7 @@
     "MS2505": {
         "code": "MS2505",
         "name": "Bayesiansk statistik",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2022",
         "start_week": 13,
         "end_week": 22,
@@ -872,7 +872,7 @@
     "DV2631": {
         "code": "DV2631",
         "name": "Forskningsmetodik i datavetenskap",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2023",
         "start_week": 3,
         "end_week": 12,
@@ -896,7 +896,7 @@
     "DV2627": {
         "code": "DV2627",
         "name": "Avancerad maskininl\u00e4rning",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2023",
         "start_week": 3,
         "end_week": 12,
@@ -920,7 +920,7 @@
     "ET2625": {
         "code": "ET2625",
         "name": "Robotik",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2023",
         "start_week": 13,
         "end_week": 22,
@@ -944,7 +944,7 @@
     "DV2586": {
         "code": "DV2586",
         "name": "Djup maskininl\u00e4rning",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2023",
         "start_week": 13,
         "end_week": 22,
@@ -993,7 +993,7 @@
     "IY1430": {
         "code": "IY1430",
         "name": "ICT startups och h\u00f6gteknologiskt entrepren\u00f6rskap",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2023",
         "start_week": 35,
         "end_week": 43,
@@ -1017,7 +1017,7 @@
     "IY2539": {
         "code": "IY2539",
         "name": "Entrepren\u00f6rskap och det innovativa f\u00f6retaget",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2023",
         "start_week": 35,
         "end_week": 43,
@@ -1041,7 +1041,7 @@
     "DV1466": {
         "code": "DV1466",
         "name": "UNIX och Linux, en \u00f6versikt och introduktion",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2023",
         "start_week": 35,
         "end_week": 43,
@@ -1065,7 +1065,7 @@
     "ET1542": {
         "code": "ET1542",
         "name": "N\u00e4tverksbaserade system",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2023",
         "start_week": 44,
         "end_week": 2,
@@ -1113,7 +1113,7 @@
     "PA1469": {
         "code": "PA1469",
         "name": "Utveckling av mobila applikationer",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2023",
         "start_week": 44,
         "end_week": 2,
@@ -1137,7 +1137,7 @@
     "MA2512": {
         "code": "MA2512",
         "name": "Till\u00e4mpad optimering",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2023",
         "start_week": 44,
         "end_week": 2,
@@ -1161,7 +1161,7 @@
     "PA2577": {
         "code": "PA2577",
         "name": "Till\u00e4mpad Cloud Computing och Big Data",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2023",
         "start_week": 44,
         "end_week": 2,
@@ -1185,7 +1185,7 @@
     "SL2561": {
         "code": "SL2561",
         "name": "Strategisk planering f\u00f6r organisatoriska h\u00e5llbarhetsomst\u00e4llningar",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2023",
         "start_week": 44,
         "end_week": 2,

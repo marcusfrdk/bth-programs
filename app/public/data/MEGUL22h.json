@@ -26,7 +26,7 @@
     "ME1634": {
         "code": "ME1634",
         "name": "Gestaltande programmering",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2022",
         "start_week": 44,
         "end_week": 48,
@@ -50,7 +50,7 @@
     "ME1635": {
         "code": "ME1635",
         "name": "Realtidsplattformar f\u00f6r upplevelser i 3D",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2022",
         "start_week": 49,
         "end_week": 2,
@@ -122,7 +122,7 @@
     "ME1646": {
         "code": "ME1646",
         "name": "Digital didaktisk design",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2023",
         "start_week": 35,
         "end_week": 39,
@@ -146,7 +146,7 @@
     "ME1647": {
         "code": "ME1647",
         "name": "F\u00f6rdjupning av gestaltande upplevelser",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2023",
         "start_week": 40,
         "end_week": 43,
@@ -170,7 +170,7 @@
     "ME1661": {
         "code": "ME1661",
         "name": "F\u00f6rdjupning digitalt l\u00e4rande",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2023",
         "start_week": 44,
         "end_week": 49,
@@ -194,7 +194,7 @@
     "ME1663": {
         "code": "ME1663",
         "name": "Digital prototyputveckling",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2023",
         "start_week": 50,
         "end_week": 2,
@@ -218,7 +218,7 @@
     "ME1648": {
         "code": "ME1648",
         "name": "Motivation f\u00f6r digitalt  l\u00e4rande",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2024",
         "start_week": 3,
         "end_week": 7,
@@ -242,7 +242,7 @@
     "ME1613": {
         "code": "ME1613",
         "name": "Interaktivt ber\u00e4ttande",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2024",
         "start_week": 8,
         "end_week": 12,

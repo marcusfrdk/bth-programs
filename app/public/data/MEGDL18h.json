@@ -50,7 +50,7 @@
     "ME1590": {
         "code": "ME1590",
         "name": "Modul\u00e4r ljuddesign",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2019",
         "start_week": 4,
         "end_week": 13,
@@ -74,7 +74,7 @@
     "ET1492": {
         "code": "ET1492",
         "name": "Akustik f\u00f6r ljud- och musikproduktion",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2019",
         "start_week": 4,
         "end_week": 13,
@@ -170,7 +170,7 @@
     "ME1614": {
         "code": "ME1614",
         "name": "Ljudsyntes",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2020",
         "start_week": 4,
         "end_week": 8,
@@ -194,7 +194,7 @@
     "ME1613": {
         "code": "ME1613",
         "name": "Interaktivt ber\u00e4ttande",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2020",
         "start_week": 9,
         "end_week": 13,
@@ -266,7 +266,7 @@
     "ME1594": {
         "code": "ME1594",
         "name": "Forskningsmetodik f\u00f6r medieteknik",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2020",
         "start_week": 45,
         "end_week": 49,
@@ -290,7 +290,7 @@
     "ME1593": {
         "code": "ME1593",
         "name": "Till\u00e4mpad unders\u00f6kningsmetodik f\u00f6r medieteknik",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2020",
         "start_week": 50,
         "end_week": 2,

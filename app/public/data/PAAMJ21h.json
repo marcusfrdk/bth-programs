@@ -774,7 +774,7 @@
     "IY1431": {
         "code": "IY1431",
         "name": "Projektledning och Ledarskap i Mjukvaruutveckling",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2024",
         "start_week": 36,
         "end_week": 3,
@@ -799,7 +799,7 @@
     "PA2577": {
         "code": "PA2577",
         "name": "Till\u00e4mpad Cloud Computing och Big Data",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2024",
         "start_week": 45,
         "end_week": 3,
@@ -823,7 +823,7 @@
     "DV2626": {
         "code": "DV2626",
         "name": "Maskininl\u00e4rning",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2024",
         "start_week": 45,
         "end_week": 3,
@@ -847,7 +847,7 @@
     "PA1469": {
         "code": "PA1469",
         "name": "Utveckling av mobila applikationer",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2024",
         "start_week": 45,
         "end_week": 3,
@@ -871,7 +871,7 @@
     "PA2554": {
         "code": "PA2554",
         "name": "Forskningsmetodik i Programvaruteknik och Datavetenskap",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2025",
         "start_week": 4,
         "end_week": 13,
@@ -895,7 +895,7 @@
     "PA2562": {
         "code": "PA2562",
         "name": "S\u00e4ker mjukvaruutveckling",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2025",
         "start_week": 4,
         "end_week": 13,
@@ -919,7 +919,7 @@
     "PA2573": {
         "code": "PA2573",
         "name": "Ekosystem och system-av-system",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2025",
         "start_week": 14,
         "end_week": 23,
@@ -943,7 +943,7 @@
     "PA2570": {
         "code": "PA2570",
         "name": "M\u00e4nniskan i mjukvaruutveckling",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2025",
         "start_week": 14,
         "end_week": 23,
@@ -967,7 +967,7 @@
     "PA2572": {
         "code": "PA2572",
         "name": "Datadriven mjukvaruutveckling",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2025",
         "start_week": 14,
         "end_week": 23,
@@ -991,7 +991,7 @@
     "ET2625": {
         "code": "ET2625",
         "name": "Robotik",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2025",
         "start_week": 14,
         "end_week": 23,
@@ -1015,7 +1015,7 @@
     "PA2571": {
         "code": "PA2571",
         "name": "V\u00e4rdedriven mjukvaruutveckling",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2025",
         "start_week": 14,
         "end_week": 23,
@@ -1039,7 +1039,7 @@
     "IY1459": {
         "code": "IY1459",
         "name": "Aff\u00e4rsstrategier inom digital transformation",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2025",
         "start_week": 36,
         "end_week": 44,
@@ -1063,7 +1063,7 @@
     "PA2558": {
         "code": "PA2558",
         "name": "Evolution och Underh\u00e5ll av Mjukvara - Projekt",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2025",
         "start_week": 36,
         "end_week": 44,
@@ -1087,7 +1087,7 @@
     "IY1430": {
         "code": "IY1430",
         "name": "ICT startups och h\u00f6gteknologiskt entrepren\u00f6rskap",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2025",
         "start_week": 45,
         "end_week": 3,
@@ -1111,7 +1111,7 @@
     "PA2557": {
         "code": "PA2557",
         "name": "Kvalitetsstyrning",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2025",
         "start_week": 45,
         "end_week": 3,

@@ -98,7 +98,7 @@ export default function CourseModal({
             </Modal>
             <Overlay onClick={() => setIsOpen(false)}/>
         </Container>, 
-        document.getElementById("modal") as HTMLElement
+        document.body
     );
 }
 

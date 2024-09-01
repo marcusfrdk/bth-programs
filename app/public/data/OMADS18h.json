@@ -2,7 +2,7 @@
     "OM2507": {
         "code": "OM2507",
         "name": "Vetenskap, teori och metod i relation till sjuksk\u00f6terskeprofessionen",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2018",
         "start_week": 36,
         "end_week": 40,
@@ -26,7 +26,7 @@
     "OM2523": {
         "code": "OM2523",
         "name": "Omv\u00e5rdnad och h\u00e4lsoarbete med fokus p\u00e5 h\u00e4lsa och det goda \u00e5ldrandet",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2018",
         "start_week": 41,
         "end_week": 45,
@@ -50,7 +50,7 @@
     "OM2509": {
         "code": "OM2509",
         "name": "Organisation, ledning och utveckling av omv\u00e5rdnadsarbetet",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2018",
         "start_week": 46,
         "end_week": 50,
@@ -74,7 +74,7 @@
     "OM2522": {
         "code": "OM2522",
         "name": "Omv\u00e5rdnad och h\u00e4lsoarbete med fokus p\u00e5 barn och deras familjers h\u00e4lsa",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2018",
         "start_week": 51,
         "end_week": 13,

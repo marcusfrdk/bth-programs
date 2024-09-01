@@ -2,7 +2,7 @@
     "PA2555": {
         "code": "PA2555",
         "name": "Agile och Lean Mjukvaruutveckling",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2017",
         "start_week": 35,
         "end_week": 2,
@@ -27,7 +27,7 @@
     "DV2557": {
         "code": "DV2557",
         "name": "Till\u00e4mpad artificiell intelligens",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2017",
         "start_week": 35,
         "end_week": 2,
@@ -52,7 +52,7 @@
     "DV1566": {
         "code": "DV1566",
         "name": "Introduktion till Cloud Computing",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2017",
         "start_week": 35,
         "end_week": 2,
@@ -77,7 +77,7 @@
     "MS1411": {
         "code": "MS1411",
         "name": "Matematisk statistik",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2017",
         "start_week": 35,
         "end_week": 2,
@@ -102,7 +102,7 @@
     "ET2540": {
         "code": "ET2540",
         "name": "N\u00e4tverkss\u00e4kerhet",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2017",
         "start_week": 35,
         "end_week": 2,
@@ -127,7 +127,7 @@
     "PA2554": {
         "code": "PA2554",
         "name": "Forskningsmetodik i Programvaruteknik och Datavetenskap",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2018",
         "start_week": 3,
         "end_week": 22,
@@ -152,7 +152,7 @@
     "DV1584": {
         "code": "DV1584",
         "name": "Kompilator- och \u00f6vers\u00e4ttarteknik",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2018",
         "start_week": 3,
         "end_week": 22,
@@ -177,7 +177,7 @@
     "DV2544": {
         "code": "DV2544",
         "name": "Multiprocessorsystem",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2018",
         "start_week": 3,
         "end_week": 22,
@@ -202,7 +202,7 @@
     "DV2573": {
         "code": "DV2573",
         "name": "Beslutsst\u00f6djande system",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2018",
         "start_week": 3,
         "end_week": 22,
@@ -227,7 +227,7 @@
     "DV1557": {
         "code": "DV1557",
         "name": "Anv\u00e4ndbarhet och interaktionsdesign",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2018",
         "start_week": 3,
         "end_week": 22,
@@ -252,7 +252,7 @@
     "DV1457": {
         "code": "DV1457",
         "name": "Programmering i UNIX-milj\u00f6",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2018",
         "start_week": 36,
         "end_week": 44,
@@ -276,7 +276,7 @@
     "DV1567": {
         "code": "DV1567",
         "name": "Prestandaoptimering",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2018",
         "start_week": 36,
         "end_week": 44,
@@ -300,7 +300,7 @@
     "PA2556": {
         "code": "PA2556",
         "name": "Global Programvaruteknik",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2018",
         "start_week": 36,
         "end_week": 44,
@@ -324,7 +324,7 @@
     "DV2545": {
         "code": "DV2545",
         "name": "F\u00f6rdjupningskurs i Datavetenskap och kommunikation",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2018",
         "start_week": 45,
         "end_week": 3,
@@ -348,7 +348,7 @@
     "DV2578": {
         "code": "DV2578",
         "name": "Maskininl\u00e4rning",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2018",
         "start_week": 45,
         "end_week": 3,
@@ -372,7 +372,7 @@
     "DV2546": {
         "code": "DV2546",
         "name": "Programvarus\u00e4kerhet",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2018",
         "start_week": 45,
         "end_week": 3,
@@ -396,7 +396,7 @@
     "PA1453": {
         "code": "PA1453",
         "name": "Programvaruarkitektur och kvalitet",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2018",
         "start_week": 45,
         "end_week": 3,
@@ -420,7 +420,7 @@
     "DV2581": {
         "code": "DV2581",
         "name": "Avancerad multicoreprogrammering",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2018",
         "start_week": 45,
         "end_week": 3,
