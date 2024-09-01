@@ -1,17 +1,19 @@
 
-import type { TeachersType } from "@/types/Program";
+import type { IndexType, NamesType, TeachersType } from "@/types/Program";
 import { cookies } from "next/headers";
 import DataProvider from "@/contexts/DataProvider";
 import App from "./App";
-import readFile from "@/utils/readFile";
 import splitProgram, { codeRegex, semesterRegex } from "@/utils/splitProgram";
 import QueryProvider from "@/contexts/QueryProvider";
 
-export default async function Home() {
-  // Read list of programs
-  const index = await readFile("index");
-  const names = await readFile("names");
-  const teachers: TeachersType = await readFile("teachers");
+import indexData from "@/data/index.json";
+import namesData from "@/data/names.json";
+import teachersData from "@/data/teachers.json";
+
+export default function Home() {
+  const index: IndexType = indexData;
+  const names: NamesType = namesData;
+  const teachers: TeachersType = teachersData;
 
   const indexKeys = new Set(Object.keys(index));
   const namesKeys = new Set(Object.keys(names));
