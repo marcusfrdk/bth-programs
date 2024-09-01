@@ -196,9 +196,9 @@ export default function Schedule(){
                                                                         code = "code";
                                                                     }
 
-                                                                    const prerequisites = course ? course.prerequisites.toLowerCase() : "";
+                                                                    const prerequisites = course !== null && course.prerequisites !== null ? course.prerequisites.toLowerCase() : "";
                                                                     const keywords = ["avkl"];
-                                                                    const hasPrerequisites = prerequisites && keywords.some(keyword => prerequisites.includes(keyword));
+                                                                    const hasPrerequisites = prerequisites !== null && keywords.some(keyword => prerequisites.includes(keyword));
 
                                                                     return (
                                                                         <li 
@@ -214,7 +214,7 @@ export default function Schedule(){
                                                                             <div>
                                                                                 {course.is_double && <CourseDouble fill="var(--muted)" />}
                                                                                 {hasPrerequisites && <CourseRequirements stroke="var(--muted)" />}
-                                                                                {course?.type.toLowerCase() !== "obligatorisk" && <CourseOptional fill="var(--muted)" />}
+                                                                                {course?.type?.toLowerCase() !== "obligatorisk" && <CourseOptional fill="var(--muted)" />}
                                                                             </div>
                                                                         </li>
                                                                     )
