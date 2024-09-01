@@ -3,7 +3,7 @@ import styled from "@emotion/styled";
 import MenuCompare from "./MenuCompare";
 import MenuChange from "./MenuChange";
 import { Dispatch, SetStateAction } from "react";
-import ScrollTo from "./scrollTo";
+import ScrollTo from "./ScrollTo";
 
 type Props = {
     isOpen: boolean;

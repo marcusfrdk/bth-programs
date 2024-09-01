@@ -8,12 +8,13 @@ import {
     FaChevronUp as ChevronUp, 
     FaMinus as Minus
 } from "react-icons/fa";
+import { useData } from "@/contexts/DataProvider";
 
 export default function ScrollTo(){
+    const {comparedPrograms} = useData();
+
     const [target, setTarget] = useState(0);
     const [scrollPos, setScrollPos] = useState(0);
-
-    // listen for "schedule-loaded" event
 
     useEffect(() => {
         const onEvent = (e: any) => setTarget(e.detail.targetOffset);
@@ -30,7 +31,7 @@ export default function ScrollTo(){
 
     return (
         <Container 
-            className={target === scrollPos ? "hidden" : ""}
+            className={`${target === scrollPos ? "hidden" : ""} ${comparedPrograms.length > 0 ? "offset" : ""}`}
             onClick={() => window.scrollTo({ top: target, behavior: "smooth" })}
         >
             {scrollPos < target ? <ChevronDown/> : <ChevronUp/>}
@@ -67,5 +68,9 @@ const Container = styled.div`
     &.hidden {
         opacity: 0;
         transform: scale(0);
+    }
+
+    &.offset {
+        bottom: 4rem;
     }
 `;
