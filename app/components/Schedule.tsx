@@ -10,6 +10,8 @@ import { TbChecklist as CourseRequirements } from "react-icons/tb";
 import { PiNumberCircleTwo as CourseDouble } from "react-icons/pi";
 import { FaMinus as Minus } from "react-icons/fa";
 import { RiCheckboxCircleLine as CourseOptional } from "react-icons/ri";
+import ScheduleLoading from "./ScheduleLoading";
+import ScheduleError from "./ScheduleError";
 
 
 type DataType = Record<string, Record<string, CourseType>>;
@@ -158,8 +160,8 @@ export default function Schedule(){
         calculateTargetOffset();
     }, [data, isLoading, isError]);
 
-    if(!selectedProgram || !comparedPrograms || isLoading) return <Container>Loading...</Container>;
-    if(!data || isError) return <Container>Failed to load schedule</Container>;
+    if(!selectedProgram || !comparedPrograms || isLoading) return <ScheduleLoading/>;
+    if(!data || isError) return <ScheduleError/>;
 
     return (
         <Container className={Object.keys(data[0]).length > 1 ? "multiple" : "single"}>
