@@ -196,9 +196,7 @@ export default function Schedule(){
                                                                         code = "code";
                                                                     }
 
-                                                                    const prerequisites = course !== null && course.prerequisites !== null ? course.prerequisites.toLowerCase() : "";
-                                                                    const keywords = ["avkl"];
-                                                                    const hasPrerequisites = prerequisites !== null && keywords.some(keyword => prerequisites.includes(keyword));
+                                                                    const hasPrerequisites = course.prerequisites && (course.prerequisites.includes("avkl"));
 
                                                                     return (
                                                                         <li 
