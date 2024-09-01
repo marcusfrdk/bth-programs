@@ -3,6 +3,7 @@ import styled from "@emotion/styled";
 import MenuCompare from "./MenuCompare";
 import MenuChange from "./MenuChange";
 import { Dispatch, SetStateAction } from "react";
+import ScrollTo from "./scrollTo";
 
 type Props = {
     isOpen: boolean;
@@ -17,6 +18,7 @@ export default function Menu({isOpen, setIsOpen}: Props){
                 <MenuCompare/>
             </Container>
             <Overlay className={isOpen ? "open" : ""} onClick={() => setIsOpen(false)} />
+            <ScrollTo/>
         </>
     );
 };
