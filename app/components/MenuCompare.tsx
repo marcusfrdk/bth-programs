@@ -41,7 +41,7 @@ export default function MenuCompare(){
             <New>
                 <p>Choose program</p>
                 <div>
-                    <AddIcon size="1.5rem" fill="var(--muted)" />
+                    <AddIcon size="1.25rem" fill="var(--muted)" />
                 </div>
                 <select defaultValue="default" onChange={(e) => addComparison(e.target.value)}>
                     <option disabled value="default">Select from {Object.keys(programs).length} programs</option>
@@ -86,11 +86,10 @@ const Container = styled.div`
             color: var(--weak);
         }
     }
-
 `;
 
 const Added = styled.li`
-    padding: 1rem;
+    padding: 0.75rem;
     border-radius: 0.5rem;
     background-color: var(--neutral-2);
     display: flex;
@@ -107,7 +106,7 @@ const Added = styled.li`
 
         /* Program */
         & > p:first-of-type {
-            font-size: 1rem;
+            font-size: 0.875rem;
             font-weight: bold;
             color: var(--strong);
         }
@@ -128,21 +127,15 @@ const Added = styled.li`
         display: flex;
         align-items: center;
         justify-content: center;
-        background-color: var(--neutral-3);
+        background: none;
         border-radius: 50%;
         border: none;
         cursor: pointer;
-
-        @media screen and (hover: hover) {
-            &:hover {
-                background-color: var(--neutral-4);
-            }
-        }
     }
 `;
 
 const New = styled.div`
-    padding: 0.5rem 1rem;
+    padding: 0.25rem 0.75rem;
     width: 100%;
     background-color: var(--neutral-2);
     border-radius: 0.25rem;

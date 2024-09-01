@@ -1,13 +1,11 @@
 "use client";
 
-import Link from "next/link";
 import Image from "next/image";
 import styled from "@emotion/styled";
 import Menu from "./Menu";
 import { useState } from "react";
 import {useData} from "@/contexts/DataProvider";
 import {RiMenu3Fill as MenuIconOpen} from "react-icons/ri";
-import {MdClose as MenuIconClose} from "react-icons/md";
 
 export default function Header(){
     const { selectedProgram } = useData();
@@ -16,15 +14,15 @@ export default function Header(){
 
     return (
         <Container className={isOpen ? "open" : ""}>
-            <Link href="/" onClick={() => setIsOpen(false)}>
+            <div>
                 <Image src="/bth-logo-40.png" height={40} width={40} alt="BTH Logo" />
                 <div className="ellipsis">
                     <h1 className="ellipsis">{selectedProgram?.name}</h1>
                     <p className="ellipsis">{(selectedProgram?.code || "") + (selectedProgram?.semester || "")}</p>
                 </div>
-            </Link>
+            </div>
             <button onClick={() => setIsOpen(v => !v)}>
-                {isOpen ? <MenuIconClose size="75%" /> : <MenuIconOpen size="60%" />}
+                <MenuIconOpen size="60%" />
             </button>
             <Menu isOpen={isOpen} setIsOpen={setIsOpen} />
         </Container>
@@ -45,8 +43,7 @@ const Container = styled.header`
     background-color: var(--neutral-0);
     z-index: 100;
 
-    & > a {
-        text-decoration: none;
+    & > div {
         width: 100%;
         overflow: hidden;
         display: flex;

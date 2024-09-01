@@ -43,6 +43,8 @@ export default function ScrollTo(){
 const Container = styled.div`
     height: 4rem;
     width: 4rem;
+    max-height: 4rem;
+    max-width: 4rem;
     background-color: var(--neutral-2);
     position: fixed;
     bottom: 1rem;

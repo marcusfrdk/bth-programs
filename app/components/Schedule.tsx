@@ -291,6 +291,9 @@ const Programs = styled.div`
 
 const Container = styled.main`
     padding-bottom: 3rem;
+    display: flex;
+    width: 100%;
+    justify-content: center;
     
     &.single {
         .schedule-program {
@@ -304,6 +307,9 @@ const Container = styled.main`
 
     /* --- Year --- */
     & > ul {
+        max-width: 64rem;
+        width: 100%;
+
         & > li.year {
 
             & > p {

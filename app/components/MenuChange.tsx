@@ -39,7 +39,7 @@ export default function MenuChange(){
 }
 
 const Select = styled.div`
-    padding: 0.5rem 1rem;
+    padding: 0.25rem 0.75rem;
     background-color: var(--neutral-2);
     width: 100%;
     border: 0;
