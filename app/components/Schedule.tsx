@@ -8,6 +8,7 @@ import { useCallback, useEffect } from "react";
 import {TbChecklist as CourseRequirements} from "react-icons/tb";
 import {PiNumberCircleTwo as CourseDouble} from "react-icons/pi";
 import {FaMinus as Minus} from "react-icons/fa";
+import {FaPenFancy as ExamsIcon} from "react-icons/fa";
 
 
 type DataType = Record<string, Record<string, CourseType>>;
@@ -207,8 +208,6 @@ export default function Schedule(){
                                                     )
                                                 })}
                                             </ul>
-                                            {/* {i === 3 && <p style={{width: "100%", backgroundColor: "red"}}>EXAMS</p>}
-                                            {i === 1 && <p>EXAMS</p>} */}
                                         </li>
                                     )
                                 })}
@@ -376,7 +375,7 @@ const Container = styled.main`
                             & > ul {
                                 display: flex;
                                 flex-direction: column;
-                                gap: 0.5rem;
+                                gap: 1rem;
                                 width: 100%;
                                 box-sizing: border-box;
                                 flex: 1 1 0;
