@@ -6,6 +6,7 @@ import re
 import requests
 import json
 import hashlib
+import shutil
 import numpy as np
 import pandas as pd
 import multiprocessing as mp
@@ -24,7 +25,8 @@ teacher_url = "https://www.bth.se/?s=%s&searchtype=employee"
 
 # Paths
 ROOT_PATH = os.path.abspath(os.path.dirname(__file__))
-DATA_PATH = os.path.join(ROOT_PATH, "app", "public", "data")
+DATA_PATH = os.path.join(ROOT_PATH, "app", "data")
+PUBLIC_PATH = os.path.join(ROOT_PATH, "app", "public", "data")
 TEACHER_CSV = os.path.join(DATA_PATH, "teachers.csv")
 TEACHER_JSON = os.path.join(DATA_PATH, "teachers.json")
 INDEX_PATH = os.path.join(DATA_PATH, "index.json")
@@ -38,6 +40,9 @@ program_regex = re.compile(r"\w{5}\d{2}[vh]\.json")
 # CLI
 parser = argparse.ArgumentParser(description="Generate data for the app")
 parser.add_argument("-u", "--update", action="store_true", help="Updates the data")
+parser.add_argument("-d", "--delete", action="store_true", help="Deletes the data")
+parser.add_argument("-n", "--number", help="Download data for n programs", type=int)
+parser.add_argument("--skip-teachers", action="store_true", help="Skips downloading teacher data")
 args = vars(parser.parse_args())
 
 # Global
@@ -97,8 +102,8 @@ def download_program(url: str) -> None:
             "Länk till utbildningsplan": "education_plan_url",
         })
 
-        df["code"] = df["code"].str.upper()        
-        df["points"] = df["points"].str.extract(r"(\d+\.?\d*)").astype(float)
+        df["code"] = df["code"].str.upper()
+        df["points"] = df["points"].str.extract(r"(\d+[\.\,]?\d*)")[0].str.replace(',', '.').astype(float)
 
         # Reformat times
         df["start_week"] = df["start_week"].astype(str)
@@ -163,7 +168,7 @@ def download_program(url: str) -> None:
         data = replace_nan_with_none(data)
         data["_groups"] = replace_nan_with_none(groups)
 
-        file_path = os.path.join(DATA_PATH, f"{code}.json")
+        file_path = os.path.join(PUBLIC_PATH, f"{code}.json")
         with open(file_path, "w", encoding="utf-8") as f:
             json.dump(data, f, indent=4, allow_nan=False)
 
@@ -216,39 +221,52 @@ def download_teacher(code: str) -> None:
 async def main() -> int:
     """ Main function """
     should_update = args.get("update")
+    should_delete = args.get("delete")
+    should_ship_teachers = args.get("skip_teachers")
 
     # Check if the data exists
-    if os.path.exists(DATA_PATH) and not should_update:
+    if should_delete:
+        shutil.rmtree(DATA_PATH, ignore_errors=True)
+        shutil.rmtree(PUBLIC_PATH, ignore_errors=True)
+    if os.path.exists(DATA_PATH) or os.path.exists(PUBLIC_PATH) and not should_update:
         print("Data already exists. Use the -u flag to update.")
         return 0
     
     os.makedirs(DATA_PATH, exist_ok=True)
+    os.makedirs(PUBLIC_PATH, exist_ok=True)
     
     # Get a list of urls
     html = await fetch(program_url)
     soup = BeautifulSoup(html, "html.parser")
     urls = [program_url + re.sub(r"^\.\/", "", a["href"]) for a in soup.find_all("a", href=excel_regex)]
+    n_programs = max(1, min(int(args.get("number") or len(urls)), len(urls)))
+
+    if args.get("number"):
+        urls = urls[:n_programs]
+
+    print(f"Downloading data for {n_programs} program(s)...")
 
     # Download program data
     with ThreadPoolExecutor() as executor:
         await asyncio.gather(*[asyncio.to_thread(executor.submit, download_program, url) for url in urls])
 
-    # Download teacher data
-    with open(TEACHER_CSV, "w", encoding="utf-8") as f:
-        f.write("code;name;email;phone;room;unit;location\n")
+    if not should_ship_teachers:
+        # Download teacher data
+        with open(TEACHER_CSV, "w", encoding="utf-8") as f:
+            f.write("code;name;email;phone;room;unit;location\n")
 
-    with ProcessPoolExecutor() as executor:
-        await asyncio.gather(*[asyncio.to_thread(executor.submit, download_teacher, code) for code in teacher_codes])
+        with ProcessPoolExecutor() as executor:
+            await asyncio.gather(*[asyncio.to_thread(executor.submit, download_teacher, code) for code in teacher_codes])
 
-    with open(TEACHER_CSV, "r", encoding="utf-8") as f:
-        df = pd.read_csv(f, delimiter=";")
-        df.loc[df["name"] == "Nan Huang", "code"] = "nan" # Fun edge case, since the code is "nan", pandas believes it's NaN
-        df = df.drop_duplicates(subset=["code"], keep="first")
-        df.set_index("code", drop=False).to_json(TEACHER_JSON, orient="index", indent=4)
+        with open(TEACHER_CSV, "r", encoding="utf-8") as f:
+            df = pd.read_csv(f, delimiter=";")
+            df.loc[df["name"] == "Nan Huang", "code"] = "nan" # Fun edge case, since the code is "nan", pandas believes it's NaN
+            df = df.drop_duplicates(subset=["code"], keep="first")
+            df.set_index("code", drop=False).to_json(TEACHER_JSON, orient="index", indent=4)
 
     # Generate index
     indexes = defaultdict(list)
-    for file in os.listdir(DATA_PATH):
+    for file in os.listdir(PUBLIC_PATH):
         if program_regex.match(file):
             code = file[:5].upper()
             semester = file.split(".")[0][5:].lower()

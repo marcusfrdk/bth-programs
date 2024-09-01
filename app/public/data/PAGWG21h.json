@@ -2,7 +2,7 @@
     "DV1531": {
         "code": "DV1531",
         "name": "Programmering och Probleml\u00f6sning med Python",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2021",
         "start_week": 34,
         "end_week": 43,
@@ -26,7 +26,7 @@
     "PA1439": {
         "code": "PA1439",
         "name": "Webbteknologier",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2021",
         "start_week": 34,
         "end_week": 43,
@@ -50,7 +50,7 @@
     "DV1561": {
         "code": "DV1561",
         "name": "Programmering med JavaScript",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2021",
         "start_week": 44,
         "end_week": 2,
@@ -74,7 +74,7 @@
     "PA1436": {
         "code": "PA1436",
         "name": "Teknisk webbdesign och anv\u00e4ndbarhet",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2021",
         "start_week": 44,
         "end_week": 2,
@@ -98,7 +98,7 @@
     "DV1660": {
         "code": "DV1660",
         "name": "Algoritmer och datastrukturer med objektorienterad Python",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2022",
         "start_week": 3,
         "end_week": 12,
@@ -122,7 +122,7 @@
     "DV1606": {
         "code": "DV1606",
         "name": "Databasteknologier f\u00f6r webben",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2022",
         "start_week": 3,
         "end_week": 12,
@@ -146,7 +146,7 @@
     "DV1609": {
         "code": "DV1609",
         "name": "Webbapplikationer f\u00f6r mobila enheter",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2022",
         "start_week": 13,
         "end_week": 22,
@@ -170,7 +170,7 @@
     "DV1608": {
         "code": "DV1608",
         "name": "Objektorienterade webbteknologier",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2022",
         "start_week": 13,
         "end_week": 22,
@@ -194,7 +194,7 @@
     "DV1612": {
         "code": "DV1612",
         "name": "JavaScript-baserade webbramverk",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2022",
         "start_week": 35,
         "end_week": 43,
@@ -218,7 +218,7 @@
     "DV1611": {
         "code": "DV1611",
         "name": "Operativsystemet Linux och virtualiseringstekniker",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2022",
         "start_week": 35,
         "end_week": 43,
@@ -242,7 +242,7 @@
     "MA1487": {
         "code": "MA1487",
         "name": "Matematisk\u00a0modellering",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2022",
         "start_week": 44,
         "end_week": 2,
@@ -266,7 +266,7 @@
     "PA1477": {
         "code": "PA1477",
         "name": "Programutveckling i virtuella team",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2022",
         "start_week": 44,
         "end_week": 2,
@@ -315,7 +315,7 @@
     "ET1447": {
         "code": "ET1447",
         "name": "Data- och telekommunikation",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2023",
         "start_week": 3,
         "end_week": 12,
@@ -339,7 +339,7 @@
     "PA1417": {
         "code": "PA1417",
         "name": "Grundl\u00e4ggande systemverifiering",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2023",
         "start_week": 13,
         "end_week": 22,

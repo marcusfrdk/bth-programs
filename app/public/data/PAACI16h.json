@@ -593,7 +593,7 @@
     "PA2555": {
         "code": "PA2555",
         "name": "Agile och Lean Mjukvaruutveckling",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2019",
         "start_week": 36,
         "end_week": 44,
@@ -617,7 +617,7 @@
     "IY2539": {
         "code": "IY2539",
         "name": "Entrepren\u00f6rskap och det innovativa f\u00f6retaget",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2019",
         "start_week": 36,
         "end_week": 44,
@@ -641,7 +641,7 @@
     "DV1567": {
         "code": "DV1567",
         "name": "Prestandaoptimering",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2019",
         "start_week": 36,
         "end_week": 44,
@@ -665,7 +665,7 @@
     "DV2557": {
         "code": "DV2557",
         "name": "Till\u00e4mpad artificiell intelligens",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2019",
         "start_week": 36,
         "end_week": 44,
@@ -689,7 +689,7 @@
     "MA1471": {
         "code": "MA1471",
         "name": "Flervariabelanalys",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2019",
         "start_week": 45,
         "end_week": 3,
@@ -713,7 +713,7 @@
     "DV2581": {
         "code": "DV2581",
         "name": "Avancerad multicoreprogrammering",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2019",
         "start_week": 45,
         "end_week": 3,
@@ -737,7 +737,7 @@
     "DV2591": {
         "code": "DV2591",
         "name": "Spelmotorarkitekturer",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2019",
         "start_week": 45,
         "end_week": 3,
@@ -761,7 +761,7 @@
     "DV1472": {
         "code": "DV1472",
         "name": "Artificiell intelligens f\u00f6r spel",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2019",
         "start_week": 45,
         "end_week": 3,
@@ -785,7 +785,7 @@
     "DV2578": {
         "code": "DV2578",
         "name": "Maskininl\u00e4rning",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2019",
         "start_week": 45,
         "end_week": 3,
@@ -809,7 +809,7 @@
     "DV2556": {
         "code": "DV2556",
         "name": "Forskningsmetodik i spel- och programvaruteknik",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2020",
         "start_week": 4,
         "end_week": 23,
@@ -834,7 +834,7 @@
     "PA2552": {
         "code": "PA2552",
         "name": "Mjukvarutestning",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2020",
         "start_week": 4,
         "end_week": 13,
@@ -858,7 +858,7 @@
     "DV2551": {
         "code": "DV2551",
         "name": "3D-programmering lll",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2020",
         "start_week": 4,
         "end_week": 13,
@@ -882,7 +882,7 @@
     "DV1509": {
         "code": "DV1509",
         "name": "Till\u00e4mpad ljudteknik",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2020",
         "start_week": 14,
         "end_week": 23,
@@ -906,7 +906,7 @@
     "ET1524": {
         "code": "ET1524",
         "name": "N\u00e4tverksbaserade system",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2020",
         "start_week": 14,
         "end_week": 23,
@@ -930,7 +930,7 @@
     "DV1508": {
         "code": "DV1508",
         "name": "Gr\u00e4nssnitt f\u00f6r spelredigeringsverktyg",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2020",
         "start_week": 14,
         "end_week": 23,

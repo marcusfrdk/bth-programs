@@ -52,7 +52,7 @@
     "FM1459": {
         "code": "FM1459",
         "name": "Detaljplanering och plangenomf\u00f6rande",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2018",
         "start_week": 3,
         "end_week": 22,
@@ -77,7 +77,7 @@
     "FM1460": {
         "code": "FM1460",
         "name": "Geografiska informationssystem",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2018",
         "start_week": 3,
         "end_week": 22,
@@ -102,7 +102,7 @@
     "FM1461": {
         "code": "FM1461",
         "name": "\u00d6versiktsplanering",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2018",
         "start_week": 3,
         "end_week": 22,
@@ -127,7 +127,7 @@
     "FM1462": {
         "code": "FM1462",
         "name": "Milj\u00f6konsekvensbed\u00f6mning",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2018",
         "start_week": 3,
         "end_week": 22,
@@ -176,7 +176,7 @@
     "FM1476": {
         "code": "FM1476",
         "name": "Planeringsteori",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2019",
         "start_week": 4,
         "end_week": 8,
@@ -200,7 +200,7 @@
     "FM1465": {
         "code": "FM1465",
         "name": "Planering och h\u00e5llbarhet",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2019",
         "start_week": 9,
         "end_week": 13,
@@ -224,7 +224,7 @@
     "FM1468": {
         "code": "FM1468",
         "name": "Planering och medborgardeltagande",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2019",
         "start_week": 19,
         "end_week": 23,
@@ -272,7 +272,7 @@
     "FM1498": {
         "code": "FM1498",
         "name": "Arkitektur och offentliga rum",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2019",
         "start_week": 45,
         "end_week": 49,

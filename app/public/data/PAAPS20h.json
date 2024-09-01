@@ -2,7 +2,7 @@
     "PA2550": {
         "code": "PA2550",
         "name": "Seminarier i Programvaruteknik",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2020",
         "start_week": 36,
         "end_week": 44,
@@ -26,7 +26,7 @@
     "PA2555": {
         "code": "PA2555",
         "name": "Agile och Lean Mjukvaruutveckling",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2020",
         "start_week": 36,
         "end_week": 44,
@@ -50,7 +50,7 @@
     "PA1453": {
         "code": "PA1453",
         "name": "Programvaruarkitektur och kvalitet",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2020",
         "start_week": 45,
         "end_week": 2,
@@ -74,7 +74,7 @@
     "PA2551": {
         "code": "PA2551",
         "name": "Kravhantering och Produkthantering",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2020",
         "start_week": 45,
         "end_week": 2,
@@ -98,7 +98,7 @@
     "PA2552": {
         "code": "PA2552",
         "name": "Mjukvarutestning",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2021",
         "start_week": 3,
         "end_week": 12,
@@ -122,7 +122,7 @@
     "PA2554": {
         "code": "PA2554",
         "name": "Forskningsmetodik i Programvaruteknik och Datavetenskap",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2021",
         "start_week": 3,
         "end_week": 12,
@@ -146,7 +146,7 @@
     "PA2559": {
         "code": "PA2559",
         "name": "M\u00e4tningar av programvara",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2021",
         "start_week": 13,
         "end_week": 22,
@@ -170,7 +170,7 @@
     "SL2554": {
         "code": "SL2554",
         "name": "Social h\u00e5llbarhet i produkt- och tj\u00e4nsteutveckling",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2021",
         "start_week": 13,
         "end_week": 22,
@@ -194,7 +194,7 @@
     "MS1411": {
         "code": "MS1411",
         "name": "Matematisk statistik",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2021",
         "start_week": 13,
         "end_week": 22,
@@ -218,7 +218,7 @@
     "DV2573": {
         "code": "DV2573",
         "name": "Beslutsst\u00f6djande system",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2021",
         "start_week": 13,
         "end_week": 22,
@@ -242,7 +242,7 @@
     "PA2558": {
         "code": "PA2558",
         "name": "Evolution och Underh\u00e5ll av Mjukvara - Projekt",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2021",
         "start_week": 35,
         "end_week": 43,
@@ -266,7 +266,7 @@
     "DV1457": {
         "code": "DV1457",
         "name": "Programmering i UNIX-milj\u00f6",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2021",
         "start_week": 35,
         "end_week": 43,
@@ -290,7 +290,7 @@
     "DV1567": {
         "code": "DV1567",
         "name": "Prestandaoptimering",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2021",
         "start_week": 35,
         "end_week": 43,
@@ -314,7 +314,7 @@
     "DV2557": {
         "code": "DV2557",
         "name": "Till\u00e4mpad artificiell intelligens",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2021",
         "start_week": 35,
         "end_week": 43,
@@ -338,7 +338,7 @@
     "PA2557": {
         "code": "PA2557",
         "name": "Kvalitetsstyrning",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2021",
         "start_week": 44,
         "end_week": 2,
@@ -362,7 +362,7 @@
     "DV2546": {
         "code": "DV2546",
         "name": "Programvarus\u00e4kerhet",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2021",
         "start_week": 44,
         "end_week": 2,
@@ -386,7 +386,7 @@
     "DV2578": {
         "code": "DV2578",
         "name": "Maskininl\u00e4rning",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2021",
         "start_week": 44,
         "end_week": 2,
@@ -410,7 +410,7 @@
     "PA2560": {
         "code": "PA2560",
         "name": "F\u00f6rdjupningskurs i Programvaruteknik",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2021",
         "start_week": 44,
         "end_week": 2,
@@ -434,7 +434,7 @@
     "PA2577": {
         "code": "PA2577",
         "name": "Till\u00e4mpad Cloud Computing och Big Data",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2021",
         "start_week": 44,
         "end_week": 2,

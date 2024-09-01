@@ -2,7 +2,7 @@
     "PA2578": {
         "code": "PA2578",
         "name": "Produkthantering och kravhantering f\u00f6r digitala milj\u00f6er",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2024",
         "start_week": 3,
         "end_week": 22,
@@ -27,7 +27,7 @@
     "PA2579": {
         "code": "PA2579",
         "name": "Adaptiv Lean Programvarutestning",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2024",
         "start_week": 3,
         "end_week": 22,
@@ -52,7 +52,7 @@
     "PA2580": {
         "code": "PA2580",
         "name": "Agil och Lean utveckling av mjukvaruintensiva produkter",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2024",
         "start_week": 36,
         "end_week": 3,
@@ -77,7 +77,7 @@
     "PA2577": {
         "code": "PA2577",
         "name": "Till\u00e4mpad Cloud Computing och Big Data",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2024",
         "start_week": 36,
         "end_week": 3,

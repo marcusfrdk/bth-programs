@@ -26,7 +26,7 @@
     "ME1634": {
         "code": "ME1634",
         "name": "Gestaltande programmering",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2023",
         "start_week": 44,
         "end_week": 48,
@@ -50,7 +50,7 @@
     "ME1635": {
         "code": "ME1635",
         "name": "Realtidsplattformar f\u00f6r upplevelser i 3D",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2023",
         "start_week": 49,
         "end_week": 2,
@@ -146,7 +146,7 @@
     "ME1652": {
         "code": "ME1652",
         "name": "Digifysisk gestaltning",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2024",
         "start_week": 45,
         "end_week": 49,
@@ -170,7 +170,7 @@
     "ME1638": {
         "code": "ME1638",
         "name": "Gr\u00e4nssnitt med immersiva tekniker",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2024",
         "start_week": 50,
         "end_week": 3,
@@ -194,7 +194,7 @@
     "ME1653": {
         "code": "ME1653",
         "name": "Digitalt ber\u00e4ttande",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2025",
         "start_week": 4,
         "end_week": 13,
@@ -218,7 +218,7 @@
     "ME1655": {
         "code": "ME1655",
         "name": "Utst\u00e4llningsteknik",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2025",
         "start_week": 4,
         "end_week": 13,
@@ -290,7 +290,7 @@
     "ME1654": {
         "code": "ME1654",
         "name": "Virtuell produktion",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2025",
         "start_week": 45,
         "end_week": 3,
@@ -314,7 +314,7 @@
     "ME1644": {
         "code": "ME1644",
         "name": "Forskningsintroduktion medieteknik",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2025",
         "start_week": 45,
         "end_week": 3,

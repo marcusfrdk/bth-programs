@@ -2,7 +2,7 @@
     "MT1443": {
         "code": "MT1443",
         "name": "Kommunikation p\u00e5 distans",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2024",
         "start_week": 35,
         "end_week": 44,
@@ -26,7 +26,7 @@
     "MT1510": {
         "code": "MT1510",
         "name": "Datorst\u00f6d inom Konstruktion 1",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2024",
         "start_week": 36,
         "end_week": 44,
@@ -50,7 +50,7 @@
     "MT1448": {
         "code": "MT1448",
         "name": "Kvalitetsutveckling",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2024",
         "start_week": 45,
         "end_week": 3,
@@ -74,7 +74,7 @@
     "MT1445": {
         "code": "MT1445",
         "name": "Tillverkningsmetoder",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2024",
         "start_week": 45,
         "end_week": 3,
@@ -98,7 +98,7 @@
     "MT1440": {
         "code": "MT1440",
         "name": "Datorst\u00f6d inom Konstruktion 2",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2025",
         "start_week": 4,
         "end_week": 13,
@@ -122,7 +122,7 @@
     "MA1492": {
         "code": "MA1492",
         "name": "Matematik f\u00f6r produktutveckling",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2025",
         "start_week": 4,
         "end_week": 13,
@@ -146,7 +146,7 @@
     "ET1545": {
         "code": "ET1545",
         "name": "Automation 1",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2025",
         "start_week": 14,
         "end_week": 23,
@@ -170,7 +170,7 @@
     "FY1427": {
         "code": "FY1427",
         "name": "Fysik f\u00f6r produktutveckling",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2025",
         "start_week": 14,
         "end_week": 23,
@@ -194,7 +194,7 @@
     "MT1442": {
         "code": "MT1442",
         "name": "Innovativ och h\u00e5llbar produktutveckling",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2025",
         "start_week": 36,
         "end_week": 44,
@@ -218,7 +218,7 @@
     "MT1534": {
         "code": "MT1534",
         "name": "Grundl\u00e4ggande mekanik f\u00f6r tekniker",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2025",
         "start_week": 36,
         "end_week": 44,
@@ -242,7 +242,7 @@
     "MT1520": {
         "code": "MT1520",
         "name": "Innovationsprojekt",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2025",
         "start_week": 45,
         "end_week": 3,
@@ -266,7 +266,7 @@
     "MT1507": {
         "code": "MT1507",
         "name": "Grundl\u00e4ggande h\u00e5llfasthetsl\u00e4ra f\u00f6r tekniker",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2025",
         "start_week": 45,
         "end_week": 3,
@@ -290,7 +290,7 @@
     "MT1548": {
         "code": "MT1548",
         "name": "Dimensionering och materialval",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2026",
         "start_week": 4,
         "end_week": 13,
@@ -314,7 +314,7 @@
     "MT1444": {
         "code": "MT1444",
         "name": "Lean Produktion",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2026",
         "start_week": 4,
         "end_week": 13,
@@ -338,7 +338,7 @@
     "MT1536": {
         "code": "MT1536",
         "name": "Grundl\u00e4ggande maskinelement f\u00f6r tekniker",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2026",
         "start_week": 14,
         "end_week": 23,
@@ -362,7 +362,7 @@
     "MT1542": {
         "code": "MT1542",
         "name": "Sj\u00e4lvst\u00e4ndigt arbete inom Produktutveckling",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2026",
         "start_week": 14,
         "end_week": 23,

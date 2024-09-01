@@ -146,7 +146,7 @@
     "ME1612": {
         "code": "ME1612",
         "name": "Till\u00e4mpad spelutveckling",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2021",
         "start_week": 3,
         "end_week": 7,
@@ -170,7 +170,7 @@
     "ME1613": {
         "code": "ME1613",
         "name": "Interaktivt ber\u00e4ttande",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2021",
         "start_week": 8,
         "end_week": 12,
@@ -242,7 +242,7 @@
     "ME1644": {
         "code": "ME1644",
         "name": "Forskningsintroduktion medieteknik",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2021",
         "start_week": 44,
         "end_week": 48,
@@ -266,7 +266,7 @@
     "ME1593": {
         "code": "ME1593",
         "name": "Till\u00e4mpad unders\u00f6kningsmetodik f\u00f6r medieteknik",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2021",
         "start_week": 49,
         "end_week": 2,

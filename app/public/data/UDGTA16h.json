@@ -2,7 +2,7 @@
     "UD1419": {
         "code": "UD1419",
         "name": "Grunder i 3D-modellering med skissteknik",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2016",
         "start_week": 34,
         "end_week": 2,
@@ -27,7 +27,7 @@
     "UD1437": {
         "code": "UD1437",
         "name": "Grunder i spelutveckling",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2016",
         "start_week": 34,
         "end_week": 2,
@@ -77,7 +77,7 @@
     "DV1552": {
         "code": "DV1552",
         "name": "Inledande programmering i C",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2016",
         "start_week": 35,
         "end_week": 2,
@@ -102,7 +102,7 @@
     "UD1433": {
         "code": "UD1433",
         "name": "Plugin-konstruktion och skriptspr\u00e5k",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2017",
         "start_week": 3,
         "end_week": 22,
@@ -127,7 +127,7 @@
     "UD1431": {
         "code": "UD1431",
         "name": "Spelprototyptillverkning",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2017",
         "start_week": 3,
         "end_week": 22,
@@ -152,7 +152,7 @@
     "DV1519": {
         "code": "DV1519",
         "name": "Programmering i C++",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2017",
         "start_week": 3,
         "end_week": 22,
@@ -177,7 +177,7 @@
     "MA1433": {
         "code": "MA1433",
         "name": "Matematik f\u00f6r Technical Artist",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2017",
         "start_week": 35,
         "end_week": 2,
@@ -227,7 +227,7 @@
     "UD1442": {
         "code": "UD1442",
         "name": "Digital skulptering och optimering",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2017",
         "start_week": 35,
         "end_week": 2,
@@ -302,7 +302,7 @@
     "UD1447": {
         "code": "UD1447",
         "name": "Konstruktion av spelteknikverktyg",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2018",
         "start_week": 36,
         "end_week": 44,
@@ -326,7 +326,7 @@
     "UD1448": {
         "code": "UD1448",
         "name": "Stort spelutvecklingsprojekt f\u00f6r Technical Artist",
-        "points": 22.0,
+        "points": 22.5,
         "semester": "H\u00f6sttermin 2018",
         "start_week": 36,
         "end_week": 3,
@@ -351,7 +351,7 @@
     "DV2556": {
         "code": "DV2556",
         "name": "Forskningsmetodik i spel- och programvaruteknik",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2019",
         "start_week": 4,
         "end_week": 13,

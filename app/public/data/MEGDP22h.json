@@ -146,7 +146,7 @@
     "ME1655": {
         "code": "ME1655",
         "name": "Utst\u00e4llningsteknik",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2024",
         "start_week": 3,
         "end_week": 12,
@@ -170,7 +170,7 @@
     "ME1668": {
         "code": "ME1668",
         "name": "Generativ bild",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2024",
         "start_week": 3,
         "end_week": 12,
@@ -242,7 +242,7 @@
     "ME1654": {
         "code": "ME1654",
         "name": "Virtuell produktion",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2024",
         "start_week": 45,
         "end_week": 3,
@@ -266,7 +266,7 @@
     "ME1644": {
         "code": "ME1644",
         "name": "Forskningsintroduktion medieteknik",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2024",
         "start_week": 45,
         "end_week": 3,

@@ -2,7 +2,7 @@
     "MA1476": {
         "code": "MA1476",
         "name": "Matematisk introduktion",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2019",
         "start_week": 35,
         "end_week": 44,
@@ -26,7 +26,7 @@
     "MA1484": {
         "code": "MA1484",
         "name": "Diskret matematik",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2019",
         "start_week": 45,
         "end_week": 3,
@@ -50,7 +50,7 @@
     "UD1452": {
         "code": "UD1452",
         "name": "Grunder i spelutveckling f\u00f6r spelprogrammering",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2020",
         "start_week": 4,
         "end_week": 13,
@@ -74,7 +74,7 @@
     "DV1619": {
         "code": "DV1619",
         "name": "Datorkommunikation",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2020",
         "start_week": 4,
         "end_week": 13,
@@ -98,7 +98,7 @@
     "PA1458": {
         "code": "PA1458",
         "name": "Programvarudesign",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2020",
         "start_week": 14,
         "end_week": 23,
@@ -122,7 +122,7 @@
     "DV1538": {
         "code": "DV1538",
         "name": "Algoritmer och datastrukturer",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2020",
         "start_week": 14,
         "end_week": 23,
@@ -146,7 +146,7 @@
     "MA1485": {
         "code": "MA1485",
         "name": "Linj\u00e4r algebra",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2020",
         "start_week": 36,
         "end_week": 44,
@@ -170,7 +170,7 @@
     "DV1628": {
         "code": "DV1628",
         "name": "Operativsystem",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2020",
         "start_week": 36,
         "end_week": 44,
@@ -219,7 +219,7 @@
     "DV1569": {
         "code": "DV1569",
         "name": "Artificiell intelligens f\u00f6r spel",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2020",
         "start_week": 45,
         "end_week": 2,
@@ -243,7 +243,7 @@
     "FY1426": {
         "code": "FY1426",
         "name": "Till\u00e4mpad realtidsfysik",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2021",
         "start_week": 3,
         "end_week": 12,
@@ -267,7 +267,7 @@
     "DV1570": {
         "code": "DV1570",
         "name": "Skripting och andra spr\u00e5k",
-        "points": 5.0,
+        "points": 5.5,
         "semester": "V\u00e5rtermin 2021",
         "start_week": 13,
         "end_week": 22,
@@ -315,7 +315,7 @@
     "DV1572": {
         "code": "DV1572",
         "name": "Litet spelprojekt f\u00f6r Spelprogrammering",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2021",
         "start_week": 13,
         "end_week": 22,
@@ -339,7 +339,7 @@
     "DV1567": {
         "code": "DV1567",
         "name": "Prestandaoptimering",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2021",
         "start_week": 35,
         "end_week": 43,
@@ -363,7 +363,7 @@
     "DV1573": {
         "code": "DV1573",
         "name": "Stort spelutvecklingsprojekt i grupp med agil metodik",
-        "points": 22.0,
+        "points": 22.5,
         "semester": "H\u00f6sttermin 2021",
         "start_week": 35,
         "end_week": 2,
@@ -388,7 +388,7 @@
     "DV2556": {
         "code": "DV2556",
         "name": "Forskningsmetodik i spel- och programvaruteknik",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2022",
         "start_week": 3,
         "end_week": 12,
@@ -412,7 +412,7 @@
     "DV1656": {
         "code": "DV1656",
         "name": "Kompilator- och \u00f6vers\u00e4ttarteknik",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2022",
         "start_week": 3,
         "end_week": 12,
@@ -436,7 +436,7 @@
     "DV1557": {
         "code": "DV1557",
         "name": "Anv\u00e4ndbarhet och interaktionsdesign",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2022",
         "start_week": 3,
         "end_week": 12,

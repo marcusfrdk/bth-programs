@@ -2,7 +2,7 @@
     "PA2580": {
         "code": "PA2580",
         "name": "Agil och Lean utveckling av mjukvaruintensiva produkter",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2020",
         "start_week": 36,
         "end_week": 2,
@@ -27,7 +27,7 @@
     "PA2579": {
         "code": "PA2579",
         "name": "Adaptiv Lean Programvarutestning",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2020",
         "start_week": 36,
         "end_week": 2,
@@ -52,7 +52,7 @@
     "DV1569": {
         "code": "DV1569",
         "name": "Artificiell intelligens f\u00f6r spel",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2020",
         "start_week": 45,
         "end_week": 2,
@@ -76,7 +76,7 @@
     "DV2581": {
         "code": "DV2581",
         "name": "Avancerad multicoreprogrammering",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2020",
         "start_week": 45,
         "end_week": 2,
@@ -100,7 +100,7 @@
     "DV2551": {
         "code": "DV2551",
         "name": "3D-programmering lll",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2021",
         "start_week": 3,
         "end_week": 12,
@@ -124,7 +124,7 @@
     "DV1618": {
         "code": "DV1618",
         "name": "Algoritmer och datastrukturer med objektorienterad Python",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2021",
         "start_week": 3,
         "end_week": 12,
@@ -148,7 +148,7 @@
     "ET1492": {
         "code": "ET1492",
         "name": "Akustik f\u00f6r ljud- och musikproduktion",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2021",
         "start_week": 3,
         "end_week": 12,
@@ -172,7 +172,7 @@
     "ET1545": {
         "code": "ET1545",
         "name": "Automation 1",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2021",
         "start_week": 13,
         "end_week": 22,
@@ -196,7 +196,7 @@
     "ET1546": {
         "code": "ET1546",
         "name": "Analog- och digitalteknik",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2021",
         "start_week": 13,
         "end_week": 22,

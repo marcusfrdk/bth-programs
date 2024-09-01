@@ -2,7 +2,7 @@
     "UD1441": {
         "code": "UD1441",
         "name": "Grunder i spelgrafik",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2018",
         "start_week": 35,
         "end_week": 44,
@@ -26,7 +26,7 @@
     "UD1445": {
         "code": "UD1445",
         "name": "Grunder i spelutveckling",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2018",
         "start_week": 35,
         "end_week": 44,
@@ -50,7 +50,7 @@
     "UD1444": {
         "code": "UD1444",
         "name": "Plugin-konstruktion och skriptspr\u00e5k",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2019",
         "start_week": 14,
         "end_week": 23,
@@ -74,7 +74,7 @@
     "UD1443": {
         "code": "UD1443",
         "name": "Spelprototyptillverkning",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2019",
         "start_week": 14,
         "end_week": 23,
@@ -98,7 +98,7 @@
     "MA1433": {
         "code": "MA1433",
         "name": "Matematik f\u00f6r Technical Artist",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2019",
         "start_week": 36,
         "end_week": 44,
@@ -122,7 +122,7 @@
     "UD1451": {
         "code": "UD1451",
         "name": "Digital skulptering och optimering",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2019",
         "start_week": 36,
         "end_week": 44,
@@ -220,7 +220,7 @@
     "UD1447": {
         "code": "UD1447",
         "name": "Konstruktion av spelteknikverktyg",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2020",
         "start_week": 36,
         "end_week": 44,
@@ -244,7 +244,7 @@
     "UD1448": {
         "code": "UD1448",
         "name": "Stort spelutvecklingsprojekt f\u00f6r Technical Artist",
-        "points": 22.0,
+        "points": 22.5,
         "semester": "H\u00f6sttermin 2020",
         "start_week": 36,
         "end_week": 2,
@@ -269,7 +269,7 @@
     "DV2556": {
         "code": "DV2556",
         "name": "Forskningsmetodik i spel- och programvaruteknik",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2021",
         "start_week": 3,
         "end_week": 12,

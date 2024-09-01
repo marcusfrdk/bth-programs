@@ -26,7 +26,7 @@
     "FM1481": {
         "code": "FM1481",
         "name": "Rum 1",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2019",
         "start_week": 45,
         "end_week": 49,
@@ -50,7 +50,7 @@
     "FM1480": {
         "code": "FM1480",
         "name": "Stadsbyggnadshistoria",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2019",
         "start_week": 49,
         "end_week": 3,
@@ -74,7 +74,7 @@
     "FM1484": {
         "code": "FM1484",
         "name": "Vetenskapsteorins grunder",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2020",
         "start_week": 9,
         "end_week": 13,
@@ -146,7 +146,7 @@
     "FM1486": {
         "code": "FM1486",
         "name": "Planeringsteori",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2020",
         "start_week": 45,
         "end_week": 49,
@@ -170,7 +170,7 @@
     "FM1487": {
         "code": "FM1487",
         "name": "Planeringsekonomi och genomf\u00f6rande",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2020",
         "start_week": 49,
         "end_week": 2,
@@ -194,7 +194,7 @@
     "FM1488": {
         "code": "FM1488",
         "name": "Plan- och milj\u00f6r\u00e4tt",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2021",
         "start_week": 3,
         "end_week": 7,
@@ -218,7 +218,7 @@
     "FM1489": {
         "code": "FM1489",
         "name": "Rum 2",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2021",
         "start_week": 8,
         "end_week": 12,
@@ -314,7 +314,7 @@
     "FM1493": {
         "code": "FM1493",
         "name": "Tematisk litteraturkurs",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2022",
         "start_week": 3,
         "end_week": 7,
@@ -338,7 +338,7 @@
     "FM1494": {
         "code": "FM1494",
         "name": "Vetenskapliga metoder",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2022",
         "start_week": 8,
         "end_week": 12,
@@ -362,7 +362,7 @@
     "FM1495": {
         "code": "FM1495",
         "name": "Planeringens metoder",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2022",
         "start_week": 8,
         "end_week": 12,

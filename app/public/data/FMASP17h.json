@@ -77,7 +77,7 @@
     "FM2598": {
         "code": "FM2598",
         "name": "Samh\u00e4llsorganisation och styrformer",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2018",
         "start_week": 3,
         "end_week": 22,
@@ -102,7 +102,7 @@
     "FM2597": {
         "code": "FM2597",
         "name": "Vetenskapligt arbete: teoretiska utg\u00e5ngspunkter och unders\u00f6kningsmetoder",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2018",
         "start_week": 3,
         "end_week": 22,
@@ -127,7 +127,7 @@
     "FM2587": {
         "code": "FM2587",
         "name": "Infrastruktur och h\u00e5llbarhet",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2018",
         "start_week": 36,
         "end_week": 40,
@@ -175,7 +175,7 @@
     "FM2590": {
         "code": "FM2590",
         "name": "Urbanteori",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2018",
         "start_week": 49,
         "end_week": 3,

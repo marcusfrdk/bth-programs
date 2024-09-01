@@ -2,7 +2,7 @@
     "PA1439": {
         "code": "PA1439",
         "name": "Webbteknologier",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2017",
         "start_week": 35,
         "end_week": 2,
@@ -27,7 +27,7 @@
     "PA1436": {
         "code": "PA1436",
         "name": "Teknisk webbdesign och anv\u00e4ndbarhet",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2017",
         "start_week": 35,
         "end_week": 2,
@@ -52,7 +52,7 @@
     "DV1531": {
         "code": "DV1531",
         "name": "Programmering och Probleml\u00f6sning med Python",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2017",
         "start_week": 35,
         "end_week": 2,
@@ -77,7 +77,7 @@
     "DV1561": {
         "code": "DV1561",
         "name": "Programmering med JavaScript",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2017",
         "start_week": 35,
         "end_week": 2,
@@ -102,7 +102,7 @@
     "PA1437": {
         "code": "PA1437",
         "name": "Objektorienterad design och programmering med Python",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2018",
         "start_week": 3,
         "end_week": 22,
@@ -127,7 +127,7 @@
     "PA1451": {
         "code": "PA1451",
         "name": "Databasteknologier f\u00f6r webben",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2018",
         "start_week": 3,
         "end_week": 22,
@@ -152,7 +152,7 @@
     "DV1546": {
         "code": "DV1546",
         "name": "Webbapplikationer f\u00f6r mobila enheter",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2018",
         "start_week": 3,
         "end_week": 22,
@@ -177,7 +177,7 @@
     "DV1547": {
         "code": "DV1547",
         "name": "Programmera webbtj\u00e4nster i Linux",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2018",
         "start_week": 3,
         "end_week": 22,
@@ -202,7 +202,7 @@
     "PA1414": {
         "code": "PA1414",
         "name": "Individuellt programvaruprojekt",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2018",
         "start_week": 36,
         "end_week": 44,
@@ -226,7 +226,7 @@
     "PA1440": {
         "code": "PA1440",
         "name": "Objektorienterade webbteknologier",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2018",
         "start_week": 36,
         "end_week": 44,
@@ -250,7 +250,7 @@
     "PA1441": {
         "code": "PA1441",
         "name": "Webbaserade ramverk 1",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2018",
         "start_week": 45,
         "end_week": 3,
@@ -274,7 +274,7 @@
     "MA1487": {
         "code": "MA1487",
         "name": "Matematisk\u00a0modellering",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2018",
         "start_week": 45,
         "end_week": 3,
@@ -323,7 +323,7 @@
     "DV1557": {
         "code": "DV1557",
         "name": "Anv\u00e4ndbarhet och interaktionsdesign",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2019",
         "start_week": 4,
         "end_week": 13,
@@ -347,7 +347,7 @@
     "DV1584": {
         "code": "DV1584",
         "name": "Kompilator- och \u00f6vers\u00e4ttarteknik",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2019",
         "start_week": 4,
         "end_week": 13,
@@ -371,7 +371,7 @@
     "ET1447": {
         "code": "ET1447",
         "name": "Data- och telekommunikation",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2019",
         "start_week": 4,
         "end_week": 13,
@@ -395,7 +395,7 @@
     "PA1458": {
         "code": "PA1458",
         "name": "Programvarudesign",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2019",
         "start_week": 14,
         "end_week": 23,
@@ -419,7 +419,7 @@
     "PA1417": {
         "code": "PA1417",
         "name": "Grundl\u00e4ggande systemverifiering",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2019",
         "start_week": 14,
         "end_week": 23,
@@ -443,7 +443,7 @@
     "DV1612": {
         "code": "DV1612",
         "name": "JavaScript-baserade webbramverk",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2019",
         "start_week": 36,
         "end_week": 44,
@@ -467,7 +467,7 @@
     "PA1452": {
         "code": "PA1452",
         "name": "F\u00f6rdjupningskurs i Webbutveckling",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2019",
         "start_week": 36,
         "end_week": 44,
@@ -491,7 +491,7 @@
     "DV1616": {
         "code": "DV1616",
         "name": "Informationss\u00e4kerhet med webbtill\u00e4mpningar",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2019",
         "start_week": 45,
         "end_week": 3,
@@ -515,7 +515,7 @@
     "DV1617": {
         "code": "DV1617",
         "name": "Kontinuerlig integration och drifts\u00e4ttning i molnet",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2019",
         "start_week": 45,
         "end_week": 3,

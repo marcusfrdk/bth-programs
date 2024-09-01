@@ -2,7 +2,7 @@
     "OM1533": {
         "code": "OM1533",
         "name": "Introduktion till yrke och akademi",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2022",
         "start_week": 3,
         "end_week": 7,
@@ -26,7 +26,7 @@
     "OM1534": {
         "code": "OM1534",
         "name": "Det v\u00e5rdande och l\u00e4rande m\u00f6tet",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2022",
         "start_week": 8,
         "end_week": 12,
@@ -50,7 +50,7 @@
     "KM1421": {
         "code": "KM1421",
         "name": "Grundl\u00e4ggande anatomi och fysiologi",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2022",
         "start_week": 13,
         "end_week": 17,
@@ -74,7 +74,7 @@
     "OM1535": {
         "code": "OM1535",
         "name": "Omv\u00e5rdnadens grunder",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2022",
         "start_week": 18,
         "end_week": 22,
@@ -98,7 +98,7 @@
     "KM1422": {
         "code": "KM1422",
         "name": "Anatomi och fysiologi, f\u00f6rdjupning",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2022",
         "start_week": 34,
         "end_week": 38,
@@ -122,7 +122,7 @@
     "KM1423": {
         "code": "KM1423",
         "name": "Mikrobiologi, farmakologi och n\u00e4ringsl\u00e4ra",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2022",
         "start_week": 39,
         "end_week": 43,
@@ -146,7 +146,7 @@
     "OM1537": {
         "code": "OM1537",
         "name": "Omv\u00e5rdnad, f\u00f6rdjupning",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2022",
         "start_week": 44,
         "end_week": 48,
@@ -170,7 +170,7 @@
     "OM1536": {
         "code": "OM1536",
         "name": "Sjuksk\u00f6terskans professionella grund",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2022",
         "start_week": 49,
         "end_week": 2,
@@ -194,7 +194,7 @@
     "KM1424": {
         "code": "KM1424",
         "name": "Patofysiologi I",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2023",
         "start_week": 3,
         "end_week": 7,
@@ -218,7 +218,7 @@
     "OM1538": {
         "code": "OM1538",
         "name": "Omv\u00e5rdnad, metoder och till\u00e4mpning I",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2023",
         "start_week": 8,
         "end_week": 12,
@@ -242,7 +242,7 @@
     "KM1425": {
         "code": "KM1425",
         "name": "Patofysiologi II",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2023",
         "start_week": 13,
         "end_week": 17,
@@ -266,7 +266,7 @@
     "OM1539": {
         "code": "OM1539",
         "name": "Omv\u00e5rdnad, metoder och till\u00e4mpning II",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2023",
         "start_week": 18,
         "end_week": 22,
@@ -315,7 +315,7 @@
     "OM1547": {
         "code": "OM1547",
         "name": "Omv\u00e5rdnad, vetenskapliga teorier och metoder",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2024",
         "start_week": 3,
         "end_week": 7,
@@ -363,7 +363,7 @@
     "OM1541": {
         "code": "OM1541",
         "name": "Omv\u00e5rdnad vid akuta situationer och komplexa oh\u00e4lsotillst\u00e5nd",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2024",
         "start_week": 18,
         "end_week": 22,

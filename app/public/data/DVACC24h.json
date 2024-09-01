@@ -2,7 +2,7 @@
     "DV1457": {
         "code": "DV1457",
         "name": "Programmering i UNIX-milj\u00f6",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2024",
         "start_week": 36,
         "end_week": 44,
@@ -26,7 +26,7 @@
     "DV2618": {
         "code": "DV2618",
         "name": "Till\u00e4mpad artificiell intelligens",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2024",
         "start_week": 36,
         "end_week": 44,
@@ -50,7 +50,7 @@
     "DV1566": {
         "code": "DV1566",
         "name": "Introduktion till Cloud Computing",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2024",
         "start_week": 45,
         "end_week": 3,
@@ -74,7 +74,7 @@
     "DV2626": {
         "code": "DV2626",
         "name": "Maskininl\u00e4rning",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2024",
         "start_week": 45,
         "end_week": 3,
@@ -98,7 +98,7 @@
     "DV2631": {
         "code": "DV2631",
         "name": "Forskningsmetodik i datavetenskap",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2025",
         "start_week": 4,
         "end_week": 13,
@@ -122,7 +122,7 @@
     "PA2562": {
         "code": "PA2562",
         "name": "S\u00e4ker mjukvaruutveckling",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2025",
         "start_week": 4,
         "end_week": 13,
@@ -146,7 +146,7 @@
     "DV1557": {
         "code": "DV1557",
         "name": "Anv\u00e4ndbarhet och interaktionsdesign",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2025",
         "start_week": 4,
         "end_week": 13,
@@ -170,7 +170,7 @@
     "DV2627": {
         "code": "DV2627",
         "name": "Avancerad maskininl\u00e4rning",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2025",
         "start_week": 4,
         "end_week": 13,
@@ -194,7 +194,7 @@
     "DV2601": {
         "code": "DV2601",
         "name": "Avancerad n\u00e4tverksteknik",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2025",
         "start_week": 4,
         "end_week": 13,
@@ -218,7 +218,7 @@
     "MS1411": {
         "code": "MS1411",
         "name": "Matematisk statistik",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2025",
         "start_week": 14,
         "end_week": 23,
@@ -242,7 +242,7 @@
     "PA2559": {
         "code": "PA2559",
         "name": "M\u00e4tningar av programvara",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2025",
         "start_week": 14,
         "end_week": 23,
@@ -266,7 +266,7 @@
     "DV2586": {
         "code": "DV2586",
         "name": "Djup maskininl\u00e4rning",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2025",
         "start_week": 14,
         "end_week": 23,
@@ -290,7 +290,7 @@
     "DV2573": {
         "code": "DV2573",
         "name": "Beslutsst\u00f6djande system",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2025",
         "start_week": 14,
         "end_week": 23,
@@ -314,7 +314,7 @@
     "DV2602": {
         "code": "DV2602",
         "name": "Drift av n\u00e4tverk och n\u00e4tverkstj\u00e4nster",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2025",
         "start_week": 14,
         "end_week": 23,
@@ -338,7 +338,7 @@
     "PA2577": {
         "code": "PA2577",
         "name": "Till\u00e4mpad Cloud Computing och Big Data",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2025",
         "start_week": 36,
         "end_week": 44,
@@ -362,7 +362,7 @@
     "DV1674": {
         "code": "DV1674",
         "name": "Prestandaoptimering",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2025",
         "start_week": 36,
         "end_week": 44,
@@ -386,7 +386,7 @@
     "DV2604": {
         "code": "DV2604",
         "name": "Kapacitetsanalys",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2025",
         "start_week": 36,
         "end_week": 44,
@@ -410,7 +410,7 @@
     "SL1420": {
         "code": "SL1420",
         "name": "H\u00e5llbar utveckling av informations- och kommunikationsteknik",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2025",
         "start_week": 36,
         "end_week": 44,
@@ -434,7 +434,7 @@
     "DV2582": {
         "code": "DV2582",
         "name": "Analys av illasinnad programvara (malware)",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2025",
         "start_week": 36,
         "end_week": 44,
@@ -458,7 +458,7 @@
     "DV2635": {
         "code": "DV2635",
         "name": "F\u00f6rdjupningskurs i datavetenskap och kommunikation",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2025",
         "start_week": 45,
         "end_week": 3,
@@ -482,7 +482,7 @@
     "DV2620": {
         "code": "DV2620",
         "name": "Programvarus\u00e4kerhet",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2025",
         "start_week": 45,
         "end_week": 3,
@@ -506,7 +506,7 @@
     "DV2597": {
         "code": "DV2597",
         "name": "Multiprocessorprogrammering",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2025",
         "start_week": 45,
         "end_week": 3,

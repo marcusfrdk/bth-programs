@@ -26,7 +26,7 @@
     "FM1513": {
         "code": "FM1513",
         "name": "Stadsrum 1",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2023",
         "start_week": 44,
         "end_week": 48,
@@ -50,7 +50,7 @@
     "FM1480": {
         "code": "FM1480",
         "name": "Stadsbyggnadshistoria",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2023",
         "start_week": 48,
         "end_week": 2,
@@ -74,7 +74,7 @@
     "FM1503": {
         "code": "FM1503",
         "name": "Geografiska informationssystem och statistik",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2024",
         "start_week": 3,
         "end_week": 7,
@@ -98,7 +98,7 @@
     "FM1504": {
         "code": "FM1504",
         "name": "Vetenskapsteorins grunder",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2024",
         "start_week": 8,
         "end_week": 12,
@@ -170,7 +170,7 @@
     "FM1514": {
         "code": "FM1514",
         "name": "Planeringsteori",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2024",
         "start_week": 45,
         "end_week": 49,
@@ -194,7 +194,7 @@
     "FM1487": {
         "code": "FM1487",
         "name": "Planeringsekonomi och genomf\u00f6rande",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "H\u00f6sttermin 2024",
         "start_week": 50,
         "end_week": 3,
@@ -218,7 +218,7 @@
     "FM1488": {
         "code": "FM1488",
         "name": "Plan- och milj\u00f6r\u00e4tt",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2025",
         "start_week": 4,
         "end_week": 8,
@@ -242,7 +242,7 @@
     "FM1515": {
         "code": "FM1515",
         "name": "Stadsrum 2",
-        "points": 7.0,
+        "points": 7.5,
         "semester": "V\u00e5rtermin 2025",
         "start_week": 9,
         "end_week": 13,
