@@ -97,7 +97,7 @@ const Overlay = styled.div`
     transition: opacity 512ms ease-in-out;
 
     &.open {
-        opacity: 0.25;
+        opacity: 0.5;
         z-index: 90;
         pointer-events: all;
         cursor: pointer;
