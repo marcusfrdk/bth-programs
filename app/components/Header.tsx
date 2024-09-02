@@ -7,6 +7,7 @@ import { useState } from "react";
 import {useData} from "@/contexts/DataProvider";
 import {RiMenu3Fill as MenuIconOpen} from "react-icons/ri";
 import splitProgram from "@/utils/splitProgram";
+import Logo from "@/public/bth-logo.svg";
 
 export default function Header(){
     const { selectedProgram, names } = useData();
@@ -14,8 +15,8 @@ export default function Header(){
 
     return (
         <Container className={isOpen ? "open" : ""}>
-            <div>
-                <Image src="/bth-logo-40.png" height={40} width={40} alt="BTH Logo" />
+            <div className="header">
+                <Logo/>
                 <div className="ellipsis">
                     <h1 className="ellipsis">{names[splitProgram(selectedProgram).code]}</h1>
                     <p className="ellipsis">{selectedProgram}</p>
@@ -43,16 +44,17 @@ const Container = styled.header`
     background-color: var(--neutral-0);
     z-index: 100;
 
-    & > div {
+    & > div.header {
         width: 100%;
         overflow: hidden;
         display: flex;
         align-items: center;
         gap: 1rem;
 
-        & > img {
+        & > svg {
             height: 2.5rem;
             width: 2.5rem;
+            fill: var(--strong);
         }
         
         & > div {

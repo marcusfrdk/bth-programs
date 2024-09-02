@@ -5,7 +5,7 @@ import CourseModal from "./CourseModal";
 import { useData } from "@/contexts/DataProvider";
 import { CourseType } from "@/types/Program";
 import { useQuery } from "@tanstack/react-query";
-import { useCallback, useEffect, useState } from "react";
+import { useCallback, useEffect, useRef, useState } from "react";
 import { TbChecklist as CourseRequirements } from "react-icons/tb";
 import { PiNumberCircleTwo as CourseDouble } from "react-icons/pi";
 import { FaMinus as Minus } from "react-icons/fa";
@@ -53,6 +53,8 @@ async function fetchProgramData(program: string){
 }
 
 export default function Schedule(){
+    const currentRef = useRef<HTMLParagraphElement>(null);
+
     const {selectedProgram, comparedPrograms, removeComparison} = useData();
 
     const [course, setCourse] = useState<CourseType | null>(null);
@@ -126,16 +128,21 @@ export default function Schedule(){
         enabled: !!selectedProgram && !!comparedPrograms
     });
 
-    const calculateTargetOffset = useCallback(() => {
-        if(!isLoading && !isError){
-            const currentElement = document.getElementById("current");
+    const handleClick = (course: CourseType) => {
+        setCourse(course);
+        setModalIsOpen(true);
+    }
+
+    useEffect(() => {
+
+        // BUG: If there are only two LP, it will set it to spring, it should be fall (DVAAM24h)
+
+        if(!isLoading && !isError && currentRef){
             const remSize = parseFloat(getComputedStyle(document.documentElement).fontSize);
             const headerHeight = parseFloat(getComputedStyle(document.documentElement).getPropertyValue("--header-height"));
             const offset = (headerHeight + 3) * remSize;
-            const currentElementOffset = currentElement?.offsetTop || 0;
+            const currentElementOffset = currentRef.current?.offsetTop || 0;
             let targetOffset = currentElementOffset - offset;
-    
-            if(targetOffset <= 0) targetOffset = document.body.scrollHeight - window.innerHeight;
     
             window.scrollTo({ top: targetOffset });
     
@@ -145,16 +152,7 @@ export default function Schedule(){
     
             window.dispatchEvent(event);
         }
-    }, [isLoading, isError]);
-
-    const handleClick = (course: CourseType) => {
-        setCourse(course);
-        setModalIsOpen(true);
-    }
-
-    useEffect(() => {
-        calculateTargetOffset();
-    }, [data, isLoading, isError, calculateTargetOffset]);
+    }, [data, isLoading, isError, currentRef]);
 
     if(!selectedProgram || !comparedPrograms || isLoading) return <ScheduleLoading/>;
     if(!data || isError) return <ScheduleError/>;
@@ -175,7 +173,8 @@ export default function Schedule(){
                                     
                                     return (
                                         <li key={`${year}-${period}-${j}`} className={`${isPrevious ? "previous" : ""} period`}>
-                                            <p id={isCurrent ? "current" : ""}>{[1, 2].includes(j + 1) ? "Vårtermin" : "Hösttermin"} (LP {period})</p>
+                                            <p ref={isCurrent ? currentRef : null}>{[1, 2].includes(j + 1) ? "Vårtermin" : "Hösttermin"} (LP {period})</p>
+                                            {/* id={isCurrent ? "current" : ""} */}
                                             <ul>
                                                 {Object.entries(programs).map(([program, courses], k) => {
                                                     // ...
