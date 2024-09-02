@@ -1,5 +1,5 @@
 
-import type { IndexType, NamesType, TeachersType } from "@/types/Program";
+import type { IndexType, NamesType, TeachersType, YearsType } from "@/types/Program";
 import { cookies } from "next/headers";
 import DataProvider from "@/contexts/DataProvider";
 import App from "./App";
@@ -9,11 +9,13 @@ import QueryProvider from "@/contexts/QueryProvider";
 import indexData from "@/data/index.json";
 import namesData from "@/data/names.json";
 import teachersData from "@/data/teachers.json";
+import yearsData from "@/data/years.json";
 
 export default function Home() {
   const index: IndexType = indexData;
   const names: NamesType = namesData;
   const teachers: TeachersType = teachersData;
+  const years: YearsType = yearsData;
 
   const indexKeys = new Set(Object.keys(index));
   const namesKeys = new Set(Object.keys(names));
@@ -58,6 +60,7 @@ export default function Home() {
       names={names} 
       programs={index}
       teachers={teachers}
+      years={years}
       initialComparedPrograms={comparedPrograms}
       initialSelectedProgram={hasSelectedProgram ? selectedCode + selectedSemester : ""}
     >

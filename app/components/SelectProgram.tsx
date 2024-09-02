@@ -23,7 +23,7 @@ export default function SelectProgram({
     disable = "current",
     style
 }: Props){
-    const {selectedProgram, comparedPrograms, programs} = useData();
+    const {selectedProgram, comparedPrograms, programs, years} = useData();
     const [value, setValue] = useState<string>(selectedProgram);
 
     function handleChange(e: ChangeEvent<HTMLSelectElement>){
@@ -53,11 +53,13 @@ export default function SelectProgram({
                     return (
                         <optgroup key={code} label={code}>
                             {semesters.sort().map(semester => {
-                                const isDisabled = disabledPrograms.includes(code + semester);
+                                const program = code + semester;
+                                const isDisabled = disabledPrograms.includes(program);
+                                const nYears = Object.keys(years).includes(program) ? years[program] : null;
 
                                 return (
                                     <option key={semester} value={code + semester} disabled={isDisabled}>
-                                        {semester}
+                                        {semester}{nYears ? ` (${nYears} år)` : ""}
                                     </option>
                                 );
                             })}

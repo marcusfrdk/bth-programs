@@ -1,7 +1,7 @@
 "use client";
 
 import type { ReactNode } from "react";
-import type { TeachersType } from "@/types/Program";
+import type { TeachersType, YearsType } from "@/types/Program";
 import setCookie from "@/utils/setCookie";
 import splitProgram from "@/utils/splitProgram";
 import { createContext, useState, useContext, useCallback } from "react";
@@ -10,6 +10,7 @@ type DataContextType = {
     names: Readonly<Record<string, string>>;
     programs: Readonly<Record<string, string[]>>;
     teachers: Readonly<TeachersType>;
+    years: Readonly<YearsType>;
     selectedProgram: Readonly<string>;
     comparedPrograms: Readonly<string[]>;
     updateSelectedProgram: (program: string) => void;
@@ -22,6 +23,7 @@ type DataProviderProps = {
     names: Record<string, string>;
     programs: Record<string, string[]>;
     teachers: TeachersType;
+    years: YearsType;
     initialSelectedProgram: string;
     initialComparedPrograms: string[];
 };
@@ -30,6 +32,7 @@ export const DataContext = createContext<DataContextType>({
     names: {},
     programs: {},
     teachers: {},
+    years: {},
     comparedPrograms: [],
     selectedProgram: "",
     updateSelectedProgram: () => {},
@@ -46,6 +49,7 @@ export default function DataProvider({
     names,
     programs,
     teachers,
+    years,
     initialSelectedProgram,
     initialComparedPrograms
 }: DataProviderProps){
@@ -83,6 +87,7 @@ export default function DataProvider({
             names,
             programs,
             teachers,
+            years,
             selectedProgram,
             comparedPrograms,
             updateSelectedProgram,

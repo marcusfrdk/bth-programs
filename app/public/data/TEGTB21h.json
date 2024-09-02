@@ -16,7 +16,7 @@
         "teacher": "pgr",
         "replacement": "MA0008",
         "next_instance": null,
-        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=B9KQG&KtTermin=20212&lang=sv",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=B3RDW&KtTermin=20212&lang=sv",
         "education_plan_url": "https://edu.bth.se/utbildningsplaner/TEGTB_HT-21.pdf",
         "start_year": 2021,
         "end_year": 2022,
@@ -29,7 +29,7 @@
         "name": "Fysik alfa",
         "points": 12.0,
         "semester": "H\u00f6sttermin 2021",
-        "start_week": 34,
+        "start_week": 35,
         "end_week": 2,
         "periods": [
             1,
@@ -41,11 +41,11 @@
         "teacher": "hqm",
         "replacement": "FY0007",
         "next_instance": "202445 (BEAHR)",
-        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BMAJU&KtTermin=20212&lang=sv",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BU79L&KtTermin=20212&lang=sv",
         "education_plan_url": "https://edu.bth.se/utbildningsplaner/TEGTB_HT-21.pdf",
         "start_year": 2021,
         "end_year": 2022,
-        "course_duration": 21,
+        "course_duration": 20,
         "is_double": true,
         "color": "#939342"
     },
@@ -66,38 +66,13 @@
         "teacher": "gkn",
         "replacement": "KE0004",
         "next_instance": null,
-        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BCT6X&KtTermin=20212&lang=sv",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=B63AF&KtTermin=20212&lang=sv",
         "education_plan_url": "https://edu.bth.se/utbildningsplaner/TEGTB_HT-21.pdf",
         "start_year": 2021,
         "end_year": 2022,
         "course_duration": 26,
         "is_double": true,
         "color": "#b5e22f"
-    },
-    "FY0006": {
-        "code": "FY0006",
-        "name": "Fysik beta",
-        "points": 10.0,
-        "semester": "V\u00e5rtermin 2022",
-        "start_week": 3,
-        "end_week": 22,
-        "periods": [
-            3,
-            4
-        ],
-        "type": "Obligatorisk",
-        "academic_focus": null,
-        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngen Matematik gamma 15 fup och Fysik alfa 12 fup.",
-        "teacher": "xtp",
-        "replacement": null,
-        "next_instance": "202509 (BYQN9)",
-        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BD36M&KtTermin=20221&lang=sv",
-        "education_plan_url": "https://edu.bth.se/utbildningsplaner/TEGTB_HT-21.pdf",
-        "start_year": 2022,
-        "end_year": 2022,
-        "course_duration": 20,
-        "is_double": true,
-        "color": "#939342"
     },
     "MA0007": {
         "code": "MA0007",
@@ -116,13 +91,38 @@
         "teacher": "lmt",
         "replacement": null,
         "next_instance": "202504 (BHXYL)",
-        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BXQEJ&KtTermin=20221&lang=sv",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=B6XFN&KtTermin=20221&lang=sv",
         "education_plan_url": "https://edu.bth.se/utbildningsplaner/TEGTB_HT-21.pdf",
         "start_year": 2022,
         "end_year": 2022,
         "course_duration": 20,
         "is_double": true,
         "color": "#f00558"
+    },
+    "FY0006": {
+        "code": "FY0006",
+        "name": "Fysik beta",
+        "points": 10.0,
+        "semester": "V\u00e5rtermin 2022",
+        "start_week": 3,
+        "end_week": 22,
+        "periods": [
+            3,
+            4
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngen Matematik gamma 15 fup och Fysik alfa 12 fup.",
+        "teacher": "xtp",
+        "replacement": null,
+        "next_instance": "202509 (BYQN9)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BKMFM&KtTermin=20221&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/TEGTB_HT-21.pdf",
+        "start_year": 2022,
+        "end_year": 2022,
+        "course_duration": 20,
+        "is_double": true,
+        "color": "#939342"
     },
     "_groups": {
         "2021": {
@@ -139,12 +139,12 @@
         },
         "2022": {
             "3": [
-                "FY0006",
-                "MA0007"
+                "MA0007",
+                "FY0006"
             ],
             "4": [
-                "FY0006",
-                "MA0007"
+                "MA0007",
+                "FY0006"
             ]
         }
     }
