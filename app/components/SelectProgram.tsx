@@ -47,7 +47,7 @@ export default function SelectProgram({
                 <Icon fill="var(--weak)" /> 
             </div>}
 
-            <select value="default" onChange={handleChange}>
+            <select defaultValue="default" defaultChecked onChange={handleChange}>
                 <option disabled value="default">Välj bland {Object.keys(programs).length} program</option>
                 {Object.entries(programs).sort().map(([code, semesters]) => {
                     return (
