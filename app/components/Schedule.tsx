@@ -173,8 +173,7 @@ export default function Schedule(){
                                     
                                     return (
                                         <li key={`${year}-${period}-${j}`} className={`${isPrevious ? "previous" : ""} period`}>
-                                            <p ref={isCurrent ? currentRef : null}>{[1, 2].includes(j + 1) ? "Vårtermin" : "Hösttermin"} (LP {period})</p>
-                                            {/* id={isCurrent ? "current" : ""} */}
+                                            <p ref={isCurrent ? currentRef : null}>{[1, 2].includes(Number(period)) ? "Hösttermin" : "Vårtermin"} (LP {period})</p>
                                             <ul>
                                                 {Object.entries(programs).map(([program, courses], k) => {
                                                     // ...
