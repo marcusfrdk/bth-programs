@@ -134,16 +134,17 @@ export default function Schedule(){
     }
 
     useEffect(() => {
+        if(!isLoading && !isError){
+            let targetOffset = document.body.scrollHeight - window.innerHeight;
 
-        // BUG: If there are only two LP, it will set it to spring, it should be fall (DVAAM24h)
+            if(currentRef.current){
+                const remSize = parseFloat(getComputedStyle(document.documentElement).fontSize);
+                const headerHeight = parseFloat(getComputedStyle(document.documentElement).getPropertyValue("--header-height"));
+                const offset = (headerHeight + 3) * remSize;
+                const currentElementOffset = currentRef.current?.offsetTop || 0;
+                targetOffset = currentElementOffset - offset;
+            }
 
-        if(!isLoading && !isError && currentRef){
-            const remSize = parseFloat(getComputedStyle(document.documentElement).fontSize);
-            const headerHeight = parseFloat(getComputedStyle(document.documentElement).getPropertyValue("--header-height"));
-            const offset = (headerHeight + 3) * remSize;
-            const currentElementOffset = currentRef.current?.offsetTop || 0;
-            let targetOffset = currentElementOffset - offset;
-    
             window.scrollTo({ top: targetOffset });
     
             const event = new CustomEvent("schedule-loaded", {
