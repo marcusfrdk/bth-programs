@@ -1,23 +1,17 @@
 "use client";
 
 import type { ReactNode } from "react";
+import type { TeachersType } from "@/types/Program";
 import setCookie from "@/utils/setCookie";
 import splitProgram from "@/utils/splitProgram";
-import { TeachersType } from "@/types/Program";
 import { createContext, useState, useContext, useCallback } from "react";
-
-type ProgramType = {
-    name: string;
-    code: string;
-    semester: string;
-};
 
 type DataContextType = {
     names: Readonly<Record<string, string>>;
     programs: Readonly<Record<string, string[]>>;
     teachers: Readonly<TeachersType>;
-    selectedProgram: ProgramType | null;
-    comparedPrograms: ProgramType[];
+    selectedProgram: Readonly<string>;
+    comparedPrograms: Readonly<string[]>;
     updateSelectedProgram: (program: string) => void;
     addComparison: (program: string) => void,
     removeComparison: (program: string) => void
@@ -28,8 +22,8 @@ type DataProviderProps = {
     names: Record<string, string>;
     programs: Record<string, string[]>;
     teachers: TeachersType;
-    initialSelectedProgram: ProgramType | null;
-    initialComparedPrograms: ProgramType[];
+    initialSelectedProgram: string;
+    initialComparedPrograms: string[];
 };
 
 export const DataContext = createContext<DataContextType>({
@@ -37,7 +31,7 @@ export const DataContext = createContext<DataContextType>({
     programs: {},
     teachers: {},
     comparedPrograms: [],
-    selectedProgram: null,
+    selectedProgram: "",
     updateSelectedProgram: () => {},
     addComparison: () => {},
     removeComparison: () => {}
@@ -55,52 +49,33 @@ export default function DataProvider({
     initialSelectedProgram,
     initialComparedPrograms
 }: DataProviderProps){
-    const [selectedProgram, setSelectedProgram] = useState<ProgramType | null>(initialSelectedProgram);
-    const [comparedPrograms, setComparedPrograms] = useState<ProgramType[]>(initialComparedPrograms);
+    const [selectedProgram, setSelectedProgram] = useState<string>(initialSelectedProgram);
+    const [comparedPrograms, setComparedPrograms] = useState<string[]>(initialComparedPrograms);
 
-    function updateSelectedProgram(program: string){
+    const updateSelectedProgram = useCallback((program: string) => {
         const {code, semester} = splitProgram(program);
 
         if(!Object.keys(names).includes(code)){
             return;
         }
 
-        const data: ProgramType = {
-            name: names[code],
-            code,
-            semester
-        };
-
-        setSelectedProgram(data);
-        setComparedPrograms(programs => programs.filter(f => f.code !== data.code && f.semester !== data.semester));
+        setSelectedProgram(program);
+        setComparedPrograms(programs => programs.filter(f => f !== program));
         setCookie("selectedCode", code);
         setCookie("selectedSemester", semester);
-    };
+        removeComparison(program);
+    }, [names, programs, removeComparison]);
 
     const addComparison = useCallback((program: string) => {
-        const programs = [...comparedPrograms.map(cp => cp.code + cp.semester), program];
+        const programs = [...comparedPrograms, program];
         setCookie("comparedPrograms", programs.join(","));
-        setComparedPrograms(programs.map(program => {
-            const {code, semester} = splitProgram(program);
-            return {
-                name: names[code],
-                code,
-                semester
-            }
-        }));
+        setComparedPrograms(programs);
     }, [comparedPrograms, names]);
 
     function removeComparison(program: string){
-        const programs = comparedPrograms.filter(cp => cp.code + cp.semester !== program).map(cp => cp.code + cp.semester);
+        const programs = comparedPrograms.filter(cp => cp != program);
         setCookie("comparedPrograms", programs.join(","));
-        setComparedPrograms(programs.map(program => {
-            const {code, semester} = splitProgram(program);
-            return {
-                name: names[code],
-                code,
-                semester
-            };
-        }));
+        setComparedPrograms(programs);
     }
 
     return (

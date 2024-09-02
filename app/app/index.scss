@@ -15,6 +15,7 @@ h2 {
 
 :root {
     background-color: var(--neutral-0);
+    overflow-y: scroll; // Added to prevent cumulative layout shift when switching programs
 
     --header-height: 4rem;
 

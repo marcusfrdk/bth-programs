@@ -5,9 +5,10 @@ import { useMemo } from "react";
 import { IoMdRemove as RemoveIcon } from "react-icons/io";
 import { FaPlus as AddIcon } from "react-icons/fa6";
 import SelectProgram from "./SelectProgram";
+import splitProgram from "@/utils/splitProgram";
 
 export default function MenuCompare(){
-    const {comparedPrograms, addComparison, removeComparison} = useData();
+    const {comparedPrograms, addComparison, removeComparison, names} = useData();
 
     return (
         <Container>
@@ -16,13 +17,14 @@ export default function MenuCompare(){
                 {comparedPrograms.length === 0 ? 
                 <li className="empty">Inget att jämföra med</li>
                 : comparedPrograms.map(program => {
+
                     return (
-                        <Added key={program.code + program.semester}>
+                        <Added key={program}>
                             <div>
-                                <p className="ellipsis">{program.code + program.semester}</p>
-                                <p className="ellipsis">{program.name}</p>
+                                <p className="ellipsis">{program}</p>
+                                <p className="ellipsis">{names[splitProgram(program).code]}</p>
                             </div>
-                            <button onClick={() => removeComparison(program.code + program.semester)}>
+                            <button onClick={() => removeComparison(program)}>
                                 <RemoveIcon size="60%" fill="var(--weak)" />
                             </button>
                         </Added>
@@ -30,34 +32,11 @@ export default function MenuCompare(){
                 })}
             </ul>
 
-            {/* <New>
-                <p>Välj program</p>
-                <div>
-                    <AddIcon size="1.25rem" fill="var(--muted)" />
-                </div>
-                <select defaultChecked defaultValue={selectedProgram ? selectedProgram?.code + selectedProgram?.semester : ""} onChange={(e) => addComparison(e.target.value)}>
-                    {Object.entries(programs).sort().map(([code, semesters]) => {
-                        return (
-                            <optgroup key={code} label={code}>
-                                {semesters.sort().map(semester => {
-                                    const isDisabled = disabledSelections.includes(code + semester);
-
-                                    return (
-                                        <option disabled={isDisabled} key={semester} value={code + semester}>
-                                            {semester}
-                                        </option>
-                                    );
-                                })}
-                            </optgroup>
-                        );
-                    })}
-                </select>
-            </New> */}
-
             <SelectProgram
                 onSelect={addComparison}
                 Icon={AddIcon}
-                text="Välj program"
+                permanentText="Välj program"
+                disable="both"
             />
         </Container>
     );

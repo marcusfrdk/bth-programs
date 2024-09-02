@@ -1,6 +1,6 @@
 "use client";
 
-import type {ChangeEvent} from "react";
+import type {ChangeEvent, CSSProperties} from "react";
 import type { IconType } from "react-icons";
 import styled from "@emotion/styled";
 import { useData } from "@/contexts/DataProvider";
@@ -9,21 +9,22 @@ import {FaChevronDown as ChevronDown} from "react-icons/fa6";
 
 type Props = {
     onSelect: (program: string) => void;
-    Icon?: IconType;
-    placeholder?: string;
-    text?: string;
-    disabledCompared?: boolean;
+    Icon?: IconType | null;
+    initialText?: string;
+    permanentText?: string;
+    disable?: "current" | "compared" | "both" | "none";
+    style?: CSSProperties;
 };
 
 export default function SelectProgram({
     onSelect,
     Icon = ChevronDown,
-    placeholder = "Välj program",
-    text,
-    disabledCompared = false
+    permanentText,
+    disable = "current",
+    style
 }: Props){
     const {selectedProgram, comparedPrograms, programs} = useData();
-    const [value, setValue] = useState<string>(selectedProgram ? selectedProgram?.code + selectedProgram?.semester : "");
+    const [value, setValue] = useState<string>(selectedProgram);
 
     function handleChange(e: ChangeEvent<HTMLSelectElement>){
         const newValue = e.target.value;
@@ -31,28 +32,29 @@ export default function SelectProgram({
         setValue(newValue);
     }
 
-    const currentProgram = useMemo(() => {
-        return selectedProgram ? selectedProgram.code + selectedProgram.semester : ""; 
-    }, [selectedProgram]);
-
-    const disabledSelections = useMemo(() => {
-        const disabled = disabledCompared ? [...comparedPrograms.map(program => program.code + program.semester)] : [];
-        return [currentProgram, ...disabled];
-    }, [currentProgram, comparedPrograms, disabledCompared]);
+    const disabledPrograms = useMemo(() => {
+        if(disable === "none") return [];
+        if(disable === "both") return [selectedProgram, ...comparedPrograms];
+        if(disable === "compared") return comparedPrograms;
+        if(disable === "current") return [selectedProgram];
+        return [];
+    }, [selectedProgram, comparedPrograms]);
 
     return (
-        <Container>
-            <p>{text || value || placeholder || ""}</p>
-            <div>
+        <Container style={style}>
+            <p className="text">{permanentText || value || "Välj program"}</p>
+            {Icon && <div className="icon">
                 <Icon fill="var(--weak)" /> 
-            </div>
+            </div>}
 
-            <select value={value} onChange={handleChange}>
+            <select value="default" onChange={handleChange}>
+                <option disabled value="default">Välj bland {Object.keys(programs).length} program</option>
                 {Object.entries(programs).sort().map(([code, semesters]) => {
                     return (
                         <optgroup key={code} label={code}>
                             {semesters.sort().map(semester => {
-                                const isDisabled = disabledSelections.includes(code + semester);
+                                const isDisabled = disabledPrograms.includes(code + semester);
+
                                 return (
                                     <option key={semester} value={code + semester} disabled={isDisabled}>
                                         {semester}
@@ -71,6 +73,7 @@ const Container = styled.div`
     padding: 0.25rem 0.75rem;
     background-color: var(--neutral-2);
     width: 100%;
+    max-width: 32rem;
     border: 0;
     display: flex;
     justify-content: space-between;
@@ -83,11 +86,12 @@ const Container = styled.div`
         pointer-events: none;
     }
 
-    & > p {
+    & > p.text {
         font-size: 1rem;
+        line-height: 2.5rem;
     }
 
-    & > div {
+    & > div.icon {
         height: 2.5rem;
         width: 2.5rem;
         min-height: 2.5rem;
@@ -105,6 +109,8 @@ const Container = styled.div`
         width: 100%;
         opacity: 0;
         cursor: pointer;
+        background-color: var(--neutral-1);
+        color: var(--strong);
     }
 
     @media screen and (hover: hover){

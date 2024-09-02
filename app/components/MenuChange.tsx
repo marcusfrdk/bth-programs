@@ -2,12 +2,15 @@
 
 import styled from "@emotion/styled";
 import SelectProgram from "./SelectProgram";
+import { useData } from "@/contexts/DataProvider";
 
-export default function MenuChange(){    
+export default function MenuChange(){
+    const { updateSelectedProgram } = useData();
+
     return (
         <Container>
             <h2>Ändra Program</h2>
-            <SelectProgram onSelect={(program) => console.log("")} />
+            <SelectProgram onSelect={updateSelectedProgram} />
         </Container>
     );
 }

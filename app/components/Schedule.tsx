@@ -65,11 +65,7 @@ export default function Schedule(){
                 throw new Error("Failed to load programs");
             };
 
-            const programCodes = [
-                selectedProgram.code + selectedProgram.semester,
-                ...comparedPrograms.map(program => program.code + program.semester)
-            ];
-
+            const programCodes = [selectedProgram, ...comparedPrograms];
             const results = await Promise.all(programCodes.map(fetchProgramData));
             const programs = programCodes.reduce((acc: DataType, program, index) => {
                 acc[program] = results[index];

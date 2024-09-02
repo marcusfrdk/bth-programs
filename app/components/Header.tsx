@@ -6,10 +6,10 @@ import Menu from "./Menu";
 import { useState } from "react";
 import {useData} from "@/contexts/DataProvider";
 import {RiMenu3Fill as MenuIconOpen} from "react-icons/ri";
+import splitProgram from "@/utils/splitProgram";
 
 export default function Header(){
-    const { selectedProgram } = useData();
-    
+    const { selectedProgram, names } = useData();
     const [isOpen, setIsOpen] = useState(false);
 
     return (
@@ -17,8 +17,8 @@ export default function Header(){
             <div>
                 <Image src="/bth-logo-40.png" height={40} width={40} alt="BTH Logo" />
                 <div className="ellipsis">
-                    <h1 className="ellipsis">{selectedProgram?.name}</h1>
-                    <p className="ellipsis">{(selectedProgram?.code || "") + (selectedProgram?.semester || "")}</p>
+                    <h1 className="ellipsis">{names[splitProgram(selectedProgram).code]}</h1>
+                    <p className="ellipsis">{selectedProgram}</p>
                 </div>
             </div>
             <button onClick={() => setIsOpen(v => !v)}>

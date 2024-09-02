@@ -5,6 +5,7 @@ import ScrollTo from "./ScrollTo";
 import { Dispatch, SetStateAction, useEffect } from "react";
 import {MdClose as MenuIconClose} from "react-icons/md";
 import { useData } from "@/contexts/DataProvider";
+import splitProgram from "@/utils/splitProgram";
 
 type Props = {
     isOpen: boolean;
@@ -12,7 +13,7 @@ type Props = {
 };
 
 export default function Menu({isOpen, setIsOpen}: Props){
-    const {selectedProgram} = useData();
+    const {selectedProgram, names} = useData();
     
     useEffect(() => {
         const onKeydown = (e: KeyboardEvent) => {
@@ -33,8 +34,8 @@ export default function Menu({isOpen, setIsOpen}: Props){
             <Container className={isOpen ? "open" : ""}>
                 <CloseContainer>
                     <div className="ellipsis">
-                        <p className="ellipsis">{selectedProgram?.name}</p>
-                        <p className="ellipsis">{(selectedProgram?.code || "") + selectedProgram?.semester}</p>
+                        <p className="ellipsis">{names[splitProgram(selectedProgram).code]}</p>
+                        <p className="ellipsis">{selectedProgram}</p>
                     </div>
                     <div onClick={() => setIsOpen(false)}>
                         <MenuIconClose size="75%" fill="var(--muted)" />

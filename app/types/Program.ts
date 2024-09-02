@@ -1,9 +1,3 @@
-export type ProgramType = {
-    name: string;
-    code: string;
-    semester: string;
-};
-
 export type CourseType = {
     code: string;
     name: string;

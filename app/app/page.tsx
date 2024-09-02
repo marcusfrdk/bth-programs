@@ -33,7 +33,6 @@ export default function Home() {
   if(hasSelectedProgram){
     // Set program code
     if(!codeRegex.test(selectedCodeCookie) || !Object.keys(names).includes(selectedCodeCookie)){
-      // selectedCode = programs[0];
       hasSelectedProgram = false;
     };
     
@@ -44,7 +43,6 @@ export default function Home() {
       !index[selectedCode].includes(selectedSemesterCookie)
     ){
       hasSelectedProgram = false;
-      // selectedSemester = index[selectedCode].sort()[0];
     };
   }
 
@@ -53,9 +51,6 @@ export default function Home() {
   comparedPrograms = comparedProgramsCookie.split(",").filter(program => {
     const { code, semester } = splitProgram(program);
     return codeRegex.test(code) && semesterRegex.test(semester) && programs.includes(code) && index[code].includes(semester);
-  }).map((program) => {
-    const { code, semester } = splitProgram(program);
-    return { name: names[code], code, semester };
   });
 
   return (
@@ -64,11 +59,7 @@ export default function Home() {
       programs={index}
       teachers={teachers}
       initialComparedPrograms={comparedPrograms}
-      initialSelectedProgram={hasSelectedProgram ? {
-        name: names[selectedCode],
-        code: selectedCode,
-        semester: selectedSemester
-      } : null}
+      initialSelectedProgram={hasSelectedProgram ? selectedCode + selectedSemester : ""}
     >
       <QueryProvider>
         <App/>
