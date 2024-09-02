@@ -45,7 +45,8 @@ const Container = styled.div`
     width: 4rem;
     max-height: 4rem;
     max-width: 4rem;
-    background-color: var(--neutral-2);
+    /* background-color: var(--neutral-2); */
+    background-color: var(--strong);
     position: fixed;
     bottom: 1rem;
     right: 1rem;
@@ -59,12 +60,11 @@ const Container = styled.div`
     transition-timing-function: ease-in-out;
     transform-origin: center;
     cursor: pointer;
-    border: 0.125rem solid var(--neutral-0);
 
     & > svg {
         height: 40%;
         width: 40%;
-        fill: var(--muted);
+        fill: var(--neutral-1);
     }
 
     &.hidden {

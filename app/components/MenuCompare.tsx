@@ -4,18 +4,10 @@ import { useMemo } from "react";
 
 import { IoMdRemove as RemoveIcon } from "react-icons/io";
 import { FaPlus as AddIcon } from "react-icons/fa6";
+import SelectProgram from "./SelectProgram";
 
 export default function MenuCompare(){
-    const {programs, selectedProgram, comparedPrograms, addComparison, removeComparison} = useData();
-
-    const disabledSelections = useMemo(() => {
-        if(!programs || !selectedProgram) return [];
-
-        const disabled: string[] = comparedPrograms.map(program => program.code + program.semester);
-        disabled.push(selectedProgram.code + selectedProgram.semester);
-
-        return disabled;
-    }, [programs, selectedProgram, comparedPrograms]);
+    const {comparedPrograms, addComparison, removeComparison} = useData();
 
     return (
         <Container>
@@ -38,7 +30,7 @@ export default function MenuCompare(){
                 })}
             </ul>
 
-            <New>
+            {/* <New>
                 <p>Välj program</p>
                 <div>
                     <AddIcon size="1.25rem" fill="var(--muted)" />
@@ -60,7 +52,13 @@ export default function MenuCompare(){
                         );
                     })}
                 </select>
-            </New>
+            </New> */}
+
+            <SelectProgram
+                onSelect={addComparison}
+                Icon={AddIcon}
+                text="Välj program"
+            />
         </Container>
     );
 }
