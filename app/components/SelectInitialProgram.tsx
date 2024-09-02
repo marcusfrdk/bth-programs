@@ -5,6 +5,7 @@ import { useData } from "@/contexts/DataProvider";
 import styled from "@emotion/styled";
 import splitProgram from "@/utils/splitProgram";
 import Logo from "@/public/bth-logo.svg";
+import setCookie from "@/utils/setCookie";
 
 export default function SelectInitialProgram(){
     const {programs, updateSelectedProgram} = useData();
@@ -21,8 +22,9 @@ export default function SelectInitialProgram(){
         ) return;
 
         updateSelectedProgram(code + semester);
-        document.cookie = `selectedCode=${code}; SameSite=Strict; Path=/`;
-    }
+        setCookie("selectedCode", code);
+        setCookie("selectedSemester", semester);
+    };
     
     return (
         <Container>
