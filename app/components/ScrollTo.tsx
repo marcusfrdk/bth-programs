@@ -3,11 +3,7 @@
 import styled from "@emotion/styled";
 import { useEffect, useState } from "react";
 import {throttle} from "lodash";
-import {
-    FaChevronDown as ChevronDown, 
-    FaChevronUp as ChevronUp, 
-    FaMinus as Minus
-} from "react-icons/fa";
+import {FaChevronUp as ChevronUp} from "react-icons/fa";
 import { useData } from "@/contexts/DataProvider";
 
 export default function ScrollTo(){
@@ -34,8 +30,8 @@ export default function ScrollTo(){
             className={`${target === scrollPos ? "hidden" : ""} ${comparedPrograms.length > 0 ? "offset" : ""}`}
             onClick={() => window.scrollTo({ top: target, behavior: "smooth" })}
         >
-            {scrollPos < target ? <ChevronDown/> : <ChevronUp/>}
-            {/* <p>{target}, {scrollPos}</p> */}
+            <ChevronUp className={target === scrollPos ? "hidden" : scrollPos < target ? "down" : "up"} />
+            {/* <p>{target}, {window.scrollY}</p> */}
         </Container>
     );
 }
@@ -45,7 +41,7 @@ const Container = styled.div`
     width: 4rem;
     max-height: 4rem;
     max-width: 4rem;
-    background-color: var(--neutral-2);
+    background-color: var(--strong);
     position: fixed;
     bottom: 1rem;
     right: 1rem;
@@ -59,13 +55,6 @@ const Container = styled.div`
     transition-timing-function: ease-in-out;
     transform-origin: center;
     cursor: pointer;
-    border: 0.125rem solid var(--neutral-0);
-
-    & > svg {
-        height: 40%;
-        width: 40%;
-        fill: var(--muted);
-    }
 
     &.hidden {
         opacity: 0;
@@ -74,5 +63,28 @@ const Container = styled.div`
 
     &.offset {
         bottom: 4rem;
+    }
+
+    & > svg {
+        height: 40%;
+        width: 40%;
+        fill: var(--neutral-1);
+        transition: transform 512ms ease-in-out;
+
+        &.down {
+            transform: scaleY(-1);
+        }
+
+        &.hidden {
+            transform: scaleY(0);
+        }
+    }
+    
+    & > p {
+        color: var(--muted);
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
     }
 `;

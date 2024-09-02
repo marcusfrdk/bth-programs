@@ -29,6 +29,8 @@ DATA_PATH = os.path.join(ROOT_PATH, "app", "data")
 PUBLIC_PATH = os.path.join(ROOT_PATH, "app", "public", "data")
 TEACHER_CSV = os.path.join(DATA_PATH, "teachers.csv")
 TEACHER_JSON = os.path.join(DATA_PATH, "teachers.json")
+YEARS_CSV = os.path.join(DATA_PATH, "years.csv")
+YEARS_JSON = os.path.join(DATA_PATH, "years.json")
 INDEX_PATH = os.path.join(DATA_PATH, "index.json")
 NAMES_PATH = os.path.join(DATA_PATH, "names.json")
 
@@ -138,6 +140,13 @@ def download_program(url: str) -> None:
 
         teacher_codes.update(df["teacher"].unique())
 
+        # Update length
+        program_years = df["end_year"].max() - df["start_year"].min()
+
+        with process_lock:
+            with open(YEARS_CSV, "a", encoding="utf-8") as f:
+                f.write(f"{code};{program_years}\n")
+
         # Remove
         df = df.drop_duplicates(subset=["code"], keep="first")
         df = df.drop(columns=["teacher_url"])
@@ -222,7 +231,7 @@ async def main() -> int:
     """ Main function """
     should_update = args.get("update")
     should_delete = args.get("delete")
-    should_ship_teachers = args.get("skip_teachers")
+    should_skip_teachers = args.get("skip_teachers")
 
     # Check if the data exists
     if should_delete:
@@ -247,10 +256,23 @@ async def main() -> int:
     print(f"Downloading data for {n_programs} program(s)...")
 
     # Download program data
+    with open(YEARS_CSV, "w", encoding="utf-8") as f:
+        f.write("program;years\n")
+
     with ThreadPoolExecutor() as executor:
         await asyncio.gather(*[asyncio.to_thread(executor.submit, download_program, url) for url in urls])
 
-    if not should_ship_teachers:
+    with open(YEARS_CSV, "r", encoding="utf-8") as f:
+        df = pd.read_csv(f, delimiter=";")
+        df = df.drop_duplicates(subset=["program"], keep="first")
+        years_data = df.set_index(df.columns[0]).to_dict()[df.columns[1]]
+    
+    with open(YEARS_JSON, "w", encoding="utf-8") as f:
+        json.dump(years_data, f, indent=4)
+
+    os.remove(YEARS_CSV)
+
+    if not should_skip_teachers:
         # Download teacher data
         with open(TEACHER_CSV, "w", encoding="utf-8") as f:
             f.write("code;name;email;phone;room;unit;location\n")

@@ -1,9 +1,3 @@
-export type ProgramType = {
-    name: string;
-    code: string;
-    semester: string;
-};
-
 export type CourseType = {
     code: string;
     name: string;
@@ -38,7 +32,7 @@ export type TeacherType = {
 };
 
 export type TeachersType = Record<string, TeacherType>;
-
+export type YearsType = Record<string, number>;
 export type CodeType = string; // ABCDE
 export type SemesterType = string; // 12a
 export type IndexType = Record<string, string[]>;

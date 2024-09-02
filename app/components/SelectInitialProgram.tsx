@@ -6,6 +6,7 @@ import styled from "@emotion/styled";
 import splitProgram from "@/utils/splitProgram";
 import Logo from "@/public/bth-logo.svg";
 import setCookie from "@/utils/setCookie";
+import SelectProgram from "./SelectProgram";
 
 export default function SelectInitialProgram(){
     const {programs, updateSelectedProgram} = useData();
@@ -28,71 +29,27 @@ export default function SelectInitialProgram(){
     
     return (
         <Container>
-            <div>
+            <div className="text">
                 <Logo/>
                 <div>
                     <h1>BTH Program</h1>
                     <p>Få en överblick över ditt programs kurser och jämför med andra.</p>
                 </div>
             </div>
-            <Select>
-                <p>Välj ditt program</p>
-                <select defaultChecked defaultValue="default" onChange={handleSelection}>
-                    <option disabled value="default">Välj bland {Object.keys(programs).length} program</option>
-                    {Object.entries(programs).sort().map(([code, semesters]) => {
-                        return (
-                            <optgroup key={code} label={code}>
-                                {semesters.sort().map(semester => {
-                                    return (
-                                        <option key={semester} value={code + semester}>
-                                            {semester}
-                                        </option>
-                                    );
-                                })}
-                            </optgroup>
-                        );
-                    })}
-                </select>
-            </Select>
+
+            <SelectProgram
+                onSelect={updateSelectedProgram}
+                initialText="Välj program"
+                disable="none"
+                Icon={null}
+                style={{
+                    maxWidth: "24rem",
+                    justifyContent: "center"
+                }}
+            />
         </Container>
     );
 };
-
-const Select = styled.div`
-    padding: 1rem;
-    background-color: var(--neutral-1);
-    width: 90%;
-    max-width: 24rem;
-    border: 0;
-    border-radius: 0.5rem;
-    font-size: 1rem;
-    cursor: pointer;
-    position: relative;
-
-    & > *:not(select) {
-        pointer-events: none;
-    }
-
-    & > p {
-        color: var(--weak);
-    }
-
-    & > select {
-        height: 100%;
-        width: 100%;
-        opacity: 0;
-        position: absolute;
-        top: 0;
-        left: 0;
-        cursor: pointer;
-    }
-
-    @media screen and (hover: hover) {
-        &:hover {
-            background-color: var(--neutral-2);
-        }
-    }
-`;
 
 const Container = styled.div`
     height: 100dvh;
@@ -102,8 +59,9 @@ const Container = styled.div`
     align-items: center;
     justify-content: center;
     gap: 1rem;
+    padding: 1rem;
 
-    & > div {
+    & > div.text {
         display: flex;
         flex-direction: column;
         gap: 1rem;
@@ -120,7 +78,7 @@ const Container = styled.div`
         & > div {
             display: flex;
             flex-direction: column;
-            gap: 0.25rem;
+            gap: 0.5rem;
             text-align: center;
 
             & > h1 {
@@ -131,6 +89,7 @@ const Container = styled.div`
             & > p {
                 font-size: 1rem;
                 color: var(--weak);
+                max-width: 40ch;
             }
         }
     }
