@@ -1,8 +1,9 @@
 "use client";
 
-import { TeachersType } from "@/types/Program";
-import splitProgram from "@/utils/splitProgram";
 import type { ReactNode } from "react";
+import setCookie from "@/utils/setCookie";
+import splitProgram from "@/utils/splitProgram";
+import { TeachersType } from "@/types/Program";
 import { createContext, useState, useContext, useCallback } from "react";
 
 type ProgramType = {
@@ -72,13 +73,13 @@ export default function DataProvider({
 
         setSelectedProgram(data);
         setComparedPrograms(programs => programs.filter(f => f.code !== data.code && f.semester !== data.semester));
-        document.cookie = `selectedCode=${code}; SameSite=Strict; Path=/`;
-        document.cookie = `selectedSemester=${semester}; SameSite=Strict; Path=/`;
+        setCookie("selectedCode", code);
+        setCookie("selectedSemester", semester);
     };
 
     const addComparison = useCallback((program: string) => {
         const programs = [...comparedPrograms.map(cp => cp.code + cp.semester), program];
-        document.cookie = `comparedPrograms=${programs.join(",")}; SameSite=Strict; Path=/`;
+        setCookie("comparedPrograms", programs.join(","));
         setComparedPrograms(programs.map(program => {
             const {code, semester} = splitProgram(program);
             return {
@@ -91,7 +92,7 @@ export default function DataProvider({
 
     function removeComparison(program: string){
         const programs = comparedPrograms.filter(cp => cp.code + cp.semester !== program).map(cp => cp.code + cp.semester);
-        document.cookie = `comparedPrograms=${programs.join(",")}; SameSite=Strict; Path=/`;
+        setCookie("comparedPrograms", programs.join(","));
         setComparedPrograms(programs.map(program => {
             const {code, semester} = splitProgram(program);
             return {
