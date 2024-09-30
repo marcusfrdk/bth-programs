@@ -22,7 +22,7 @@ const periodOrderString = periodOrder.map(v => String(v));
 
 const currentYear = new Date().getFullYear();
 const currentWeek = Math.ceil((new Date().getTime() - new Date(currentYear, 0, 1).getTime()) / (7 * 24 * 60 * 60 * 1000));
-const currentStudyPeriod = currentWeek < 10 ? 3 : currentWeek < 30 ? 4 : currentWeek < 40 ? 1 : 2;
+const currentStudyPeriod = currentWeek < 10 ? 3 : currentWeek < 30 ? 4 : currentWeek < 44 ? 1 : 2;
 
 const emptyCourse: CourseType = {
     code: "code",
