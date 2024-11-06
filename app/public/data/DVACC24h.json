@@ -47,30 +47,6 @@
         "is_double": false,
         "color": "#3df6d4"
     },
-    "DV1566": {
-        "code": "DV1566",
-        "name": "Introduktion till Cloud Computing",
-        "points": 7.5,
-        "semester": "H\u00f6sttermin 2024",
-        "start_week": 45,
-        "end_week": 3,
-        "periods": [
-            2
-        ],
-        "type": "Obligatorisk",
-        "academic_focus": null,
-        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att den studerande har avklarat: programmering 15 hp, algoritmer och datastrukturer 6 hp  och  operativsystem 6 hp.",
-        "teacher": "emc",
-        "replacement": null,
-        "next_instance": "202445 (E2626)",
-        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=B49AY&KtTermin=20242&lang=sv",
-        "education_plan_url": "https://edu.bth.se/utbildningsplaner/DVACC_HT-24.pdf",
-        "start_year": 2024,
-        "end_year": 2025,
-        "course_duration": 11,
-        "is_double": false,
-        "color": "#3df6d4"
-    },
     "DV2626": {
         "code": "DV2626",
         "name": "Maskininl\u00e4rning",
@@ -86,7 +62,7 @@
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs en avklarad kurs i algoritmer och datastrukturer omfattande minst 6 hp och genomg\u00e5ngen kurs i till\u00e4mpad artificiell intelligens omfattande minst 6 hp.",
         "teacher": "vbx",
         "replacement": null,
-        "next_instance": "202445 (B7UDJ)",
+        "next_instance": "202545 (B93C7)",
         "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=B7UDJ&KtTermin=20242&lang=sv",
         "education_plan_url": "https://edu.bth.se/utbildningsplaner/DVACC_HT-24.pdf",
         "start_year": 2024,
@@ -95,9 +71,33 @@
         "is_double": false,
         "color": "#3df6d4"
     },
-    "DV2631": {
-        "code": "DV2631",
-        "name": "Forskningsmetodik i datavetenskap",
+    "DV1566": {
+        "code": "DV1566",
+        "name": "Introduktion till Cloud Computing",
+        "points": 7.5,
+        "semester": "H\u00f6sttermin 2024",
+        "start_week": 45,
+        "end_week": 3,
+        "periods": [
+            2
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att den studerande har avklarat: programmering 15 hp, algoritmer och datastrukturer 6 hp  och  operativsystem 6 hp.",
+        "teacher": "emc",
+        "replacement": null,
+        "next_instance": "202545 (B7QX9)",
+        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=B49AY&KtTermin=20242&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/DVACC_HT-24.pdf",
+        "start_year": 2024,
+        "end_year": 2025,
+        "course_duration": 11,
+        "is_double": false,
+        "color": "#3df6d4"
+    },
+    "DV2657": {
+        "code": "DV2657",
+        "name": "Forskningsmetodik",
         "points": 7.5,
         "semester": "V\u00e5rtermin 2025",
         "start_week": 4,
@@ -107,11 +107,11 @@
         ],
         "type": "Obligatorisk",
         "academic_focus": null,
-        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs 120 avklarade hp. Av dessa ska minst 90 hp ska vara inom n\u00e5got av omr\u00e5dena datavetenskap, informationssystem, datateknik, AI och maskininl\u00e4rning, telekommunikationssystem och/eller dators\u00e4kerhet. Minst 6 hp ska vara p\u00e5 avancerad niv\u00e5 inom datavetenskap eller objektorienterad programmering. I de avklarade 120 hp ska \u00e4ven minst 15 hp matematik ing\u00e5.",
-        "teacher": "hjz",
+        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att studenten har avklarat kurser motsvarande 120 hp inom teknik, datavetenskap, programvaruteknik, elektroteknik eller motsvarande varav minst 12 hp inom matematik. Engelska 6.\n",
+        "teacher": null,
         "replacement": null,
-        "next_instance": "202504 (BXKHF)",
-        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BXKHF&KtTermin=20251&lang=sv",
+        "next_instance": "202504 (BLFPH)",
+        "syllabus_url": "https://bth.azure-api.net/lindplan/courseplanbycode?code=BLFPH&semester=20251&lang=sv",
         "education_plan_url": "https://edu.bth.se/utbildningsplaner/DVACC_HT-24.pdf",
         "start_year": 2025,
         "end_year": 2025,
@@ -203,11 +203,11 @@
         ],
         "type": "Valbar",
         "academic_focus": null,
-        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs minst 7,5 hp avklarade i datakommunikation och minst 7,5 hp avklarade i objektorienterad programmering, 7,5 hp.",
+        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs minst 7,5 hp avklarade i datakommunikation och minst 7,5 hp avklarade i objektorienterad programmering, 7,5 hp.\n",
         "teacher": "ktt",
         "replacement": null,
-        "next_instance": "202504 (BEQLW)",
-        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BEQLW&KtTermin=20251&lang=sv",
+        "next_instance": "202504 (E2716)",
+        "syllabus_url": "https://bth.azure-api.net/lindplan/courseplanbycode?code=BEQLW&semester=20251&lang=sv",
         "education_plan_url": "https://edu.bth.se/utbildningsplaner/DVACC_HT-24.pdf",
         "start_year": 2025,
         "end_year": 2025,
@@ -275,11 +275,11 @@
         ],
         "type": "Valbar",
         "academic_focus": null,
-        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngen kurs Maskininl\u00e4rning 6 hp.",
+        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs genomg\u00e5ngen kurs Maskininl\u00e4rning 6 hp.\n",
         "teacher": "hku",
         "replacement": null,
         "next_instance": "202514 (BE7X4)",
-        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BE7X4&KtTermin=20251&lang=sv",
+        "syllabus_url": "https://bth.azure-api.net/lindplan/courseplanbycode?code=BE7X4&semester=20251&lang=sv",
         "education_plan_url": "https://edu.bth.se/utbildningsplaner/DVACC_HT-24.pdf",
         "start_year": 2025,
         "end_year": 2025,
@@ -335,6 +335,30 @@
         "is_double": false,
         "color": "#3df6d4"
     },
+    "SL1420": {
+        "code": "SL1420",
+        "name": "H\u00e5llbar utveckling av informations- och kommunikationsteknik",
+        "points": 7.5,
+        "semester": "H\u00f6sttermin 2025",
+        "start_week": 36,
+        "end_week": 44,
+        "periods": [
+            1
+        ],
+        "type": "Valbar",
+        "academic_focus": null,
+        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs kandidatexamen eller h\u00f6gskoleingenj\u00f6rsexamen, 180 hp inom n\u00e5got av omr\u00e5dena datavetenskap, datateknik, datorteknik, elektroteknik eller programvaruteknik.\u00a0<br>\nEngelska 6.\n",
+        "teacher": "rgo",
+        "replacement": null,
+        "next_instance": "202536 (BWYXF)",
+        "syllabus_url": "https://bth.azure-api.net/lindplan/courseplanbycode?code=BWYXF&semester=20252&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/DVACC_HT-24.pdf",
+        "start_year": 2025,
+        "end_year": 2025,
+        "course_duration": 9,
+        "is_double": false,
+        "color": "#fabdf4"
+    },
     "PA2577": {
         "code": "PA2577",
         "name": "Till\u00e4mpad Cloud Computing och Big Data",
@@ -350,7 +374,7 @@
         "prerequisites": "Minst 90hp inom ett tekniskt omr\u00e5de varav minst 30 hp skall utg\u00f6ras av kurser inom ett eller flera av f\u00f6ljande omr\u00e5den: Programmering, Objektorienterad systemutveckling, Programvarudesign, Datastrukturer och algoritmer, Databasteknik, Datakommunikation, Realtidssystem, Operativsystem. eller Minst 90 hp inom omr\u00e5det teknologi och minst 2 \u00e5rs yrkeserfarenhet av mjukvarurelaterad utveckling (visas exempelvis genom intyg fr\u00e5n arbetsgivare).\n",
         "teacher": "msv",
         "replacement": null,
-        "next_instance": "202445 (E2652)",
+        "next_instance": "202536 (B46CF)",
         "syllabus_url": "https://bth.azure-api.net/lindplan/courseplanbycode?code=B46CF&semester=20252&lang=sv",
         "education_plan_url": "https://edu.bth.se/utbildningsplaner/DVACC_HT-24.pdf",
         "start_year": 2025,
@@ -407,30 +431,6 @@
         "is_double": false,
         "color": "#3df6d4"
     },
-    "SL1420": {
-        "code": "SL1420",
-        "name": "H\u00e5llbar utveckling av informations- och kommunikationsteknik",
-        "points": 7.5,
-        "semester": "H\u00f6sttermin 2025",
-        "start_week": 36,
-        "end_week": 44,
-        "periods": [
-            1
-        ],
-        "type": "Valbar",
-        "academic_focus": null,
-        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs kandidatexamen eller h\u00f6gskoleingenj\u00f6rsexamen, 180 hp inom n\u00e5got av omr\u00e5dena datavetenskap, datateknik, datorteknik, elektroteknik eller programvaruteknik.\u00a0<br>\nEngelska 6.\n",
-        "teacher": "rgo",
-        "replacement": null,
-        "next_instance": "202536 (BWYXF)",
-        "syllabus_url": "https://bth.azure-api.net/lindplan/courseplanbycode?code=BWYXF&semester=20252&lang=sv",
-        "education_plan_url": "https://edu.bth.se/utbildningsplaner/DVACC_HT-24.pdf",
-        "start_year": 2025,
-        "end_year": 2025,
-        "course_duration": 9,
-        "is_double": false,
-        "color": "#fabdf4"
-    },
     "DV2582": {
         "code": "DV2582",
         "name": "Analys av illasinnad programvara (malware)",
@@ -470,7 +470,7 @@
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att studenten har 90 h\u00f6gskolepo\u00e4ng i programvaruteknik eller datavetenskap samt genomg\u00e5ngen kurs i Forskningsmetodik. Engelska 6.",
         "teacher": "yhx",
         "replacement": null,
-        "next_instance": "202445 (BPL7K)",
+        "next_instance": "202545 (BWCAF)",
         "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BWCAF&KtTermin=20252&lang=sv",
         "education_plan_url": "https://edu.bth.se/utbildningsplaner/DVACC_HT-24.pdf",
         "start_year": 2025,
@@ -494,7 +494,7 @@
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs 90 hp varav 40 hp inom det tekniska omr\u00e5det varav en avklarad kurs p\u00e5 minst 6 hp inom programmering i C, C++ eller minst 120 hp varav minst 90 hp inom det tekniska omr\u00e5det och minst 2 \u00e5rs yrkeserfarenhet inom omr\u00e5de som \u00e4r relaterat till mjukvaruintensiv produkt och/eller tj\u00e4nsteutveckling (visas exempelvis genom intyg fr\u00e5n arbetsgivare).",
         "teacher": "nmo",
         "replacement": null,
-        "next_instance": "202445 (E2669)",
+        "next_instance": "202545 (BMD69)",
         "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BMD69&KtTermin=20252&lang=sv",
         "education_plan_url": "https://edu.bth.se/utbildningsplaner/DVACC_HT-24.pdf",
         "start_year": 2025,
@@ -518,7 +518,7 @@
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs 60 hp avklarade i huvudomr\u00e5det datavetenskap eller huvudomr\u00e5det programvaruteknik inklusive avklarade kurser i programmering 12 hp, algoritmer och datastrukturer, 6 hp, operativsystem, 6 hp och datorteknik, 6 hp.",
         "teacher": "hgr",
         "replacement": null,
-        "next_instance": "202445 (E2658)",
+        "next_instance": "202545 (BDAY9)",
         "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BDAY9&KtTermin=20252&lang=sv",
         "education_plan_url": "https://edu.bth.se/utbildningsplaner/DVACC_HT-24.pdf",
         "start_year": 2025,
@@ -559,13 +559,13 @@
                 "DV2618"
             ],
             "2": [
-                "DV1566",
-                "DV2626"
+                "DV2626",
+                "DV1566"
             ]
         },
         "2025": {
             "3": [
-                "DV2631",
+                "DV2657",
                 "PA2562",
                 "DV1557",
                 "DV2627",
@@ -579,10 +579,10 @@
                 "DV2602"
             ],
             "1": [
+                "SL1420",
                 "PA2577",
                 "DV1674",
                 "DV2604",
-                "SL1420",
                 "DV2582"
             ],
             "2": [

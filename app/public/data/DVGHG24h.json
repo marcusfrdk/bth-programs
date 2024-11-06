@@ -14,7 +14,7 @@
         "prerequisites": "Grundl\u00e4ggande beh\u00f6righet.\n",
         "teacher": "cnl",
         "replacement": null,
-        "next_instance": "202445 (BN4J7)",
+        "next_instance": "202535 (B9MQL)",
         "syllabus_url": "https://bth.azure-api.net/lindplan/courseplanbycode?code=BUPMH&semester=20242&lang=sv",
         "education_plan_url": "https://edu.bth.se/utbildningsplaner/DVGHG_HT-24.pdf",
         "start_year": 2024,
@@ -38,7 +38,7 @@
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att den studerande har grundl\u00e4ggande beh\u00f6righet samt avklarade kurser i Matematik 3c och Fysik 2.",
         "teacher": "mqb",
         "replacement": null,
-        "next_instance": null,
+        "next_instance": "202535 (B4YTH)",
         "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BJHFF&KtTermin=20242&lang=sv",
         "education_plan_url": "https://edu.bth.se/utbildningsplaner/DVGHG_HT-24.pdf",
         "start_year": 2024,
@@ -63,7 +63,7 @@
         "prerequisites": "Grundl\u00e4ggande beh\u00f6righet",
         "teacher": "mrl",
         "replacement": null,
-        "next_instance": null,
+        "next_instance": "202536 (BNQ3J)",
         "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BC4UQ&KtTermin=20242&lang=sv",
         "education_plan_url": "https://edu.bth.se/utbildningsplaner/DVGHG_HT-24.pdf",
         "start_year": 2024,
@@ -87,7 +87,7 @@
         "prerequisites": "Grundl\u00e4ggande beh\u00f6righet samt Matematik 4 och Fysik 2.\n",
         "teacher": "stw",
         "replacement": "MA1499",
-        "next_instance": "202445 (BFKCN)",
+        "next_instance": "202545 (BLEPR)",
         "syllabus_url": "https://bth.azure-api.net/lindplan/courseplanbycode?code=B9RK7&semester=20242&lang=sv",
         "education_plan_url": "https://edu.bth.se/utbildningsplaner/DVGHG_HT-24.pdf",
         "start_year": 2024,
@@ -111,7 +111,7 @@
         "prerequisites": "Grundl\u00e4ggande beh\u00f6righet",
         "teacher": "mrl",
         "replacement": null,
-        "next_instance": "202445 (B67N4)",
+        "next_instance": "202545 (BM3HL)",
         "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=B67N4&KtTermin=20242&lang=sv",
         "education_plan_url": "https://edu.bth.se/utbildningsplaner/DVGHG_HT-24.pdf",
         "start_year": 2024,
@@ -206,7 +206,7 @@
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "F\u00f6r tilltr\u00e4de i kursen kr\u00e4vs genomg\u00e5ngna kurser i Teknisk 3D-grafik, 6hp, Programmering och probleml\u00f6sning med Python, 6 hp och Spelgrafik, 6hp.",
-        "teacher": "ppv",
+        "teacher": "pep",
         "replacement": null,
         "next_instance": "202514 (BYKUQ)",
         "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BYKUQ&KtTermin=20251&lang=sv",
@@ -257,7 +257,7 @@
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarad kurs i Linj\u00e4r algebra 1, 6 hp samt 10 hp avklarade i programmering och/eller skripting.\n",
         "teacher": "ppv",
         "replacement": null,
-        "next_instance": "202445 (BYM4R)",
+        "next_instance": "202536 (BAHAK)",
         "syllabus_url": "https://bth.azure-api.net/lindplan/courseplanbycode?code=BAHAK&semester=20252&lang=sv",
         "education_plan_url": "https://edu.bth.se/utbildningsplaner/DVGHG_HT-24.pdf",
         "start_year": 2025,
@@ -265,6 +265,30 @@
         "course_duration": 9,
         "is_double": false,
         "color": "#3df6d4"
+    },
+    "IY1460": {
+        "code": "IY1460",
+        "name": "Ledarskap och projektverksamhet",
+        "points": 4.0,
+        "semester": "H\u00f6sttermin 2025",
+        "start_week": 45,
+        "end_week": 3,
+        "periods": [
+            2
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "Grundl\u00e4ggande beh\u00f6righet.\n",
+        "teacher": "pro",
+        "replacement": null,
+        "next_instance": "202504 (BH9FF)",
+        "syllabus_url": "https://bth.azure-api.net/lindplan/courseplanbycode?code=BQM7K&semester=20252&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/DVGHG_HT-24.pdf",
+        "start_year": 2025,
+        "end_year": 2026,
+        "course_duration": 11,
+        "is_double": false,
+        "color": "#aaa660"
     },
     "MS1417": {
         "code": "MS1417",
@@ -290,54 +314,6 @@
         "is_double": false,
         "color": "#4d95e5"
     },
-    "IY1424": {
-        "code": "IY1424",
-        "name": "Ledarskap och projektverksamhet",
-        "points": 4.0,
-        "semester": "H\u00f6sttermin 2025",
-        "start_week": 45,
-        "end_week": 3,
-        "periods": [
-            2
-        ],
-        "type": "Obligatorisk",
-        "academic_focus": null,
-        "prerequisites": "Grundl\u00e4ggande beh\u00f6righet.",
-        "teacher": "pro",
-        "replacement": "IY1460",
-        "next_instance": null,
-        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BJWHN&KtTermin=20252&lang=sv",
-        "education_plan_url": "https://edu.bth.se/utbildningsplaner/DVGHG_HT-24.pdf",
-        "start_year": 2025,
-        "end_year": 2026,
-        "course_duration": 11,
-        "is_double": false,
-        "color": "#aaa660"
-    },
-    "FY1434": {
-        "code": "FY1434",
-        "name": "Fysik inom teknisk spelgrafik",
-        "points": 6.0,
-        "semester": "V\u00e5rtermin 2026",
-        "start_week": 4,
-        "end_week": 13,
-        "periods": [
-            3
-        ],
-        "type": "Obligatorisk",
-        "academic_focus": null,
-        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarad kurs i Linj\u00e4r algebra, 6 hp samt genomg\u00e5ngen kurs i Analys 1, 6 hp.\n",
-        "teacher": "vli",
-        "replacement": null,
-        "next_instance": "202504 (BNCLJ)",
-        "syllabus_url": "https://bth.azure-api.net/lindplan/courseplanbycode?code=BMRUN&semester=20261&lang=sv",
-        "education_plan_url": "https://edu.bth.se/utbildningsplaner/DVGHG_HT-24.pdf",
-        "start_year": 2026,
-        "end_year": 2026,
-        "course_duration": 10,
-        "is_double": false,
-        "color": "#939342"
-    },
     "DV1646": {
         "code": "DV1646",
         "name": "Litet spelprojekt f\u00f6r teknisk spelgrafik",
@@ -362,29 +338,29 @@
         "is_double": false,
         "color": "#3df6d4"
     },
-    "DV1650": {
-        "code": "DV1650",
-        "name": "Specialeffekter i spel",
+    "FY1434": {
+        "code": "FY1434",
+        "name": "Fysik f\u00f6r teknisk spelgrafik",
         "points": 6.0,
         "semester": "V\u00e5rtermin 2026",
-        "start_week": 14,
-        "end_week": 23,
+        "start_week": 4,
+        "end_week": 13,
         "periods": [
-            4
+            3
         ],
         "type": "Obligatorisk",
         "academic_focus": null,
-        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarad kurs i Teknisk 3D-grafik, 6 hp, 6 avklarade hp inom matematik och 6 genomg\u00e5ngna hp i fysik.\n",
-        "teacher": "mrl",
+        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarad kurs i Linj\u00e4r algebra, 6 hp samt genomg\u00e5ngen kurs i Analys 1, 6 hp.\n",
+        "teacher": "vli",
         "replacement": null,
-        "next_instance": "202514 (BXJKH)",
-        "syllabus_url": "https://bth.azure-api.net/lindplan/courseplanbycode?code=B63MF&semester=20261&lang=sv",
+        "next_instance": "202504 (BNCLJ)",
+        "syllabus_url": "https://bth.azure-api.net/lindplan/courseplanbycode?code=BMRUN&semester=20261&lang=sv",
         "education_plan_url": "https://edu.bth.se/utbildningsplaner/DVGHG_HT-24.pdf",
         "start_year": 2026,
         "end_year": 2026,
         "course_duration": 10,
         "is_double": false,
-        "color": "#3df6d4"
+        "color": "#939342"
     },
     "DV1648": {
         "code": "DV1648",
@@ -403,6 +379,30 @@
         "replacement": null,
         "next_instance": "202514 (B9M6K)",
         "syllabus_url": "https://bth.azure-api.net/lindplan/courseplanbycode?code=BAMD7&semester=20261&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/DVGHG_HT-24.pdf",
+        "start_year": 2026,
+        "end_year": 2026,
+        "course_duration": 10,
+        "is_double": false,
+        "color": "#3df6d4"
+    },
+    "DV1650": {
+        "code": "DV1650",
+        "name": "Specialeffekter i spel",
+        "points": 6.0,
+        "semester": "V\u00e5rtermin 2026",
+        "start_week": 14,
+        "end_week": 23,
+        "periods": [
+            4
+        ],
+        "type": "Obligatorisk",
+        "academic_focus": null,
+        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs avklarad kurs i Teknisk 3D-grafik, 6 hp, 6 avklarade hp inom matematik och 6 genomg\u00e5ngna hp i fysik.\n",
+        "teacher": "mrl",
+        "replacement": null,
+        "next_instance": "202514 (BXJKH)",
+        "syllabus_url": "https://bth.azure-api.net/lindplan/courseplanbycode?code=B63MF&semester=20261&lang=sv",
         "education_plan_url": "https://edu.bth.se/utbildningsplaner/DVGHG_HT-24.pdf",
         "start_year": 2026,
         "end_year": 2026,
@@ -474,7 +474,7 @@
         "prerequisites": "Grundl\u00e4ggande beh\u00f6righet samt Matematik 3b alt 3c.\n",
         "teacher": "awr",
         "replacement": null,
-        "next_instance": "202445 (BHWHN)",
+        "next_instance": "202504 (BE937)",
         "syllabus_url": "https://bth.azure-api.net/lindplan/courseplanbycode?code=BYEKJ&semester=20271&lang=sv",
         "education_plan_url": "https://edu.bth.se/utbildningsplaner/DVGHG_HT-24.pdf",
         "start_year": 2027,
@@ -561,18 +561,18 @@
             ],
             "2": [
                 "DV1640",
-                "MS1417",
-                "IY1424"
+                "IY1460",
+                "MS1417"
             ]
         },
         "2026": {
             "3": [
-                "FY1434",
-                "DV1646"
+                "DV1646",
+                "FY1434"
             ],
             "4": [
-                "DV1650",
-                "DV1648"
+                "DV1648",
+                "DV1650"
             ],
             "1": [
                 "DV1666",

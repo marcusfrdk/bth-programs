@@ -14,7 +14,7 @@
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs h\u00f6gskoleingenj\u00f6rsexamen om 180 hp alternativt kandidatexamen inom tekniskt\nomr\u00e5de, inklusive ett sj\u00e4lvst\u00e4ndigt arbete. Vidare kr\u00e4vs 5 h\u00f6gskolepo\u00e4ng inom industriell ekonomi, f\u00f6retagsekonomi eller motsvarande. Tv\u00e5 \u00e5rs arbetslivserfarenhet inom tekniskt/ ingenj\u00f6rsm\u00e4ssigt verksamhetsomr\u00e5de, som relaterar till ledarskap och management. Engelska 6.",
         "teacher": "jbf",
         "replacement": null,
-        "next_instance": null,
+        "next_instance": "202536 (B7DKF)",
         "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BLEXG&KtTermin=20242&lang=sv",
         "education_plan_url": "https://edu.bth.se/utbildningsplaner/IYAMB_HT-24.pdf",
         "start_year": 2024,
@@ -38,7 +38,7 @@
         "prerequisites": "H\u00f6gskoleingenj\u00f6rsexamen eller kandidatexamen inom ett tekniskt omr\u00e5de, inklusive ett sj\u00e4lvst\u00e4ndigt arbete.  Vidare kr\u00e4vs 15 h\u00f6gskolepo\u00e4ng matematik/till\u00e4mpad matematik, 5 h\u00f6gskolepo\u00e4ng industriell ekonomi, f\u00f6retagsekonomi eller motsvarande samt tv\u00e5 \u00e5rs arbetslivserfarenhet efter examen. Engelska 6.",
         "teacher": "mit",
         "replacement": null,
-        "next_instance": "202445 (BTAW4)",
+        "next_instance": "202545 (BEQNU)",
         "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BTAW4&KtTermin=20242&lang=sv",
         "education_plan_url": "https://edu.bth.se/utbildningsplaner/IYAMB_HT-24.pdf",
         "start_year": 2024,
@@ -83,11 +83,11 @@
         ],
         "type": "Obligatorisk",
         "academic_focus": null,
-        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs h\u00f6gskoleingenj\u00f6rsexamen om 180 hp inom teknik inklusive ett sj\u00e4lvst\u00e4ndigt arbete om 7,5 hp. D\u00e4rut\u00f6ver kr\u00e4vs 15 hp i matematik/till\u00e4mpad matematik p\u00e5 grundniv\u00e5/avancerad niv\u00e5, 5 hp  i industriell ekonomi och organisation eller f\u00f6retagsekonomi samt Engelska 6 och 2 \u00e5rs arbetslivserfarenhet.",
+        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs h\u00f6gskoleingenj\u00f6rsexamen om 180 hp inom teknik inklusive ett sj\u00e4lvst\u00e4ndigt arbete om 7,5 hp. D\u00e4rut\u00f6ver kr\u00e4vs 15 hp i matematik/till\u00e4mpad matematik p\u00e5 grundniv\u00e5/avancerad niv\u00e5, 5 hp\u00a0i industriell ekonomi och organisation eller f\u00f6retagsekonomi samt Engelska 6 och 2 \u00e5rs arbetslivserfarenhet.\n",
         "teacher": "vji",
         "replacement": null,
         "next_instance": "202514 (BJEFY)",
-        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BJEFY&KtTermin=20251&lang=sv",
+        "syllabus_url": "https://bth.azure-api.net/lindplan/courseplanbycode?code=BJEFY&semester=20251&lang=sv",
         "education_plan_url": "https://edu.bth.se/utbildningsplaner/IYAMB_HT-24.pdf",
         "start_year": 2025,
         "end_year": 2025,
@@ -134,7 +134,7 @@
         "prerequisites": "H\u00f6gskoleingenj\u00f6rsexamen om 180 hp inom teknik inklusive ett sj\u00e4lvst\u00e4ndigt arbete om 7,5 hp, 15 hp matematik/till\u00e4mpad matematik p\u00e5 grundniv\u00e5/avancerad niv\u00e5, 5 hp industriell ekonomi och organisation, f\u00f6retagsekonomi eller motsvarande, Engelska B samt 2 \u00e5rs arbetslivserfarenhet.",
         "teacher": "moh",
         "replacement": null,
-        "next_instance": "202445 (BT4GH)",
+        "next_instance": "202545 (BMWFH)",
         "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BMWFH&KtTermin=20252&lang=sv",
         "education_plan_url": "https://edu.bth.se/utbildningsplaner/IYAMB_HT-24.pdf",
         "start_year": 2025,
@@ -143,8 +143,8 @@
         "is_double": false,
         "color": "#aaa660"
     },
-    "IY2594": {
-        "code": "IY2594",
+    "IY2656": {
+        "code": "IY2656",
         "name": "Magisterarbete MBA",
         "points": 15.0,
         "semester": "V\u00e5rtermin 2026",
@@ -156,11 +156,11 @@
         ],
         "type": "Obligatorisk",
         "academic_focus": null,
-        "prerequisites": "H\u00f6gskoleingenj\u00f6rsexamen om 180 hp inom teknik inklusive ett sj\u00e4lvst\u00e4ndigt arbete om 7,5 hp, 15 hp matematik/till\u00e4mpad matematik p\u00e5 grundniv\u00e5/avancerad niv\u00e5, 5 hp industriell ekonomi och organisation, f\u00f6retagsekonomi eller motsvarande, Engelska B samt 2 \u00e5rs arbetslivserfarenhet, 45 hp genomg\u00e5gna vid MBA-programmet vid BTH varav 35 hp avklarade.",
+        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs 35 avklarade hp p\u00e5 avancerad niv\u00e5 inom industriell ekonomi och management. Engelska 6.\n",
         "teacher": "jbf",
-        "replacement": "IY2656",
-        "next_instance": null,
-        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BJNPY&KtTermin=20261&lang=sv",
+        "replacement": null,
+        "next_instance": "202504 (BX4JL)",
+        "syllabus_url": "https://bth.azure-api.net/lindplan/courseplanbycode?code=BRYXL&semester=20261&lang=sv",
         "education_plan_url": "https://edu.bth.se/utbildningsplaner/IYAMB_HT-24.pdf",
         "start_year": 2026,
         "end_year": 2026,
@@ -193,10 +193,10 @@
         },
         "2026": {
             "3": [
-                "IY2594"
+                "IY2656"
             ],
             "4": [
-                "IY2594"
+                "IY2656"
             ]
         }
     }

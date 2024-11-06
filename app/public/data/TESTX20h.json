@@ -64,7 +64,7 @@
         "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att den studerande har avklarat 15 hp programmering och algoritmer och datastrukturer 7,5 hp.",
         "teacher": "prg",
         "replacement": null,
-        "next_instance": "202445 (BLQUJ)",
+        "next_instance": null,
         "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BGKR6&KtTermin=20202&lang=sv",
         "education_plan_url": "https://edu.bth.se/utbildningsplaner/TESTX_HT-20.pdf",
         "start_year": 2020,

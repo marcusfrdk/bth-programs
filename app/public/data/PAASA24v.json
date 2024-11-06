@@ -90,7 +90,7 @@
         "prerequisites": "Minst 90hp inom ett tekniskt omr\u00e5de varav minst 30 hp skall utg\u00f6ras av kurser inom ett eller flera av f\u00f6ljande omr\u00e5den: Programmering, Objektorienterad systemutveckling, Programvarudesign, Datastrukturer och algoritmer, Databasteknik, Datakommunikation, Realtidssystem, Operativsystem. eller Minst 90 hp inom omr\u00e5det teknologi och minst 2 \u00e5rs yrkeserfarenhet av mjukvarurelaterad utveckling (visas exempelvis genom intyg fr\u00e5n arbetsgivare).\n",
         "teacher": "msv",
         "replacement": null,
-        "next_instance": "202445 (E2652)",
+        "next_instance": "202536 (B46CF)",
         "syllabus_url": "https://bth.azure-api.net/lindplan/courseplanbycode?code=BP93R&semester=20242&lang=sv",
         "education_plan_url": "https://edu.bth.se/utbildningsplaner/PAASA_VT-24.pdf",
         "start_year": 2024,
