@@ -162,23 +162,23 @@ export default function Schedule(){
         <Container className={Object.keys(data[0]).length > 1 ? "multiple" : "single"}>
             <ul>
                 {Object.entries(data[1]).map(([year, periods], i) => {
+                    const isCurrentYear = currentYear === Number(year);
+                    const isPreviousYear = currentYear > Number(year);
                     return (
                         <li key={`${year}-${i}`} className="year">
-                            <p className={currentYear > Number(year) ? "previous" : ""}>{year}</p>
+                            <p className={isPreviousYear ? "previous" : ""}>{year}</p>
                             <ul>
                                 {Object.entries(periods)
                                 .sort(([a], [b]) => periodOrderString.indexOf(a) - periodOrderString.indexOf(b))
                                 .map(([period, programs], j) => {
-                                    const isCurrent = currentStudyPeriod === Number(period) && currentYear === Number(year);
-                                    const isPrevious = currentYear > Number(year) || (currentStudyPeriod > (periodOrder.indexOf(Number(period)) - 1) && currentYear >= Number(year));
-                                    
+                                    const isPreviousPeriod = isPreviousYear || (isPreviousYear && currentStudyPeriod >= Number(period));
+                                    const isCurrentPeriod = isCurrentYear && currentStudyPeriod === Number(period);
+
                                     return (
-                                        <li key={`${year}-${period}-${j}`} className={`${isPrevious ? "previous" : ""} period`}>
-                                            <p ref={isCurrent ? currentRef : null}>{[1, 2].includes(Number(period)) ? "Hösttermin" : "Vårtermin"} (LP {period})</p>
+                                        <li key={`${year}-${period}-${j}`} className={`${isPreviousPeriod ? "previous" : ""} period`}>
+                                            <p ref={isCurrentPeriod ? currentRef : null}>{[1, 2].includes(Number(period)) ? "Hösttermin" : "Vårtermin"} (LP {period})</p>
                                             <ul>
                                                 {Object.entries(programs).map(([program, courses], k) => {
-                                                    // ...
-                                                    
                                                     return (
                                                         <li key={`${year}-${period}-${program}-${k}`} className="program">
                                                             <ul>

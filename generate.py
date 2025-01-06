@@ -1,20 +1,21 @@
 import argparse
 import asyncio
-import os
-import sys
-import re
-import requests
-import json
 import hashlib
+import json
+import multiprocessing as mp
+import os
+import re
 import shutil
+import sys
+from collections import defaultdict
+from concurrent.futures import ProcessPoolExecutor, ThreadPoolExecutor
+from io import BytesIO
+
 import numpy as np
 import pandas as pd
-import multiprocessing as mp
-from collections import defaultdict
-from io import BytesIO
+import requests
 from bs4 import BeautifulSoup
-from pyppeteer import launch, errors
-from concurrent.futures import ThreadPoolExecutor, ProcessPoolExecutor
+from pyppeteer import errors, launch
 
 # Mutex
 process_lock = mp.Lock()
@@ -44,14 +45,17 @@ parser = argparse.ArgumentParser(description="Generate data for the app")
 parser.add_argument("-u", "--update", action="store_true", help="Updates the data")
 parser.add_argument("-d", "--delete", action="store_true", help="Deletes the data")
 parser.add_argument("-n", "--number", help="Download data for n programs", type=int)
-parser.add_argument("--skip-teachers", action="store_true", help="Skips downloading teacher data")
+parser.add_argument(
+    "--skip-teachers", action="store_true", help="Skips downloading teacher data"
+)
 args = vars(parser.parse_args())
 
 # Global
 teacher_codes = set()
 
+
 async def fetch(url: str, retries: int = 5) -> str:
-    """ Asynchronously fetches the HTML content of a webpage with retry logic """
+    """Asynchronously fetches the HTML content of a webpage with retry logic"""
     for attempt in range(retries):
         try:
             browser = await launch()
@@ -71,58 +75,75 @@ async def fetch(url: str, retries: int = 5) -> str:
                 raise
             await asyncio.sleep(2)
 
+
 def get_program_code(url: str) -> str:
-    """ Parses the url to get the program code """
+    """Parses the url to get the program code"""
     code = url.replace(" ", "").split(".")[-2].split("-")[-1]
     year = year_regex.findall(url)
-    semester = "h" if "Höst" in url else "v" 
+    semester = "h" if "Höst" in url else "v"
     return f"{code[:5]}{year[-1][-2:]}{semester}"
 
+
 def download_program(url: str) -> None:
-    """ Downloads the program data """
+    """Downloads the program data"""
     try:
         code = get_program_code(url)
         data = requests.get(url)
         df = pd.read_excel(BytesIO(data.content))
 
-        df = df.rename(columns={
-            "Kurskod": "code",
-            "Kurs": "name",
-            "Poäng": "points",
-            "Termin": "semester",
-            "Startvecka": "start_week",
-            "Slutvecka": "end_week",
-            "Läsperiod": "periods",
-            "Typ": "type",
-            "Inriktning": "academic_focus",
-            "Förkunskapskrav": "prerequisites",
-            "Kursansvarig": "teacher",
-            "Länk till kursansvarig": "teacher_url",
-            "Ersättande kurs": "replacement",
-            "Nästa kurstillfalle": "next_instance",
-            "Länk till kursplan": "syllabus_url",
-            "Länk till utbildningsplan": "education_plan_url",
-        })
+        df = df.rename(
+            columns={
+                "Kurskod": "code",
+                "Kurs": "name",
+                "Poäng": "points",
+                "Termin": "semester",
+                "Startvecka": "start_week",
+                "Slutvecka": "end_week",
+                "Läsperiod": "periods",
+                "Typ": "type",
+                "Inriktning": "academic_focus",
+                "Förkunskapskrav": "prerequisites",
+                "Kursansvarig": "teacher",
+                "Länk till kursansvarig": "teacher_url",
+                "Ersättande kurs": "replacement",
+                "Nästa kurstillfalle": "next_instance",
+                "Länk till kursplan": "syllabus_url",
+                "Länk till utbildningsplan": "education_plan_url",
+            }
+        )
 
         df["code"] = df["code"].str.upper()
-        df["points"] = df["points"].str.extract(r"(\d+[\.\,]?\d*)")[0].str.replace(',', '.').astype(float)
+        df["points"] = (
+            df["points"]
+            .str.extract(r"(\d+[\.\,]?\d*)")[0]
+            .str.replace(",", ".")
+            .astype(float)
+        )
 
         # Reformat times
         df["start_week"] = df["start_week"].astype(str)
         df["end_week"] = df["end_week"].astype(str)
 
-        df[["start_year", "start_week"]] = df["start_week"].str.extract(r"(\d{4})(\d{2})")
+        df[["start_year", "start_week"]] = df["start_week"].str.extract(
+            r"(\d{4})(\d{2})"
+        )
         df[["end_year", "end_week"]] = df["end_week"].str.extract(r"(\d{4})(\d{2})")
-        df[["start_year", "start_week", "end_year", "end_week"]] = df[["start_year", "start_week", "end_year", "end_week"]].astype(int)
+        df[["start_year", "start_week", "end_year", "end_week"]] = df[
+            ["start_year", "start_week", "end_year", "end_week"]
+        ].astype(int)
 
-        df["course_duration"] = (df["end_year"] - df["start_year"]) * 52 + (df["end_week"] - df["start_week"]) + 1
+        df["course_duration"] = (
+            (df["end_year"] - df["start_year"]) * 52
+            + (df["end_week"] - df["start_week"])
+            + 1
+        )
         df["is_double"] = df["course_duration"] > 15
 
         def fix_period(row):
             is_double = row["is_double"]
 
             if row["start_week"] < 10:
-                return [3, 4] if is_double else [3] 
+                return [3, 4] if is_double else [3]
             elif row["start_week"] < 30:
                 return [4, 1] if is_double else [4]
             elif row["start_week"] < 40:
@@ -154,14 +175,14 @@ def download_program(url: str) -> None:
         groups = {}
         for _, row in df.iterrows():
             year = str(row["start_year"])
-            
+
             if year not in groups:
                 groups[year] = {}
-            
+
             for period in row["periods"]:
                 if period not in groups[year]:
                     groups[year][period] = []
-                
+
                 groups[year][period].append(row["code"])
 
         def replace_nan_with_none(obj):
@@ -185,8 +206,9 @@ def download_program(url: str) -> None:
     except Exception as e:
         print(f"Error downloading data for '{code}': {e}")
 
+
 def download_teacher(code: str) -> None:
-    """ Fetches information about a teacher """
+    """Fetches information about a teacher"""
     search_url = teacher_url % code
     html = asyncio.run(fetch(search_url))
     soup = BeautifulSoup(html, "html.parser")
@@ -228,7 +250,7 @@ def download_teacher(code: str) -> None:
 
 
 async def main() -> int:
-    """ Main function """
+    """Main function"""
     should_update = args.get("update")
     should_delete = args.get("delete")
     should_skip_teachers = args.get("skip_teachers")
@@ -237,17 +259,21 @@ async def main() -> int:
     if should_delete:
         shutil.rmtree(DATA_PATH, ignore_errors=True)
         shutil.rmtree(PUBLIC_PATH, ignore_errors=True)
-    if os.path.exists(DATA_PATH) or os.path.exists(PUBLIC_PATH) and not should_update:
+
+    if not should_update and (os.path.exists(DATA_PATH) or os.path.exists(PUBLIC_PATH)):
         print("Data already exists. Use the -u flag to update.")
         return 0
-    
+
     os.makedirs(DATA_PATH, exist_ok=True)
     os.makedirs(PUBLIC_PATH, exist_ok=True)
-    
+
     # Get a list of urls
     html = await fetch(program_url)
     soup = BeautifulSoup(html, "html.parser")
-    urls = [program_url + re.sub(r"^\.\/", "", a["href"]) for a in soup.find_all("a", href=excel_regex)]
+    urls = [
+        program_url + re.sub(r"^\.\/", "", a["href"])
+        for a in soup.find_all("a", href=excel_regex)
+    ]
     n_programs = max(1, min(int(args.get("number") or len(urls)), len(urls)))
 
     if args.get("number"):
@@ -260,13 +286,15 @@ async def main() -> int:
         f.write("program;years\n")
 
     with ThreadPoolExecutor() as executor:
-        await asyncio.gather(*[asyncio.to_thread(executor.submit, download_program, url) for url in urls])
+        await asyncio.gather(
+            *[asyncio.to_thread(executor.submit, download_program, url) for url in urls]
+        )
 
     with open(YEARS_CSV, "r", encoding="utf-8") as f:
         df = pd.read_csv(f, delimiter=";")
         df = df.drop_duplicates(subset=["program"], keep="first")
         years_data = df.set_index(df.columns[0]).to_dict()[df.columns[1]]
-    
+
     with open(YEARS_JSON, "w", encoding="utf-8") as f:
         json.dump(years_data, f, indent=4)
 
@@ -278,13 +306,22 @@ async def main() -> int:
             f.write("code;name;email;phone;room;unit;location\n")
 
         with ProcessPoolExecutor() as executor:
-            await asyncio.gather(*[asyncio.to_thread(executor.submit, download_teacher, code) for code in teacher_codes])
+            await asyncio.gather(
+                *[
+                    asyncio.to_thread(executor.submit, download_teacher, code)
+                    for code in teacher_codes
+                ]
+            )
 
         with open(TEACHER_CSV, "r", encoding="utf-8") as f:
             df = pd.read_csv(f, delimiter=";")
-            df.loc[df["name"] == "Nan Huang", "code"] = "nan" # Fun edge case, since the code is "nan", pandas believes it's NaN
+            df.loc[df["name"] == "Nan Huang", "code"] = (
+                "nan"  # Fun edge case, since the code is "nan", pandas believes it's NaN
+            )
             df = df.drop_duplicates(subset=["code"], keep="first")
-            df.set_index("code", drop=False).to_json(TEACHER_JSON, orient="index", indent=4)
+            df.set_index("code", drop=False).to_json(
+                TEACHER_JSON, orient="index", indent=4
+            )
 
     # Generate index
     indexes = defaultdict(list)
@@ -310,6 +347,7 @@ async def main() -> int:
         json.dump(names, f, indent=4)
 
     return 0
+
 
 if __name__ == "__main__":
     exit_code = asyncio.run(main())

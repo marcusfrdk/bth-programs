@@ -38,7 +38,7 @@
         "type": "Obligatorisk",
         "academic_focus": null,
         "prerequisites": "Minst 90 hp inom ett tekniskt omr\u00e5de varav en avklarad kurs p\u00e5 7,5 hp inom Grundl\u00e4ggande Programvaruteknik (Software Engineering) eller Programvaruutvecklingsprojekt i grupp, och varav minst 30 hp skall utg\u00f6ras av kurser inom ett eller flera av f\u00f6ljande omr\u00e5den: Programmering, Objektorienterad systemutveckling, Programvarudesign, Datastrukturer och algoritmer, Databasteknik, Datakommunikation, Realtidssystem, Operativsystem.\n\neller\n\nMinst 90 hp inom omr\u00e5det teknologi och minst 2 \u00e5rs yrkeserfarenhet av mjukvarurelaterad utveckling (visas exempelvis genom intyg fr\u00e5n arbetsgivare).\n",
-        "teacher": "dfu",
+        "teacher": "mna",
         "replacement": null,
         "next_instance": "202504 (D5970)",
         "syllabus_url": "https://bth.azure-api.net/lindplan/courseplanbycode?code=BJ4KX&semester=20251&lang=sv",

@@ -108,16 +108,40 @@
         ],
         "type": "Obligatorisk",
         "academic_focus": "JINTU Ananthapur",
-        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att den studerande har avklarat 130 h\u00f6gskolepo\u00e4ng, varav minst 60 h\u00f6gskolepo\u00e4ng i \u00e4mnet datavetenskap varav minst 7,5 h\u00f6gskolepo\u00e4ng skall vara p\u00e5 f\u00f6rdjupningsniv\u00e5 G2F.",
+        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att den studerande har avklarat 130 h\u00f6gskolepo\u00e4ng, varav minst 60 h\u00f6gskolepo\u00e4ng i \u00e4mnet datavetenskap varav minst 7,5 h\u00f6gskolepo\u00e4ng skall vara p\u00e5 f\u00f6rdjupningsniv\u00e5 G2F.\n",
         "teacher": "prg",
         "replacement": null,
         "next_instance": "202504 (B3GMQ)",
-        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=B3GMQ&KtTermin=20251&lang=sv",
+        "syllabus_url": "https://bth.azure-api.net/lindplan/courseplanbycode?code=B3GMQ&semester=20251&lang=sv",
         "education_plan_url": "https://edu.bth.se/utbildningsplaner/DVGDT_HT-24.pdf",
         "start_year": 2025,
         "end_year": 2025,
         "course_duration": 20,
         "is_double": true,
+        "color": "#3df6d4"
+    },
+    "DV1729": {
+        "code": "DV1729",
+        "name": "Tilla\u0308mpad generativ AI",
+        "points": 7.5,
+        "semester": "V\u00e5rtermin 2025",
+        "start_week": 4,
+        "end_week": 13,
+        "periods": [
+            3
+        ],
+        "type": "Valbar",
+        "academic_focus": "JINTU Ananthapur",
+        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs 30 avklarade hp inom huvudomr\u00e5det datavetenskap eller medieteknik.\n",
+        "teacher": "skk",
+        "replacement": null,
+        "next_instance": "202504 (BUPMH)",
+        "syllabus_url": "https://bth.azure-api.net/lindplan/courseplanbycode?code=BUPMH&semester=20251&lang=sv",
+        "education_plan_url": "https://edu.bth.se/utbildningsplaner/DVGDT_HT-24.pdf",
+        "start_year": 2025,
+        "end_year": 2025,
+        "course_duration": 10,
+        "is_double": false,
         "color": "#3df6d4"
     },
     "DV1557": {
@@ -130,9 +154,9 @@
         "periods": [
             3
         ],
-        "type": "Obligatorisk",
-        "academic_focus": "JNTU Kakinada",
-        "prerequisites": "7\\.5 hp avklarad kurs inom huvudomr\u00e5det datavetenskap\n",
+        "type": "Valbar",
+        "academic_focus": "JINTU Ananthapur",
+        "prerequisites": "7,5 hp avklarad kurs inom huvudomr\u00e5det datavetenskap\n",
         "teacher": "yhx",
         "replacement": null,
         "next_instance": "202504 (B737W)",
@@ -155,7 +179,7 @@
             3
         ],
         "type": "Valbar",
-        "academic_focus": "JINTU Ananthapur",
+        "academic_focus": "JNTU Kakinada",
         "prerequisites": "Avklarat 45 h\u00f6gskolepo\u00e4ng inom Programvaruteknik och/eller Datvetenskap inkluderat  avklarade kurser inom Programmering, Datastrukturer och Algoritmer, och en projektkurs omfattande Mjukvaruutveckling i team alternativt  Mjukvaruutveckling (Software Engineering).",
         "teacher": "ola",
         "replacement": null,
@@ -178,13 +202,13 @@
         "periods": [
             4
         ],
-        "type": "Obligatorisk",
+        "type": "Valbar",
         "academic_focus": "JINTU Ananthapur",
-        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att den studerande har klarat programmering, 15 h\u00f6gskolepo\u00e4ng eller motsvarande.",
+        "prerequisites": "F\u00f6r tilltr\u00e4de till kursen kr\u00e4vs att den studerande har klarat programmering, 15 h\u00f6gskolepo\u00e4ng eller motsvarande.\n",
         "teacher": "ekx",
         "replacement": null,
         "next_instance": "202514 (BQAJR)",
-        "syllabus_url": "https://edu.bth.se/utbildning/redirect.asp?KtAnmKod=BQAJR&KtTermin=20251&lang=sv",
+        "syllabus_url": "https://bth.azure-api.net/lindplan/courseplanbycode?code=BQAJR&semester=20251&lang=sv",
         "education_plan_url": "https://edu.bth.se/utbildningsplaner/DVGDT_HT-24.pdf",
         "start_year": 2025,
         "end_year": 2025,
@@ -206,6 +230,7 @@
         "2025": {
             "3": [
                 "DV1478",
+                "DV1729",
                 "DV1557",
                 "PA2562"
             ],
