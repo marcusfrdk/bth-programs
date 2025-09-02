@@ -47,6 +47,29 @@ export default function SelectInitialProgram(){
                     justifyContent: "center"
                 }}
             />
+
+            <div
+                style={{
+                    backgroundColor: "#ffe900",
+                    padding: "1rem",
+                    borderRadius: "0.5rem",
+                    marginTop: "1rem",
+                    maxWidth: "54ch",
+                    textAlign: "center",
+                    display: "flex",
+                    flexDirection: "column",
+                    gap: "0.25rem"
+                }}
+            >
+                <p 
+                    style={{
+                        color: "#1c1c1c",
+                    }}
+                >Då BTH har ändrat sin sida går det för tillfället inte att hämta ny information. Denna sidan kommer inte längre uppdateras.</p>
+                <a style={{
+                    color: "#1c1c1c",
+                }} href="https://github.com/marcusfrdk/bth-programs">Bidra till projektet här</a>
+            </div>
         </Container>
     );
 };
