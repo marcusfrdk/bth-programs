@@ -74,7 +74,7 @@ const Container = styled.header`
             }
         }
     }
-
+    
     & > button {
         height: 2.5rem;
         width: 2.5rem;
@@ -89,6 +89,7 @@ const Container = styled.header`
         border-radius: 0.25rem;
 
     }
+
 
     @media screen and (hover: hover){
         & > button {

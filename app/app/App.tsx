@@ -5,6 +5,7 @@ import Header from "@/components/Header";
 import { useData } from "@/contexts/DataProvider";
 import SelectInitialProgram from "@/components/SelectInitialProgram";
 import Schedule from "@/components/Schedule";
+import Banner from "@/components/Banner";
 
 export default function App(){
     const {selectedProgram} = useData();
@@ -15,6 +16,7 @@ export default function App(){
         <Container>
             <Header/>
             <Schedule/>
+            <Banner/>
         </Container>
     );
 };

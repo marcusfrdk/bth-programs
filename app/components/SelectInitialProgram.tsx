@@ -1,6 +1,6 @@
 "use client";
 
-import type {ChangeEvent} from "react";
+import {useEffect, type ChangeEvent} from "react";
 import { useData } from "@/contexts/DataProvider";
 import styled from "@emotion/styled";
 import splitProgram from "@/utils/splitProgram";
@@ -11,21 +11,12 @@ import SelectProgram from "./SelectProgram";
 export default function SelectInitialProgram(){
     const {programs, updateSelectedProgram} = useData();
 
-    function handleSelection(e: ChangeEvent<HTMLSelectElement>){
-        const {code, semester} = splitProgram(e.target.value);
-        
-        if(
-            !e.target.value || 
-            !code || 
-            !semester ||
-            !Object.keys(programs).includes(code) ||
-            !programs[code].includes(semester)
-        ) return;
-
-        updateSelectedProgram(code + semester);
-        setCookie("selectedCode", code);
-        setCookie("selectedSemester", semester);
-    };
+    useEffect(() => {
+        // Since the user already has seen
+        // the banner, there is no need to
+        // show it again.
+        localStorage.setItem("showBanner", "0");
+    }, []);
     
     return (
         <Container>
