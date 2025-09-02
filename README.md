@@ -8,6 +8,9 @@
 ![issues](https://img.shields.io/github/issues/marcusfrdk/bth-programs)
 ![contributors](https://img.shields.io/github/contributors/marcusfrdk/bth-programs)
 
+> [!WARNING]
+> As BTH has changed the structure of their website, it is currently not possible to retrieve new information with the current implementation. This repository will no longer be maintained and needs new contributors.
+
 A web-application to get an overview of their program at Blekinge Institute of Technology. The app allows a users to see a timeline of their courses as well as compare between other programs.
 
 ## Requirements
