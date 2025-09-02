@@ -16,13 +16,13 @@ const Banner = () => {
 
     return (
         <Wrapper className={isVisible ? "visible" : ""}>
-            <p>Då BTH har ändrat sin sida går det för tillfället inte att hämta ny information. Denna sidan kommer inte längre uppdateras. 
+            <p>Denna sidan kommer inte längre uppdateras. 
                 <a 
                     style={{
                         color: "#1c1c1c",
                     }} 
                     href="https://github.com/marcusfrdk/bth-programs"
-                >Bidra till projektet här</a></p>
+                >Jag vill bidra</a></p>
             <button onClick={handleClose}>Stäng</button>
         </Wrapper>
     );
@@ -44,6 +44,7 @@ const Wrapper = styled.div`
     align-items: center;
     justify-content: space-between;
     z-index: 1000;
+    gap: 1rem;
 
     * {
         color: #1c1c1c;
